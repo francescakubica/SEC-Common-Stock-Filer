@@ -4,15 +4,7 @@ import datetime as dt
 import streamlit as st
 
 
-try:
-    client = OpenAI(
-        api_key=st.session_state.api_key,
-    )
-except Exception as e:
-    print('Error loading API_KEY.')
-    # Then return to the user that the API key is not valid
-    exit()
-
+''' 
 # Refine the prompt 
 def refine_prompt(user_input):
     try:
@@ -31,11 +23,11 @@ def refine_prompt(user_input):
     except Exception as e:
         print(f"Error refining prompt: {e}")
         return None
-
+'''
 
 # Function to parse through the transactions content
 def search_transactions(text_string_list, transactionsDF, refined_prompt, client):
-
+  
     # Current approach: Ask for chatgpt to make a new dataframe with th
     
     # Loop that calls each list of files seperately 
@@ -48,7 +40,7 @@ def search_transactions(text_string_list, transactionsDF, refined_prompt, client
                         "content": (
                             f"The user's refined query is: '{refined_prompt}'."
                             f"Here is the file: '{text_string}'"
-                            "Please identify and return ALL the transactions most relevant to the user's query. "
+                            "Please identify and return ALL the transactions most relevant to the user's query at the bottom of the file. "
                             "Return the results as a JSON array of objects, with each object containing EXACTLY the following 6 columns: "
                             "\"No_Trades\", \"Trade_Date\", \"Shares\", \"Purchase\", \"Sale\", and \"Price\". "
                             "The No_Trades will be 1 if no trades are found, 0 if trades found. If No_Trades = 1, put NaN for all columns except No_Trades, and stop. The Purchase and Sale Column will be a 1 or 0 depending if the transaction is a Purchase or Sale. "

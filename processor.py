@@ -47,15 +47,16 @@ def run_pipeline(text_string_list, client):
     # Call the interface here
     user_input = "Give me 5 columns entitled : ['No_Trades','Trade_Date', 'Shares', 'Purchase', 'Sale','Price'] from all trades found in a table at the bottom of the file."
 
+    ''' 
     # Step 1: Refine the promt
     prompt = text_file_pipeline.refine_prompt(user_input)
     if not prompt:
         # Returns none
         print(f"Error: Refined prompt is empty or invalid.")
-        
+    '''
     
     # Step 2: Search Transactions
-    text_file_pipeline.search_transactions(text_string_list, transactionsDF, prompt, client) 
+    text_file_pipeline.search_transactions(text_string_list, transactionsDF, user_input, client) 
 
     # Double check it is combining to the original dataframe
     print('Checking transaction:', transactionsDF.df.head())

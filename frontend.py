@@ -30,7 +30,8 @@ if st.sidebar.button("Validate API Key"):
     st.session_state.api_key = st.session_state.api_key_input  # Update the session state
     if processor.is_valid_api_key(st.session_state.api_key):
         st.session_state.api_key_validated = True
-        st.sidebar.success("API key is valid!")
+        st.sidebar.success("API key is valid!") 
+        # Make the key a variable 
     else:
         print('the api key printed', st.session_state.api_key)
         st.session_state.api_key_validated = False
@@ -58,7 +59,7 @@ if nav_option == "🏠 Data Entry":
         type = "txt",
         accept_multiple_files=True
     )
-    # I want it to stop here : Challenge: runs everytime without stopping
+   
     # Create a button that says "submit"
     submit_button = st.button("Submit")
 
