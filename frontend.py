@@ -100,10 +100,10 @@ if st.session_state.api_key_validated: # If the validation is True, then you can
 
         st.subheader("How to Use")
         st.write(
-            "1. Enter your OpenAI API Key in the sidebar.\n"
-            "2. Go to the Data Entry page and upload a text file.\n"
-            "3. The app will automatically extract data from the text file and display it in a table.\n"
-            "4. You can then download the extracted data as a CSV file."
+            "1. Enter your OpenAI API Key in the sidebar. Be careful to input the key CORRECTLY the first time. If it says the key is incorrect, refresh the page, and put the key again until it says 'validated'.\n"
+            "2. Go to the Data Entry page and upload a text file. MUST be a text file (ending in .txt) you can do so by going to the schedule13d, right click, do 'Save as' and put any title you would like with '.txt' at the end.\n"
+            "3. Once you have submitted the files (I recommend a maximum of 5 because a lot of transactions can confuse the program and if there is an error with one we won't know which file it was Please click submit, then it will run. Can take a while (2 minutes or so). The app will automatically extract data from the text file and display it in a table. \n"
+            "4. You can then download the extracted data as a CSV file. Then, copy and paste the information into your excel file for each transaction."
         )
 
         st.subheader("About OpenAI")
