@@ -21,7 +21,8 @@ def refine_prompt(user_input):
             messages = [
                 {"role": "system", "content": "You are an expert at refining prompts specifically for finding transactions in a Schedule 13D file. Usually found at the bottom of the file."},
                 {"role": "user", "content": f"Please refine this query to find all transactions in the Schedule 13D file, only respond with the refined prompt, no other comments: {user_input}"}
-            ]
+            ],
+            timeout=20
         )
         print(f"API Response: {response}") # To Debug
         refined_prompt = response.choices[0].message.content.strip() # Get the new prompt
@@ -58,7 +59,7 @@ def search_transactions(text_string_list, transactionsDF, refined_prompt, client
                 ]
 
 
-            response = client.chat.completions.create(model="gpt-4o-mini", messages=messages)
+            response = client.chat.completions.create(model="gpt-4o-mini", messages=messages, timeout=20)
             raw_output = response.choices[0].message.content # Don'thave to strip 
             # Debug
             print("Raw Output from Model 2:", raw_output)  # Debugging log

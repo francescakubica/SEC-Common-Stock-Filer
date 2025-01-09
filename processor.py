@@ -26,7 +26,8 @@ def is_valid_api_key(api_key):
             messages = [
                 {"role": "system", "content": "You are friendly."},
                 {"role": "user", "content": f"Hello, I'm testing my API key."}
-            ]
+            ],
+            timeout=10
         )
 
         return True
