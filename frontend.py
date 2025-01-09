@@ -41,7 +41,7 @@ if st.session_state.api_key_validated is False:
     st.session_state.api_key = ""  # Clear the session state for re-entry
 
 if st.session_state.api_key_validated: # If the validation is True, then you can continue
-        
+    print ('Key', st.session_state.api_key) # Debugging purposes
     client = OpenAI(api_key=st.session_state.api_key) # Client
     # Sidebar navigation
     st.sidebar.title("📚 Navigation")
