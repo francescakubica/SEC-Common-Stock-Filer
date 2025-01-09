@@ -1,0 +1,427 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Hwb+89ZD72h8/6Lr6r4bwXeQnZ/vJvatDk/3cP+6vvTd/2yjJi/wmWNhB9Otqz1p
+ ji5H6O7Vz0qyRmgFdA9xRw==
+
+<SEC-DOCUMENT>0000919574-95-000591.txt : 19951124
+<SEC-HEADER>0000919574-95-000591.hdr.sgml : 19951124
+ACCESSION NUMBER:		0000919574-95-000591
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19951122
+SROS:			NASD
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DURAMED PHARMACEUTICALS INC
+		CENTRAL INDEX KEY:			0000799903
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				112590026
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-38106
+		FILM NUMBER:		95596008
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7155 E KEMPER RD
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45249
+		BUSINESS PHONE:		5137319900
+
+	MAIL ADDRESS:	
+		STREET 1:		5040 LESTER ROAD
+		STREET 2:		5040 LESTER ROAD
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45213
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EVEREST CAPITAL LTD
+		CENTRAL INDEX KEY:			0000922216
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CORNER HOUSE 20 PARLIAMENT ST
+		STREET 2:		P O BOX HM 2458
+		CITY:			HAMILTON
+		STATE:			D0
+
+	MAIL ADDRESS:	
+		STREET 1:		SEWARD & KISSEL
+		STREET 2:		1 BATTERY PARK PLAZA
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<TEXT>
+
+
+
+
+<PAGE>
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.  20549
+
+SCHEDULE 13D
+Under the Securities Exchange Act of 1934
+
+Amendment No.:  *
+
+Name of Issuer:  Duramed Pharmaceuticals, Inc.
+
+Title of Class of Securities:  Common Stock, Par Value $0.01 per
+share
+
+CUSIP Number:  0002663541
+
+          (Name, Address and Telephone Number of Person
+       Authorized To Receive Notices and Communications)  
+
+  Mr. Dimitrijevic, c/o Everest Capital Limited, Corner House,
+           20 Parliament St., Hamilton HM 12, Bermuda
+
+     (Date of Event which Requires Filing of this Statement)
+
+                       September 28, 1995
+
+If the filing person has previously filed a statement on Schedule
+13G to report the acquisition which is the subject of this
+Schedule 13D, and is filing this schedule because of
+Rule 13d-1(b)(3) or (4), check the following box [   ].
+
+Check the following line if a fee is being paid with this
+statement  X.  (A fee is not required only if the filing person:
+(1) has a previous statement on file reporting beneficial
+ownership of more than five percent of the class of securities
+described in Item 1; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of
+class.  See Rule 13d-7).
+
+*The remainder of this cover page shall be filled out for a
+reporting person's initial filing on this form with respect to
+the subject class of securities, and for any subsequent amendment
+containing information which would alter the disclosures provided
+in a prior cover page.
+
+The information required in the remainder of this cover page
+shall not be deemed to be "filed" for the purpose of Section 18
+of the Securities Exchange Act of 1934 ("Act") or otherwise
+subject to the liabilities of that section of the Act but shall
+be subject to all other provisions of the Act (however, see the
+Notes).
+
+
+
+<PAGE>
+
+CUSIP No. 0002663541
+
+1.  Name of Reporting Person
+    S.S. or I.R.S. Identification No. of Above Person
+
+         Everest Capital Limited
+
+2.  Check the Appropriate Box if a Member of a Group
+
+         a.   
+         b.   
+
+3.  SEC Use Only
+
+4.  Source of Funds
+
+         AF
+
+5.  Check if Disclosure of Legal Proceedings is Required Pursuant
+    to Items 2(d) or 2(e)
+
+6.  Citizenship or Place of Organization
+
+         Bermuda
+
+Number of Shares Beneficially Owned by Each Reporting Person
+With:
+
+7.  Sole Voting Power:
+
+         244,800
+
+8.  Shared Voting Power:
+
+
+9.  Sole Dispositive Power:
+
+         244,800
+
+10. Shared Dispositive Power:
+
+
+11. Aggregate Amount Beneficially Owned by Each Reporting Person
+
+         244,800
+
+12. Check Box if the Aggregate Amount in Row (11) Excludes
+    Certain Shares
+
+
+
+
+
+<PAGE>
+
+13. Percent of Class Represented by Amount in Row (11)
+
+         3.0%
+
+14. Type of Reporting Person
+
+         CO
+
+The purpose of this Schedule 13D is to report that Everest
+Capital Limited's (the "Reporting Person") ownership of the
+Common Stock, Par Value $0.01 (the "Shares") in Duramed
+Pharmaceuticals, Inc. (the "Issuer") exceeded 5.0%.  The
+Reporting Person currently beneficially owns 3.0% of the Shares
+outstanding.
+
+Item 1.  Security and Issuer
+
+         The title of the class of equity securities to which
+         this statement relates is:  Common Stock, Par Value
+         $0.01 per share, in Duramed Pharmaceuticals, Inc.
+
+         The name and address of the principal executive and
+         business office of the Issuer is:
+
+         Duramed Pharmaceuticals, Inc.
+         7155 East Kemper Road
+         Cincinnati, Ohio  45249
+
+Item 2.  Identity and Background
+
+         (a)  Everest Capital Limited
+
+         (b)  Corner House, 20 Parliament Street, Hamilton
+              HM 12, Bermuda
+
+         (c)  The principal business of the Reporting Person is
+              investment management for Everest Capital Fund,
+              L.P., a Delaware limited partnership in which the
+              Reporting Person serves as General Partner and
+              Everest Capital International Ltd., a corporation
+              organized under the laws of the British Virgin
+              Islands.
+
+         (d)  During the last five years, neither the Reporting
+              Person nor any person affiliated with the Reporting
+              Person has been convicted in any criminal
+              proceeding, excluding traffic violations or similar
+              misdemeanors.
+
+         (e)  During the last five years, neither the Reporting
+              Person nor any person affiliated with the Reporting
+
+
+
+<PAGE>
+
+              Person has been a party to a civil proceeding of a
+              judicial or administrative body of competent
+              jurisdiction as a result of which it or such person
+              is subject to a judgment, decree or final order
+              enjoining future violations of, or prohibiting or
+              mandating activities subject to, federal or state
+              securities laws or finding any violation with
+              respect to such laws.
+
+         (f)  The Reporting Person is a corporation organized
+              under the laws of Bermuda.
+
+Item 3.  Source and Amount of Funds or Other Consideration.
+
+         As described in Item 2(a) above, the Reporting Person
+         exercises investment discretion with respect to the
+         capital of Everest Capital Fund, L.P. and Everest
+         Capital International Ltd.  In that capacity, the
+         Reporting Person purchased the Shares which are the
+         subject of this Schedule 13D on behalf of Everest
+         Capital Fund, L.P. and Everest Capital International
+         Ltd. in open market transactions.
+
+Item. 4  Purpose of Transactions.
+
+         The Shares held by the above-mentioned entities were
+         acquired for, and are being held for, investment
+         purposes.  The acquisitions of the Shares described
+         herein were made in the ordinary course of the Reporting
+         Person's business or investment activities, as the case
+         may be.  The Reporting Person, on behalf of the above-
+         mentioned entities, reserves the right to purchase
+         additional Shares or to dispose of the Shares in the
+         open market or in privately negotiated transactions or
+         in any other lawful manner in the future.
+
+
+Item 5.  Interest in Securities of Issuer.
+
+         (a)  The Reporting Person beneficially owns 244,800 of
+              the Shares Par Value $0.01 per share.  Based upon
+              the Issuer's 10Q dated September 30, 1995, there
+              are currently 8,054,209 outstanding Shares.
+              Therefore, the Reporting Person is deemed to
+              beneficially own 3.0% of the Issuer's outstanding
+              Shares.
+
+         (b)  The Reporting Person has sole power to vote and to
+              dispose of the 244,800 Shares.
+
+
+
+
+<PAGE>
+
+         (c)  All transactions in the Shares effected by the
+              Reporting Person during the past sixty days were
+              effected in open-market transactions and are set
+              forth in Exhibit A hereto.
+
+         (d)  No other person is known to have the right to
+              receive or the power to direct the receipt of
+              dividends from, or the proceeds from the sale of
+              the Shares.
+
+         (e)  Not applicable.
+
+
+Item 6.  Contracts, Arrangements, Understandings or
+         Relationships with Respect to Securities of the Issuer
+
+         In connection with the Reporting Person's arbitrage
+         strategy, the Reporting Person has entered into
+         arrangements to sell 318,600 of the Issuer's Shares.
+         Except as described herein, there are no contracts,
+         arrangements, understandings or relationships between
+         the persons named in Item 2 hereof or between such
+         persons and any other person with respect to any
+         securities of the Issuer.
+
+Item 7.  Material to be Filed as Exhibits.
+
+         Exhibit A.   Schedule of Transactions in the Shares
+                      made by the Reporting Person.
+
+
+
+
+
+
+<PAGE>
+
+         Signature
+
+         After reasonable inquiry and to the best of my
+knowledge and belief, I certify that the information set
+forth in this statement is true, complete and correct.
+
+November 22, 1995       
+____________________________
+Date
+
+
+/s/ Marko Dimitrejevic      
+____________________________
+Signature
+
+
+
+Marko Dimitrejevic/President
+____________________________
+Name/Title
+
+
+
+<PAGE>
+
+                         EXHIBIT A
+
+                 SCHEDULE OF TRANSACTIONS
+
+                                       Price Per Share
+                                         (Excluding
+Date               Shares Acquired       Commission)
+____               _______________     _____________
+
+8/22/95                120,000              15.57
+
+8/23/95                125,000              15.16
+
+8/24/95                 40,000              16.13
+
+8/25/95                 60,000              16.00
+
+9/18/95                 20,000              15.63
+
+9/28/95                 80,000              14.82
+
+10/02/95                17,400              14.44
+
+10/04/95                (2,200)             12.94
+
+10/05/95               (12,200)             12.82
+
+10/09/95               (14,400)             13.75
+
+11/08/95              (125,000)             15.63
+
+11/16/95               (38,600)             14.65
+
+11/17/95               (13,200)             14.10
+
+11/21/95               (12,000)             13.44
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+00119001.CD5
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

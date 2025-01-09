@@ -1,0 +1,328 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EeqP3n41TUyjwCNSODQV9eeMzhiiKOQnkYRDiNJqAe68/4etyp3lFnwjitQdos+E
+ wmbiGY2Y0g8p49lwlSmp+g==
+
+<SEC-DOCUMENT>0000914039-96-000020.txt : 19960223
+<SEC-HEADER>0000914039-96-000020.hdr.sgml : 19960223
+ACCESSION NUMBER:		0000914039-96-000020
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19960222
+SROS:			NONE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WALDEN BANCORP INC
+		CENTRAL INDEX KEY:			0000949159
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				043289451
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-45309
+		FILM NUMBER:		96524026
+
+	BUSINESS ADDRESS:	
+		STREET 1:		125 NAGOG PARK
+		CITY:			ACTON
+		STATE:			MA
+		ZIP:			01720
+		BUSINESS PHONE:		5086355000
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BERKLEY W R CORP
+		CENTRAL INDEX KEY:			0000011544
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		IRS NUMBER:				221867895
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		165 MASON ST
+		STREET 2:		P O BOX 2518
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06836-2518
+		BUSINESS PHONE:		2036293000
+
+	MAIL ADDRESS:	
+		STREET 1:		165 MASON ST
+		STREET 2:		PO BOX 2518
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06836-2518
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>SC 13D
+<TEXT>
+
+<PAGE>   1
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                  SCHEDULE 13D
+
+                    Under the Securities Exchange Act of 1934
+
+                               Walden Bancorp Inc.
+                                (Name of Issuer)
+
+                           Common Stock ($1 par value)
+                         (Title of Class of Securities)
+
+                                    931192108
+                                 (CUSIP Number)
+
+                                 Jill D. Cookman
+                                    Attorney
+                            W. R. Berkley Corporation
+                                165 Mason Street
+                               Greenwich, CT 06830
+                                 (203) 629-3000
+
+           (Name, Address and Telephone number of Person Authorized to
+                      Receive Notices and Communications)
+
+                                December 31, 1994
+             (Date of Event which Requires Filing of this Statement)
+
+         If the filing person has previously filed a statement of Schedule 13G
+to report the acquisition which is the subject of this Schedule 13D, and is
+filing this schedule because of Rule 13d-1(b)(3) or (4), check the following
+box / /.
+
+         Check the following box if a fee is being paid with this statement /X/.
+(A fee is not required only if the reporting person: (1) has a previous
+statement on file reporting beneficial ownership of more than five percent of
+the class of securities described in Item 1; and (2) has filed no amendment
+subsequent thereto reporting beneficial ownership of less than five percent of
+such class.
+
+         Note: Six copies of this statement, including all exhibits, should be
+filed with the Commission. See Rule 13d-1(a) for other parties to whom copies
+are to be sent.
+
+         * The remainder of this cover page shall be filled out for a reporting
+person's initial filing on this form with respect to the subject class of
+securities, and for any subsequent amendment containing information which would
+alter disclosures provided in a prior cover page.
+
+         The information required on the remainder of this cover page shall not
+be deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+Act of 1934 ("Act") or otherwise subject to the liabilities of that section of
+the Act but shall be subject to all other provisions of the Act (however, see
+the Notes).
+
+CUSIP No.  931192108
+
+                                       1
+<PAGE>   2
+
+
+(2)      Check the Appropriate Box if a Member of a Group. (See Instructions):
+         (a) / /
+         (b) / /
+- ------------------------------------------------------------------------------
+(3)      SEC use Only
+
+- ------------------------------------------------------------------------------
+(4)      Source of Funds (See Instructions):  AF
+
+- ------------------------------------------------------------------------------
+(5)      Check if Disclosure of Legal Proceedings is Required Pursuant to Items
+         2(d) or 2(e): / /
+
+- ------------------------------------------------------------------------------
+(6)      Citizenship or Place of Organization:  Delaware
+
+- ------------------------------------------------------------------------------
+Number of Shares              (7)  Sole Voting Power:  293,500
+Beneficially Owned            (8)  Shared Voting Power:  0
+by Each Reporting             (9)  Sole Dispositive Power:  293,500
+Person With                   (10)  Shared Dispositive Power:  0
+- ------------------------------------------------------------------------------
+(11)     Aggregate Amount Beneficially Owned by Each Reporting Person:  293,500
+- ------------------------------------------------------------------------------
+(12)     Check if the Aggregate Amount in Row (11) Excludes Certain Shares
+         (See Instructions): / /
+- ------------------------------------------------------------------------------
+(13)     Percent of Class Represented by Amount in Row (11):  5.6%
+- ------------------------------------------------------------------------------
+(14)     Type of Reporting Person (See Instructions):  HC
+
+- ------------------------------------------------------------------------------
+
+                                       2
+<PAGE>   3
+
+
+
+Item 1.           Security and Issuer.
+
+         This Statement relates to the common stock, par value $1.00 per share
+(the "Shares"), of Walden Bancorp Inc., a Massachusetts corporation (the
+"Issuer"). According to the Issuer's Annual Report on Form 10-K for the fiscal
+year ended December 31, 1994, the Issuer's principal executive offices are
+located at 125 Nagog Park, P.O. Box 2100, Acton, MA 01720-6100.
+
+Item 2.           Identity and Background.
+
+         (a) W. R. Berkley Corporation ("Berkley")
+
+         (b) 165 Mason Street, Greenwich, Connecticut 06830.
+
+         (c) Berkley is a Delaware corporation incorporated January 20, 1970.
+Berkley is a holding company which, through its subsidiaries, operates in four
+segments of the insurance business: regional property casualty insurance;
+reinsurance; specialty lines of insurance; and insurance services operations
+(which provide services to alternative insurance market mechanisms.)
+
+         Reference is made to the current list of the directors and executive
+officers of Berkley appearing as Item 10 on pp. 49-51 of Berkley's Form 10-K
+attached hereto as Exhibit A. The following changes are not reflected in the
+Form 10-K attached: (i) Effective January 2, 1996, John D. Vollaro was elected
+President and Chief Operating Officer of Berkley. (ii) Effective September 13,
+1995, John D. Vollaro was elected as a Director of Berkley,(iii) Effective
+August 25, 1995, Gordon A. Ennis resigned as Sr. Vice President - Insurance
+Services of Berkley, and (iv) Effective May 23, 1995, Duncan Miller resigned as
+a Director Berkley. Information as to persons owning 10% or more of the voting
+securities of Berkley is incorporated herein by reference to "Principal
+Stockholders" in Berkley's Proxy Statement for its Annual Meeting of
+Shareholders, May 23, 1995, attached hereto as Exhibit B.
+
+         (d) Neither Berkley nor any of the persons listed above have, during
+the last 5 years, been convicted in a criminal proceeding (excluding traffic
+violations).
+
+         (e) For general information relating to litigation involving the
+holding company system, reference is made to Note (5), "Commitments, Litigation
+and Contingent Liabilities",
+
+                                       3
+<PAGE>   4
+
+appearing on page 38 of Berkley's Annual Report on Form 10-K for the year ended
+December 31, 1994 pursuant to the Securities Exchange Act of 1934.
+
+         (f) Berkley is incorporated in the State of Delaware. Each individual
+referenced above is a citizen of the United States.
+
+Item 3.           Source and Amount of Funds or Other Consideration.
+
+         Berkley may be deemed to have beneficial ownership of 293,500 Shares. A
+total cash consideration of $ 3,531,375 was paid for the Shares by 8 of
+Berkley's wholly-owned subsidiaries listed as follows:
+
+<TABLE>
+<CAPTION>
+                                                           Date of
+         Company                                           Purchase     Shares 
+<S>                                                        <C>          <C>    
+         Admiral Insurance Company                         5/13/88      31,000 
+         Admiral Insurance Company                         5/25/88      47,000 
+         Admiral Insurance Company                         5/29/88      20,000 
+         Carolina Casualty Insurance Company               5/28/88      36,000 
+         Continental Western Insurance Company             4/05/88      16,000 
+         Firemen's Insurance Company of Washington D.C.    5/11/88      20,000 
+         Nautilus Insurance Company                        6/13/88      42,500 
+         Tri-State Insurance Company of Minnesota          4/29/88      20,000 
+         Union Insurance Company                           6/10/88      25,000 
+         Union Standard Insurance Company                  11/1/90      36,000 
+                                                                        ------ 
+                                                                               
+                                                           TOTAL       293,500 
+</TABLE>
+
+                                                                          
+         No part of the consideration was obtained through a loan. The source of
+the funds was the general working capital of each subsidiary.
+
+Item 4.           Purpose of Transaction.
+
+         These Shares were originally acquired from The One Bancorp which
+subsequently merged into and became known as Walden Bancorp Inc., which is now
+registered with the SEC. These Shares were acquired as referred to in Item 3.
+Berkley has acquired the Shares of Issuer in the ordinary course of business and
+the Shares were not acquired for the purpose of and do not
+
+                                       4
+<PAGE>   5
+
+have the effect of changing or influencing the control of Issuer and were not
+acquired in connection with or as a participant in any transactions having such
+purpose or effect.
+
+Item 5.           Interest in Securities of the Issuer.
+
+         (a) Berkley may be deemed to have beneficial ownership of 293,500
+Shares of Issuer which amounts to a 5.6% ownership interest in Issuer.
+
+         (b) Berkley, through its subsidiaries, has the sole power to vote or to
+direct the vote of 293,500 shares of the Issuer. Berkley has the sole power to
+dispose or to direct the disposition of 293,500 shares of the Issuer.
+
+         (c) No transactions in the Shares were effected during the past sixty
+days by persons named in response to paragraph (a).
+
+         (d) Not applicable.
+
+         (e) Not applicable.
+
+Item 6.           Contracts, Arrangements, Understandings or Relationships With
+                     Respect to Securities of the Issuer.
+
+         There are no contracts, arrangements, understandings or relationships
+with respect to securities of Issuer.
+
+Item 7.           Material to be Filed as Exhibits.
+
+         Exhibit A - Berkley's Form 10-K for the year ended December 31, 1994.
+
+         Exhibit B - Berkley's Proxy Statement for its Annual Meeting of
+Shareholders, May 23, 1995
+
+                                       5
+<PAGE>   6
+
+
+Signature.
+
+         After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+- ---------------
+Date
+
+W. R. Berkley Corporation
+
+By:
+   --------------------------------
+     James G.Shiel
+     Vice-President - Investments
+
+
+                                       6
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

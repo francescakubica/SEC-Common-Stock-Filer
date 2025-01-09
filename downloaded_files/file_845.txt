@@ -1,0 +1,867 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ A3tUuVqa2hnmB5RZe88SkivKOcPuWjdZ+FijaEoKZEaD7sLNumHVhwDzTwf3CrLw
+ qDgSO8Mfvy5GG6B6VxyHGw==
+
+<SEC-DOCUMENT>0000950130-96-002383.txt : 19960627
+<SEC-HEADER>0000950130-96-002383.hdr.sgml : 19960627
+ACCESSION NUMBER:		0000950130-96-002383
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19960626
+SROS:			NONE
+GROUP MEMBERS:		PAUL TUDOR JONES, II
+GROUP MEMBERS:		THE RAPTOR GLOBAL FUND L.P.
+GROUP MEMBERS:		THE RAPTOR GLOBAL FUND LTD.
+GROUP MEMBERS:		TUDOR ARBITRAGE PARTNERS L.P.
+GROUP MEMBERS:		TUDOR BVI FUTURES, LTD.
+GROUP MEMBERS:		TUDOR FUND FOR EMPLOYEES LP
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PACIFIC CREST CAPITAL INC
+		CENTRAL INDEX KEY:			0000912048
+		STANDARD INDUSTRIAL CLASSIFICATION:	SAVINGS INSTITUTIONS, NOT FEDERALLY CHARTERED [6036]
+		IRS NUMBER:				954437818
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-46233
+		FILM NUMBER:		96585755
+
+	BUSINESS ADDRESS:	
+		STREET 1:		30343 CANWOOD ST
+		CITY:			AGOURA HILLS
+		STATE:			CA
+		ZIP:			91301
+		BUSINESS PHONE:		8188653300
+
+	MAIL ADDRESS:	
+		STREET 1:		30343 CANWOOD STREET
+		CITY:			AGOURA HILLS
+		STATE:			CA
+		ZIP:			91301
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TUDOR FUND FOR EMPLOYEES LP
+		CENTRAL INDEX KEY:			0000861895
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTORS, NEC [6799]
+		IRS NUMBER:				133543779
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE LIBERTY PLZ 51ST FLR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10006
+		BUSINESS PHONE:		2126026700
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE LIBERTY PLAZA
+		STREET 2:		51ST FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10066
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>AMENDMENT NO. 1 TO SCHEDULE 13D
+<TEXT>
+
+<PAGE>
+ 
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                             ______________________
+
+                                  SCHEDULE 13D
+                   Under the Securities Exchange Act of 1934
+
+                               (Amendment No. 1)
+
+
+                          Pacific Crest Capital, Inc.
+                    ---------------------------------------
+                                (Name of Issuer)
+
+
+                     Common Stock, par value $.01 per share
+                     --------------------------------------
+                         (Title of Class of Securities)
+
+
+                                  694166 10 9
+                            ----------------------
+                                (CUSIP Number)
+
+
+                              Andrew S. Paul, Esq.
+                        c/o Tudor Investment Corporation
+                         One Liberty Plaza (51st Floor)
+                           New York, New York  10006
+                                 (212) 602-6700
+                   ----------------------------------------
+                 (Name, Address and Telephone Number of Person
+               Authorized to Receive Notices and Communications)
+
+
+                               December 18, 1995
+            -------------------------------------------------------
+            (Date of Event which Requires Filing of this Statement)
+
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4), check the following box [ ].
+
+Check the following box if a fee is being paid with the statement [ ].
+
+                                     Page 1
+<PAGE>
+ 
+- ---------------------
+CUSIP NO. 694166 10 9
+- ---------------------
+- ------------------------------------------------------------
+1    NAME OF REPORTING PERSON
+     S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+     Tudor Investment Corporation
+     TIN: 22-2514825
+- ------------------------------------------------------------
+2    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+                                              (a)  [  ]
+                                              (b)  [X ]
+- ------------------------------------------------------------
+3.   SEC USE ONLY
+
+- ------------------------------------------------------------
+4.   SOURCE OF FUNDS
+     OO
+- ------------------------------------------------------------
+5.   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS
+     REQUIRED PURSUANT TO ITEMS 2(d) OR 2(e)
+                                                   [  ]
+- ------------------------------------------------------------
+6.   CITIZENSHIP OR PLACE OF ORGANIZATION
+     Delaware
+- ------------------------------------------------------------
+                         7  SOLE VOTING POWER
+ NUMBER OF                  0
+   SHARES                -----------------------------------
+BENEFICIALLY             8  SHARED VOTING POWER
+  OWNED BY                  97,000
+    EACH                 -----------------------------------
+ REPORTING               9  SOLE DISPOSITIVE POWER
+   PERSON                   0
+    WITH                 -----------------------------------
+                         10 SHARED DISPOSITIVE POWER
+                            97,000
+- ------------------------------------------------------------
+11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+     PERSON
+                            97,000
+- ------------------------------------------------------------
+12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+     CERTAIN SHARES
+                                                   [  ]
+- ------------------------------------------------------------
+13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                            3.3%
+- ------------------------------------------------------------
+14   TYPE OF REPORTING PERSON
+     CO
+- ------------------------------------------------------------
+
+                                     Page 2
+<PAGE>
+ 
+- ---------------------
+CUSIP NO. 694166 10 9
+- ---------------------
+- ------------------------------------------------------------
+1    NAME OF REPORTING PERSON
+     S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+     Paul Tudor Jones, II
+     TIN:
+- ------------------------------------------------------------
+2    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+                                              (a)  [  ]
+                                              (b)  [X ]
+- ------------------------------------------------------------
+3.   SEC USE ONLY
+
+- ------------------------------------------------------------
+4.   SOURCE OF FUNDS
+     OO
+- ------------------------------------------------------------
+5.   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS
+     REQUIRED PURSUANT TO ITEMS 2(d) OR 2(e)
+                                                   [  ]
+- ------------------------------------------------------------
+6.   CITIZENSHIP OR PLACE OF ORGANIZATION
+     United States of America
+- ------------------------------------------------------------
+                         7    SOLE VOTING POWER
+  NUMBER OF                   0
+   SHARES                -----------------------------------
+BENEFICIALLY             8    SHARED VOTING POWER
+  OWNED BY                    105,300
+    EACH                 -----------------------------------
+ REPORTING               9    SOLE DISPOSITIVE POWER
+   PERSON                     0
+    WITH                 -----------------------------------
+                         10   SHARED DISPOSITIVE POWER
+                              105,300
+- ------------------------------------------------------------
+11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+     PERSON
+                              105,300
+- ------------------------------------------------------------
+12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+     CERTAIN SHARES
+                                                   [  ]
+- ------------------------------------------------------------
+13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                              3.6%
+- ------------------------------------------------------------
+14   TYPE OF REPORTING PERSON
+     IN
+- ------------------------------------------------------------
+
+                                     Page 3
+<PAGE>
+ 
+- ---------------------
+CUSIP NO. 694166 10 9
+- ---------------------
+- ------------------------------------------------------------
+1    NAME OF REPORTING PERSON
+     S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+     The Raptor Global Fund Ltd.
+     TIN:  n/a
+- ------------------------------------------------------------
+2    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+                                              (a)  [  ]
+                                              (b)  [X ]
+- ------------------------------------------------------------
+3.   SEC USE ONLY
+
+- ------------------------------------------------------------
+4.   SOURCE OF FUNDS
+     OO
+- ------------------------------------------------------------
+5.   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS
+     REQUIRED PURSUANT TO ITEMS 2(d) OR 2(e)
+                                                   [  ]
+- ------------------------------------------------------------
+6.   CITIZENSHIP OR PLACE OF ORGANIZATION
+     Cayman Islands
+- ------------------------------------------------------------
+                         7  SOLE VOTING POWER
+ NUMBER OF                  0
+   SHARES                -----------------------------------
+BENEFICIALLY             8  SHARED VOTING POWER
+  OWNED BY                  20,400
+    EACH                 -----------------------------------
+ REPORTING               9  SOLE DISPOSITIVE POWER
+   PERSON                   0
+    WITH                 -----------------------------------
+                         10 SHARED DISPOSITIVE POWER
+                            20,400
+- ------------------------------------------------------------
+11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+     PERSON
+                            20,400
+- ------------------------------------------------------------
+12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+     CERTAIN SHARES
+                                                   [  ]
+- ------------------------------------------------------------
+13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                            0.7%
+- ------------------------------------------------------------
+14   TYPE OF REPORTING PERSON
+     CO
+- ------------------------------------------------------------
+
+                                     Page 4
+<PAGE>
+ 
+- ---------------------
+CUSIP NO. 694166 10 9
+- ---------------------
+- ------------------------------------------------------------
+1    NAME OF REPORTING PERSON
+     S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+     The Raptor Global Fund L.P.
+     TIN: 13-3735415
+- ------------------------------------------------------------
+2    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+                                              (a)  [  ]
+                                              (b)  [X ]
+- ------------------------------------------------------------
+3.   SEC USE ONLY
+
+- ------------------------------------------------------------
+4.   SOURCE OF FUNDS
+     OO
+- ------------------------------------------------------------
+5.   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS
+     REQUIRED PURSUANT TO ITEMS 2(d) OR 2(e)
+                                                   [  ]
+- ----------------------------------------------------------
+6.   CITIZENSHIP OR PLACE OF ORGANIZATION
+     Delaware
+- ----------------------------------------------------------
+                       7  SOLE VOTING POWER
+ NUMBER OF                0
+   SHARES              -----------------------------------
+BENEFICIALLY           8  SHARED VOTING POWER
+  OWNED BY                17,600
+    EACH               -----------------------------------
+ REPORTING             9  SOLE DISPOSITIVE POWER
+   PERSON                 0
+    WITH               -----------------------------------
+                       10 SHARED DISPOSITIVE POWER
+                          17,600
+- ----------------------------------------------------------
+11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+     PERSON
+                          17,600
+- ------------------------------------------------------------
+12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+     CERTAIN SHARES
+                                                   [  ]
+- ------------------------------------------------------------
+13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                          0.6%
+- ------------------------------------------------------------
+14   TYPE OF REPORTING PERSON
+     PN
+- ------------------------------------------------------------
+
+                                     Page 5
+<PAGE>
+ 
+- ---------------------
+CUSIP NO. 694166 10 9
+- ---------------------
+- ------------------------------------------------------------
+1    NAME OF REPORTING PERSON
+     S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+     Tudor Arbitrage Partners L.P.
+     TIN:  13-3496979
+- ------------------------------------------------------------
+2    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+                                              (a)  [  ]
+                                              (b)  [X ]
+- ------------------------------------------------------------
+3.   SEC USE ONLY
+
+- ------------------------------------------------------------
+4.   SOURCE OF FUNDS
+     OO
+- ------------------------------------------------------------
+5.   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS
+     REQUIRED PURSUANT TO ITEMS 2(d) OR 2(e)
+                                                   [  ]
+- ------------------------------------------------------------
+6.   CITIZENSHIP OR PLACE OF ORGANIZATION
+     Delaware
+- ------------------------------------------------------------
+                         7  SOLE VOTING POWER
+ NUMBER OF                  0
+   SHARES                -----------------------------------
+BENEFICIALLY             8  SHARED VOTING POWER
+  OWNED BY                  8,300
+    EACH                 -----------------------------------
+ REPORTING               9  SOLE DISPOSITIVE POWER
+   PERSON                   0
+    WITH                 -----------------------------------
+                         10   SHARED DISPOSITIVE POWER
+                              8,300
+- ------------------------------------------------------------
+11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+     PERSON
+                              8,300
+- ------------------------------------------------------------
+12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+     CERTAIN SHARES
+                                                   [  ]
+- ------------------------------------------------------------
+13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                              0.3%
+- ------------------------------------------------------------
+14   TYPE OF REPORTING PERSON
+     PN
+- ------------------------------------------------------------
+
+                                     Page 6
+<PAGE>
+ 
+- ---------------------
+CUSIP NO. 694166 10 9
+- ---------------------
+- ------------------------------------------------------------
+1    NAME OF REPORTING PERSON
+     S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+     Tudor BVI Futures, Ltd.
+     TIN: n/a
+- ------------------------------------------------------------
+2    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+                                              (a)  [  ]
+                                              (b)  [X ]
+- ------------------------------------------------------------
+3.   SEC USE ONLY
+
+- ------------------------------------------------------------
+4.   SOURCE OF FUNDS
+     OO
+- ------------------------------------------------------------
+5.   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS
+     REQUIRED PURSUANT TO ITEMS 2(d) OR 2(e)
+                                                   [  ]
+- ------------------------------------------------------------
+6.   CITIZENSHIP OR PLACE OF ORGANIZATION
+     British Virgin Islands
+- ------------------------------------------------------------
+                         7  SOLE VOTING POWER
+ NUMBER OF                  0
+   SHARES                -----------------------------------
+BENEFICIALLY             8  SHARED VOTING POWER
+  OWNED BY                  59,000
+    EACH                 -----------------------------------
+ REPORTING               9  SOLE DISPOSITIVE POWER
+   PERSON                   0
+    WITH                 -----------------------------------
+                         10 SHARED DISPOSITIVE POWER
+                            59,000
+- ------------------------------------------------------------
+11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+     PERSON
+                            59,000
+- ------------------------------------------------------------
+12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+     CERTAIN SHARES
+                                                   [  ]
+- ------------------------------------------------------------
+13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                            2.0%
+- ------------------------------------------------------------
+14   TYPE OF REPORTING PERSON
+     CO
+- ------------------------------------------------------------
+
+                                     Page 7
+<PAGE>
+ 
+Item 1.   Security and Issuer
+          -------------------
+
+          This Amendment No. 1, dated June 26, 1996 to Statement on Schedule 13D
+relates to the common stock, par value $.01 per share ("Common Stock"), of
+Pacific Crest Capital, Inc., a Delaware corporation (the "Company"), and amends
+the Schedule 13D previously filed by Tudor Investment Corporation, a Delaware
+corporation ("TIC"), Paul Tudor Jones, II, a natural person and a citizen of the
+United States ("Mr. Jones"), The Raptor Global Fund Ltd., a company organized
+under the laws of the Cayman Islands ("Raptor Ltd."), The Raptor Global Fund
+L.P., a Delaware limited partnership ("Raptor L.P."), Tudor Arbitrage Partners
+L.P., a Delaware limited partnership ("TAP), Tudor BVI Futures, Ltd., a
+corporation organized under the laws of the British Virgin Islands ("Tudor BVI",
+and collectively with TIC, Mr. Jones, Raptor Ltd., Raptor L.P. and TAP, the
+"Reporting Persons") and Danforth, L.P. ("Danforth")./*/ The summaries of
+information on schedules attached hereto are qualified in their entirety by
+reference to such schedules, which are incorporated by reference herein.
+
+        The Company's principal executive offices are located at 30343 Canwood
+Avenue, Agoura Hills, California 91301.
+
+Item 2.  Identity and Background.
+         ----------------------- 
+
+        The Reporting Persons are TIC, Mr. Jones, Raptor Ltd., Raptor L.P.,
+TAP and Tudor BVI.  The business address of each of TIC, Mr. Jones, Raptor
+L.P. and TAP is c/o Tudor Investment Corporation, 600 Steamboat Road,
+Greenwich, Connecticut 06830.  The business address of each of Raptor Ltd. and
+Tudor BVI is c/o Curacao International Trust Company N.V., Kaya Flamboyan 9,
+Curacao, Netherlands Antilles.
+
+        TIC is an international money management firm that provides investment
+advice to Raptor Ltd., Raptor L.P. and Tudor BVI, among others.
+
+        Mr. Jones' principal employment is as Chairman and Chief Executive
+Officer of TIC of which he owns a majority of the capital stock and voting
+securities.
+
+- ---------------
+/*/ For purposes of this Statement on Schedule 13D the Reporting Persons have
+filed as a "group".  Nevertheless, the Reporting Persons hereby disclaim that
+they are members of a "group" for purposes of Section 13(d) of the Securities
+Exchange Act of 1934 or for any other purpose.
+
+                                     Page 8
+<PAGE>
+ 
+          Each of Raptor Ltd., Raptor L.P., TAP and Tudor BVI is an investment
+  fund which principally invests in debt, equity, derivative securities and
+  other financial instruments for the benefit of the holders of its partnership,
+  stock and other capital securities.
+
+          The name, residence or business address, present principal occupation
+  or employment, the name, principal business and address of any corporation or
+  other organization in which such employment is conducted and the citizenship
+  of each natural person that is a director or executive officer of TIC, Raptor
+  Ltd. or Tudor BVI is set forth on Schedule I hereto and is incorporated by
+  reference herein.  TIC is the sole general partner of Raptor L.P.
+
+          Effective as of July 31, 1995, TIC ceased to provide investment
+  advisory services to Danforth.  Accordingly, Danforth is no longer included as
+  a reporting person.
+
+          During the last five years, none of the Reporting Persons, or to the
+  best knowledge and belief of the Reporting Persons, any of the individuals
+  listed on Schedule I hereto, has been convicted in a criminal proceeding
+  (excluding traffic violations or similar misdemeanors) or has been a party to
+  a civil proceeding of a judicial or administrative body of competent
+  jurisdiction as a result of which any Reporting Person or any person listed on
+  Schedule I was or is subject to a judgment, decree or final order enjoining
+  future violations of, or prohibiting activities subject to, federal or state
+  securities laws or finding any violation of such law.
+
+  Item 3.  Source and Amount of Funds or Other Consideration.
+           ------------------------------------------------- 
+
+          The shares of Common Stock beneficially owned by each of Raptor Ltd.,
+  Raptor L.P., TAP and Tudor BVI were acquired in open market purchases for
+  cash.  The sources of the funds used to purchase the shares of Common Stock by
+  each of the Reporting Persons were (i) capital contributions to such Reporting
+  Person, (ii) the proceeds of transactions with respect to prior investments
+  held by such Reporting Persons, and (iii) cash borrowed pursuant to margin
+  loans with Morgan Stanley & Co. Incorporated, which are secured by all of the
+  shares of Common Stock held by each such Reporting Person.
+
+                                     Page 9
+<PAGE>
+ 
+  Item 4.  Purpose of Transaction.
+           ---------------------- 
+
+          Each of Raptor Ltd., Raptor L.P., TAP and Tudor BVI initially acquired
+  the Common Stock beneficially owned by such Reporting Person for investment
+  purposes.  Each of such Reporting Persons intends to continue to evaluate
+  their respective investments in Common Stock based on the Company's financial
+  condition, results of operations and prospects as well as other then existing
+  or anticipated facts and circumstances including general economic, market and
+  other financial conditions.  Accordingly, each of the Reporting Persons
+  reserves the right to change its plans and intentions with respect to its
+  investment in securities of the Company at any time, as it deems appropriate.
+  In particular, each of the Reporting Persons may at any time and from time to
+  time (i) acquire additional shares of Common Stock, (ii) dispose of Common
+  Stock, or (iii) enter into privately negotiated derivative transactions with
+  institutional counterparties to hedge the market risk of some or all of its
+  positions in the Common Stock.  There can be no assurance that any Reporting
+  Person will increase or decrease his investment in the Company or as to the
+  number of shares of Common Stock or derivative securities that may be bought
+  or sold in any such transactions.
+
+          Except as set forth in this Schedule 13D, none of the Reporting
+  Persons currently has any plans or proposals which relate to or would result
+  in any of the transactions, actions or events enumerated in paragraphs (a)
+  through (j) of the instructions to Item 4 of Schedule 13D.
+
+  Item 5.  Interest in Securities of the Issuer.
+           ------------------------------------ 
+
+          There have been no transactions by the Reporting Persons since the
+  transactions on June 21, 1995 which were previously reported in the Schedule
+  13D.
+
+          As of December 18, 1995, as a result of the conversion of shares of
+  preferred stock for Common Stock by certain of the Company's shareholders
+  other than the Reporting Persons, none of the Reporting Persons remained the
+  beneficial owner, pursuant to Rule 13(d)(1)(i), of more than 5% of the Common
+  Stock of the Company.
+
+          Because TIC is the sole general partner of Raptor L.P. and provides
+  investment advisory services to Raptor Ltd., Raptor L.P. and Tudor BVI, TIC
+  may be deemed to beneficially own the shares of Common Stock owned by each of
+  such Reporting Persons.  In addition, because Mr. Jones owns a majority of the
+  capital stock and voting securities of TIC and indirectly owns a majority of
+  the equity interests in the general partner of TAP, Mr. Jones may be 
+
+                                    Page 10
+<PAGE>
+ 
+  deemed to beneficially own the shares of Common Stock deemed beneficially
+  owned by TIC and TAP.
+
+          Based on the information provided by the Company that there are
+  approximately 2,959,698 shares of Common Stock issued and outstanding, each
+  Reporting Person beneficially owns (or, with respect to TIC and Mr. Jones, may
+  be deemed to beneficially own) the number and percentage of outstanding shares
+  of Common Stock listed in the responses to Items 11 and 13, respectively, of
+  the cover page filed herewith for such Reporting Person.  In addition, the
+  number of shares of Common Stock beneficially owned (or, with respect to TIC
+  and Mr. Jones, which may be deemed beneficially owned) by each Reporting
+  Person with respect to which such Reporting Person (i) has sole voting power,
+  (ii) shares voting power, (iii) has sole dispositive power and (iv) shares
+  dispositive power are listed in the responses to Items 7, 8, 9 and 10,
+  respectively, of the cover page filed herewith for such Reporting Person.  The
+  voting and dispositive power is reported as shared because each of the
+  Reporting Persons (other than TIC and Mr. Jones) has the power to remove TIC
+  as its investment advisor or general partner.  Each of the Reporting Persons
+  (other than TIC and Mr. Jones) expressly disclaim beneficial ownership of the
+  shares of Common Stock beneficially owned by any other Reporting Person and
+  each of TIC and Mr. Jones disclaim beneficial ownership of the Common Stock
+  beneficially owned by Raptor Ltd., Raptor L.P., TAP, Tudor BVI.
+
+  Item 6.  Contracts, Arrangements, Understandings
+           or Relationships with Respect to Securities
+           of the Issuer
+           -------------------------------------------
+
+          Except as set forth in this Schedule 13D, none of the Reporting Person
+  has any contracts, arrangements, understandings or relationships with respect
+  to securities of the Company.
+
+  Item 7.  Material to Be Filed as Exhibits
+           --------------------------------
+
+          (1) Joint Filing Agreement (previously filed)
+
+                                    Page 11
+<PAGE>
+ 
+                              SIGNATURE
+
+            After reasonable inquiry and to the best of my knowledge and belief,
+  I certify that the information set forth in this Schedule 13D is true,
+  complete and correct.
+
+  Dated:  June 26, 1996
+
+
+                            TUDOR INVESTMENT CORPORATION
+
+
+
+                            By:  /s/ Andrew S. Paul
+                                 ------------------   
+                            Name:  Andrew S. Paul
+                            Title: Vice President &
+                                   General Counsel
+
+
+
+                             /s/ Paul Tudor Jones, II
+                             ------------------------ 
+                             Paul Tudor Jones, II
+
+
+
+                             THE RAPTOR GLOBAL FUND LTD.
+
+                             By: TUDOR INVESTMENT CORPORATION,
+                                   Trading Advisor
+
+
+                                 By:  /s/ Andrew S. Paul
+                                     --------------------
+                                 Name:  Andrew S. Paul
+                                 Title: Vice President &
+                                        General Counsel
+
+
+
+                             THE RAPTOR GLOBAL FUND L.P.
+
+                             By: TUDOR INVESTMENT CORPORATION,
+                                    General Partner
+
+
+
+                                By:  /s/ Andrew S. Paul
+                                     --------------------
+                                Name:  Andrew S. Paul
+                                Title: Vice President &
+                                       General Counsel
+
+                                    Page 12
+<PAGE>
+ 
+                             TUDOR ARBITRAGE PARTNERS L.P.
+
+                             By: TUDOR GLOBAL TRADING LLC,
+                                   General Partner
+
+
+
+                                 By:  /s/ Andrew S. Paul
+                                      --------------------
+                                 Name:  Andrew S. Paul
+                                 Title: Vice President &
+                                        General Counsel
+
+
+
+                             TUDOR BVI FUTURES, LTD.
+
+                             By: TUDOR INVESTMENT CORPORATION,
+                                    Trading Advisor
+
+
+
+                                 By: /s/ Andrew S. Paul
+                                     ------------------  
+                                 Name:  Andrew S. Paul
+                                 Title: Vice President &
+                                        General Counsel
+
+                                    Page 13
+<PAGE>
+ 
+                                                            Schedule I
+
+                       EXECUTIVE OFFICERS AND DIRECTORS
+                           OF THE REPORTING PERSONS
+
+I.  TIC
+
+          The name, residence or business address, present principal
+occupation or employment, the name, principal business and address of any
+corporation or other organization in which such employment is conducted and
+the citizenship of each executive officer or director of TIC is set forth
+below. Unless otherwise indicated (i) the principal occupation or employment
+of such person is as an executive officer or director of TIC, (ii) the
+business address of such person is c/o TIC at the address of TIC set forth
+under Item 2 of this Schedule 13D, (iii) such person is a citizen of the
+United States and (iv) to the knowledge of the Reporting Persons, such person
+does not beneficially own and has not had any transactions in the Common
+Stock.
+
+                              Principal Occupation/
+Name                          Business Address
+- ----                          -----------------------------
+
+Paul Tudor Jones, II/*/  Chairman of the Board of Directors, Chief
+                         Executive Officer of TIC.
+
+Mark F. Dalton           Director, President and Chief Operating
+                         Officer of TIC.
+
+Patrick A. Keenan        Director, Vice President and Chief
+                         Financial Officer of TIC.
+
+Mark A. Heffernan        Director of TIC.  Mr. Heffernan trades in
+Citizen of United        securities and other financial instruments
+Kingdom                  for Tudor Proprietary Trading L.L.C. and certain 
+                         investment funds advised by Tudor Capital (U.K), 
+                         L.P., both of which are located at The Upper 
+                         Mill, Kingston Road, Ewell, Surrey KT17 2AF, England.
+
+Andrew S. Paul           Director, Vice President, General
+                         Counsel and Corporate Secretary of TIC.
+
+Richard L. Fisher        Director of TIC.  Mr. Fisher is Vice President of
+                         Investments and Acquisitions and a Managing Director of
+                         Dunavant Enterprises, Inc., 3797 Getwell Road, Memphis,
+                         TN  38118.
+
+- ---------------
+/*/ See Item 5 of this Schedule 13D for a discussion of Mr. Jones' potential
+    beneficial ownership of Common Stock.
+
+                                    Page 14
+<PAGE>
+ 
+II.  RAPTOR LTD.
+
+          The name, residence or business address, present principal occupation
+or employment, the name, principal business and address of any corporation or
+other organization in which such employment is conducted and the citizenship of
+each executive officer or director of Raptor Ltd. is set forth below. Unless
+otherwise indicated (i) the principal occupation or employment of such person is
+as set forth below, (ii) the business address of such person is c/o Inter
+Caribbean Services Ltd., (iii) such person is a citizen of the country set forth
+below and (iv) to the knowledge of the Reporting Persons, such person does not
+beneficially own and has not had any transactions in the Common Stock.
+
+                                    Principal Occupation/
+Name                                Business Address
+- ----                                -------------------------------
+
+Inter Caribbean Services Ltd. Director of Raptor Ltd. The principal
+Incorporated in British       place of business of Inter Caribbean
+Virgin Islands                Services Ltd. is c/o Curacao
+                              International Trust Company N.V. ("CITCO"), Kaya
+                              Flamboyan 9, Netherlands Antilles.
+
+Bernard A. Loze               Director of Raptor Ltd. Chairman and Chief
+Citizen of France             Executive Officer of Loze et Associe, 43, Avenue
+                              Marceau, Paris 75116, France, which is a
+                              consulting firm that provides financial and
+                              investment advice to international clients.
+
+Arpad A. Busson               Director of Raptor Ltd. Chairman of European
+Citizen of France             Investment Managers, c/o Harney, Westwood &
+                              Riegels, P.O. Box 71, Road Town, Tortola, British
+                              Virgin Islands, which is a consulting and money
+                              management firm.
+
+                                    Page 15
+<PAGE>
+ 
+III.  TUDOR BVI
+
+          The name, residence or business address, present principal occupation
+or employment, the name, principal business and address of any corporation or
+other organization in which such employment is conducted and the citizenship of
+each executive officer or director of Tudor BVI is set forth below.  To the
+knowledge of the Reporting Persons, the below listed persons neither currently
+beneficially own nor have had any transactions in the Common Stock.
+
+
+                                        Principal Occupation/
+Name                                    Business Address
+- ----                                    -------------------------------
+
+Inter Caribbean Services Ltd. Director of Tudor BVI.  See information under
+                              Raptor Ltd.
+
+David P. d'Abrumenil          Director of Tudor BVI.
+Citizen of United Kingdom     Chairman, Lionspring Enterprises Limited, 36 John
+                              Street, London WC1N 2AT, England, which is a
+                              financial consulting firm.
+
+Jean-Pierre Jacquemoud        Director of Tudor BVI. Attorney,
+Citizen of Switzerland        Jacquemoud & Stanislas, 2, rue Bellow,
+                              Geneva 1206, Switzerland.
+
+Bernard A. Loze               Director of Tudor BVI.  See information
+                              under Raptor Ltd.
+
+Arpad A. Busson               Director of Tudor BVI.  See information
+                              under Raptor Ltd.
+
+                                    Page 16
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

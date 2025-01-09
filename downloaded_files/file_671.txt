@@ -1,0 +1,471 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HeblnmVkDNN67t94MBL83xL4uc6i/0iOxT49KKCaemTuTDz/Wtf3n7BIgFQ1BjQh
+ 3qM62fwfcfdeK7+Ch6bW0A==
+
+<SEC-DOCUMENT>0000950135-97-001958.txt : 19970424
+<SEC-HEADER>0000950135-97-001958.hdr.sgml : 19970424
+ACCESSION NUMBER:		0000950135-97-001958
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970423
+SROS:			NONE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PENN VIRGINIA CORP
+		CENTRAL INDEX KEY:			0000077159
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				231184320
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-12730
+		FILM NUMBER:		97585533
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 MATSONFORD ROAD SUITE 200
+		STREET 2:		ONE RADNOR CORPORATE CENTER
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			19087
+		BUSINESS PHONE:		6106878900
+
+	MAIL ADDRESS:	
+		STREET 1:		800 BELLEVUE 200 S BROAD ST
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VIRGINIA COAL & IRON CO
+		DATE OF NAME CHANGE:	19670501
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TWEEDY BROWNE CO L P
+		CENTRAL INDEX KEY:			0000732905
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		IRS NUMBER:				133381587
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		52 VANDERBILT AVE
+		STREET 2:		8TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2129160600
+
+	MAIL ADDRESS:	
+		STREET 1:		52 VANDERBILT AVENUE
+		STREET 2:		8TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>PENN VIRGINIA CORP
+<TEXT>
+
+<PAGE>   1
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+                                  SCHEDULE 13D
+                                (Amendment No. )*
+                                       of
+                           Tweedy, Browne Company L.P.
+
+
+
+
+                    Under the Securities Exchange Act of 1934
+
+                            PENN VIRGINIA CORPORATION
+                                (Name of Issuer)
+
+
+                          Common Stock, $6.25 PAR VALUE
+                         (Title of Class of Securities)
+
+                                    707882106
+                                 (CUSIP Number)
+
+
+
+                                 John D. Spears
+                              52 Vanderbilt Avenue
+                            New York, New York 10017
+                                 (212) 916-0600
+                 (Name, Address and Telephone Number of Persons
+                Authorized to Receive Notices and Communications)
+
+
+
+
+                                UPON EXAMINATION
+                                     OF THE
+                             ISSUER'S LATEST FILING
+                           ON FORM 10K FOR THE PERIOD
+                              ENDED MARCH 31, 1997
+
+             (Date of Event which Required Filing of this Statement)
+
+
+
+<PAGE>   2
+
+
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4), check the following box [ ].
+
+Check the following box if a fee is paid with the statement [ ]. (A fee is not
+required only if the reporting person: (1) has a previous statement on file
+reporting beneficial ownership of more than five percent of the class of
+securities described in Item 1; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of such class.)
+(See Rule 13d-7.)
+
+* The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act,
+but shall be subject to all the provisions of the Act (however, see the Notes).
+
+
+
+<PAGE>   3
+
+Page 3
+
+
+                                  SCHEDULE 13D
+
+CUSIP NO. 707882106                               Page _____ of ______ Pages
+
+- --------------------------------------------------------------------------------
+1.   NAME OF REPORTING PERSON
+     S.S. OR I.R.S. INDENTIFICATION NO. OF ABOVE PERSON
+
+          Tweedy, Browne Company L.P. ("TBC")
+
+- --------------------------------------------------------------------------------
+2.   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*                  (a) [ ]
+                                                                        (b) [X]
+
+- --------------------------------------------------------------------------------
+3.   SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+4.   SOURCE OF FUNDS*
+
+                  00
+- --------------------------------------------------------------------------------
+5.   CHECK BOX IF DISCLOPSURE OF LEGAL PROCEEDING IS REQUIRED PURSUANT TO
+      ITEMS 2(d) OR 2(E)                                                    [ ]
+
+- --------------------------------------------------------------------------------
+6.   CITIZENSHIP OR PLACE OF ORGANIZATION
+
+          Delaware
+
+- --------------------------------------------------------------------------------
+                    7.   SOLE VOTING POWER TBC has sole voting power with
+                         respect to 206,300 shares held in certain TBC 
+     NUMBER OF           Accounts (as hereinafter defined). Additionally, 
+                         certain of the general partners of TBC may be deemed 
+      SHARES             to have sole power to vote certain shares as more 
+                         fully set forth herein.
+   BENEFICIALLY  ---------------------------------------------------------------
+                    8.   SHARED VOTING POWER
+     OWNED BY      
+                           0 shares
+       EACH      ---------------------------------------------------------------
+                    9.   SOLE DISPOSITIVE POWER
+    REPORTING              0 shares, except that certain of the general partners
+                           of TBC may be deemed to have sole power to dispose of
+     PERSON                certain shares as more fully set forth herein.
+                 ---------------------------------------------------------------
+      WITH         10.   SHARED DISPOSITIVE POWER
+                           212,026 shares held in accounts of TBC
+                           (as hereinafter defined)
+
+- --------------------------------------------------------------------------------
+11.  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+          212,026 shares
+
+- --------------------------------------------------------------------------------
+12.  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES* /X/
+
+- --------------------------------------------------------------------------------
+13.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW(11)
+
+          5.13%
+
+- --------------------------------------------------------------------------------
+14.  TYPE OF REPORTING PERSON*
+
+          BD, IA & PN
+
+- --------------------------------------------------------------------------------
+
+                     * SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+SEC 1746 (9-88) 2 of 7
+
+<PAGE>   4
+PRELIMINARY NOTE
+
+     This Statement on Schedule 13D is being filed because the filing person may
+be deemed to be members of a group comprised of Tweedy, Browne Company L.P,
+which group may be deemed to be the beneficial owner in the aggregate of in
+excess of 5% of the Common Stock of Penn Virginia Corporation. However, the
+filing of this Schedule 13D should not be deemed an admission that TBC comprises
+a group within the meaning of Section 13(d)(3) of the Securities and Exchange
+Act of 1934, as amended (the"Act").
+
+
+ITEM 1. SECURITY AND ISSUER
+
+     This Schedule 13D relates to the Common Stock, $6.25 par value (the "Common
+Stock"), of Penn Virginia Corporation. (the "Company"), which, to the best
+knowledge of the person filing this Schedule 13D, is a company organized under
+the laws of Virginia, with its principal executive offices located at One Radnor
+Corporate Center, Suite 200, 100 Matsonford Road, Radnor, PA 19087.
+
+ITEM 2. IDENTITY AND BACKGROUND
+
+     (a) The person filing this Schedule 13D is (i) Tweedy, Browne Company L.P.
+("TBC"), a Delaware limited partnership. The filing of this Schedule 13D should
+not be deemed an admission that TBC comprises a group within the meaning of
+Section 13(d)(3) of the Securities Exchange Act of 1934 (the "Act").
+
+     This Schedule 13D contains information regarding shares of Common Stock
+that may be deemed to be beneficially owned by TBC. Such shares are held in the
+accounts of various customers of TBC, with respect to which accounts TBC has
+investment discretion (the "TBC Accounts"), and with respect to some of which it
+has obtained sole or shared voting power.
+
+     The general partners of TBC are Christopher H. Browne, William H. Browne
+and John D. Spears (the "General Partners"). By reason of their positions as
+such, the General Partners of TBC may be deemed to control TBC.
+
+     (b) The business address of TBC and the General Partners is 52 Vanderbilt
+Avenue, New York, New York 10017.
+
+     (c) TBC is engaged primarily in the business of a securities broker and
+dealer and investment adviser, is registered as a broker-dealer and investment
+adviser with the Securities and Exchange Commission, and is a member of the
+National Association of Securities Dealers, Inc.
+
+     The present principal occupation of each of the General Partners is serving
+as such for TBC. The principal business address of TBC is set forth above.
+
+     (d) None of TBC, nor any General Partner has, during the last five years,
+been convicted in any criminal proceeding (excluding traffic violations and
+similar misdemeanors).
+
+     (e) None of TBC, nor any General Partner has, during the last five years,
+been a party to a civil proceeding of a judicial or administrative body of
+competent jurisdiction as a result of which proceeding it or he was or is
+subject to a judgment, decree or final order enjoining future violations of, or
+prohibiting or mandating activities subject to, federal or state securities laws
+or finding any violations with respect thereto.
+
+     (f) TBC is a Delaware limited partnership. Each of the General Partners is
+a citizen of the United States of America.
+
+
+
+
+
+
+<PAGE>   5
+
+
+
+
+ITEM 3. SOURCE AND AMOUNTS OF FUNDS OR OTHER CONSIDERATION
+
+
+     As of the date hereof, the number of shares with respect to which TBC may
+be deemed to be the beneficial owner is 212,026 shares of Common Stock (the "TBC
+Shares"), all of which shares were purchased in open market transactions. The
+aggregate cost of the TBC Shares, including brokerage commissions, was
+$7,247,022.
+
+     The TBC Shares are held in the TBC Accounts, the funds therefor coming from
+the funds on hand in each individual managed account and in certain instances
+from standard margin account borrowings from brokerage accounts maintained at
+Fleet Clearing Corporation. It is expected that funds used by the TBC Accounts
+to purchase additional shares of Common Stock, if additional shares are
+purchased by the TBC Accounts (see Item 4 hereof), will come from the funds on
+hand for each individual managed account, which funds on hand at any time and
+from time to time may include, among others, funds borrowed pursuant to margin
+accounts maintained at Fleet Clearing Corporation. Borrowings made by certain
+TBC Accounts pursuant to such margin accounts are secured by margin securities
+owned by the respective accounts, including some of the TBC Shares. Interest on
+outstanding borrowings under such margin accounts ranges from 1/2% to 2% over
+the brokers' call rate in effect from time to time at Chemical Bank, New York,
+New York, depending upon the amount of outstanding borrowings at any given time.
+
+
+ITEM 4. PURPOSE OF TRANSACTION
+
+     TBC has acquired the shares of Common Stock owned by it for investment
+purposes and for none of the reasons enumerated in Item 4 of Schedule 13D,
+except that TBC may dispose of all or some of the TBC Shares, or may acquire
+additional shares of Common Stock from time to time, depending upon price and
+market conditions, evaluation of alternative investments, and other factors.
+Currently, TBC intends to acquire additional shares of Common Stock in the open
+market, depending upon the price of the Common Stock from time to time.
+
+
+ITEM 5. INTEREST IN SECURITIES OF THE ISSUER
+
+     (a) As of the date hereof, TBC may be deemed to be the beneficial owner of
+an aggregate of 212,026 shares of Common Stock, which constitutes approximately
+5.13% of the 4,131,294 shares of Common Stock which TBC believes to be the total
+number of shares of Common Stock outstanding. The TBC Shares are held in the TBC
+Accounts.
+
+     TBC disclaims that it is the beneficial owner of any of the shares of
+Common Stock held in the TBC Accounts. The aggregate number of shares of Common
+Stock with respect to which TBC could be deemed to be the beneficial owner as of
+the date hereof, is 212,026 shares, which constitutes approximately 5.13% of the
+4,131,294 shares of Common Stock, which the filing person believes to be the
+total number of shares of Common Stock outstanding, but nothing contained herein
+shall be construed as an admission that TBC is the beneficial owner of any of
+the TBC Shares.
+
+     The aggregate number of shares and percentage of Common Stock with respect
+to which each of the General Partners may be deemed to be the beneficial owner
+by reason of his being a general partner of TBC is 212,026 shares, which
+constitutes approximately 5.13% of the 4,131,294 shares of Common Stock
+outstanding. However, nothing contained herein shall be construed as an
+admission that any of the General Partners is the beneficial owner of any shares
+of Common Stock, except as set forth herein as expressly and admittedly being
+beneficially owned by a particular General Partner.
+
+     Except as described herein, to the best knowledge of TBC, no person who may
+be deemed to comprise a group with any of TBC, or any other person named in Item
+2 hereof, beneficially owns any shares of Common Stock.
+
+
+
+
+<PAGE>   6
+
+
+
+
+     (b) TBC has investment discretion with respect to 212,026 shares of Common
+Stock held by the TBC Accounts and has sole power to dispose or direct the
+disposition of all of such shares. Of these shares of Common Stock, TBC has sole
+power to vote or to direct the voting of 206,300 shares of Common Stock held in
+certain TBC Accounts.
+
+     Each of the General Partners of TBC, solely by reason of their positions as
+such, may be deemed to have (i) shared power to dispose of or to direct the
+disposition of all of the shares of Common Stock held in the TBC Accounts; and
+(ii) shared power to vote or direct the vote of 206,300 shares of Common Stock
+held in certain TBC Accounts.
+
+<TABLE>
+     (c) During the sixty-day period ended as of the date hereof, TBC has
+purchased and sold shares of Common Stock in open market transactions as
+follows:
+
+<CAPTION>
+                       NO OF SHARES                               PRICE
+TBC ACCOUNTS            PURCHASED                SOLD             PER SHARE
+
+<C>                     <C>                      <C>              <C>  
+02/18/97                                         500              $ 43 3/4
+02/21/97                   100                                    $ 45
+02/27/97                 1,300                                    $ 46
+03/04/97                 1,400                                    $ 44 7/8
+04/01/97                 1,000                                    $ 43 3/4
+04/14/97                17,500                                    $ 41 3/8
+</TABLE>
+
+
+     (d) To the best knowledge of TBC, each of the persons maintaining an
+account with TBC has the right to receive or the power to direct the receipt of
+dividends from, or the proceeds from the sale of, the shares of Common Stock
+held in said person's TBC Account.
+
+     (e) Not applicable.
+
+
+ITEM 6. CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH RESPECT TO
+        SECURITIES OF THE ISSUER.
+
+     Except as otherwise described herein, none of TBC, nor, to the best
+knowledge of TBC, any other person named in Item 2 hereof, has any contract,
+arrangement, understanding or relationship with respect to any securities of the
+Issuer.
+
+
+
+
+
+<PAGE>   7
+
+
+
+
+
+
+                                    SIGNATURE
+
+
+     Tweedy, Browne Company L.P., after reasonable inquiry and to the best of
+its knowledge and belief, hereby certifies that the information set forth in
+this Statement is true, complete and correct.
+
+                                                  TWEEDY, BROWNE COMPANY L.P.
+
+
+
+                                                  By
+                                                    -------------------------
+                                                    Christopher H. Browne
+                                                    General Partner
+
+
+
+Dated: April 22, 1997
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,255 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SNyuhDZwvHq73vncqyZNPDM67ktMhUFLQOvf8MvzN7vO4Ig1OHDt1Ov18VTuDkRZ
+ WbqzmVcx5KSRfjlZBpOCzQ==
+
+<SEC-DOCUMENT>0000898080-96-000182.txt : 19961113
+<SEC-HEADER>0000898080-96-000182.hdr.sgml : 19961113
+ACCESSION NUMBER:		0000898080-96-000182
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19961112
+SROS:			NONE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PHYSICIANS HEALTH SERVICES INC
+		CENTRAL INDEX KEY:			0000867098
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-HEALTH SERVICES [8000]
+		IRS NUMBER:				061116976
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-45067
+		FILM NUMBER:		96659528
+
+	BUSINESS ADDRESS:	
+		STREET 1:		120 HAWLEY LANE
+		STREET 2:		1243 BROADRICK DRIVE
+		CITY:			TRUMBULL
+		STATE:			CT
+		ZIP:			06611
+		BUSINESS PHONE:		2033816400
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GUARDIAN LIFE INSURANCE CO OF AMERICA
+		CENTRAL INDEX KEY:			0000901849
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		STATE OF INCORPORATION:			NY
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		201 PARK AVENUE SOUTH
+		STREET 2:		AREA 9C
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10003
+		BUSINESS PHONE:		2125988359
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D AMENDMENT
+<TEXT>
+
+                SECURITIES AND EXCHANGE COMMISSION
+                     WASHINGTON, D.C.  20549
+
+                           SCHEDULE 13D
+
+
+            Under the Securities Exchange Act of 1934
+                        (Amendment No. 5)
+
+
+                 Physicians Health Services, Inc.
+                         (Name of Issuer)
+
+              Class A Common Stock, $.01 Par Value 
+                  (Title of Class of Securities)
+
+
+
+
+                          (CUSIP NUMBER)
+
+               The Guardian Life Insurance Company
+                            of America
+                      201 Park Avenue South
+                    New York, New York  10003
+          (Name, Address and Telephone Number of Person
+        Authorized to Receive Notices and Communications)
+
+
+                         October 21, 1996
+     (Date of event which requires filing of this statement)
+
+
+If the filing person has previously filed a statement on Schedule
+13G to report the acquisition which is the subject of this
+Schedule 13D, and is filing this schedule because of Rule 13d-1(b)(3)
+or (4) check the following box [ ]
+
+Check the following box if a fee is being paid with the statement [ ]
+
+The information required in the remainder of this cover page
+shall not be deemed to be "filed" for the purpose of Section 18
+of the Securities Exchange Act of 1934 ("Act") or otherwise
+subject to the liabilities of that section of the Act but shall
+be subject to all other provisions of the Act.
+
+
+
+
+                           SCHEDULE 13D
+
+CUSIP No.
+
+1    NAME OF REPORTING PERSON
+     S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+     The Guardian Life Insurance Company of America
+
+2    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*        (a)
+                                                              (b)
+
+3    SEC USE ONLY
+
+4    SOURCE OF FUNDS
+          OO
+
+5    CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+     PURSUANT TO ITEMS 2 (d) OR 2 (e)
+
+6    CITIZENSHIP OR PLACE OF ORGANIZATION
+          See Item 2
+
+     NUMBER OF           7         SOLE VOTING POWER
+     SHARES                             See Item 5
+     BENEFICIALLY        8         SHARED VOTING POWER
+     OWNED BY                           See Item 5
+     EACH                9         SOLE DISPOSITIVE POWER
+     REPORTING                          See Item 5
+     PERSON              10        SHARED DISPOSITIVE POWER
+     WITH                               See Item 5
+
+11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+          See Item 5
+
+12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+     CERTAIN SHARES
+
+13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+          See Item 5
+
+14   TYPE OF REPORTING PERSON 
+          IC
+
+
+
+
+                           SCHEDULE 13D
+
+     This Amendment No. 5 to the Schedule 13D filed on
+December 8, 1995 by The Guardian Life Insurance Company of
+America, a New York mutual life insurance company ("The
+Guardian"), relates to The Guardian's ownership of shares of
+Class A Common Stock, par value $.01 per share (the "Class A
+Common Stock") of Physicians Health Services, Inc., a Delaware
+corporation (the "Issuer"), and of The Guardian's ownership of a
+warrant dated November 28, 1995 (the "Warrant") to purchase
+Class A Common Stock of the Issuer.  Except as otherwise noted
+herein, there have been no material changes to the disclosure in
+the Schedule 13D, as previously amended.  The Schedule 13D is
+hereby amended as follows:
+
+Item 5.   Interest in Securities of the Issuer
+
+     To the knowledge of The Guardian, the Issuer has issued and
+outstanding 5,483,716 million shares of Class A Common Stock and
+3,823,480 shares of Class B Common Stock for a total of 9,307,196
+shares of capital stock issued and outstanding. The Guardian
+directly and beneficially owns 450,000 shares of Class A Common
+Stock purchased on May 1-2, 1996, 145,500 shares of Class A
+Common Stock purchased on August 14, 1996, 153,000 shares of
+Class A Common Stock purchased between August 16 and August 29,
+1996, inclusive, and 306,200 shares of Class A Common Stock
+purchased on October 14-15, 1996, for an aggregate of 1,054,700
+shares of Class A Common Stock.  
+
+     During the lesser of the past 60 days or the time since The
+Guardian's filing of its most recent Schedule 13D or amendment to
+any Schedule 13D, there have been no acquisitions or dispositions
+by The Guardian in the shares of the Issuer's Class A Common
+Stock.  The Warrant dated November 28, 1995 originally entitled
+The Guardian to purchase one million shares of Class A Common
+Stock.  As previously disclosed in this Schedule 13D, The
+Guardian relinquished its right to purchase 604,700 shares of
+Class A Common Stock under the Warrant.  On October 21, 1996, the
+Guardian relinquished its right to purchase the remaining 395,300
+Class A Common Stock under the Warrant.  Consequently, no shares
+of Class A Common Stock remain available under the Warrant for
+purchase by The Guardian.  The Guardian believes that it holds
+approximately 19.23% of shares of the issued and outstanding
+Class A Common Stock and 11.33% of all issued and outstanding
+shares of the Issuer's capital stock.  Based on the voting
+authority of holders of the Issuer's Class B Common Stock, The
+Guardian believes that its holdings of Class A Common Stock
+represents less than 5% of the aggregate voting authority of the
+all outstanding shares of the Issuer's capital stock.  The
+Guardian has the sole power to vote or direct the vote of its
+holdings and to dispose or direct the disposition of such
+holdings.  The Guardian does not share the power to vote or to
+direct the vote or to dispose or direct the disposition of any of
+its shares of Class A Common Stock.  
+
+     The number of shares beneficially owned by The Guardian and
+the percentage of outstanding shares represented thereby, have
+been computed in accordance with Rule 13d-3 under the Act.  The
+percentage of ownership of Class A Common Stock is based on
+5,483,716 outstanding shares of the Issuer's Class A Common
+Stock.  The percentage of ownership of all capital stock of the
+Issuer is based on 9,307,196 outstanding shares of capital stock
+of the Issuer.
+
+Signature
+
+After reasonable inquiry and to the best of its knowledge and
+belief, the undersigned certifies that the information set forth
+in this statement is true, complete and correct.
+
+
+Dated:  November 12, 1996
+
+                            THE GUARDIAN LIFE INSURANCE COMPANY
+                            OF AMERICA
+
+
+
+                            By:  /s/   EDWARD K. KANE            
+                                Name:  Edward K. Kane           
+                                Title: Senior Vice President 
+                                       and General Counsel
+
+
+
+
+                          EXHIBIT INDEX
+
+                               None
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

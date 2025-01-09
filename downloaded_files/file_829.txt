@@ -1,0 +1,630 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OWNSF9dFvXw+xNjBFVpmDEWpCCk9Mqj1l5fxRQ3P/vYHiLl+Q3Lo9wVn/1XvYD/o
+ 84wGDsbyaGdthJkbrdRZ5Q==
+
+<SEC-DOCUMENT>0000906344-96-000038.txt : 19960808
+<SEC-HEADER>0000906344-96-000038.hdr.sgml : 19960808
+ACCESSION NUMBER:		0000906344-96-000038
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19960807
+SROS:			NONE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SMITHS FOOD & DRUG CENTERS INC
+		CENTRAL INDEX KEY:			0000850309
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-GROCERY STORES [5411]
+		IRS NUMBER:				870258768
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1229
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-40785
+		FILM NUMBER:		96604864
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1550 S REDWOOD RD
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84104
+		BUSINESS PHONE:		8019741400
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRANSAMERICA CORP
+		CENTRAL INDEX KEY:			0000099189
+		STANDARD INDUSTRIAL CLASSIFICATION:	LIFE INSURANCE [6311]
+		IRS NUMBER:				940932740
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 MONTGOMERY ST
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+		BUSINESS PHONE:		4159834000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+
+
+
+
+
+
+
+
+
+                    UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                                 Washington, D.C. 20549
+
+                                      SCHEDULE 13D
+                       Under the Securities Exchange Act of 1934
+                                  (Amendment No. __)*
+
+                           SMITH'S FOOD & DRUG CENTERS, INC.
+                                    (Name of Issuer)
+
+                         Class B Common Stock, $0.01 par value 
+                             (Title of Class of Securities)
+
+                                        83238810
+                                     (CUSIP Number)
+
+                                  Austin D. Kim, Esq.
+                                Transamerica Corporation
+                                 600 Montgomery Street
+                                San Francisco, CA  94111
+                                     (415) 983-4000
+                     (Name, Address and Telephone Number of Person
+                   Authorized to Receive Notices and Communications)
+
+                                      May 20, 1996
+                             (Date of Event which Requires
+                               Filing of this Statement)
+
+             If the filing person has previously filed a statement on
+             Schedule 13G to report the acquisition which is the subject
+             of this Schedule 13D, and is filing this schedule because of
+             Rule 13d-1(b)(3) or (4), check the following box. []
+
+             Check the following box if a fee is being paid with this
+             statement. [x] (A fee is not required only if the filing
+             person: (1) has a previous statement on file reporting
+             beneficial ownership of more than five percent of the class
+             of securities described in Item 1; and (2) has filed no
+             amendment subsequent thereto reporting beneficial ownership
+             of five percent or less of such class.) (See Rule 13d-7.)
+
+             Note: Six copies of this statement, including all exhibits,
+             should be filed with the Commission. See Rule 13d-1(a) for
+             other parties to whom copies are to be sent.
+
+             *The remainder of this cover page shall be filled out for a
+             reporting person s initial filing on this form with respect
+             to the subject class of securities, and for any subsequent
+             amendment containing information which would alter the
+             disclosures provided in a prior cover page.
+
+
+
+
+                                          -1-<PAGE>
+
+
+
+
+
+
+             The information required in the remainder of this cover page
+             shall not be deemed to be "filed" for the purpose of
+             Section 18 of the Securities Exchange Act of 1934 ("Act") or
+             otherwise subject to the liabilities of that section of the
+             Act but shall be subject to all other provisions of the Act
+             (however, see the Notes).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          -2-<PAGE>
+
+
+
+
+
+
+           1     Name of Reporting Person         TRANSAMERICA CORPORATION
+
+                 IRS Identification No. of Above Person         94-0932740
+
+
+           2     Check the Appropriate Box if a Member of a Group  (a) [x]
+                                                                   (b) [ ]
+
+           3     SEC USE ONLY
+
+
+           4     Source of Funds                                        WC
+
+
+           5     Check Box if Disclosure of Legal Proceedings is Required
+                 Pursuant to Items 2(d) or 2(e)                        [ ]
+
+
+
+           6     Citizenship or Place of Organization             Delaware
+
+
+           NUMBER OF         7       Sole Voting Power             467,900
+           SHARES
+           BENEFICIALLY
+           OWNED BY EACH     8       Shared Voting Power        1,513,434*
+           REPORTING
+           PERSON WITH               * See Note to Item 5
+                             9       Sole Dispositive Power        467,900
+
+
+                             10      Shared Dispositive Power   1,513,434*
+                                     * See Note to Item 5
+
+           11     Aggregate Amount Beneficially Owned by Each Reporting
+                  Person                                        1,513,434*
+
+           12     Check Box if the Aggregate Amount in Row 11 Excludes
+                  Certain Shares                                     [ ]  
+
+           13     Percent of Class Represented by Amount in Row 11  14.68%
+
+
+           14     Type of Reporting Person                              HC
+
+
+
+
+
+
+
+
+
+
+
+                                          -3-<PAGE>
+
+
+
+
+
+             Item 1.   Security and Issuer
+
+                       This Statement relates to shares of the Class B
+             Common Stock, $0.01 par value ("Class B Common Stock") of
+             Smith s Food & Drug Centers, Inc. (the "Issuer"). The
+             principal executive office and mailing address of the Issuer
+             is 1550 South Redwood Road, Salt Lake City, Utah 84104.
+
+             Item 2.   Identity and Background
+
+                       This Statement is filed by Transamerica Corporation
+             ("Transamerica"), a Delaware corporation. Its address is 600
+             Montgomery Street, San Francisco, California 94111. See
+             Annex A for the identities of and certain information
+             relating to Transamerica's directors and executive officers.
+
+                       Neither Transamerica nor any of its directors or
+             executive officers has, during the past five years, been
+             convicted of any criminal proceeding (other than a traffic
+             citation or similar, minor infraction), nor been a party to a
+             civil proceeding of a judicial or administrative body of
+             competent jurisdiction and as a result of such proceeding was
+             or is subject to a judgment, decree or final order enjoining
+             future violations of, or prohibiting or mandating activities
+             subject to, federal or state securities laws or finding any
+             violation with respect to such laws. Each of the persons
+             named in Annex A is a citizen of the United States of
+             America, except Richard H. Finn, who is a citizen of Great
+             Britain.
+
+             Item 3.   Source and Amount of Funds or Other Consideration
+
+                       The source of funds for purchases of Class B Common
+             Stock reported as beneficially owned in Item 5 of this
+             Statement was the working capital of Transamerica and its
+             subsidiaries. The shares owned for the benefit of investment
+             advisory clients of one of Transamerica's subsidiaries were
+             purchased with cash assets of such clients.
+
+             Item 4.   Purpose of Transaction
+
+                       The shares of Class B Common Stock beneficially
+             owned by Transamerica and its subsidiaries were acquired in
+             the ordinary course of business for investment purposes and
+             were not acquired for the purpose (and do not have the
+             effect) of changing or influencing the control of the Issuer,
+             and were not acquired in connection with any transaction
+             having such purposes or effects. Depending on market
+             conditions and other factors, Transamerica or its
+             subsidiaries may purchase additional shares of Class B Common
+             Stock in the open market or in private transactions.
+             Alternatively, depending on market conditions and other
+             factors, Transamerica and its subsidiaries may, at some
+             future time, sell all or some of their shares of Class B
+
+
+                                          -4-<PAGE>
+
+
+
+
+
+             Common Stock.
+
+                       Neither Transamerica nor any of its directors or
+             officers has plans or proposals that relate to or would
+             result in any of the actions set forth in clauses (a) through
+             (j) of Item 4.
+
+             Item 5.   Interest in Securities of the Issuer
+
+                       (a), (b), (c) and (d) As of August 5, 1996,
+             Transamerica directly owned, and had sole voting and
+             dispositive power with respect to, 467,900 shares of Class B
+             Common Stock. According to information supplied by the
+             Issuer, the number of shares of Class B Common Stock
+             outstanding as of June 20, 1996 was 10,312,630. Based on such
+             information, the 467,900 shares of Class B Common Stock
+             directly owned by Transamerica represent approximately 4.54%
+             of the class. See Annex B with respect to transactions by
+             Transamerica in Class B Common Stock, all of which were
+             effected through broker-dealers.
+
+                       In addition, certain subsidiaries of Transamerica
+             that are eligible to file Schedule 13G pursuant to Rule 13d-1
+             may be deemed to beneficially own an additional 1,045,534
+             shares (including 998,201 shares owned for the benefit of
+             investment advisory clients of one of Transamerica s
+             subsidiaries) of Class B Common Stock. Such shares represent
+             an additional 10.14% of the class.
+
+                       Note: Management of the affairs of Transamerica s
+             subsidiaries, including decisions respecting dispositions
+             and/or voting of the shares of the Class B Common Stock
+             beneficially owned by such subsidiaries, resides in the
+             respective officers and directors of the subsidiaries and is
+             not directed by Transamerica or other subsidiaries.
+             Accordingly, the filing of this Schedule 13D by Transamerica
+             is not intended as, and should not be deemed as, an
+             acknowledgment of beneficial ownership or shared voting or
+             dispositive power by Transamerica of the shares of the Class
+             B Common Stock beneficially owned by its subsidiaries, and
+             such beneficial ownership or attribution or shared voting or
+             dispositive power is expressly disclaimed.
+
+                       (e)  Not applicable.
+
+             Item 6.   Contracts, Arrangements, Understandings or
+             Relationships with Respect to Securities of the Issuer
+
+                       None.
+
+             Item 7.   Material to be Filed as Exhibits
+
+                       None.
+
+
+
+                                          -5-<PAGE>
+
+
+
+
+
+                                       Signature
+
+                       After reasonable inquiry and to the best of its
+             knowledge and belief, the undersigned certifies that the
+             information set forth in this statement is true, complete and
+             correct.
+
+             August 6, 1996
+
+                                           TRANSAMERICA CORPORATION
+
+
+
+                                           By   /s/  Richard N. Latzer
+                                                _________________________
+                                                Richard N. Latzer
+                                                Senior Vice President and
+                                                Chief Investment Officer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          -6-<PAGE>
+
+
+
+
+
+                                                                   ANNEX A
+                                       Directors
+
+              Name             Business Address       Principal
+                                                      Occupation
+
+              Frank C.         600 Montgomery Street  Chairman,
+              Herringer        San Francisco, CA      President and
+                               94111                  Chief Executive
+                                                      Officer,
+                                                      Transamerica
+                                                      Corporation
+
+              Samuel L. Ginn   1 California Street    Chairman and Chief
+                               San Francisco, CA      Executive Officer,
+                               94111                  AirTouch
+                                                      Communications,
+                                                      Inc.
+
+              Gordon E. Moore  2200 Mission College   Chairman, Intel
+                               Blvd.                  Corporation
+                               Santa Clara, CA 95052
+
+              Robert W.        375 Park Avenue        Vice Chairman and
+              Matschullat      New York, NY 10152     Chief Financial
+                                                      Officer, The
+                                                      Seagram Company
+                                                      Ltd.
+
+              Toni Rembe       225 Bush Street        Partner, Pillsbury
+                               San Francisco, CA      Madison & Sutro
+                               94104
+
+              Condoleeza Rice  Stanford, CA 94305     Provost, Stanford
+                                                      University
+
+              Charles R.       101 Montgomery Street  Chairman and Chief
+              Schwab           San Francisco, CA      Executive Officer,
+                               94104                  The Charles Schwab
+                                                      Corporation
+
+              Forrest N.       600 Montgomery Street  Retired Vice
+              Shumway          San Francisco, CA      Chairman, Allied-
+                               94111                  Signal Inc.
+
+              Peter V.         500 Newport Center     Managing Director,
+              Ueberroth        Drive, Suite 900       The Contrarian
+                               Newport Beach, CA      Group, Inc.
+                               92660
+
+
+
+
+
+
+
+                                          -7-<PAGE>
+
+
+
+
+
+                                                         ANNEX A (cont'd.)
+                                   Executive Officers
+
+              Name             Business Address         Title
+
+              Frank C.         Transamerica             Chairman,
+              Herringer        Corporation              President and
+                               600 Montgomery Street    Chief Executive
+                               San Francisco, CA 94111  Officer
+
+              Thomas J.        Transamerica             Executive Vice
+              Cusack           Corporation              President
+                               600 Montgomery Street
+                               San Francisco, CA 94111
+
+              Richard H. Finn  Transamerica             Executive Vice
+                               Corporation              President
+                               600 Montgomery Street
+                               San Francisco, CA 94111
+
+              Edgar H. Grubb   Transamerica             Executive Vice
+                               Corporation              President and
+                               600 Montgomery Street    Chief Financial
+                               San Francisco, CA 94111  Officer
+
+              Robert A.        Transamerica             Executive Vice
+              Watson           Corporation              President
+                               600 Montgomery Street
+                               San Francisco, CA 94111
+
+              Shirley H.       Transamerica             Senior Vice
+              Buccieri         Corporation              President,
+                               600 Montgomery Street    General Counsel
+                               San Francisco, CA 94111  and Secretary
+
+              Richard N.       Transamerica             Senior Vice
+              Latzer           Corporation              President and
+                               600 Montgomery Street    Chief Investment
+                               San Francisco, CA 94111  Officer
+
+              Burton E.        Transamerica             Vice President
+              Broome           Corporation              and Controller
+                               600 Montgomery Street
+                               San Francisco, CA 94111
+
+              Richard H.       Transamerica             Vice President-
+              Fearon           Corporation              Corporate
+                               600 Montgomery Street    Development 
+                               San Francisco, CA 94111
+
+
+
+
+
+
+
+                                          -8-<PAGE>
+
+
+
+
+
+                                                                   ANNEX B
+
+                          Transactions in Class B Common Stock
+
+             Transamerica has acquired 467,900 shares of Class B Common
+             Stock in open market transactions since May 13, 1996 at the
+             prices and in the amounts shown below. In addition to the
+             purchases shown below, Transamerica tendered 183,330 shares
+             of Class B Common Stock to the Issuer on May 23, 1996 in
+             response to the Issuer's offer to purchase 50% of the
+             outstanding shares of Class B Common Stock dated April 25,
+             1996.
+
+                                                Price Per Share ($)
+                  Date         No. of Shares    (excluding commissions)
+
+              May 13              27,000             27.4327
+              May 13              7,000              27.4327
+              May 13              12,000             27.4327
+              May 14              22,000             27.3987
+              May 14              10,000             27.3987
+              May 14              4,800              27.3987
+              May 14              15,000             27.4196
+              May 14              7,000              27.4196
+              May 14              2,000              27.4196
+              May 15              11,000             27.3660
+              May 15              6,000              27.3660
+              May 15              1,200              27.3660
+              May 16              40,000             27.9208
+              May 17              86,000             27.5937
+              May 20              50,000             28.125
+              May 22              55,000             28.0901
+              May 24              27,000             23.1411
+              May 24              27,000             23.1411
+              May 28              19,000             23.7090
+              May 28              9,000              23.7090
+              May 29              10,000             23.6607
+              May 30              5,000              23.50
+              May 31              5,000              23.375
+              June 4              15,000             22.1408
+              June 5              38,000             22.9396
+              June 5              38,000             22.9396
+              June 6              2,500              23.0096
+              June 6              2,500              23.0096
+              June 7              20,000             22.7625
+              June 7              20,000             22.7625
+              June 10             1,725              22.8969
+              June 10             4,847              22.8969
+              June 11             7,758              23.00
+              July 24             5,000              26.1915
+              July 25             5,000              26.7817
+              July 26             4,000              27.7927
+              July 29             11,000             28.25
+              July 30             17,900             27.3636
+
+
+                                          -9-<PAGE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

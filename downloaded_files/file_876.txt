@@ -1,0 +1,291 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ VQ7V9I6tAa1y9869j28/iOjMUkAg5bodaMXU32l5AFNvqVupny76b/ps0BkrQ6Fl
+ swgiPpbPVq2tCq3X4ntS9w==
+
+<IMS-DOCUMENT>0000898382-95-000010.txt : 19950215
+<IMS-HEADER>0000898382-95-000010.hdr.sgml : 19950215
+ACCESSION NUMBER:		0000898382-95-000010
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19950214
+SROS:			NASD
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ZALE CORP
+		CENTRAL INDEX KEY:			0000109156
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-JEWELRY STORES [5944]
+		IRS NUMBER:				750675400
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-12429
+		FILM NUMBER:		95510424
+
+	BUSINESS ADDRESS:	
+		STREET 1:		901 W WALNUT HILL LN
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75038
+		BUSINESS PHONE:		2145804000
+
+	MAIL ADDRESS:	
+		STREET 1:		901 WEST WALNUT HILL LANE
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75038-1003
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ZALE JEWELRY CO INC
+		DATE OF NAME CHANGE:	19710510
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COOPERMAN LEON G
+		CENTRAL INDEX KEY:			0000898382
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				128321905
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		88 PINE STREET
+		STREET 2:		WALL STREET PLAZA 31ST FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10005
+		BUSINESS PHONE:		212-495-52
+
+	MAIL ADDRESS:	
+		STREET 1:		88 PINE STREET
+		STREET 2:		WALL ST PLAZA 31ST FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10005
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<TEXT>
+
+                         UNITED STATES 
+               SECURITIES AND EXCHANGE COMMISSION
+                     Washington, D.C. 20549
+
+                          SCHEDULE 13D
+
+            Under the Securities Exchange Act of 1934
+                       (Amendment No. 3)*
+
+                       ZALE CORPORATION                          
+                         (Name of Issuer)
+
+                   Common Stock, par value $.01 per share         
+                 (Title of Class of Securities)
+                          988858106                               
+                         (CUSIP Number)
+                       Alan M. Stark, Esq.
+                         80 Main Street
+                     West Orange, NJ 07052 
+                        (201)325-8660                             
+(Name, Address, and Telephone Number of Person Authorized to
+Receive Notices and Communications.)
+                       January 5, 1995                            
+     (Date of Event which Requires Filing of this Statement)
+
+If this filing person has previously filed a statement on Schedule
+13G to report the acquisition which is the subject of this Schedule
+13D, and is filing this schedule because of Rule 13d-1(b)(3) or (4)
+check the following box [ ].
+
+Check the following box if a fee is being paid with this statement
+[ ].  (A fee is not required only if the reporting person: (1) has
+a previous statement on file reporting beneficial ownership of more
+than five percent of the class of securities described in Item 1;
+and (2) has filed no amendment subsequent thereto reporting
+beneficial ownership of five percent or less of such class.)  (See
+Rule 13d-7.)
+
+Note:  Six copies of this statement, including all exhibits, should
+be filed with the Commission.  See Rule 13d-1(a) for other parties
+to whom copies are to be sent.
+
+*The remainder of this cover page shall be filled out for a
+reporting person's initial filing on this form with respect to the
+subject class of securities, and for any subsequent amendment
+containing information which would alter disclosures provided in a
+prior cover page.
+
+The information required on the remainder of this cover page shall
+not be deemed to be "filed" for the purpose of Section 18 of the
+Securities Exchange Act of 1934 ("Act") or otherwise subject to the
+liabilities of that section of the Act but shall be subject to all
+other provisions of the Act (however, see the Notes).<PAGE>
+                          SCHEDULE 13D
+
+CUSIP No.   988858106                   Page 2 of 5 Pages        
+__________________________________________________________________
+     1)   Names of Reporting Person S.S. or I.R.S. Identification
+          No. of Above Person
+
+           LEON G. COOPERMAN 
+           S.S. No. ###-##-####
+ _________________________________________________________________
+     2)   Check the Appropriate Box if a Member of a Group (See
+          Instructions)
+
+                                                  (a) [ ]
+                                                  (b) [ ]
+_________________________________________________________________
+     3)   SEC Use Only
+_________________________________________________________________
+     4)   Source of Funds:
+          WC        
+_________________________________________________________________
+     5)   Check if Disclosure of Legal Proceedings is Required
+          Pursuant to Items 2(d) or 2(e). . . . . . . . . . . . . 
+          NOT APPLICABLE
+_________________________________________________________________
+     6)   Citizenship or place of Organization: 
+          NOT APPLICABLE
+_________________________________________________________________
+               (7)Sole voting Power 
+Number of         3,029,677 (Includes Warrants For 55,200 Shares)
+Shares Bene- ____________________________________________________
+ficially       (8) Shared Voting Power
+owned by           458,796(Includes Warrants for 4,800 Shares)    
+Each Report- ____________________________________________________
+ing Person     (9)Sole Dispositive Power 
+With              3,029,677 (Includes Warrants for 55,200 Shares)
+               ____________________________________________________
+               (10) Shared Dispositive Power
+                    458,796(Includes Warrants for 4,800 Shares)
+_________________________________________________________________
+     11)  Aggregate Amount Beneficially Owned by Each Reporting
+          Person: 3,488,473 (Includes Warrants for 60,000 Shares) 
+          _______________________________________________________
+     12)  Check if the Aggregate Amount in Row (11) 
+                    N/A
+_________________________________________________________________
+     13)  Percent of Class Represented by Amount in Box (11):
+                    10.0%
+_________________________________________________________________
+     14)  Type of Reporting Person
+               I N  
+Item 1.   Security and Issuer.  
+          This statement relates to the common stock, par value
+$.01 per share (the "Common Stock" or the "Shares", of ZALE
+CORPORATION (the "Company"), which has its principal executive
+offices at 901 W. Walnut Hill Lane, Irving, Texas 75038.  This
+Amendment is to correct the filing that was dated January 23,
+1995 to reflect the correct costs of the Shares and Warrants under
+Item 3.  Also, it has come to our attention that the Company, as of
+January 1, 1995, was phased in under EDGAR and it should be so
+filed.   
+Item 3.  Source and Amount of Funds or Other Consideration.
+          Cooperman beneficially owns 3,428,473 Shares and 60,000
+Series A Warrants ("Warrants").  Of this amount, 1,362,265 Shares
+and 30,600 Warrants were purchased on behalf of Omega Capital
+Partners, L.P., at a total cost of $9,202,539; 1,023,165 Shares and
+19,200 Warrants were purchased on behalf of Omega Institutional
+Partners, L.P., at a total cost of $7,414,009; 589,047 Shares and
+5,400 Warrants were purchased on behalf of Omega Overseas Partners,
+Ltd. at a total cost of $5,015,382; and 453,996 Shares and 4,800
+Warrants were purchased on behalf of the Managed Account at a total
+costs of $3,979,385.  The source of funds for the purchase of all
+such Shares and Warrants was investment capital.  
+Item 5.  Interest in Securities of the Issuer.
+          Based upon the information contained in the Company's
+Form 10-Q for the quarter ended October 31, 1994 filed with the
+Securities & Exchange Commission, there were issued and outstanding
+as of November 30, 1994 34,964,058 Shares of Common Stock and
+2,000,000 Warrants to purchase the Common Stock.  Based on Section
+13d of the Securities Exchange Act of 1934 there are, for purposes
+of this filing, deemed to be outstanding a total of 35,024,058
+Shares of Common Stock.  Reg. Sec. 240. 13d-3(d)(1)(i).  Omega
+Capital Partners, L.P., owns 1,362,265 Shares plus 30,600 Warrants,
+or 4.0% of those outstanding; Omega Institutional  Partners, L.P.,
+owns 1,023,165 Shares plus 19,200 Warrants, or 3.0% of those
+outstanding; Omega Overseas Partners, Ltd., owns 589,047 Shares
+plus 5,400 Warrants, or 1.7% of those outstanding; and the Managed
+Account owns 453,996 Shares plus 4,800 Warrants, or 1.7% of those
+outstanding.    
+          The following table details the transactions by each of
+Omega Capital Partners, L.P., Omega Institutional Partners, L.P.,
+Omega Overseas partners, Ltd., and the Managed Account in shares of
+Common Stock and Warrants within the 60 day period prior to the
+filing dated January 23, 1995.  All such transactions were sales
+and open market transactions.  
+                  Omega Overseas Partners, Ltd.
+
+       Date of           Amount of           Price Per
+     Transaction          Shares               Share  
+
+     11/9/94             70,000              $12.50
+     11/17/94             6,557               12.75
+     11/21/94            34,100               12.8125
+     11/28/94            17,000               12.975
+      1/04/95            30,000               11.875
+      1/05/95            20,000               12.0625
+      1/09/95            10,000               12.0625
+
+
+<PAGE>
+                       The Managed Account
+
+       Date of           Amount of           Price Per
+     Transaction          Shares               Share  
+
+     11/9/94             30,000              $12.50
+     11/17/94            11,443               12.75
+     11/21/94            15,900               12.8125
+     11/28/94             8,000               12.975
+
+       
+
+
+
+
+                            Signature
+          After reasonable inquiry and to the best of the
+undersigned's knowledge and belief, the undersigned hereby
+certifies that the information set forth in this statement is true,
+complete and correct.
+Dated:  February 13 1995
+
+                         /s/ ALAN M. STARK
+                                                        
+                         ALAN M. STARK on behalf of
+                         LEON G. COOPERMAN, individually
+                         and as managing partner of Omega
+                         Capital Partners, L.P., Omega
+                         Institutional Partners, L.P., and
+                         President of Omega Advisors, Inc.
+                         and Manager of Omega Overseas
+                         Partners, Ltd. pursuant to Power
+                         of Attorney on file.
+
+
+
+ATTENTION:  INTENTIONAL MISSTATEMENTS OR OMISSIONS OF FACT
+CONSTITUTE FEDERAL CRIMINAL VIOLATIONS (SEE 18 U.S.C. 1001).
+
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

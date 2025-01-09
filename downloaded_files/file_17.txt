@@ -1,0 +1,660 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ C6q3Iij4YZovejz5qUO54WBjqyRFa1bmr7+QX81QP4gOm8uZ/9fTXUVQbkZ3BPqc
+ WTaChoiIfbN0YFtQX4A3zQ==
+
+<SEC-DOCUMENT>0000950135-97-003688.txt : 19970912
+<SEC-HEADER>0000950135-97-003688.hdr.sgml : 19970912
+ACCESSION NUMBER:		0000950135-97-003688
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		19970903
+SROS:			NONE
+GROUP MEMBERS:		TBK PARTNERS, L.P.
+GROUP MEMBERS:		TWEEDY BROWNE CO L P
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALLSTATE FINANCIAL CORP
+		CENTRAL INDEX KEY:			0000215042
+		STANDARD INDUSTRIAL CLASSIFICATION:	SHORT-TERM BUSINESS CREDIT INSTITUTIONS [6153]
+		IRS NUMBER:				51103783
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		
+		SEC FILE NUMBER:	005-51507
+		FILM NUMBER:		97674634
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2700 S QUINCY ST STE 540
+		CITY:			ARLINGTON
+		STATE:			VA
+		ZIP:			22206
+		BUSINESS PHONE:		7039312274
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TWEEDY BROWNE CO L P
+		CENTRAL INDEX KEY:			0000732905
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		IRS NUMBER:				133381587
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		52 VANDERBILT AVE
+		STREET 2:		8TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2129160600
+
+	MAIL ADDRESS:	
+		STREET 1:		52 VANDERBILT AVENUE
+		STREET 2:		8TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>ALLSTATE FINANCIAL CORPORATION AMENDMENT NO. 1
+<TEXT>
+
+<PAGE>   1
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+                                  SCHEDULE 13D
+                               (Amendment No.1)*
+                                       of
+                           Tweedy, Browne Company L.P.
+
+
+                                  SCHEDULE 13D
+                               (Amendment No.1)*
+                                       of
+                               TBK Partners, L.P.
+
+
+
+                    Under the Securities Exchange Act of 1934
+
+                         ALLSTATE FINANCIAL CORPORATION
+                                (Name of Issuer)
+
+
+                           Common Stock, No Par Value
+                         (Title of Class of Securities)
+
+                                    020011102
+                                 (CUSIP Number)
+
+
+
+                                 John D. Spears
+                              52 Vanderbilt Avenue
+                            New York, New York 10017
+                                 (212) 916-0600
+                 (Name, Address and Telephone Number of Persons
+                Authorized to Receive Notices and Communications)
+
+
+
+
+                                 August 15, 1997
+             (Date of Event which Required Filing of this Statement)
+
+
+
+<PAGE>   2
+
+
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4), check the following box [ ].
+
+Check the following box if a fee is paid with the statement [ ]. (A fee is not
+required only if the reporting person: (1) has a previous statement on file
+reporting beneficial ownership of more than five percent of the class of
+securities described in Item 1; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of such class.)
+(See Rule 13d-7.)
+
+* The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act,
+but shall be subject to all the provisions of the Act (however, see the Notes).
+
+
+
+<PAGE>   3
+                                  SCHEDULE 13D
+
+CUSIP No. 020011102                                     Page___of___Pages
+
+
+- --------------------------------------------------------------------------------
+      S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+       Tweedy, Browne Company L.P.("TBC")
+
+- --------------------------------------------------------------------------------
+2     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*               (a) / /
+                                                                      (b) /x/
+                                                                      
+                                                                     
+- --------------------------------------------------------------------------------
+3     SEC USE ONLY
+
+
+- --------------------------------------------------------------------------------
+4     SOURCE OF FUNDS
+       00
+
+- --------------------------------------------------------------------------------
+5     CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT   / /
+      TO ITEMS 2(d) OR 2(E)
+
+
+- --------------------------------------------------------------------------------
+6     CITIZENSHIP OR PLACE OF ORGANIZATION
+
+       Delaware
+      
+- --------------------------------------------------------------------------------
+                       7  SOLE VOTING POWER TBC has sole voting power with 
+                          respect to 123,150 shares held in certain TBC 
+                          accounts (as hereinafter defined).  Additionally, 
+      NUMBER OF           certain of the general partners of TBC may be deemed 
+                          to have sole power to vote certain shares as more 
+        SHARES            fully set forth herein.
+                       ---------------------------------------------------------
+     BENEFICIALLY      8  SHARED VOTING POWER
+                          0 shares
+       OWNED BY                    
+                       ---------------------------------------------------------
+         EACH          9  SOLE DISPOSITIVE POWER
+                          0 shares, except that certain of the general partners 
+       REPORTING          of TBC may be deemed to have sole power to dispose of 
+                          certain shares as more fully set forth herein.
+        PERSON    
+                       ---------------------------------------------------------
+         WITH          10 SHARED DISPOSITIVE POWER
+                          165,100 shares held in accounts of TBC (as 
+                          hereinafter defined).
+                         
+- --------------------------------------------------------------------------------
+11    AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+          165,100 shares
+- --------------------------------------------------------------------------------
+12    CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES* /x/
+
+
+- --------------------------------------------------------------------------------
+13    PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+      5.32%
+- --------------------------------------------------------------------------------
+14    TYPE OF REPORTING PERSON*
+
+      BD, IA and PN
+- --------------------------------------------------------------------------------
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+<PAGE>   4
+                                  SCHEDULE 13D
+
+CUSIP No. 020011102                                     Page___of___Pages
+
+
+- --------------------------------------------------------------------------------
+1     NAME OF REPORTING PERSON
+      S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+            TBK Partners, L.P. ("TBK")
+
+- --------------------------------------------------------------------------------
+2     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*               (a) / /
+                                                                      (b) /x/
+                                                                      
+                                                                     
+- --------------------------------------------------------------------------------
+3     SEC USE ONLY
+
+
+- --------------------------------------------------------------------------------
+4     SOURCE OF FUNDS
+          WC and BK
+
+- --------------------------------------------------------------------------------
+5     CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT   / /
+      TO ITEMS 2(d) OR 2(E)
+
+
+- --------------------------------------------------------------------------------
+6     CITIZENSHIP OR PLACE OF ORGANIZATION
+
+           Delaware
+      
+- --------------------------------------------------------------------------------
+                       7  SOLE VOTING POWER 11,000 shares, except that the 
+                          general partners in TBK, solely by reason of their 
+       NUMBER OF          positions as such, may be deemed to have shared power 
+                          to vote these shares.
+        SHARES         
+                       ---------------------------------------------------------
+     BENEFICIALLY      8  SHARED VOTING POWER 
+                          0 shares
+       OWNED BY                    
+                       ---------------------------------------------------------
+         EACH          9  SOLE DISPOSITIVE POWER 11,000 shares, except that the 
+                          general partners in TBK, solely by reason of their 
+       REPORTING          positions as such, may be deemed to have shared power 
+                          to vote these shares.
+        PERSON         ---------------------------------------------------------
+                       10 SHARED DISPOSITIVE POWER
+         WITH    
+                           0 shares                         
+
+- --------------------------------------------------------------------------------
+11    AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+          11,000 shares
+- --------------------------------------------------------------------------------
+12    CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*/ /
+
+
+- --------------------------------------------------------------------------------
+13    PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+      0.35%
+- --------------------------------------------------------------------------------
+14    TYPE OF REPORTING PERSON*
+
+      PN
+- --------------------------------------------------------------------------------
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+<PAGE>   5
+
+PRELIMINARY NOTE
+
+     This Statement on Schedule 13D is being filed because the filing persons
+may be deemed to be members of a group comprised of Tweedy, Browne Company L.P.
+("TBC") and TBK Partners, L.P. ("TBK"), which group may be deemed to be the
+beneficial owner in the aggregate of in excess of 5% of the Common Stock of
+Allstate Financial Corporation. However, the filing of this Schedule 13D should
+not be deemed an admission that TBC and TBK comprise a group within the meaning
+of Section 13(d)(3) of the Securities and Exchange Act of 1934, as amended
+(the"Act").
+
+
+
+ITEM 1.  SECURITY AND ISSUER
+
+     This Schedule 13D relates to the Common Stock, no par value (the "Common
+Stock"), of Allstate Financial Corporation (the "Company"), which, to the best
+knowledge of the persons filing this Schedule 13D, is a company organized under
+the laws of Virginia, with its principal executive offices located at 2700 South
+Quincy Street, Arlington, VA 22206.
+
+ITEM 2. IDENTITY AND BACKGROUND
+
+     (a)  The persons filing this Schedule 13D are (i) Tweedy, Browne Company
+L.P. ("TBC"), a Delaware limited partnership and (ii) TBK Partners, L.P.
+("TBK"), a Delaware limited partnership. Annexed as Exhibit 99.1, which is
+incorporated by reference herein, is an agreement between TBC and TBK that this
+Schedule 13D is filed on behalf of each of them. The filing of this Schedule 13D
+should not be deemed an admission that TBC and TBK comprise a group within the
+meaning of Section 13(d)(3) of the Securities Exchange Act of 1934 (the "Act").
+
+     This Schedule 13D contains information regarding shares of Common Stock
+that may be deemed to be beneficially owned by TBC. Such shares are held in the
+accounts of various customers of TBC, with respect to which accounts TBC has
+investment discretion (the "TBC Accounts"), and with respect to some of which it
+has obtained sole or shared voting power.
+
+     The general partners of TBK are Christopher H. Browne, William H. Browne,
+Thomas P. Knapp and John D. Spears. The general partners of TBC are Christopher
+H. Browne, William H. Browne and John D. Spears (the "General Partners"). By
+reason of their positions as such, the general partners of TBK may be deemed to
+control TBK and the general partners of TBC may be deemed to control TBC.
+
+     (b)  The business address of each of TBC, TBK and the General Partners is
+52 Vanderbilt Avenue, New York, New York 10017.
+
+     (c)  TBC is engaged primarily in the business of a securities broker and
+dealer and investment adviser, is registered as a broker-dealer and investment
+adviser with the Securities and Exchange Commission, and is a member of the
+National Association of Securities Dealers, Inc.
+
+     TBK is a private investment partnership and is currently, and at all
+relevant times was, engaged primarily in the business of investing in securities
+for its own account.
+
+
+
+<PAGE>   6
+
+     The present principal occupation of each of the General Partners is serving
+as such for TBC and TBK. The present principal occupation of Thomas P. Knapp is
+serving as a general partner in TBK. The principal business address of each of
+TBC and TBK is set forth above.
+
+     (d)  None of TBC, TBK, Thomas P. Knapp, nor any General Partner has, during
+the last five years, been convicted in any criminal proceeding (excluding
+traffic violations and similar misdemeanors).
+
+     (e)  None of TBC, TBK, Thomas P. Knapp, nor any General Partner has, during
+the last five years, been a party to a civil proceeding of a judicial or
+administrative body of competent jurisdiction as a result of which proceeding it
+or he was or is subject to a judgment, decree or final order enjoining future
+violations of, or prohibiting or mandating activities subject to, federal or
+state securities laws or finding any violations with respect thereto.
+
+     (f)  Each of TBC and TBK is a Delaware limited partnership. Each of the
+General Partners and Thomas P. Knapp is a citizen of the United States of
+America.
+
+
+ITEM 3. SOURCE AND AMOUNTS OF FUNDS OR OTHER CONSIDERATION
+
+
+     As of the date hereof, the number of shares with respect to which TBC may
+be deemed to be the beneficial owner is 165,100 shares of Common Stock (the "TBC
+Shares"), all of which shares were purchased in open market transactions. The
+aggregate cost of the TBC Shares, including brokerage commissions, was $881,696.
+
+     The TBC Shares are held in the TBC Accounts, the funds therefor coming from
+the funds on hand in each individual managed account and in certain instances
+from standard margin account borrowings from brokerage accounts maintained at
+Fleet Clearing Corporation. It is expected that funds used by the TBC Accounts
+to purchase additional shares of Common Stock, if additional shares are
+purchased by the TBC Accounts (see Item 4 hereof), will come from the funds on
+hand for each individual managed account, which funds on hand at any time and
+from time to time may include, among others, funds borrowed pursuant to margin
+accounts maintained at Fleet Clearing Corporation. Borrowings made by certain
+TBC Accounts pursuant to such margin accounts are secured by margin securities
+owned by the respective accounts, including some of the TBC Shares. Interest on
+outstanding borrowings under such margin accounts ranges from 1/2% to 2% over
+the brokers' call rate in effect from time to time at Chase Manhattan Bank, New
+York, New York, depending upon the amount of outstanding borrowings at any given
+time.
+
+     As of the date hereof, TBK beneficially owns directly 11,000 shares of
+Common Stock (the "TBK Shares"), all of which shares were purchased in open
+market transactions. The aggregate cost of the TBK Shares, including brokerage
+commissions, was $59,060.
+
+     It is expected that funds used by TBK to purchase additional shares of
+Common Stock, if additional shares are purchased by TBK (see Item 4 hereof),
+will come from TBK's general funds, which include cash and cash equivalents on
+hand and in banks.
+
+
+<PAGE>   7
+
+     TBK's general funds have included, and it is expected that they will from
+time to time include, funds borrowed by it pursuant to an understanding with
+Chase Manhattan Bank. As of the date hereof, TBK has a loan outstanding with
+Chase Manhattan Bank in the amount of $20,000. Borrowings made by TBK pursuant
+to that understanding bear interest at the brokers' call rate in effect from
+time to time at Chase Manhattan Bank. TBK's funds may also include funds
+borrowed pursuant to a Line of Credit Agreement between TBK and Boston Safe
+Deposit and Trust Company. Pursuant to the Line of Credit Agreement, TBK may
+borrow up to $15,000,000 at the brokers' call rate charged from time to time by
+Boston Safe Deposit & Trust Company. Borrowings made by TBK pursuant to its
+understandings with Chase Manhattan Bank and the Line of Credit Agreement with
+Boston Safe Deposit and Trust Company are secured by securities owned by TBK;
+such borrowings are not secured by any TBK Shares. No borrowings from Chase
+Manhattan Bank or Boston Safe Deposit and Trust Company were made for the
+purpose of acquiring the TBK Shares. TBK reserves the right to include all or
+any of the shares of Common Stock owned by it at any time or from time to time,
+among the securities that serve as collateral for such borrowings, subject to
+compliance with any applicable statutes and regulations.
+
+
+ITEM 4.  PURPOSE OF TRANSACTION
+
+     Each of TBC and TBK has acquired the shares of Common Stock owned by it for
+investment purposes and for none of the reasons enumerated in Item 4 of Schedule
+13D, except that TBC and TBK may dispose of all or some of the TBC Shares and
+the TBK Shares , respectively, or may acquire additional shares of Common Stock
+from time to time, depending upon price and market conditions, evaluation of
+alternative investments, and other factors. Currently, TBC and TBK intend to
+acquire additional shares of Common Stock in the open market, depending upon the
+price of the Common Stock from time to time.
+
+
+ITEM 5.  INTEREST IN SECURITIES OF THE ISSUER
+
+     (a)  As of the date hereof, TBC may be deemed to be the beneficial owner of
+an aggregate of 165,100 shares of Common Stock, which constitutes approximately
+5.32% of the 3,102,328 shares of Common Stock which TBC believes to be the total
+number of shares of Common Stock outstanding. The TBC Shares are held in the TBC
+Accounts.
+
+     As of the date hereof, TBK beneficially owns directly 11,000 shares of
+Common Stock, which constitutes approximately 0.35% of the 3,102,328 shares of
+Common Stock which TBK believes to be the total number of shares of Common Stock
+outstanding.
+
+     Each of TBC and TBK disclaims that it is the beneficial owner of any of the
+shares of Common Stock held in the TBC Accounts. The aggregate number of shares
+of Common Stock with respect to which TBC and TBK could be deemed to be the
+beneficial owner as of the date hereof, is 176,150 shares, which constitutes
+approximately 5.67% of the 3,102,328 shares of Common Stock, which the filing
+persons believe to be the total number of shares of Common Stock outstanding,
+but nothing contained herein shall be construed as an admission that TBC is the
+beneficial owner of any of the TBC Shares.
+
+     The aggregate number of shares and percentage of Common Stock with respect
+to which each of the General Partners may be deemed to be the beneficial owner
+by reason of his being a general partner of TBC, and TBK, respectively, is
+176,150 shares, which constitutes approximately 5.67% of the 3,102,328 shares of
+Common Stock outstanding. The aggregate number of shares and percentage of
+Common Stock with respect to which Thomas P. Knapp may be deemed to be a
+beneficial owner by reason of his being a general partner of TBK is 11,000
+shares of Common Stock which constitutes approximately 0.35% of the 3,102,328
+shares of Common Stock outstanding. However, nothing contained herein shall be
+construed as an admission that any of the General Partners or Thomas P. Knapp is
+the beneficial owner of any shares of Common Stock, except as set forth herein
+as expressly and admittedly being beneficially owned by a particular General
+Partner or Thomas P. Knapp.
+
+
+<PAGE>   8
+
+     Each of TBC and TBK disclaims beneficial ownership of Common Stock held by
+the other. Except as described herein, to the best knowledge of TBC and TBK, no
+person who may be deemed to comprise a group with any of TBC and TBK, or any
+other person named in Item 2 hereof, beneficially owns any shares of Common
+Stock.
+
+     (b)  TBC has investment discretion with respect to 165,100 shares of Common
+Stock held by the TBC Accounts and has sole power to dispose or direct the
+disposition of all of such shares. Of these shares of Common Stock, TBC has sole
+power to vote or to direct the voting of 123,150 shares of Common Stock held in
+certain TBC Accounts.
+
+     Each of the General Partners of TBC, solely by reason of their positions as
+such, may be deemed to have (i) shared power to dispose of or to direct the
+disposition of all of the shares of Common Stock held in the TBC Accounts; and
+(ii) shared power to vote or direct the vote of 123,150 shares of Common Stock
+held in certain TBC Accounts.
+
+     TBK has the sole power to vote or direct the voting of and dispose or
+direct the disposition of the TBK Shares. Each of the General Partners and
+Thomas P. Knapp, solely by reason of their positions as general partners, may be
+deemed to have shared power to vote or direct the vote of and to dispose or
+direct the disposition of the TBK Shares.
+
+     (c)  During the sixty-day period ended as of the date hereof, no
+transactions in Common Stock were effected by TBK. During the sixty-day period
+ended as of the date hereof, transactions in Common Stock effected by TBC are as
+follows: 
+
+
+TBC ACCOUNTS         NUMBER OF SHARES DELIVERED OUT OF
+                     A CERTAIN TBC ACCOUNT PURSUANT TO
+                     CLIENT'S INSTRUCTIONS
+
+07/29/97             28,200
+
+
+
+     (d)  To the best knowledge of TBC, each of the persons maintaining an
+account with TBC has the right to receive or the power to direct the receipt of
+dividends from, or the proceeds from the sale of, the shares of Common Stock
+held in said person's TBC Account.
+
+     To the best knowledge of TBK, no person other than TBK has the right to
+receive or the power to direct the receipt of dividends from, or the proceeds
+from the sale of, the TBK Shares, except that the General Partners and Thomas P.
+Knapp may be deemed to have such rights and powers solely by reason of being
+general partners in TBK.
+
+
+     (e)  Not applicable.
+
+<PAGE>   9
+
+ITEM 6.   CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH
+          RESPECT TO SECURITIES OF THE ISSUER.
+
+     Except as otherwise described herein, none of TBC or TBK , nor, to the best
+knowledge of TBC or TBK any other person named in Item 2 hereof, has any
+contract, arrangement, understanding or relationship with respect to any
+securities of the Issuer.
+
+ITEM 7.   MATERIAL TO BE FILED AS EXHIBITS
+
+     Exhibit 99.1 - - Agreement pursuant to Rule 13d-1(f)(1)(iii).
+
+
+
+<PAGE>   10
+
+
+                                    SIGNATURE
+
+
+     Each of Tweedy, Browne Company L.P. and TBK Partners, L.P., after
+reasonable inquiry and to the best of its knowledge and belief, hereby certifies
+that the information set forth in this Statement (which includes the Exhibit
+annexed hereto) is true, complete and correct.
+
+
+                                           TWEEDY, BROWNE COMPANY L.P.
+
+
+
+                                           By
+                                             -----------------------------------
+                                             Christopher H. Browne
+                                             General Partner
+
+
+
+                                           TBK PARTNERS, L.P.
+
+
+
+                                           By
+                                             -----------------------------------
+                                             Christopher H. Browne
+                                             General Partner
+
+
+
+Dated: August 23, 1997
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<DESCRIPTION>AGREEMENT
+<TEXT>
+
+<PAGE>   1
+
+                                  EXHIBIT 99.1
+
+
+     AGREEMENT dated as of August 23, 1997 between Tweedy, Browne Company L.P.,
+a Delaware limited partnership ("TBC") and TBK Partners, L.P., a Delaware
+limited partnership ("TBK").
+
+
+                                   WITNESSETH:
+
+     WHEREAS, TBC and TBK may be deemed to have acquired, in the aggregate,
+beneficial ownership of more than five percent of the Common Stock (the "Common
+Stock") of Allstate Financial Group (The "Company") and
+
+     WHEREAS, pursuant to Rule 13d-1 under the Securities Exchange Act of 1934
+(the "Act"), a Statement on Schedule 13D must be filed by any person who
+acquires more than five percent of registered equity securities; and
+
+     WHEREAS, in accordance with Rule 13d-1(f) of the Act, only one such
+Statement need be filed whenever two or more persons are required to file such a
+Statement pursuant to Section 13(d) of the Act with respect to the same
+securities, provided that said persons agree in writing that such Statement is
+filed on behalf of each of them.
+
+     NOW, THEREFORE, in consideration of the premises and mutual agreements
+herein contained, the parties hereto agree as follows:
+
+     TBC and TBK do hereby agree, in accordance with Rule 13d-1(f) under the
+Act, to file one Statement on Schedule 13D relating to their ownership of the
+Common Stock, and do hereby further agree that said Statement shall be filed on
+behalf of each of TBC and TBK. Nothing herein, however, shall be, or shall be
+deemed to be, an admission that the parties hereto, or any of them, are members
+of a "group" (within the meaning of Section 13(d) of the Act and the rules and
+regulations promulgated thereunder) with respect to any securities of the
+Company.
+
+     IN WITNESS WHEREOF, the parties have executed this Agreement as of the date
+first above written.
+
+
+TWEEDY, BROWNE COMPANY L.P.               TBK PARTNERS, L.P.
+
+
+
+By                                        By: 
+   --------------------------------           ---------------------------------
+   Christopher H. Browne                        Christopher H. Browne
+   General Partner                              General Partner
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

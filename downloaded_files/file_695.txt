@@ -1,0 +1,335 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HPeJMBu0nxjI9BCBRJFQbF/oxTd/CyBkcOgbs41l69Iy3oS8V58A1UHXsDnQIBc+
+ IDU+nEQs3QGpJtdIJLoAVQ==
+
+<SEC-DOCUMENT>0000950133-97-002571.txt : 19970724
+<SEC-HEADER>0000950133-97-002571.hdr.sgml : 19970724
+ACCESSION NUMBER:		0000950133-97-002571
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970723
+SROS:			NASD
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LA JOLLA PHARMACEUTICAL CO
+		CENTRAL INDEX KEY:			0000920465
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				330361285
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-44849
+		FILM NUMBER:		97644336
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6455 NANCY RIDGE DR
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+		BUSINESS PHONE:		6194526600
+
+	MAIL ADDRESS:	
+		STREET 1:		6455 NANCY RIDGE DR
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BB BIOTECH AG
+		CENTRAL INDEX KEY:			0000924223
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		STATE OF INCORPORATION:			DC
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O BAKER & MCKENZIE
+		STREET 2:		815 CONNECTICUT AVENUE NW
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20006
+		BUSINESS PHONE:		2028351882
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BAKER & MCKENZIE
+		STREET 2:		815 CONNECTICUT AVENUE NW
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20006
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>LA JOLLA PHARMACEUTICALS SCHEDULE 13D/AMEND. #1.
+<TEXT>
+
+<PAGE>   1
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                               AMENDMENT NO. 1 TO
+                                  SCHEDULE 13D
+
+                   Under the Securities Exchange Act of 1934
+
+                        LA JOLLA PHARMACEUTICAL COMPANY
+                        -------------------------------
+                                (Name of Issuer)
+
+                                  COMMON STOCK
+                                  ------------
+                         (Title of Class of Securities)
+
+                                  503 459 109
+                                  -----------
+                                 (CUSIP Number)
+
+                               DR. ANDREAS BREMER
+                     GRAFENAUWEG 4, 6301 ZUG CH/SWITZERLAND
+                               011-41-41-724-5959
+                               ------------------
+                 (Name, Address and Telephone Number of Person
+               Authorized to Receive Notices and Communications)
+
+                                    Copy to:
+
+                            Daniel L. Goelzer, Esq.
+                                Baker & McKenzie
+                          815 Connecticut Avenue, N.W.
+                             Washington, D.C. 20006
+
+                                 MARCH 14, 1997
+                                 --------------
+                         (Date of Event which Requires
+                           Filing of this Statement)
+
+         If the filing person has previously filed a statement on Schedule 13G
+to report the acquisition which is the subject of this Schedule 13D, and is
+filing this schedule because of Rule 13d- 1(b)(3) or (4), check the following
+box [ ].
+
+         Check the following box if a fee is being paid with the statement [ ].
+(A fee is not required only if the reporting person: (1) has a previous
+statement on file reporting beneficial ownership of more than five percent of
+the class of securities described in Item 1; and (2) has filed no amendment
+subsequent thereto reporting beneficial ownership of five percent or less of
+such class.) (See Rule 13d-7.)
+
+         Note:  Six copies of this statement, including all exhibits, should be
+filed with the Commission.  See Rule 13d-1(a) for other parties to whom copies
+are to be sent.
+
+
+
+
+
+                              Page 1 of 4 Pages
+<PAGE>   2
+CUSIP No. 503 459 109                             
+- ---------------------                             
+- ------------------------------------------------------------------
+(1)  Name of Reporting Person
+     S.S. or I.R.S. Identification No. of Above Person
+
+     BB Biotech AG
+     Biotech Target, S.A.                                     
+- ------------------------------------------------------------------
+(2)  Check the Appropriate Box if a Member             (a) [ ]
+     of a Group  (See Instructions)                    (b) [X]
+- ------------------------------------------------------------------        
+(3)  SEC Use Only
+
+- ------------------------------------------------------------------
+(4)  Source of Funds  (See Instructions)
+
+                                  WC                              
+- ------------------------------------------------------------------
+(5)  Check Box if Disclosure of Legal Proceedings          [ ]
+     is Required Pursuant to Item 2(d) or 2(e)                
+- ------------------------------------------------------------------
+(6)  Citizenship or Place of Organization
+
+     BB Biotech AG    -- Switzerland
+     Biotech Target, S.A. -- Panama                           
+- ------------------------------------------------------------------
+Number of Shares                 (7)  Sole Voting Power
+Beneficially Owned                    0 by BB Biotech AG             
+by Each Reporting                ---------------------------------
+Person With                      (8)  Shared Voting Power
+                                      3,071,000                     
+                                 ---------------------------------
+                                 (9)  Sole Dispositive Power 
+                                      0 by BB  Biotech AG             
+                                 ---------------------------------
+                                 (10) Shared Dispositive Power 
+                                      3,071,000
+                                 ---------------------------------
+
+- ------------------------------------------------------------------
+(11) Aggregate Amount Beneficially Owned by Each Reporting Person
+
+                     3,071,000 shares (See Item 5)           
+
+- ------------------------------------------------------------------
+(12) Check Box if the Aggregate Amount in Row (11)         [ ]
+     Excludes Certain Shares  (See Instructions)
+
+- ------------------------------------------------------------------
+(13) Percent of Class Represented by Amount in Row (11)
+
+                                  17.7%                        
+- ------------------------------------------------------------------
+(14) Type of Reporting Person  (See Instructions)
+
+     BB Biotech AG    -- HC, CO
+     Biotech Target, S.A. -- CO                               
+- ------------------------------------------------------------------
+
+
+
+
+
+                              Page 2 of 4 Pages
+<PAGE>   3
+         BB Biotech AG ("BB Biotech"), a Swiss corporation, and Biotech Target,
+S.A., a Panamanian corporation ("Biotech Target") hereby amend their Schedule
+13D as originally filed on October 26, 1995.
+
+ITEM 5.  INTEREST IN SECURITIES OF THE ISSUER.
+
+         Item 5(a), (b) and (c) of the Schedule 13D are amended to read as
+follows:
+
+         (a)  BB Biotech may be deemed to be the indirect beneficial owner
+of the 3,071,000 shares of La Jolla Common Stock held directly by Biotech
+Target as of July 21, 1997, which represents approximately 17.7% of the
+outstanding shares of La Jolla Common Stock.  No shares of La Jolla Common
+Stock are directly owned by BB Biotech.  To the best knowledge of BB Biotech
+and Biotech Target, no director or executive officer of BB Biotech or Biotech
+Target owns any shares of La Jolla Common Stock.
+
+         (b)  The number of shares of La Jolla Common Stock to which there is
+sole power to vote or to direct the vote, shared power to vote or to direct the
+vote, sole power to dispose or to direct the disposition, or shared power to
+dispose or direct the disposition, is set forth in the cover pages hereof and
+such information is incorporated herein by reference.  BB Biotech, through its
+ownership of Biotech Target, may be deemed to beneficially own the shares of La
+Jolla Common Stock within the meaning of Regulation 13D under the Exchange Act,
+and may be deemed to share with Biotech Target the power to vote, or direct the
+vote of, and the power to dispose of or direct the disposition of, the
+aggregate 3,071,000 shares of La Jolla Common Stock held by Biotech Target.  BB
+Biotech hereby expressly declares that the filing of this statement shall not
+be construed as an admission that it is, for purposes of Section 13(d) of the
+Exchange Act, the beneficial owner of the shares of La Jolla Common Stock held
+by Biotech Target.
+
+        (c)  A summary of transactions in shares of La Jolla Common Stock
+effected by Biotech Target during the sixty days prior to the date of the event
+requiring the filing of this report, and all subsequent transactions therein
+through and including July 21, 1997, is attached hereto as Exhibit A and such
+information is incorporated herein by reference.
+
+
+
+
+
+                              Page 3 of 4 Pages
+<PAGE>   4
+                                 SIGNATURES
+
+         After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+                                           BB BIOTECH AG
+                                           
+Date: July 21, 1997                        By:/s/ Hans-Joerg Graf*
+                                              --------------------
+                                           Name: Hans-Joerg Graf
+                                           
+
+Date: July 21, 1997                        By:/s/ Dr. Victor Bischoff*
+                                              ------------------------
+                                           Name: Dr. Victor Bischoff
+
+                                           
+                                           BIOTECH TARGET, S.A.
+
+                                           
+Date: July 21, 1997                        By:/s/ Dr. Andreas Bremer
+                                              ----------------------
+                                           Name: Dr. Andreas Bremer
+                                           
+
+Date: July 21, 1997                        By:/s/ Dr. Anders Hove
+                                              -------------------
+                                           Name: Dr. Anders Hove
+
+- -------------
+
+* See power of attorney, attached as an exhibit 99.E to the Schedule 13D
+relating to Biogen, Inc. filed with the Securities and Exchange Commission on
+June 2, 1994, which exhibit is incorporated by reference herein.
+
+
+
+
+
+                              Page 4 of 4 Pages
+<PAGE>   5
+                                                                       Exhibit A
+
+        Exhibit A is hereby amended to add the following summary of
+transactions in La Jolla Common Stock effected by Biotech Target during the
+sixty days prior to the date of the event requiring the filing of this report, 
+and all subsequent transactions therein through and including July 21, 1997.
+
+
+
+<TABLE>
+<CAPTION>
+- -----------------------------------------------------------------------------------------------------------------------------
+   DATE                TYPE OF TRANSACTION AND          PURCHASE PRICE         BENEFICIALLY OWNED     PERCENT OF OUTSTANDING
+                           NUMBER OF SHARES           OF SHARES PER SHARE            SHARES                    OWNED
+- -----------------------------------------------------------------------------------------------------------------------------
+ <S>                 <C>                                     <C>                   <C>                         <C>        
+ 3/14/97             Purchase of 315,000 shares              4.93                  2,615,000                   15.13      
+- -----------------------------------------------------------------------------------------------------------------------------
+ 3/21/97             Purchase of 100,000 shares              5.00                  2,715,000                   15.7       
+- -----------------------------------------------------------------------------------------------------------------------------
+ 3/25/97             Purchase of 75,000 shares               5.00                  2,790,000                   16.1       
+- -----------------------------------------------------------------------------------------------------------------------------
+ 3/25/97             Purchase of 50,000 shares               4.88                  2,840,000                   16.4       
+- -----------------------------------------------------------------------------------------------------------------------------
+ 3/26/97             Purchase of 91,000 shares               5.00                  2,931,000                   16.9       
+- -----------------------------------------------------------------------------------------------------------------------------
+ 3/31/97             Purchase of 20,000 shares               4.97                  2,951,000                   17.0       
+- -----------------------------------------------------------------------------------------------------------------------------
+ 4/1/97              Purchase of 10,000 shares               5.03                  2,961,000                   17.1       
+- -----------------------------------------------------------------------------------------------------------------------------
+ 4/2/97              Purchase of 20,000 shares               5.03                  2,981,000                   17.2       
+- -----------------------------------------------------------------------------------------------------------------------------
+ 4/4/97              Purchase of 10,000 shares               5.03                  2,991,000                   17.3       
+- -----------------------------------------------------------------------------------------------------------------------------
+ 4/7/97              Purchase of 80,000 shares               5.09                  3,071,000                   17.7       
+- -----------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

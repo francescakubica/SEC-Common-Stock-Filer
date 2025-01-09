@@ -1,0 +1,676 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VUDeutc/RkW0VBNvb3953LQnOlqnoCilYrqupJBA0gzdMWMz2dCJH76dVEgylLZU
+ pG2NjnayJQdjb9ETbVsTyg==
+
+<SEC-DOCUMENT>0000919574-96-000643.txt : 19960705
+<SEC-HEADER>0000919574-96-000643.hdr.sgml : 19960705
+ACCESSION NUMBER:		0000919574-96-000643
+CONFORMED SUBMISSION TYPE:	SC 13D
+CONFIRMING COPY:	
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19960702
+SROS:			NASD
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CELLULAR COMMUNICATIONS INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000870762
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO TELEPHONE COMMUNICATIONS [4812]
+		IRS NUMBER:				133221852
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-41735
+		FILM NUMBER:		00000000
+
+	BUSINESS ADDRESS:	
+		STREET 1:		110 E 59TH ST
+		STREET 2:		26TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		2129068480
+
+	MAIL ADDRESS:	
+		STREET 1:		110 EAST 59TH STREET
+		STREET 2:		26TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INTERNATIONAL CELLULAR INC
+		DATE OF NAME CHANGE:	19600201
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BENTLEY CAPITAL MANAGEMENT/NY
+		CENTRAL INDEX KEY:			0001016999
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		520 MADISON
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		2123765708
+
+	MAIL ADDRESS:	
+		STREET 1:		SEWARD & KISSEL
+		STREET 2:		1 BATTERY PK PLAZA
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<TEXT>
+
+
+
+
+<PAGE>
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+SCHEDULE 13D
+
+Name of Issuer:  Cellular Communications International, Inc.
+Title of Class of Securities:  Common Stock
+CUSIP Number:  150918-10-0
+
+          (Name, Address and Telephone Number of Person
+        Authorized to Receive Notices and Communications)
+
+                     Catherine L. McDonald,
+                   Bentley Capital Management,
+                       520 Madison Avenue,
+               New York, NY 10022; (212) 376-5708
+
+     (Date of Event which Requires Filing of this Statement)
+
+                          May 17, 1996
+
+If the filing person has previously filed a statement on Schedule
+13G to report the acquisition which is the subject of this
+Schedule 13D, and is filing this schedule because of Rule
+13d-1(b)(3) or (4), check the following box [  ].
+
+Check the following box if a fee is being paid with the statement
+[X].  (A fee is not required only if the reporting person:
+(1) has a previous statement on file reporting beneficial
+ownership of more than five percent of the class of securities
+described in Item 1; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of
+such class.)  (See Rule 13d-7.)
+
+Note:  Six copies of this statement, including all exhibits,
+should be filed with the Commission.  See Rule 13d-1(a) for other
+parties to whom copies are to be sent.
+
+*The remainder of this cover page shall be filled out for a
+reporting person's initial filing on this form with respect to
+the subject class of securities, and for any subsequent amendment
+containing information which would alter disclosures provided in
+a prior cover page.
+
+The information required on the remainder of this cover page
+shall not be deemed to be "filed" for the purpose of Section 18
+of the Securities Exchange Act of 1934 ("Act") or otherwise
+subject to the liabilities of that section of the Act but shall
+be subject to all other provisions of the Act (however, see the
+Notes).
+
+
+
+<PAGE>
+
+CUSIP No.  150918-10-0
+
+1.  Name of Reporting Person
+    S.S. OR I.R.S. Identification No. of Above Person
+
+         Robert M. Sussman
+         ###-##-####
+
+2.  Check the Appropriate Box if a Member of a Group 
+         N/A
+         (a)
+         (b)  
+
+3.  SEC Use Only
+
+4.  Source of Funds*
+
+         PF, IA
+
+5.  Check Box if Disclosure of Legal Proceedings is Required
+    Pursuant to Items 2(d) or 2(e)  N/A
+
+6.  Citizen or Place of Organization
+
+         U.S. Citizen
+
+Number of Shares Beneficially Owned by Each Reporting Person
+With:
+
+7.  Sole Voting Power:  
+
+         126,000 shares
+
+8.  Shared Voting Power:
+
+         288,150 shares
+
+9.  Sole Dispositive Power:
+
+         126,000 shares
+
+10. Shared Dispositive Power:
+
+         288,150 shares
+
+11. Aggregate Amount Beneficially Owned by Each Reporting Person
+
+         414,150 shares
+
+12. Check Box if the Aggregate Amount in Row (11) Excludes
+    Certain Shares*  N/A
+
+
+                                2
+
+
+
+<PAGE>
+
+13. Percent of Class Represented by Amount in Row (11)
+
+         4.07%
+
+14. Type of Reporting Person*
+
+         IN, IA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                3
+
+
+
+<PAGE>
+
+CUSIP No.  150918-10-0
+
+1.  Name of Reporting Person
+    S.S. OR I.R.S. Identification No. of Above Person
+
+         Gerald Levine
+         ###-##-####
+
+2.  Check the Appropriate Box if a Member of a Group 
+         N/A
+         (a)
+         (b)
+
+3.  SEC Use Only
+
+4.  Source of Funds*
+
+         PF, IA
+
+5.  Check Box if Disclosure of Legal Proceedings is Required
+    Pursuant to Items 2(d) or 2(e)  N/A
+
+6.  Citizen or Place of Organization
+
+         U.S. Citizen
+
+Number of Shares Beneficially Owned by Each Reporting Person
+With:
+
+7.  Sole Voting Power:  
+
+         15,000 shares
+
+8.  Shared Voting Power:
+
+         288,150 shares
+
+9.  Sole Dispositive Power:
+
+         15,000 shares
+
+10. Shared Dispositive Power:
+
+         288,150 shares
+
+11. Aggregate Amount Beneficially Owned by Each Reporting Person
+
+         303,150 shares
+
+12. Check Box if the Aggregate Amount in Row (11) Excludes
+    Certain Shares*  N/A
+
+
+                                4
+
+
+
+<PAGE>
+
+13. Percent of Class Represented by Amount in Row (11)
+
+         2.98%
+
+14. Type of Reporting Person*
+
+         IN, IA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                5
+
+
+
+<PAGE>
+
+CUSIP No.  150918-10-0
+
+1.  Name of Reporting Person
+    S.S. OR I.R.S. Identification No. of Above Person
+
+         Bentley Capital Management Inc.
+         13-3641705
+
+2.  Check the Appropriate Box if a Member of a Group
+         N/A
+         (a)
+         (b)  
+
+3.  SEC Use Only
+
+4.  Source of Funds*
+
+         AF
+
+5.  Check Box if Disclosure of Legal Proceedings is Required
+    Pursuant to Items 2(d) or 2(e)  N/A
+
+6.  Citizen or Place of Organization
+
+         A New York State Corporation
+
+Number of Shares Beneficially Owned by Each Reporting Person
+With:
+
+7.  Sole Voting Power:  
+
+         0
+
+8.  Shared Voting Power:
+
+         288,150 shares
+
+9.  Sole Dispositive Power:
+
+         0
+
+10. Shared Dispositive Power:
+
+         288,150 shares
+
+11. Aggregate Amount Beneficially Owned by Each Reporting Person
+
+         288,150 shares
+
+12. Check Box if the Aggregate Amount in Row (11) Excludes
+    Certain Shares*  N/A
+
+
+                                6
+
+
+
+<PAGE>
+
+13. Percent of Class Represented by Amount in Row (11)
+
+         2.83%
+
+14. Type of Reporting Person*
+
+         IA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                7
+
+
+
+<PAGE>
+
+Item. 1. Security and Issuer
+
+Cellular Communications International, Inc.
+150 East 58th Street
+New York, N.Y. 10155
+
+Item 2. Identity and Background
+
+    This statement filed on behalf of the following Investment
+Adviser:
+
+    Bentley Capital Management, Inc.
+
+and the following individuals:
+
+    Robert M. Sussman
+    Gerald Levine
+
+The individuals are employees of the investment adviser. Messrs.
+Sussman and Levine exercise discretionary investment authority
+for clients of the investment adviser.
+
+Neither the investment adviser nor the individuals named above
+have been convicted of any criminal proceeding.
+
+The investment adviser and the individuals named above have not,
+in the past five years, been a party to a civil proceeding of a
+judicial or administrative body of competent jurisdiction which
+resulted in a judgment, a decree or final order enjoining future
+violations of, or prohibiting or mandating activities subject to
+federal or state securities laws or finding any violations with
+respect to such laws.
+
+The investment adviser is incorporated in New York State and the
+individuals named above are citizens of the United States.
+
+Item 3. Source and Amount of Funds or other Consideration
+
+    As of the date hereof, the individuals are beneficial owners
+of Cellular Communications International, Inc. common stock as
+follows:
+
+    Mr. Sussman (jointly, with his spouse) 126,000 shares
+    Mr. Levine (jointly, with his spouse) 14,000 shares
+
+    Additionally, Mr. Levine has dispositive and voting powers
+for shares acquired by his children (1,000). Bentley Capital
+Management, Inc. acquired 288,150 shares of Cellular
+Communications International, Inc. for client accounts. Mr.
+Sussman and Mr. Levine share dispositive and voting authority
+over these shares.
+
+
+                                8
+
+
+
+<PAGE>
+
+Item. 4. Purpose of Transaction
+
+All of the shares described in Item 3. were acquired for
+investment purposes. The individuals and the investment adviser
+reserve the right to purchase additional shares of the common
+stock of Cellular Communications International, Inc. or to
+dispose of such shares in the open market or in privately
+negotiated transactions or in any other such lawful manner in the
+future.
+
+Item 5. Interest in the Maturities of the Issuer
+
+The individuals named above (including Mr. Levine for his
+children) acquired 429,150 shares of Cellular Communications
+International, Inc., representing approximately 4.21% of the
+common stock outstanding (429,150/10,188,000 = 4.21%) utilizing
+the over- the-counter market. The following details the
+disposition date, number of shares and price paid for the 300,000
+shares disposed in the past sixty days. 300,000 shares were
+disposed and no shares were acquired.
+
+Mr. Sussman -
+
+Disposed:
+
+    4/04/96 25000 shares @ 32.750
+
+Bentley Capital Management, Inc. (for client accounts) -
+
+Dispositions:
+
+    4/22/96 10000 shares @ 32.750
+    5/17/96 265000 shares @ 35.925
+
+Item 6. Contracts, Arrangements, Understandings or Relationships
+with Respect to securities of the Issuer.
+
+Neither the investment adviser nor the individuals named above
+has any contract, understanding or relationship with any person
+with respect to the securities issued by Cellular Communications
+International, Inc.
+
+Item 7. Material to be Filed as Exhibits.
+
+N/A
+
+
+
+
+
+
+
+
+                                9
+
+
+
+<PAGE>
+
+Signature
+
+After reasonable inquiry and to the best of my knowledge and
+belief, I certify that the information set forth in this
+statement is true, complete and correct.
+
+May 21, 1996
+    Date                /s/ Robert M. Sussman
+                        _____________________
+                              Signature
+
+                        Robert M. Sussman
+                        President
+                        Bentley Capital Management, Inc.
+
+May 21, 1996
+    Date                /s/ Gerald Levine
+                        ______________________
+                              Signature
+
+                        Gerald Levine
+                        CEO
+                        Bentley Capital Management, Inc.
+
+
+May 21, 1996
+    Date                /s/ Catherine McDonald
+                        _______________________
+                              Signature
+                        By:  Catherine McDonald
+                             Managing Director
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               10
+00679001.AH2
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

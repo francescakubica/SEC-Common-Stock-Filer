@@ -1,0 +1,576 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ V/5gqo/yKz8FHUjLZI1e8XBAA3Sl9ZVuRrr+FtJxo+v3QzUrpjm3TO/waETj81dE
+ iQaks3k6vGiQ8KBEgeMo5Q==
+
+<SEC-DOCUMENT>0000889812-97-002731.txt : 19971224
+<SEC-HEADER>0000889812-97-002731.hdr.sgml : 19971224
+ACCESSION NUMBER:		0000889812-97-002731
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19971223
+SROS:			NASD
+GROUP MEMBERS:		ARIEL FUND LIMITED
+GROUP MEMBERS:		ARIEL MANAGEMENT CORP
+GROUP MEMBERS:		GABRIEL CAPITAL, L.P.
+GROUP MEMBERS:		J. EZRA MERKIN
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HOUSE OF FABRICS INC/DE/
+		CENTRAL INDEX KEY:			0000315125
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-MISCELLANEOUS SHOPPING GOODS STORES [5940]
+		IRS NUMBER:				953426136
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		
+		SEC FILE NUMBER:	005-14299
+		FILM NUMBER:		97743306
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13400 RIVERSIDE DR
+		CITY:			SHERMAN OAKS
+		STATE:			CA
+		ZIP:			91423
+		BUSINESS PHONE:		8189957000
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 9110
+		CITY:			VAN NUYS
+		STATE:			CA
+		ZIP:			91409-9110
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ARIEL MANAGEMENT CORP
+		CENTRAL INDEX KEY:			0001000242
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				133505396
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		450 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		2128387200
+
+	MAIL ADDRESS:	
+		STREET 1:		450 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>GENERAL STATEMENT OF BENEFICIAL OWNERSHIP
+<TEXT>
+
+
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                  SCHEDULE 13D
+
+                    Under the Securities Exchange Act of 1934
+                                (Amendment No. )*
+
+                             House of Fabrics, Inc.
+                                (Name of Issuer)
+
+                                  Common Stock
+                         (Title of Class of Securities)
+
+                                    441758109
+                                 (CUSIP Number)
+
+
+Mr. J. Ezra Merkin                     With a copy to:
+Gabriel Capital, L.P.                  Robert M. Friedman, Esq.
+450 Park Avenue, Ste. 3201             Shereff, Friedman, Hoffman & Goodman, LLP
+New York, New York  10022              919 Third Avenue
+(212) 838-7200                         New York, New York 10022
+                                       (212) 758-9500
+            (Name, Address and Telephone Number of Person Authorized
+                     to Receive Notices and Communications)
+
+                               September 10, 1996
+                     (Date of Event which Requires Filing of
+                                 this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Schedule 13D, and is filing this
+statement because of Rule 13d-1(b) (3) or (4), check the following: / /.
+
+Note: One copy and an EDGAR version of this statement, including all exhibits,
+should be filed with the Commission. See Rule 13d-1(a) for other parties to whom
+copies are to be sent.
+
+*The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act (however, see the
+Notes).
+
+<PAGE>
+
+                                  SCHEDULE 13D
+CUSIP No. 441758109                                           Page 2 of 11 Pages
+ 
+1        NAME OF REPORTING PERSON
+         S.S. OR I.R.S. IDENTIFICATION NO.  OF ABOVE PERSON
+                  Gabriel Capital, L.P.
+
+2        CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*     (a) |X|
+                                                               (b) |_|
+
+3        SEC USE ONLY
+
+
+4        SOURCE OF FUNDS*
+         WC
+
+5        CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+         PURSUANT TO ITEMS 2(d) or 2(e)                              |_|
+
+
+6        CITIZENSHIP OR PLACE OF ORGANIZATION
+         Delaware
+
+      NUMBER OF        7       SOLE VOTING POWER
+       SHARES
+    BENEFICIALLY       8       SHARED VOTING POWER
+      OWNED BY                 133,940
+        EACH
+      REPORTING        9       SOLE DISPOSITIVE POWER
+       PERSON                  
+         WITH         10       SHARED DISPOSITIVE POWER
+                               133,940
+
+11       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+         PERSON
+                               133,940
+
+12       CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+         CERTAIN SHARES*                                             |_|
+
+
+13       PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                               2.5%
+
+14       TYPE OF REPORTING PERSON*
+                               PN
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+               INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO
+ ITEMS 1-7 (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+<PAGE>
+
+                                  SCHEDULE 13D
+
+CUSIP No.  441758109                                          Page 3 of 11 Pages
+
+1        NAME OF REPORTING PERSON
+         S.S. OR I.R.S. IDENTIFICATION NO.  OF ABOVE PERSON
+                  Ariel Fund Limited
+
+2        CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*           (a) |X|
+                                                                     (b) |_|
+
+3        SEC USE ONLY
+
+
+4        SOURCE OF FUNDS*
+         WC
+
+5        CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+         PURSUANT TO ITEMS 2(d) or 2(e)                              |_|
+
+
+6        CITIZENSHIP OR PLACE OF ORGANIZATION
+         CAYMAN ISLANDS
+
+      NUMBER OF        7       SOLE VOTING POWER
+       SHARES
+    BENEFICIALLY       8       SHARED VOTING POWER
+      OWNED BY                 197,594
+        EACH
+      REPORTING        9       SOLE DISPOSITIVE POWER
+       PERSON
+         WITH          10      SHARED DISPOSITIVE POWER
+                               197,594
+ 
+11       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+         PERSON
+                               197,594
+
+12       CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+         CERTAIN SHARES*                                             |_|
+
+13       PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                               3.7%
+
+14       TYPE OF REPORTING PERSON*
+                               CO
+ 
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+          INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+      (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+<PAGE>
+
+                                  SCHEDULE 13D
+
+CUSIP No.  441758109                                         Page 4 of 11 Pages
+                                                  
+1        NAME OF REPORTING PERSON
+         S.S. OR I.R.S. IDENTIFICATION NO.  OF ABOVE PERSON
+                  Ariel Management Corp.
+
+2        CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*           (a)  |X|
+                                                                     (b)  |_|
+
+3        SEC USE ONLY
+
+
+4        SOURCE OF FUNDS*
+         OO
+
+5        CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+         PURSUANT TO ITEMS 2(d) or 2(e)                              |_|
+
+
+6        CITIZENSHIP OR PLACE OF ORGANIZATION
+         Delaware
+
+      NUMBER OF        7       SOLE VOTING POWER
+       SHARES
+    BENEFICIALLY       8       SHARED VOTING POWER
+      OWNED BY                 197,594
+        EACH
+      REPORTING        9       SOLE DISPOSITIVE POWER
+       PERSON                   
+         WITH          10      SHARED DISPOSITIVE POWER
+                               197,594
+
+11       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+         PERSON
+                               197,594
+
+12       CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+         CERTAIN SHARES*                                             |_|
+
+13       PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                                    3.7%
+
+14       TYPE OF REPORTING PERSON*
+                                    CO
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+           INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+      (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+<PAGE>
+
+                                  SCHEDULE 13D
+
+CUSIP No.  441758109                                          Page 5 of 11 Pages
+                                                             
+1        S.S. OR I.R.S. IDENTIFICATION NO.  OF ABOVE PERSON
+                  J. Ezra Merkin
+
+2        CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*           (a)  |X|
+                                                                     (b)  |_|
+
+3        SEC USE ONLY
+
+
+4        SOURCE OF FUNDS*
+         OO
+
+5        CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+         PURSUANT TO ITEMS 2(d) or 2(e)                              |_|
+
+
+6        CITIZENSHIP OR PLACE OF ORGANIZATION
+         United States
+
+      NUMBER OF        7       SOLE VOTING POWER
+       SHARES
+    BENEFICIALLY       8       SHARED VOTING POWER
+      OWNED BY                 331,534
+        EACH
+      REPORTING        9       SOLE DISPOSITIVE POWER
+       PERSON                   
+         WITH          10      SHARED DISPOSITIVE POWER
+                               331,534
+
+11       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+         PERSON
+                               331,534
+
+12       CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+         CERTAIN SHARES*                                             |_|
+
+13       PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                               6.2%
+
+14       TYPE OF REPORTING PERSON*
+                               IN
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+          INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+      (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+<PAGE>
+
+                                  SCHEDULE 13D
+
+Item 1.           Security and Issuer
+
+                  Securities acquired:        common stock ("Common Stock")
+
+                  Issuer:           House of Fabrics, Inc.
+                                    13400 Riverside Drive
+                                    Sherman Oaks, CA 91423
+
+Item 2.           Identity and Background
+
+                  (a), (b), (c) and (f) This Schedule 13D is being filed jointly
+by Gabriel Capital L.P., a Delaware limited partnership ("Gabriel"), Ariel Fund
+Limited, a Cayman Islands corporation ("Ariel Fund"), Ariel Management Corp., a
+Delaware corporation ("Ariel") and the Investment Advisor of Ariel Fund, and J.
+Ezra Merkin ("Merkin"), the General Partner of Gabriel. Merkin is also the sole
+shareholder, sole director and president of Ariel. Gabriel, Ariel Fund, Ariel
+and Merkin are hereinafter sometimes referred to collectively as the "Reporting
+Persons." The business address of each of Gabriel, Ariel and Merkin is 450 Park
+Avenue, New York, New York 10022 and the business address of Ariel Fund is c/o
+Maples & Calder, P.O. Box 309, Grand Cayman, Cayman Islands, British West
+Indies.
+
+                  Gabriel and Ariel Fund are private investment funds. Ariel and
+Merkin are private investment managers.
+
+                  Merkin is a United States citizen.
+
+                  See Item 5 for information regarding ownership of Common 
+Stock.
+
+                  (d) and (e). During the past five years, none of the Reporting
+Persons has been convicted in any criminal proceeding (excluding traffic
+violations or similar misdemeanors) or been a party to a civil proceeding of a
+judicial or administrative body of competent jurisdiction and as a result of
+such proceeding was or is subject to a judgment, decree or final order enjoining
+future violations of, or prohibiting or mandating activities subject to, federal
+or state securities laws or finding any violation with respect to such laws.
+
+Item 3.           Source and Amount of Funds
+
+                  Gabriel purchased an aggregate of 133,940 shares of Common
+Stock at an aggregate cost of $368,983.55 using its own funds, net of sales.
+Ariel Fund purchased an aggregate of 197,594 shares of Common Stock at an
+aggregate cost of $544,342.00 using its own funds, net of sales. Such shares
+were received by the Reporting Persons in a reorganization in exchange for trade
+claims purchased by Gabriel and Ariel Fund. See Item 5.
+
+                                     Page 6
+
+<PAGE>
+
+Item 4.           Purpose of the Transaction
+
+                  All of the shares of Common Stock reported herein were
+acquired for investment purposes. Each of the Reporting Persons may acquire or
+dispose of securities of the Issuer, including shares of Common Stock, directly
+or indirectly, in open-market or privately negotiated transactions, depending
+upon the evaluation of the performance and prospects of the Issuer by the
+Reporting Persons, and upon other developments and circumstances, including, but
+not limited to, general economic and business conditions and stock market
+conditions.
+
+                  Except for the foregoing, no Reporting Person has any present
+plans or proposals which relate to or would result in any of the actions or
+events described in paragraphs (a) through (j) of Item 4 of Schedule 13D.
+However, the Reporting Persons retain their respective rights to modify their
+plans with respect to the transactions described in this Item 4, to acquire or
+dispose of securities of the Issuer and to formulate plans and proposals which
+could result in the occurrence of any such events, subject to applicable laws
+and regulations.
+
+Item 5.           Interest in Securities of the Issuer
+
+                  (a) and (b) Gabriel is the beneficial owner of 133,940 shares
+of Common Stock, for a total beneficial ownership of 2.5% of the outstanding
+shares of Common Stock.
+
+                  Ariel Fund is the beneficial owner of 197,594 shares of Common
+Stock, for a total beneficial ownership of 3.7% of the outstanding shares of
+Common Stock.
+
+                  Ariel, as Investment Advisor to Ariel Fund, has the power to
+vote and to direct the voting of and the power to dispose and direct the
+disposition of the 197,594 shares of Common Stock owned by Ariel Fund.
+Accordingly, Ariel may be deemed to be the beneficial owner of 197,594 shares of
+Common Stock, or 3.7% of the outstanding shares of Common Stock.
+
+                  As the General Partner of Gabriel, Merkin has the power to
+vote and to direct the voting of and the power to dispose and direct the
+disposition of the 133,940 shares of Common Stock owned by Gabriel. In addition,
+as the sole shareholder and president of Ariel, Merkin may be deemed to have the
+power to vote and to direct the voting of and the power to dispose and direct
+the disposition of the 197,594 shares of Common Stock owned by Ariel Fund.
+Accordingly, Merkin may be deemed to be the beneficial owner of 331,534 shares
+of Common Stock, or 6.2% of the outstanding shares of Common Stock.
+
+                  The number of shares beneficially owned by each of the
+Reporting Persons and the percentage of outstanding shares represented thereby,
+have been computed in accordance with Rule 13d-3 under the Securities Exchange
+Act of 1934, as amended. The ownership of the Reporting Persons is based on
+5,331,830 outstanding shares of Common Stock of the  
+
+                                     Page 7
+
+
+<PAGE>
+
+
+
+Issuer as of December 5, 1997, as reported in the Issuer's Quarterly Report on 
+Form 10-Q for the period ended October 31, 1997.
+
+                  (c) There were no transactions in the Common Stock by the
+Reporting Persons during the past 60 days.
+
+                  (d)      Not Applicable.
+
+                  (e)      Not Applicable.
+
+Item 6.           Contracts, Arrangements, Understanding or Relations with 
+                  Respect to Securities of the Issuer
+
+                  Not Applicable.
+
+Item 7.           Material to be Filed as Exhibits
+
+                  Exhibit A.  Agreement of Joint Filing.
+
+                                     Page 8
+
+<PAGE>
+
+Signature
+
+                  After reasonable inquiry and to the best of my knowledge and
+belief, I certify that the information set forth in this statement is true,
+complete and correct.
+
+                                  GABRIEL CAPITAL, L.P.
+
+                                  By: /s/ J. Ezra Merkin
+                                    -------------------------------   
+                                       Title:  General Partner
+
+
+                                  ARIEL FUND LIMITED
+
+                                  By: MEESPIERSON MANAGEMENT
+                                      (CAYMAN) LIMITED
+
+                                  By: /s/ David Richardson; John Lysaght
+                                     -----------------------------------
+                                       Name: David Richardson; John Lysaght
+                                       Title: Director; Authorized Signatory
+
+
+                                  ARIEL MANAGEMENT CORP.
+
+                                  By: /s/ J. Ezra Merkin
+                                     ------------------------------ 
+                                       Name:  J. Ezra Merkin
+                                       Title:  President
+
+                                   /s/ J. Ezra Merkin
+                                  --------------------------------- 
+                                  J. EZRA MERKIN
+
+Dated:  December 19, 1997
+
+                                     Page 9
+
+<PAGE>
+
+Exhibit A
+
+                            AGREEMENT OF JOINT FILING
+
+                  In accordance with Rule 13d-1(f) under the Securities Exchange
+Act of 1934, as amended, the undersigned hereby agree to the joint filing with
+all other Reporting Persons (as such term is defined in the Schedule 13D
+referred to below) of a statement on Schedule 13D or any amendments thereto,
+with respect to the Common Stock, $.01 par value, of House of Fabrics, Inc. and
+that this Agreement be included as an Exhibit to such filing.
+
+                  This Agreement may be executed in any number of counterparts
+each of which shall be deemed to be an original and all of which together shall
+be deemed to constitute one and the same Agreement.
+
+                  IN WITNESS WHEREOF, the undersigned hereby execute this
+Agreement on the 19th day of December, 1997.
+
+                                 GABRIEL CAPITAL, L.P.
+ 
+                                 By: /s/ J. Ezra Merkin
+                                    -------------------------------
+                                      Title:  General Partner
+
+                                 ARIEL FUND LIMITED
+
+                                 By: MEESPIERSON MANAGEMENT
+                                     (CAYMAN) LIMITED
+
+                                 By: /s/ David Richardson; John Lysaght
+                                    -----------------------------------
+                                      Name: David Richardson; John Lysaght
+                                      Title: Director; Authorized Signatory
+
+                                 ARIEL MANAGEMENT CORP.
+
+                                 By: /s/ J. Ezra Merkin
+                                    -------------------------------- 
+                                      Name:  J. Ezra Merkin
+                                      Title:  President
+
+                                  /s/ J. Ezra Merkin
+                                 -----------------------------------
+                                 J. EZRA MERKIN
+
+
+                                     Page 10
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

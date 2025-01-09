@@ -1,0 +1,499 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IDSsa8qe/tVJezsfUyWgQ67oZS+iSzErVJ/62ViROA3iVDGY9OaGnzOsvgsOP0Gk
+ 5eIHW75pR92ZPTYGclLKjw==
+
+<SEC-DOCUMENT>0000908645-96-000089.txt : 19960717
+<SEC-HEADER>0000908645-96-000089.hdr.sgml : 19960717
+ACCESSION NUMBER:		0000908645-96-000089
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19960716
+SROS:			NONE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DAVIS WATER & WASTE INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000027326
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-METALS SERVICE CENTERS & OFFICES [5051]
+		IRS NUMBER:				580959907
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-15767
+		FILM NUMBER:		96595392
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1820 METCALF AVE
+		CITY:			THOMASVILLE
+		STATE:			GA
+		ZIP:			31792
+		BUSINESS PHONE:		9122265733
+
+	MAIL ADDRESS:	
+		STREET 2:		1820 METCALF AVE
+		CITY:			THOMASVILLE
+		STATE:			GA
+		ZIP:			31792
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WERTHEIM SCHRODER & CO INC /NY/
+		CENTRAL INDEX KEY:			0000732932
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		EQUITABLE CENTER
+		STREET 2:		787 SEVENTH AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019-6016
+
+	MAIL ADDRESS:	
+		STREET 1:		787 SEVENTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10103
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<TEXT>
+
+
+
+                    SECURITIES AND EXCHANGE COMMISSION
+                         Washington, D.C.  20549
+
+                              SCHEDULE 13D
+
+                Under the Securities Exchange Act of 1934
+                            (Amendment No. )
+
+                  DAVIS WATER & WASTE INDUSTRIES, INC.
+                  ------------------------------------
+                            (Name of Issuer)
+
+                     Common Stock, $0.01 par value
+                     -----------------------------
+                    (Title of Class and Securities)
+
+                                 239 133101
+                                 ----------
+                   (CUSIP Number of Class of Securities)
+
+                             Peter M. Schoenfeld
+                  c/o Schroder Wertheim & Co. Incorporated
+                              787 Seventh Avenue
+                           New York, New York  10019
+                                 (212) 492-6000
+           (Name, Address and Telephone Number of Person Authorized
+                    to Receive Notices and Communications)
+
+
+                                 June 12, 1996
+                                 -------------
+                        (Date of Event which Requires
+                            Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to
+report the acquisition which is the subject of this Statement because of
+Rule 13-d-1(b)(3) or (4), check the following box:          [ ]
+
+Check the following box if a fee is being paid with this Statement:
+                                                            [X]
+
+                             Page 1 of 9 Pages
+<PAGE>
+<PAGE>
+
+                                 SCHEDULE 13D
+
+
+
+CUSIP No.  239 133101                       Page 2 of 9 Pages
+
+
+
+1.       NAMES OF REPORTING PERSONS
+         S.S. OR I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS
+
+         Schroder Wertheim & Co. Incorporated
+
+2.       CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP.
+                  (a)  [ ]
+                  (b)  [ ]
+
+3.       SEC USE ONLY
+
+4.       SOURCE OF FUNDS
+
+                  WC OO
+
+5.       CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT
+         TO ITEMS 2(d) or 2(e)         [ ]
+
+6.       CITIZENSHIP OR PLACE OF ORGANIZATION
+                  United States
+
+         NUMBER OF
+         SHARES            7.  SOLE VOTING POWER
+                                   36,300
+
+         BENEFICIALLY
+         OWNED BY
+         EACH              8.  SHARED VOTING POWER
+                                   217,700
+
+         REPORTING
+         PERSON
+         WITH              9.  SOLE DISPOSITIVE POWER
+                                   36,300
+
+
+                           10. SHARED DISPOSITIVE POWER
+                                   217,700
+
+11.      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+                           254,000
+
+12.      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+         SHARES
+                           [ ]
+
+13.      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                           7.8%
+
+14.      TYPE OF REPORTING PERSON
+
+                           BD IA
+
+                             Page 2 fo 9 pages
+<PAGE>
+<PAGE>
+
+ITEM 1            SECURITY AND ISSUER
+
+                  This statement relates to the common stock, $.01 par value
+                  (the "Common Stock") of Davis Water & Waste Industries,
+                  Inc., a Georgia corporation (the "Company"), whose principal
+                  executive offices are located at 1820 Metcalf Avenue,
+                  Thomasville, GA 31792.
+
+ITEM 2            IDENTITY AND BACKGROUND
+
+                  This statement on Schedule 13D is filed by Schroder Wertheim
+                  & Co. Incorporated ("Schroder Wertheim" or the "Reporting
+                  Person"), a Delaware corporation.  There is no formal or
+                  informal group or arrangement between Schroder Wertheim or
+                  with or among any of the persons or entities named in this
+                  Schedule 13D with respect to the Common Stock of the
+                  Company.
+
+                  The principal business address for Schroder Wertheim is 787
+                  Seventh Avenue, New York, New York 10019.  Schroder Wertheim
+                  is a registered broker-dealer and investment adviser and its
+                  principal business consists of engaging in the investment
+                  banking, investment advisory and institutional brokerage
+                  businesses.  Attached hereto as Annex A is a list of each
+                  director and executive officer of Schroder Wertheim.  Except
+                  as indicated on Annex A, the present principal occupation of
+                  each of these individuals is serving as a director or
+                  executive officer in Schroder Wertheim and their business
+                  address is 787 Seventh Avenue, New York, New York 10019.
+                  Except as indicated on Annex A, each of the persons included
+                  in Annex A is a U.S. citizen.
+
+                  Neither Schroder Wertheim, nor any of its directors or
+                  executive officers has, during the last five years, (a) been
+                  convicted in a criminal proceeding (excluding traffic
+                  violations or similar misdemeanors), or (b) been a party to
+                  a civil proceeding of a judicial or administrative body of
+                  competent jurisdiction and as a result of such proceeding
+                  was or is subject to a judgment, decree or final order
+                  enjoining future violations or prohibiting or mandating
+                  activities subject to federal or state securities laws or a
+                  finding of any violation with respect to such laws.
+
+ITEM 3            SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION
+
+                  As of the date hereof, Schroder Wertheim beneficially owns
+                  254,000 shares of Common Stock acquired for an aggregate
+                  consideration of $7,440,722.  Such shares are held in
+                  accounts of its customers managed by Schroder Wertheim as
+                  well as Schroder Wertheim's own accounts.  Schroder
+                  Wertheim's customers include investment partnerships in
+                  which Schroder Wertheim serves as general partner and in
+                  which Schroder Wertheim has a pecuniary interest.  The funds
+                  for the purchase of shares of Common Stock owned by accounts
+                  managed by Schroder Wertheim have come from their owners. 
+                  The funds for the purchase of shares of Common Stock owned
+                  by Schroder Wertheim are obtained from
+
+                             Page 3 of 9 Pages
+<PAGE>
+<PAGE>
+
+                  Schroder Wertheim's working capital.  Schroder Wertheim's
+                  working capital may, at any given time, include funds
+                  borrowed in the ordinary course of its ongoing general
+                  business activities.
+
+ITEM 4            PURPOSE OF THE TRANSACTION
+
+                  The shares of Common Stock beneficially owned by Schroder
+                  Wertheim were acquired solely for investment purposes.
+
+                  Schroder Wertheim has no intention or plans to affect or
+                  influence the control of the Company, but is filing this
+                  Schedule 13D because a portion of the holdings reported
+                  herein were acquired through Schroder Wertheim's risk
+                  arbitrage activities in its proprietary accounts and as such
+                  may be deemed by interpretation of the Securities and
+                  Exchange Commission to be made in connection with a
+                  transaction having the effect of changing control of the
+                  Company.
+
+                  Schroder Wertheim does not have any present plan or
+                  proposals which relate to, or would result in any of the
+                  actions specified in clauses (a) through (j) of Schedule 13D
+                  under the Securities Exchange Act of 1934. 
+
+                  Additional shares may be acquired and any or all such shares
+                  may be disposed of at any time or from time to time, in each
+                  case depending on market conditions.
+
+ITEM 5            INTEREST IN SECURITIES OF THE ISSUER
+
+                  Schroder Wertheim may be deemed to beneficially own 254,000
+                  shares of the Common Stock of the Company, representing
+                  approximately 7.8% of the outstanding shares.  A portion of
+                  such shares are held in the accounts of various customers of
+                  Schroder Wertheim, with respect to which accounts the
+                  Reporting Person has shared investment and sole voting
+                  discretion.  For information with respect to the power to
+                  vote or direct the vote and the power to dispose or direct
+                  the disposition of the Common Stock deemed to be
+                  beneficially owned by Schroder Wertheim, see Rows 7-10 of
+                  the cover page.  Schroder Wertheim disclaims that it is the
+                  beneficial owner of any of the shares held in its customers'
+                  accounts, except to the extent Schroder Wertheim has a
+                  pecuniary beneficial interest in the investment partnerships
+                  for which it serves as general partner and investment
+                  adviser.  To the best knowledge of Schroder Wertheim, each
+                  of the persons maintaining an account with Schroder Wertheim
+                  has the right to receive or the power to direct the receipt
+                  of dividends and/or interests from, or the proceeds from the
+                  sale of, the shares of Common Stock held in such person's
+                  account.
+
+                             Page 4 of 9 Pages
+<PAGE>
+<PAGE>
+
+                  Attached hereto as Annex B is a chart which includes all
+                  transactions undertaken during the period May 16, 1996
+                  through June 26, 1996, in which Schroder Wertheim purchased
+                  for its own accounts and accounts of its customers shares of
+                  Common Stock.  All such transactions were made in the open
+                  market.
+
+                  
+ITEM 6            CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR
+                           RELATIONSHIPS WITH RESPECT TO SECURITIES OF
+                           THE ISSUER                                         
+
+                  Neither Schroder Wertheim nor Schroder Wertheim's management
+                  has any contract, arrangement, understanding or relationship
+                  with respect to any securities of the Company.
+
+ITEM 7            MATERIAL TO BE FILED AS EXHIBITS
+
+                  None
+
+                             Page 5 of 9 Pages
+<PAGE>
+<PAGE>
+
+                              SIGNATURE
+
+
+
+         After reasonable inquiry and to the best of my knowledge and
+belief, the undersigned hereby certifies that the information set forth
+on this statement is true, complete and correct.
+
+
+
+                                            SCHRODER WERTHEIM & CO. INCORPORATED
+
+                                            By:/s/ Peter M. Schoenfeld         
+      
+                                            ------------------------------------
+                                            Peter M. Schoenfeld
+                                            Vice Chairman and Vice President
+
+
+Dated:   July 15, 1996
+
+
+                             Page 6 of 9 Pages
+<PAGE>
+<PAGE>
+ 
+                             ANNEX A
+
+             Name, Principal Occupation and Citizenship of Each
+             Director and Officer of Schroder Wertheim
+
+Name and Business
+     Address                       Principal Occupation          Citizenship *1
+
+James A. Harmon                    Non-Executive Chairman of
+                                   the Board and Director
+
+Peter M. Schoenfeld                Vice Chairman,
+                                   Vice President and Director
+
+Steven Kotler                      Chief Executive Officer,
+                                   President, Chief Operating
+                                   Officer and Director                      
+
+Patrick J. Borruso                 Vice President, Treasurer,
+                                   Secretary, Chief Financial
+                                   Officer and Director                      
+
+Robert J. Chamine                  Vice President and Director                 
+
+Michael Dura                       Vice President and Director                 
+
+Ilan Kaufthal                      Vice President and Director                 
+
+Mack F. Rosoff                     Vice President and Director                  
+
+Mark L. Shapiro                    Vice President and Director                 
+
+Jeffrey Stambovsky                 Vice President and Director                  
+
+Barry J. Tarasoff                  Vice President and Director                 
+
+Philip Augar                       Director; Group Managing
+                                   Director, Schroders plc       United Kingdom
+
+Nicholas R. MacAndrew              Director; Group Managing
+120 Cheapside, London              Director, Schroders plc       United Kingdom
+EC2V6DS England
+                  
+                  
+__________________________________________
+
+1/       Except as otherwise noted, each of the persons included in this
+         Annex is a U.S. citizen.
+
+                             Page 7 of 9 Pages
+<PAGE>
+<PAGE>
+
+
+                             Annex A (Continued)
+
+Name and Business
+     Address                       Principal Occupation          Citizenship *1
+
+George W. Mallinckrodt             Director; Director and
+120 Cheapside, London              Executive Chairman,
+EC2V6DS England                    Schroders plc; Director, J.
+                                   Henry Schroder Wagg & Co.,
+                                   Limited                       United Kingdom
+
+I. Peter Sedgwick                  Director; Chief Executive,
+33 Gutter Lane, London             Schroders Investment
+EC2V8AS England                    Management Limited;
+                                   Director, J. Henry
+                                   Schroder Wagg & Co.,
+                                   Limited                       United Kingdom
+
+Jean B. Solandt                    Director; Director and Group
+120 Cheapside, London              Managing Director, Schroders
+EC2V6DS England                    plc; Director, J. Henry
+                                   Schroder Wagg & Co.,
+                                   Limited                       United Kingdom
+
+Alan D. Cohn                       Vice President
+
+Gail Gordon                        Vice President
+
+Anthony Savoca                     Vice President             
+
+Joseph R. Wekselblatt              Vice President             
+
+Albert A. Compitello               Assistant Comptroller
+
+                             Page 8 of 9 Pages
+<PAGE>
+<PAGE>
+
+                             ANNEX B
+
+
+      Transactions for the Period May 16, 1996 through June 26, 1996
+      --------------------------------------------------------------
+
+
+TRADE DATE                 QUANTITY         PRICE PER SHARE            
+Buy   5/16/96                6,700          $29.375
+Buy   5/16/96               18,300          29.500            
+Buy   5/17/96               15,000          29.250            
+Buy   5/17/96               10,000          28.500            
+Buy   5/20/96                2,000          28.375            
+Buy   5/20/96                3,000          28.500            
+Buy   5/20/96                5,000          28.250            
+Buy   5/20/96                3,000          28.125            
+Buy   5/21/96                2,500          27.750            
+Buy   5/28/96               18,000          28.000            
+Buy   5/28/96                  300          28.125            
+Buy   5/29/96               19,700          28.000
+                               300          28.125            
+Buy   5/30/96                  800          28.125            
+Buy   5/31/96               20,000          28.750            
+Buy   6/11/96                5,000          29.875            
+Buy   6/12/96               45,000          29.875
+                            25,000          30.000            
+Buy   6/13/96                1,200          29.875
+                             8,800          29.750            
+Buy   6/14/96               10,000          29.750            
+Buy   6/17/96                4,500          29.625
+                             5,500          29.750
+                             1,300          29.625            
+Buy   6/18/96               10,000          29.750
+                            10,000          29.500
+Buy   6/26/96                3,100          30.000
+
+Total                      254,000          
+
+
+
+
+                             Page 9 of 9 Pages
+<PAGE>
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

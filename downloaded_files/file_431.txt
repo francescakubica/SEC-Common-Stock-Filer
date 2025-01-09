@@ -1,0 +1,355 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ WfNq9+6gvfNVlKT1/uGjx8QrQdKwc34SGNbObtZG0T4XoHdU89dcHtwk9X2PBmlG
+ pRt8HyJDeFdnYSOyJ2Ljhw==
+
+<SEC-DOCUMENT>0000950131-97-005927.txt : 19970930
+<SEC-HEADER>0000950131-97-005927.hdr.sgml : 19970930
+ACCESSION NUMBER:		0000950131-97-005927
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970929
+SROS:			NYSE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ARVIN INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000007636
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				350550190
+		STATE OF INCORPORATION:			IN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		
+		SEC FILE NUMBER:	005-15731
+		FILM NUMBER:		97687213
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE NOBLITT PLZ
+		STREET 2:		P O BOX 3000
+		CITY:			COLUMBUS
+		STATE:			IN
+		ZIP:			47202-3000
+		BUSINESS PHONE:		8123793000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE NOBLITT PLAZA
+		STREET 2:		BOX 3000
+		CITY:			COLUMBUS
+		STATE:			IN
+		ZIP:			47202-3000
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NORTHERN TRUST CORP
+		CENTRAL INDEX KEY:			0000073124
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				362723087
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		50 S LA SALLE ST
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60675
+		BUSINESS PHONE:		3126306000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NORTRUST CORP
+		DATE OF NAME CHANGE:	19780525
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13-D/A
+<TEXT>
+
+<PAGE>
+
+
+ 
+                      SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, DC 20549
+
+                              AMENDMENT NO. 1 TO
+                                 SCHEDULE 13D
+                   Under the Securities Exchange Act of 1934
+
+                            ARVIN INDUSTRIES, INC.
+                          --------------------------
+                               (Name of Issuer)
+
+                                 COMMON STOCK
+                          --------------------------
+                        (Title of Class of Securities)
+
+                                   043339100
+                           -------------------------
+                                (CUSIP Number)
+
+                               Ronald R. Snyder
+            Vice President, General Counsel and Corporate Secretary
+                            Arvin Industries, Inc.
+                               One Noblitt Plaza
+                              Columbus, IN  47202
+                           -------------------------
+(Name, address and telephone number of person authorized to receive notice and
+                                communications)
+
+                               July 1, 1997 and
+                               September 4, 1997
+                           -------------------------
+            (Date of event which requires filing of this statement)
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b) (3) or (4), check the following box: / /
+
+Check the following box if a fee is being paid with this statement: / /
+
+
+<PAGE>
+                                 SCHEDULE 13D
+- -----------------------                                  ---------------------
+ CUSIP NO.                                                 PAGE 2 OF 5 PAGES
+- -----------------------                                  ---------------------
+
+- ------------------------------------------------------------------------------
+      NAME OF REPORTING PERSON
+ 1    The Northern Trust Company, as Trustee for the Arvin Industries, Inc.
+      Employee Stock Benefit Trust
+
+      S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON   36-6031971
+
+- ------------------------------------------------------------------------------
+      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+ 2                                                              (a) [_]
+      Not Applicable                                            (b) [X]
+- ------------------------------------------------------------------------------
+      SEC USE ONLY
+ 3
+     
+- ------------------------------------------------------------------------------
+      SOURCE OF FUNDS*
+ 4
+       SC, OO
+- ------------------------------------------------------------------------------
+      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT
+      TO ITEMS 2(d) or 2(e) [_]
+ 5
+- ------------------------------------------------------------------------------
+      CITIZENSHIP OR PLACE OF ORGANIZATION
+ 6
+      Indiana
+- ------------------------------------------------------------------------------
+                          SOLE VOTING POWER
+                     7
+     NUMBER OF
+
+      SHARES       -----------------------------------------------------------
+                          SHARED VOTING POWER
+   BENEFICIALLY      8
+
+     OWNED BY             1,474,548
+                   -----------------------------------------------------------
+       EACH               SOLE DISPOSITIVE POWER
+                     9
+    REPORTING
+
+      PERSON       -----------------------------------------------------------
+                          SHARED DISPOSITIVE POWER
+       WITH          10
+                          1,474,548
+- ------------------------------------------------------------------------------
+      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+11
+
+                          1,474,548
+- ------------------------------------------------------------------------------
+      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+12
+      [_]
+- ------------------------------------------------------------------------------
+      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+13
+      6.0%
+- ------------------------------------------------------------------------------
+      TYPE OF REPORTING PERSON*
+14
+      BK, EP
+- ------------------------------------------------------------------------------
+
+The filing of this statement on Schedule 13D by the Arvin Industries, Inc.
+Employee Stock Benefit Trust (the "Trust") does not constitute, and should note
+be construed as, an admission that either the Trust or The Northern Trust
+Company, as Trustee of the Trust (the "Trustee"), beneficially owns any
+securities covered by this Statement or is required to file this Statement. In
+this connection, the Trust and the Trustee disclaim beneficial ownership of the
+securities covered by this Statement.
+
+
+<PAGE>
+ 
+ITEM 1.  SECURITY AND ISSUER
+
+The class of equity securities to which this Statement relates is the Common
+Stock, $2.50 par value (the "Common Stock"), of Arvin Industries, Inc., an
+Indiana Corporation (the "Issuer").
+
+ITEM 2.  IDENTITY AND BACKGROUND
+
+This Statement is being filed by the Trust.  The business address of the Trust
+is c/o The Northern Trust Company, 50 S. LaSalle Street, Chicago, Illinois
+60675.  The address of the Trustee is 50 S. LaSalle Street, Chicago, Illinois
+60675.  The Trust is a trust organized under the laws of the State of Indiana.
+The Trustee is a banking corporation organized under the laws of the State of
+Illinois.
+
+During the past five years, neither the Trust nor the Trustee has been (i)
+convicted in a criminal proceeding (excluding traffic violations or similar
+misdemeanors) or (ii) a party to a civil proceeding of a judicial or
+administrative body of competent jurisdiction and as a result of such proceeding
+was or is subject to a judgment, decree or final order enjoining future
+violations of, or prohibiting or mandating activities subject to, Federal or
+State securities laws or finding any violation with respect to such laws.
+
+ITEM 3.  SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION
+
+On December 20, 1996, the Issuer and the Trustee, as trustee for the Trust,
+entered into a trust agreement creating the Trust (the "Trust Agreement"), and
+the Issuer sold 1,800,000 shares of Common Stock to the Trust pursuant to the
+terms of a common stock purchase agreement (the "Common Stock Purchase
+Agreement") between the Issuer and the Trustee, as trustee for the Trust, in
+exchange for a promissory note in the amount of $42,187,500 (the "Note").  The
+Note bears interest at the rate of  8% per annum and is payable in quarterly
+installments through January 1, 2006.  Principal and interest on the Note are
+expected to be repaid through contributions to the Trust by the Issuer and
+dividends received on the shares of Common Stock issued to the Trust.
+
+ITEM 4.  PURPOSE OF TRANSACTION
+
+The Issuer has advised the Trustee that the Trust was created to satisfy future
+obligations under existing benefit plans, including stock plans, 401(k) plans,
+and other employee benefit plans as designated by the company and to foster
+employee ownership in the Issuer.  The Trust was created with the objective of
+enfranchising and motivating employees and thus enhancing the Issuer's long-term
+performance, thereby benefiting all shareholders of the Issuer.  The Issuer has
+further advised the Trustee that the Issuer is aware that the creation of the
+Trust and the purchase of shares of Common Stock by the Trust may have certain
+antitakeover effects. At December 20, 1996, the Trust held 1,800,000 shares, or
+approximately 8.0%, of the Issuer's outstanding Common Stock.  At September 5,
+1997, the Trust held 1,474,548 shares, or approximately 6.0% of the Issuer's
+outstanding Common Stock.  Under Indiana corporation law, a merger requires the
+affirmative vote of a majority of the outstanding shares.  Moreover, under the
+Issuer's Articles of Incorporation, certain business combinations must be
+approved by 80% of all outstanding shares.  The creation of the Trust may thus
+make it more difficult for an acquirer to obtain an affirmative merger vote
+without employee support.
+
+                                       3
+<PAGE>
+ 
+Pursuant to allocations (as further described in Item 5 below) that were made to
+various plans sponsored by the Issuer, the Trust transferred 20,524 shares of
+the Issuer's Common Stock at approximately $27.34375 per share on July 1, 1997
+and 233,306 shares of the Issuer's Common Stock at approximately $35.5310 per
+share on September 4, 1997.
+
+ITEM 5.  INTEREST IN SECURITIES OF THE ISSUER
+
+At December 20, 1996, the Trust held 1,800,000 shares of Common Stock or
+approximately 8.0% of the Issuer's outstanding shares of Common Stock, as to
+which it may be deemed to have shared voting and dispositive power.  The shares
+will be allocated during the course of the year or in following years as
+provided in the Trust Agreement.  The Issuer has advised the Trustee that the
+Issuer's contributions to the plans, as defined in the Trust Agreement
+("Plans"), will be decreased by the value of the shares allocated to the Plans
+from the Trust.  At September 5, 1997, the Trust held 1,474,548 shares of Common
+Stock, or approximately 6.0% of the Issuer's Common Stock, as to which the Trust
+may be deemed to have shared voting and dispositive power.  During the past 60
+days immediately preceding this filing, the Trust effected the following
+transaction in the Issuer's Common Stock:   the Trust transferred 233,306 shares
+of Common Stock to the Plans at approximately $35.5310 per share on September 4,
+1997.  Such transfer was made pursuant to allocations described above.
+
+The Trust Agreement provides that the Trustee shall  follow the directions of
+the trustee of any trust established under any DC Plan, as defined in the Trust
+Agreement, as to the manner in which shares of Common Stock held by the Trust
+are to be voted.  The Trust Agreement further provides that each share assigned
+to each participant in a DC Plan ("DC Participant") shall be voted in accordance
+with such DC Participant's direction to the trustee of the DC Plan in which he
+participates with respect to shares of Common Stock allocated to his account in
+such DC Plan, as reflected in the certification to be delivered to the Trustee
+by the trustee of the DC Plan ("DC Plan Trustee Certification").  The Trust
+Agreement also provides that any shares of Common Stock which remain undirected
+pursuant to the foregoing shall be voted in the same proportions as the shares
+of Common Stock for which the Trustee is directed.  With respect to the decision
+as to whether or not to accept any tender or exchange offer for shares of Common
+Stock, the Trust Agreement provides that the Trustee will similarly act in
+accordance with the DC Plan Trustee Certification; however, if the Trustee shall
+not receive timely instruction by means of the DC Plan Trustee Certification,
+the Trustee shall not tender or exchange any shares of Common Stock with respect
+to which the trustee of any DC Plan has the right of direction, and the Trustee
+shall have no discretion in such matter.  The Trust Agreement further provides
+that all voting instructions and all tender or exchange instructions received by
+the Trustee will be held in confidence and not disclosed to any person,
+including the Issuer, other than (i) agents of the Trustee who are not
+affiliated with the Issuer or its affiliates or (ii) by virtue of the execution
+by the Trustee of any proxy, consent or letter of transmittal for the shares of
+Common Stock held in the Trust or as otherwise is necessary in order for the
+Trustee to carry out its responsibilities.
+
+The filing of this Statement on Schedule 13D by the Trust does not constitute,
+and should not be construed as, an admission that either the Trust or the
+Trustee beneficially owns any securities covered by this Statement or is
+required to file this Statement.  In this connection, the Trust and the Trustee
+disclaim beneficial ownership of the securities covered by this Statement.
+
+                                       4
+<PAGE>
+ 
+ITEM 6.   CONTRACT, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH RESPECT
+          TO SECURITIES OF THE ISSUER
+
+The Issuer and the Trustee, as trustee for the Trust, have entered into the
+Trust Agreement and the Common Stock Purchase Agreement, and the Trustee, as
+trustee for the Trust, has issued the Note to the Issuer.
+
+ITEM 7.   MATERIAL TO BE FILED AS EXHIBITS
+
+The Trust Agreement, the Common Stock Purchase Agreement and the Note were filed
+as Exhibits under Form 8-K filed by the Issuer on January 21, 1997. That filing
+is incorporated by reference herein.
+
+
+SIGNATURE
+
+After reasonable inquiry and to the best of my knowledge and belief, I certify
+that the information set forth in this statement is true, complete and correct.
+
+Dated: September 26, 1997
+
+
+THE NORTHERN TRUST COMPANY, TRUSTEE
+
+/s/ Perry R. Pero
+- -----------------
+NAME:  Perry R. Pero
+TITLE: Senior Executive Vice President
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

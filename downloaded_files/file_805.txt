@@ -1,0 +1,728 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HbBn6qwAemLevmAkRa6PPmahR+PmQ4zXeg0vzt7Om2jkK9G+jxbfd2VkVoVP61OY
+ zU53n6lfAVHDlDyINHMTmw==
+
+<SEC-DOCUMENT>0000919574-96-001068.txt : 19961125
+<SEC-HEADER>0000919574-96-001068.hdr.sgml : 19961125
+ACCESSION NUMBER:		0000919574-96-001068
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19961122
+SROS:			NASD
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STILLWATER MINING CO /DE/
+		CENTRAL INDEX KEY:			0000931948
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS METAL ORES [1090]
+		IRS NUMBER:				810480654
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-44031
+		FILM NUMBER:		96670981
+
+	BUSINESS ADDRESS:	
+		STREET 1:		HC 54
+		STREET 2:		BOX 365
+		CITY:			NYE
+		STATE:			MT
+		ZIP:			59061
+		BUSINESS PHONE:		3039782525
+
+	MAIL ADDRESS:	
+		STREET 1:		HC 54
+		STREET 2:		BOX 365
+		CITY:			NYE
+		STATE:			MT
+		ZIP:			59061
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KINGDON CAPITAL MANAGEMENT CORP
+		CENTRAL INDEX KEY:			0001000097
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		157 WEST 57TH STREET 50TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		2123330100
+
+	MAIL ADDRESS:	
+		STREET 1:		152 WEST 57TH STREET 50 FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<TEXT>
+
+
+
+
+<PAGE>
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.  20549
+
+SCHEDULE 13D
+Under the Securities Exchange Act of 1934
+
+Amendment No.:  1
+
+Name of Issuer:  Stillwater Mining Company
+
+Title of Class of Securities:  Common Stock 
+
+CUSIP Number: 86 074 Q 102
+
+          (Name, Address and Telephone Number of Person
+       Authorized To Receive Notices and Communications)  
+
+ Mr. Peter J. Cobos c/o Kingdon Capital Management Corporation,
+ 152 West 57th Street, New York, New York 10019, (212) 333-0100
+
+     (Date of Event which Requires Filing of this Statement)
+
+                        November 1, 1996
+
+If the filing person has previously filed a statement on Schedule
+13G to report the acquisition which is the subject of this
+Schedule 13D, and is filing this schedule because of
+Rule 13d-1(b)(3) or (4), check the following box [   ].
+
+Check the following box if a fee is being paid with this
+statement [ ].  (A fee is not required only if the filing person:
+(1) has a previous statement on file reporting beneficial
+ownership of more than five percent of the class of securities
+described in Item 1; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of
+class.  See Rule 13d-7).
+
+*The remainder of this cover page shall be filled out for a
+reporting person's initial filing on this form with respect to
+the subject class of securities, and for any subsequent amendment
+containing information which would alter the disclosures provided
+in a prior cover page.
+
+The information required in the remainder of this cover page
+shall not be deemed to be "filed" for the purpose of Section 18
+of the Securities Exchange Act of 1934 ("Act") or otherwise
+subject to the liabilities of that section of the Act but shall
+be subject to all other provisions of the Act (however, see the
+Notes).
+
+
+
+<PAGE>
+
+CUSIP No. 86 074 Q 102
+
+1.  Name of Reporting Person
+    S.S. or I.R.S. Identification No. of Above Person
+
+         Kingdon Capital Management Corporation  #13-3158796
+
+2.  Check the Appropriate Box if a Member of a Group
+
+         a.   
+         b.   x
+
+3.  SEC Use Only
+
+4.  Source of Funds
+
+         WC
+
+5.  Check if Disclosure of Legal Proceedings is Required Pursuant
+    to Items 2(d) or 2(e)
+
+6.  Citizenship or Place of Organization
+
+         Delaware
+
+Number of Shares Beneficially Owned by Each Reporting Person
+With:
+
+7.  Sole Voting Power:
+
+         865,870
+
+8.  Shared Voting Power:
+
+         
+
+9.  Sole Dispositive Power:
+
+         865,870
+
+10. Shared Dispositive Power:
+
+         
+
+11. Aggregate Amount Beneficially Owned by Each Reporting Person
+
+         865,870
+
+12. Check Box if the Aggregate Amount in Row (11) Excludes
+    Certain Shares
+
+
+
+                                2
+
+
+
+<PAGE>
+
+13. Percent of Class Represented by Amount in Row (11)
+
+         4.30%
+
+14. Type of Reporting Person
+
+         CO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                3
+
+
+
+<PAGE>
+
+         The reason for the filing of this Amendment No. 1 to the
+         previously filed Schedule 13D is to show that the
+         holdings of Kingdon Capital Management Corporation
+         ("KCMC") in the shares of Common Stock (the "Common
+         Stock") in Stillwater Mining Company ("PGMS") have
+         decreased from 8.6% to 4.30%.
+
+Item 1.  Security and Issuer
+
+         This statement relates to the Common Stock of PGMS.
+         PGMS's principal executive office is located at HC 54,
+         Box 365, Nye, Montana 59061.
+
+Item 2.  Identity and Background
+
+         This statement is being filed on behalf of KCMC, a
+         Delaware corporation.  KCMC's principal business is to
+         act as an investment adviser; its principal office is at
+         152 West 57th Street, New York, New York 10019.
+
+         Mr. Mark Kingdon is the sole shareholder, director and
+         executive officer of KCMC.  Mr. Kingdon has not, during
+         the last five years, been convicted in a criminal
+         proceeding (excluding traffic violations or similar
+         misdemeanors).  Mr. Kingdon has not, during the last
+         five years, been a party to a civil proceeding of a
+         judicial or administrative body of competent
+         jurisdiction which resulted in a judgment, decree or
+         final order enjoining future violations of, or
+         prohibiting or mandating activities subject to, federal
+         or state securities laws or finding any violations with
+         respect to such laws.
+
+         Mr. Kingdon is a citizen of the United States of
+         America.
+
+Item 3.  Source and Amount of Funds or Other Consideration.
+
+         As of the date hereof, KCMC is deemed to beneficially
+         own 865,870 shares of Common Stock.  All 865,870 shares
+         of PGMS' Common Stock are held by entities or managed
+         accounts over which KCMC has investment discretion.  All
+         transactions in the shares of Common Stock of PGMS
+         reported on Exhibit A hereto were open market
+         transactions. The funds for the purchase of the shares
+         of Common Stock of PGMS held in the entities or managed
+         accounts over which KCMC has investment discretion have
+         come from each entity or account's own funds.  No
+         leverage was used to purchase the shares of Common
+         Stock.
+
+
+
+                                4
+
+
+
+<PAGE>
+
+Item 4.  Purpose of Transactions.
+
+         The shares of Common Stock of PGMS deemed to be
+         beneficially owned by KCMC were acquired for, and are
+         being held for, investment purposes.
+
+         KCMC has no plan or proposal which relates to, or would
+         result in, any of the actions enumerated in Item 4 of
+         the instructions to Schedule 13D.
+
+Item 5.  Interest in Securities of Issuer.
+
+         As of the date hereof, KCMC is deemed to be the
+         beneficial owner of 865,870 shares of Common Stock in
+         PGMS.  Based on the most recent information from PGMS,
+         we believe there to be 20,126,902 shares of Common Stock
+         in PGMS outstanding.  Therefore, KCMC is deemed to
+         beneficially own 4.30% of the outstanding shares of
+         Common Stock in PGMS.  KCMC has the sole power to vote,
+         direct the vote, dispose of or direct the disposition of
+         all the shares of Common Stock in PGMS that it is
+         currently deemed to beneficially own.  KCMC ceased to be
+         the beneficial owner of more than 5% of the outstanding
+         Common Stock of PGMS on November 19, 1996.
+
+Item 6.  Contracts, Arrangements, Understandings or
+         Relationships with Respect to Securities of the Issuer
+
+         KCMC has no contract, arrangement, understanding or
+         relationship with any person with respect to the Common
+         Stock in PGMS.
+
+Item 7.  Material to be Filed as Exhibits.
+
+         Attached hereto as Exhibit A is a description of the
+         transactions in the Common Stock in PGMS that have been
+         effected by KCMC since 60 days prior to November 1,
+         1996.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                5
+
+
+
+<PAGE>
+
+
+         Signature
+
+         The undersigned, after reasonable inquiry and to the
+best of its knowledge and belief, certifies that the information
+set forth in this statement is true, complete and correct.
+
+November 22, 1996
+
+
+
+Kingdon Capital Management Corporation
+
+
+By: /s/ Peter J. Cobos        
+
+    __________________________
+    Peter J. Cobos, Controller
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                6
+
+
+
+<PAGE>
+
+                            EXHIBIT A
+
+                    SCHEDULE OF TRANSACTIONS
+
+                   SHARES PURCHASED    PRICE PER SHARE
+DATE               OR (SOLD)           (NOT INCLUDING COMMISSION)
+
+9/6/96                 (20,600)*           $23.20
+
+9/9/96                  (3,000)*            23.44
+
+9/12/96               (227,900)*            19.87
+
+9/12/96                   (500)*            22.25
+
+9/16/96                 (5,400)*            20.69
+
+9/16/96                 50,000              21.12
+
+9/16/96                (50,000)**           21.12
+
+10/2/96                (21,000)*            18.35
+
+10/3/96                  5,000              19.06
+
+10/3/96                (65,000)             19.00
+
+10/3/96                   (200)             19.13
+
+10/4/96                (25,000)*            19.00
+
+10/7/96                    500              18.68
+
+10/8/96                (12,800)*            18.47
+
+10/8/96                 (5,000)*            18.87
+
+10/8/96                (15,000)*            18.75
+
+10/8/96                (25,000)*            18.45
+
+10/8/96                  3,000              18.43
+
+_________________
+*   These transactions relate to short sales that do not affect
+    the beneficial ownership of shares of the Common Stock of
+    PGMS.
+
+**  These transactions were swap transactions that do not affect
+    the beneficial ownership of shares of the Common Stock of
+    PGMS.
+
+
+                                7
+
+
+
+<PAGE>
+
+                   SHARES PURCHASED    PRICE PER SHARE
+DATE               OR (SOLD)           (NOT INCLUDING COMMISSION)
+
+10/9/96                (27,000)*           $18.22
+
+10/9/96                (15,000)*            18.37
+
+10/9/96                    200              18.31
+
+10/10/96               (10,000)*            18.31
+
+10/10/96                (7,800)*            18.34
+
+10/11/96                (6,000)*            18.37
+
+10/11/96                (2,900)*            18.50
+
+10/14/96                (7,500)*            18.62
+
+10/14/96               (10,800)*            18.50
+
+10/15/96               (50,000)*            18.69
+
+10/16/96                (9,400)*            18.84
+
+10/16/96                (8,300)*            18.98
+
+10/18/96                (3,400)*            18.88
+
+10/18/96                  (900)*            19.11
+
+10/29/96               (20,000)*            18.37
+
+10/29/96               (20,000)*            18.50
+
+10/29/96               (13,500)*            18.48
+
+10/29/96               (18,800)*            18.40
+
+10/30/96               (10,000)*            18.00
+
+10/30/96                (7,300)*            18.33
+
+10/30/96                 1,000              18.16
+
+_________________
+*   These transactions relate to short sales that do not affect
+    the beneficial ownership of shares of the Common Stock of
+    PGMS.
+
+
+
+
+                                8
+
+
+
+<PAGE>
+
+                   SHARES PURCHASED    PRICE PER SHARE
+DATE               OR (SOLD)           (NOT INCLUDING COMMISSION)
+
+10/31/96              (200,000)             17.00
+
+10/31/96               100,000*             17.06
+
+10/31/96               (72,400)             17.11
+
+10/31/96               110,000**            17.12
+
+10/31/96              (100,000)*            17.05
+
+10/31/96               (37,600)*            17.11
+
+11/1/96               (225,000)             15.54
+
+11/1/96                    100*             16.66
+
+11/4/96                (20,000)             16.41
+
+11/4/96                 (3,400)             16.47
+
+11/5/96                (16,900)*            16.40
+
+11/5/96                 (5,000)             16.50
+
+11/5/96                  5,700*             16.20
+
+11/6/96                (91,700)             16.07
+
+11/6/96                100,000              16.28
+
+11/6/96               (100,000)**           16.25
+
+11/7/96                 (7,500)             16.37
+
+11/8/96                 (1,200)             16.51
+
+11/11/96               (19,800)             16.68
+
+_________________
+*   These transactions relate to short sales that do not affect
+    the beneficial ownership of shares of the Common Stock of
+    PGMS.
+
+**  These transactions were swap transactions that do not affect
+    the beneficial ownership of shares of the Common Stock of
+    PGMS.
+
+
+
+
+                                9
+
+
+
+<PAGE>
+
+                   SHARES PURCHASED    PRICE PER SHARE
+DATE               OR (SOLD)           (NOT INCLUDING COMMISSION)
+
+11/12/96                (4,000)             16.75
+
+11/12/96                (1,500)             16.81
+
+11/13/96               (32,700)             17.75
+
+11/13/96                 5,400*             18.42
+
+11/14/96               (80,000)             17.87
+
+11/14/96               (25,000)             17.73
+
+11/14/96               (13,100)*            17.89
+
+11/14/96              (136,000)*            18.08
+
+11/14/96               136,000*             18.10
+
+11/14/96                 1,500*             18.00
+
+11/14/96                 4,400*             17.94
+
+11/15/96                (5,000)             18.00
+
+11/15/96                (1,275)             17.47
+
+11/15/96                  (425)*            17.47
+
+11/15/96               100,000*             17.87
+
+11/15/96              (100,000)             17.87
+
+11/18/96                (6,800)             17.50
+
+11/18/96                  (400)             17.40
+
+11/18/96                (1,000)             17.44
+
+11/18/96                 3,900*             17.46
+
+11/19/96              (120,000)             17.12
+
+_________________
+*   These transactions relate to short sales that do not affect
+    the beneficial ownership of shares of the Common Stock of
+    PGMS.
+
+
+
+
+                               10
+
+
+
+<PAGE>
+
+                   SHARES PURCHASED    PRICE PER SHARE
+DATE               OR (SOLD)           (NOT INCLUDING COMMISSION)
+
+11/19/96                (9,000)             17.22
+
+11/19/96                14,900*             17.28
+
+11/19/96               100,000**            17.31
+
+11/20/96                   100*             17.29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_________________
+*   These transactions relate to short sales that do not affect
+    the beneficial ownership of shares of the Common Stock of
+    PGMS.
+
+**  These transactions were swap transactions that do not affect
+    the beneficial ownership of shares of the Common Stock of
+    PGMS.
+
+
+                               11
+48400002.AF1
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

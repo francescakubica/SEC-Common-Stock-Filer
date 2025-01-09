@@ -1,0 +1,467 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ lPkQXon5kQlzPRKE0RKzEuNy3NX8yg5NeoUab5GN7QudC2Ow40S47iIoiy8dnSuU
+ cqYkkgSa8lJWSJRM2tFYvA==
+
+<IMS-DOCUMENT>0000935836-95-000034.txt : 19950511
+<IMS-HEADER>0000935836-95-000034.hdr.sgml : 19950511
+ACCESSION NUMBER:		0000935836-95-000034
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19950510
+SROS:			NYSE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HUNTCO INC
+		CENTRAL INDEX KEY:			0000905722
+		STANDARD INDUSTRIAL CLASSIFICATION:	STEEL WORKS, BLAST FURNACES  ROLLING MILLS (COKE OVENS) [3312]
+		IRS NUMBER:				431643751
+		STATE OF INCORPORATION:			MO
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-44237
+		FILM NUMBER:		95535923
+
+	BUSINESS ADDRESS:	
+		STREET 1:		14323 SOUTH OUTER FORTY
+		STREET 2:		STE 600 N
+		CITY:			CHESTERFIELD
+		STATE:			MO
+		ZIP:			63017
+		BUSINESS PHONE:		3148780155
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EMERGING GROWTH MANAGEMENT CO
+		CENTRAL INDEX KEY:			0000919183
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 BUSH ST SUITE 1300
+		STREET 2:		13TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+		BUSINESS PHONE:		4153994500
+
+	MAIL ADDRESS:	
+		STREET 2:		ONE BUSH STREET SUITE 1300
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<TEXT>
+
+<PAGE>
+                                        OMB APPROVAL
+
+                                   OMB Number:3235-0145
+                                   Expires:October 31, 1994
+                                   Estimated average burden
+                                   hours per form 14.90
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+SCHEDULE 13D
+
+Under the Securities Exchange Act of 1934
+(Amendment No. *)
+
+
+Huntco Inc.
+(Name of Issuer)
+
+Class A Common Stock
+
+- ---------------------------------------------------------------------------
+
+(Title of Class of Securities)
+
+445661101
+(CUSIP Number)
+
+Sarah L. Carpenter
+Emerging Growth Management Co.
+One Bush Street, 13th Floor
+San Francisco, CA 94104
+(415)399-4500
+- ---------------------------------------------------------------------------
+(Name, Address and Telephone Number of Person Authorized to Receive Notices
+and Communications)
+
+January 25, 1995
+Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to
+report the acquisition which is the subject of this Schedule 13D, and is
+filing this schedule because of Rule 13d-1(b)(3) or (4), check the following
+box / /.
+
+Check the following box if a fee is being paid with the statement /X/.  (A
+fee is not required only if the reporting person: (1) has a previous
+statement on file reporting beneficial ownership of more than five percent of
+the class of securities described in Item 1; and (2) has filed no amendment
+subsequent thereto reporting beneficial ownership of five percent or less of
+such class.)  (See Rule 13d-7.)
+
+Note:  Six copies of this statement, including all exhibits, should be filed
+with the Commission.  See Rule 13d-1(a) for other parties to whom copies are
+to be sent.
+
+* The remainder of this cover page shall be filled out for a reporting
+person's initial filing on this form with respect to the subject class of
+securities, and for any subsequent amendment containing information which
+would alter disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+Act of 1934 ("Act") or otherwise subject to the liabilities of that section
+of the Act but shall be subject to all other provisions of the Act (however,
+see the Notes).
+
+
+
+                                                           SEC 1746 (12-91)
+<PAGE>
+<PAGE>
+SCHEDULE 13D
+
+CUSIP No. 445661101                                    Page 3 of 10 Pages
+
+- ---------------------------------------------------------------------------
+1    NAME OF REPORTING PERSON
+     SS OR IRS IDENTIFICATION NO. OF ABOVE PERSON
+
+     Emerging Growth Management Co.
+- ---------------------------------------------------------------------------
+2    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*      (a)         /X/
+                                                            (b)         / /
+- ---------------------------------------------------------------------------
+3    SEC USE ONLY
+- ---------------------------------------------------------------------------
+4    SOURCE OF FUNDS*
+
+     AF
+- ---------------------------------------------------------------------------
+5    CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO
+     ITEMS 2(d) or 2(E)                                                 / /
+- ---------------------------------------------------------------------------
+6    CITIZENSHIP OR PLACE OF ORGANIZATION
+
+     California
+- ---------------------------------------------------------------------------
+      NUMBER OF          7    SOLE VOTING POWER
+       SHARES                 -0-
+    BENEFICIALLY         --------------------------------------------------
+      OWNED BY           8    SHARED VOTING POWER
+        EACH                  -313350-
+      REPORTING          --------------------------------------------------
+       PERSON            9    SOLE DISPOSITIVE POWER
+        WITH                  -0-
+                         --------------------------------------------------
+                         10   SHARED DISPOSITIVE POWER
+                              -313350-
+- ---------------------------------------------------------------------------
+11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+     313350
+- ---------------------------------------------------------------------------
+12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+     SHARES*                                                            / /
+- ---------------------------------------------------------------------------
+13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+     5.9%
+- ---------------------------------------------------------------------------
+14   TYPE OF REPORTING PERSON*
+     CO and IA
+- ---------------------------------------------------------------------------
+*SEE INSTRUCTIONS BEFORE FILLING OUT!
+INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+(INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+<PAGE>
+<PAGE>
+SCHEDULE 13D
+
+CUSIP No. 445661101                                    Page 4 of 10 Pages
+
+- ---------------------------------------------------------------------------
+1    NAME OF REPORTING PERSON
+     SS OR IRS IDENTIFICATION NO. OF ABOVE PERSON
+
+     Thomas D. Henwood
+- ---------------------------------------------------------------------------
+2    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*      (a)         /X/
+                                                            (b)         / /
+- ---------------------------------------------------------------------------
+3    SEC USE ONLY
+- ---------------------------------------------------------------------------
+4    SOURCE OF FUNDS*
+
+     PF
+- ---------------------------------------------------------------------------
+5    CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO
+     ITEMS 2(d) or 2(E)                                                 / /
+- ---------------------------------------------------------------------------
+6    CITIZENSHIP OR PLACE OF ORGANIZATION
+
+     U.S. Citizen
+- ---------------------------------------------------------------------------
+      NUMBER OF          7    SOLE VOTING POWER
+       SHARES                 -700-
+    BENEFICIALLY         --------------------------------------------------
+      OWNED BY           8    SHARED VOTING POWER
+        EACH                  -740-
+      REPORTING          --------------------------------------------------
+       PERSON            9    SOLE DISPOSITIVE POWER
+        WITH                  -700-
+                         --------------------------------------------------
+                         10   SHARED DISPOSITIVE POWER
+                              -740-
+- ---------------------------------------------------------------------------
+11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+     1440
+- ---------------------------------------------------------------------------
+12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+     SHARES*                                                            / /
+- ---------------------------------------------------------------------------
+13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+      0.02%
+- ---------------------------------------------------------------------------
+14   TYPE OF REPORTING PERSON*
+     IN
+- ---------------------------------------------------------------------------
+*SEE INSTRUCTIONS BEFORE FILLING OUT!
+INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+(INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+<PAGE>
+                               SCHEDULE 13D
+
+CUSIP No.445661101                                       Page 5 of 10 Pages
+
+ITEM 1.   SECURITY AND ISSUER.
+
+This amended statement relates to shares of Common Stock (the "Stock") of
+Huntco Inc., A Missouri corporation ("HCO").  The principal executive office
+of HCO is located at 14323 S. Outer Forty, Suite 600N, Chesterfield, MO
+63017.
+
+
+ITEM 2.   IDENTITY AND BACKGROUND.
+
+The persons filing this amended statement and the persons enumerated in
+Instruction C of Schedule 13D and, where applicable, their respective places
+of organization, general partners, directors, executive officers and
+controlling persons, and the information regarding them, are as follows:
+
+     (a)  Emerging Growth Management Co., a California corporation ("EGM"); 
+Michael T. Jackson ("Jackson); Thomas D. Henwood ("Henwood"); Paul H. Baastad
+("Baastad"); Jacquelien M. Keyser ("Keyser").
+
+     (b)  The business address of all such persons is One Bush Street, Suite
+1300, San Francisco, CA 94104 .
+
+     (c)  EGM is an investment advisor to various managed accounts.  Jackson
+is a director and executive officer of EGM.  Henwood is a director and
+executive officer of EGM.  Baastad is a director and executive officer if
+EGM.  Keyser is a director and executive officer of EGM.  
+
+     (d)  During the last five years, none of such persons has been convicted
+in a criminal proceeding (excluding traffic violations or similar
+misdemeanors).
+
+     (e)  During the last five years, none of such persons was a party to a
+civil proceeding of a judicial or administrative body of competent
+jurisdiction and as a result of such proceeding was or is subject to a
+judgment, decree or final order enjoining future violations of, or
+prohibiting or mandating activities subject to, federal or state securities
+laws or finding any violation with respect to such laws.
+
+     (f)  All such persons are citizens of the United States of America.
+<PAGE>
+<PAGE>
+                               SCHEDULE 13D
+
+CUSIP No. 445661101                                      Page 6 of 10 Pages
+
+ITEM 3.   SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION.
+
+The source and amount of funds used in purchasing the Stock were as follows:
+
+
+Purchaser      Source of Funds                              Amount
+
+EGM            Accounts Under Management                    $7,385,323
+Henwood        Personal funds and Accounts Under Managment  $29,872
+
+
+ITEM 4.   PURPOSE OF TRANSACTION.
+
+The sole purpose of the acquisition of the Stock reported herein was and is
+for investment.
+<PAGE>
+<PAGE>
+                               SCHEDULE 13D
+
+CUSIP No. 445661101                                      Page 7 of 10 Pages
+
+
+ITEM 5.   INTEREST IN SECURITIES OF THE ISSUER.
+
+The beneficial ownership of the Stock of the persons named in Item 2 of this
+amended statement is as follows at the date hereof:
+
+
+          Aggregate
+          Beneficially 
+          Owned               Voting Power   Dispositive Power
+Name      Number    Percent   Sole Shared    Sole Shared
+                              
+EGM       313350    5.9%      -0-  313350    -0-  313350
+Henwood   1440      0.02%     700  740       700  740  
+
+The persons filing this statement effected the following transactions in the
+Stock on the dates indicated, and such transactions are all the transactions
+by the persons filing this statement in the Stock:  
+<PAGE>
+<PAGE>
+                               SCHEDULE 13D
+
+CUSIP No. 445661101                                      Page 8 of 10 Pages
+
+
+     Purchase                 Number         Price     Broker
+Name  or Sale  Date           of Shares      Per Share Used
+
+EGM       P    01/09/95       20,000         $22.25    DLJ
+EGM       P    01/10/95       30,000         $23.84    DLJ
+EGM       P    01/16/95       40,000         $24.12    DLJ
+EGM       P    01/17/95       57,800         $24.73    DLJ
+EGM       P    01/24/95       53,700         $24.03    DLJ
+EGM       P    01/25/95       77,050         $24.00    DLJ
+EGM       P    01/30/95       3,500          $23.87    DLJ
+EGM       P    02/01/95       8,000          $23.50    DLJ
+Henwood   P    02/01/95       720            $23.56    DLJ
+EGM       P    02/08/95       200            $23.50    DLJ
+EGM       P    02/17/95       2,700          $25.50    DLJ
+EGM       P    03/03/95       8,000          $21.94    DLJ
+EGM       P    03/08/95       2,000          $21.70    DLJ
+EGM       P    03/10/95       3,000          $21.57    DLJ
+EGM       S    03/16/95       15,800         $21.30    Hen
+EGM       S    03/16/95       700            $21.30    Bear
+EGM       S    03/17/95       6,400          $20.35    Shear
+EGM       S    03/20/95       1,000          $20.19    Shear
+EGM       P    04/04/95       4,600          $20.17    DeFrey
+EGM       P    04/27/95       13,000         $17.81    HQ
+Henwood   P    04/27/95       720            $17.93    Shear
+EGM       P    05/01/95       13,700         $17.53    HQ
+
+     [Key to brokers used:]
+     
+          DLJ  - Donaldsen, Lufkin & Jenrette
+          Hen  - Henrich  - Beacon Global Investments 
+          Bear - Bear Stearns
+          Shear- Lehman Brothers
+          HQ   - Hambrecht & Quist
+
+
+ITEM. 6.  CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH
+          RESPECT TO SECURITIES OF THE ISSUER.
+
+EGM is authorized, among other things, to invest funds of its various
+investment advisory clients, and to vote and dispose of those securities. 
+Such invesment management agreements may be treminated by either party
+pursuant to the terms of such agreements, and provide for fees payable to
+EGM based on assets under management, if certian conditions are met.
+<PAGE>
+<PAGE>
+                               SCHEDULE 13D
+
+CUSIP No. 445661101                                      Page 9 of 10 Pages
+
+
+ITEM 7.   MATERIAL TO BE FILED AS EXHIBITS.
+
+A.   Agreement Regarding Joint Filing of Statement on Schedule 13D or 13G.
+
+SIGNATURES
+
+     After reasonable inquiry and to the best of my knowledge, I certify
+that the information set forth in this amended statement is true, complete
+and correct.
+
+DATED:    May   , 1995
+
+
+Emerging Growth Management Co.          
+
+
+
+
+____________________________            ________________________
+By:Michael T. Jackson, Chairman         Thomas D. Henwood
+
+
+<PAGE>
+<PAGE>
+                               SCHEDULE 13D
+
+CUSIP No. 445661101                                     Page 10 of 10 Pages
+
+
+                                                                  EXHIBIT A
+
+AGREEMENT REGARDING JOINT FILING
+OF STATEMENT ON SCHEDULE 13D OR 13G
+
+The undersigned agree to file jointly with the Securities and Exchange
+Commission (the "SEC") any and all statements on Schedule 13D or Schedule 13G
+(and any amendments or supplements thereto) required under section 13(d) of
+the Securities Exchange Act of 1934, as amended, in connection with purchases
+by the undersigned of Class A Common Stock of HCO, a Missouri corporation. 
+For that purpose, the undersigned hereby constitute and appoint Emerging
+Growth Management Co., a California corporation, as their true and lawful
+agent and attorney-in-fact, with full power and authority for and on behalf
+of the undersigned to prepare or cause to be prepared, sign, file with the
+SEC and furnish to any other person all certificates, instruments, agreements
+and documents necessary to comply with section 13(d) and section 16(a) of the
+Securities Exchange Act of 1934, as amended, in connection with said
+purchases, and to do and perform every act necessary and proper to be done
+incident to the exercise of the foregoing power, as fully as the undersigned
+might or could do if personally present.
+
+DATED:  May    , 1995
+
+
+Emerging Growth Mangement Co.
+
+
+____________________________                 ____________________________
+by:Michael T. Jackson, Chairman              Thomas D. Henwood
+
+<PAGE>
+F:\DMS\M-CORP\INV_ADV\0113476.WP
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

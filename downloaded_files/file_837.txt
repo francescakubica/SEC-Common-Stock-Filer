@@ -1,0 +1,395 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Qm9EApsouQ98QCbhL4LSP1tQ/mcQ0nVJ5QqDBG7ABiHB3xpJa9P+SlQcToPZCjIV
+ sFDV31Pffyv3/SlDts83LQ==
+
+<SEC-DOCUMENT>0000914121-97-000165.txt : 19970402
+<SEC-HEADER>0000914121-97-000165.hdr.sgml : 19970402
+ACCESSION NUMBER:		0000914121-97-000165
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970401
+SROS:			NASD
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UNIVERSAL HOSPITAL SERVICES INC
+		CENTRAL INDEX KEY:			0000886171
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISCELLANEOUS EQUIPMENT RENTAL & LEASING [7350]
+		IRS NUMBER:				410760940
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-42484
+		FILM NUMBER:		97572611
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1250 NORTHLAND PLZ
+		STREET 2:		3800 W 80TH ST
+		CITY:			BLOOMINGTON
+		STATE:			MN
+		ZIP:			55431-4442
+		BUSINESS PHONE:		6128933200
+
+	MAIL ADDRESS:	
+		STREET 1:		1250 NORTHLAND PLAZA
+		STREET 2:		3800 W 80TH STREET
+		CITY:			BLOOMINGTON
+		STATE:			MN
+		ZIP:			55431-4442
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WYNNEFIELD PARTNERS SMALL CAP VALUE LP
+		CENTRAL INDEX KEY:			0000899083
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		IRS NUMBER:				133688497
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE PENN PLAZA
+		STREET 2:		SUITE 4720
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10119
+		BUSINESS PHONE:		2127600814
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE PENN PLAZA
+		STREET 2:		SUITE 4720
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+                                  SCHEDULE 13D
+
+
+
+                    Under the Securities Exchange Act of 1934
+                                (Amendment No 1)*
+
+
+                        Universal Hospital Services, Inc.
+- -------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+                          Common Stock, par value $.01
+- -------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+                                    91359L109
+- -------------------------------------------------------------------------------
+                                 (CUSIP Number)
+
+            Louis J. Bevilacqua, Esq., Cadwalader Wickersham & Taft,
+                       100 Maiden Lane, New York, NY 10038
+- -------------------------------------------------------------------------------
+       (Name, Address and Telephone Number of Person Authorized to Receive
+                           Notices and Communications)
+
+                                 March 21, 1996
+ ------------------------------------------------------------------------------
+             (Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the  acquisition which  is  the subjectof this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4), check the following box |_|.
+
+Note:  Six copies of  this statement,  including all exhibits,  should be filed
+with the  Commission.  See Rule 13d-1(a)  for  other parties to whom copies are
+to be sent.
+
+*The  remainder  of this  cover  page  shall  be  filled  out  for a  reporting
+person's  initial  filing  on  this  form  with respect to the subject class of
+securities,  and for any  subsequent  amendment  containing  information  which
+would alter disclosures provided in a prior cover page.
+
+The  information  required  on the  remainder  of this cover page  shall not be
+deemed  to be "filed" for the purpose of Section 18 of the Securities  Exchange
+Act of 1934 ("Act") or otherwise  subject to the liabilities of that section of
+the  Act  but shall be subject to all other provisions of the Act (however, see
+the Notes).
+
+CUSIP No. 91359L109
+<PAGE>
+
+                                  SCHEDULE 13D
+
+- ---------------------------  
+CUSIP No.  91359L109         
+- ---------------------------  
+- ------ -------------------------------------------------------------------------
+1      NAME OF REPORTING PERSON   Wynnefield Partners Small Cap Value, L.P.
+       S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+       13-3688497
+- ------ -------------------------------------------------------------------------
+- ------ -------------------------------------------------------------------------
+2      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP* (a)|X| (b)|_|
+- ------
+- ------ -------------------------------------------------------------------------
+3      SEC USE ONLY
+- ------ -------------------------------------------------------------------------
+- ------ -------------------------------------------------------------------------
+4      SOURCE OF FUNDS*
+       WC
+- ------ -------------------------------------------------------------------------
+- ------ -------------------------------------------------------------------------
+5      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO 
+       ITEMS 2(d) or 2(e)
+- ------ -------------------------------------------------------------------------
+- ------ -------------------------------------------------------------------------
+6      CITIZENSHIP OR PLACE OF ORGANIZATION
+       Delaware
+- ------ -------------------------------------------------------------------------
+- --------------------- ------- --------------------------------------------------
+                      7       SOLE VOTING POWER
+                              138,000
+     
+                      ------- --------------------------------------------------
+     NUMBER OF        ------- --------------------------------------------------
+       SHARES         8       SHARED VOTING POWER
+    BENEFICIALLY              -0-
+      OWNED BY
+        EACH          ------- --------------------------------------------------
+     REPORTING        ------- --------------------------------------------------
+       PERSON         9       SOLE DISPOSITIVE POWER
+     REPORTING                138,000
+       WITH
+                      ------- --------------------------------------------------
+                      ------- --------------------------------------------------
+                      10      SHARED DISPOSITIVE POWER
+                              -0-
+- --------------------- ------- --------------------------------------------------
+- -------- -----------------------------------------------------------------------
+11       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+         138,000
+- -------- -----------------------------------------------------------------------
+- -------- -----------------------------------------------------------------------
+12       CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+         |_|
+- -------- -----------------------------------------------------------------------
+- -------- -----------------------------------------------------------------------
+13       PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+         2.6%
+- -------- -----------------------------------------------------------------------
+- -------- -----------------------------------------------------------------------
+14       TYPE OF REPORTING PERSON*
+         PN
+- -------- -----------------------------------------------------------------------
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+          INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+      (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+
+<PAGE>
+- ------ -------------------------------------------------------------------------
+1      NAME OF REPORTING PERSON  Channel Partnership II
+       S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+       22-3215653
+- ------ -------------------------------------------------------------------------
+- ------ -------------------------------------------------------------------------
+2      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*(a) |X| (b) |_|
+- ------ -------------------------------------------------------------------------
+- ------ -------------------------------------------------------------------------
+3      SEC USE ONLY
+
+- ------ -------------------------------------------------------------------------
+- ------ -------------------------------------------------------------------------
+4      SOURCE OF FUNDS*
+       WC
+- ------ -------------------------------------------------------------------------
+- ------ -------------------------------------------------------------------------
+
+5      CHECK BOX IF  DISCLOSURE  OF LEGAL  PROCEEDINGS  IS REQUIRED  PURSUANT TO
+       ITEMS 2(d) or 2(e)  |_|
+
+- ------ -------------------------------------------------------------------------
+- ------ -------------------------------------------------------------------------
+6      CITIZENSHIP OR PLACE OF ORGANIZATION
+       New Jersey
+- ------ -------------------------------------------------------------------------
+- --------------------- ------- --------------------------------------------------
+                      7       SOLE VOTING POWER
+                              5,700
+     
+                      ------- --------------------------------------------------
+     NUMBER OF        ------- --------------------------------------------------
+       SHARES         8       SHARED VOTING POWER
+    BENEFICIALLY              -0-
+      OWNED BY
+        EACH          ------- --------------------------------------------------
+     REPORTING        ------- --------------------------------------------------
+       PERSON         9       SOLE DISPOSITIVE POWER
+     REPORTING                5,700
+       WITH
+                      ------- --------------------------------------------------
+                      ------- --------------------------------------------------
+                      10      SHARED DISPOSITIVE POWER
+                              -0-
+
+- -------- -----------------------------------------------------------------------
+11       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+         5,700
+- -------- -----------------------------------------------------------------------
+- -------- -----------------------------------------------------------------------
+12       CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+         |_|
+- -------- -----------------------------------------------------------------------
+- -------- -----------------------------------------------------------------------
+13       PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+         0.1%
+- -------- -----------------------------------------------------------------------
+- -------- -----------------------------------------------------------------------
+14       TYPE OF REPORTING PERSON*
+         PN
+- -------- -----------------------------------------------------------------------
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+          INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+      (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+
+<PAGE>
+                                                              Page 6 of 6 Pages
+
+
+                         AMENDMENT NO. 1 to SCHEDULE 13D
+
+     This amended  statement  relates to shares of Common Stock,  $.01 par value
+per share,  (the  "Common  Stock") of Universal  Hospital  Services,  Inc.  (the
+"Issuer" or the "Company"). Wynnefield Partners Small Cap Value, L.P., a limited
+partnership  formed under the laws of Delaware  (the  "Partnership"),  initially
+filed this statement on behalf of the Partnership and Channel  Partnership II, a
+limited   partnership   formed   under  the  laws  of  New  Jersey   ("Channel")
+(collectively, the "Reporting Persons") on December 13, 1996 to report ownership
+of shares of the Common Stock. This Amendment No. 1, effectively  terminates the
+Section  13(d)  reporting  obligations  of the  Reporting  Persons  because  the
+Reporting  Persons,  both  individually  and  collectively,  are  currently  the
+beneficial  owners of less than 5% of the Common  Stock.  This  Amendment  No. 1
+amends and supplements Items 3, 4, 5, and 7 of the initial Schedule 13D filed by
+the Reporting Persons.
+
+Item 3.  Source and Amount of Funds or Other Consideration
+
+     No change except for the addition of the following:
+
+     The Partnership  sold 25,000 shares of Common Stock for $429,688 in cash on
+March 21, 1997,  and sold 100,000  shares of Common Stock for $1,712,500 in cash
+on March 24, 1997.
+
+Item 4.  Purpose of Transaction
+
+     Item 4 is amended and restated as follows:
+
+     At the time the  Reporting  Persons  filed their  initial  Schedule  13D on
+December 13, 1996 with respect to the Common Stock,  the Reporting  Persons were
+concerned  with certain  actions taken by the Issuer's  Board of Directors.  The
+Reporting Persons no longer hold the concerns  expressed in the initial Schedule
+13D. As explained in Item 5(e), the Partnership  recently sold 125,000 shares of
+Common  Stock,  bringing  the  Reporting  Persons'  percentage  ownership of the
+outstanding Common Stock below 5%.
+
+     The Reporting  Persons do not have any present intention to take any action
+with respect to the matters  listed in items (b) through (j) of this Item 4. The
+Reporting  Persons may each  dispose of or acquire  additional  shares of Common
+Stock.   The  Reporting   Persons  each  intend  to  exercise  their  rights  as
+shareholders  to vote  for or  against  any  matter  in  accordance  with  their
+respective best interests.
+
+Item 5.  Interest in Securities of the Issuer
+
+         Item 5 (a) is amended and restated as follows:
+
+     (a) According to the Issuer's Form 10-Q for the period ending September 30,
+1996, as of October 31, 1996,  the Issuer had issued and  outstanding  5,357,218
+shares of Common Stock.
+
+     The  Partnership is the  beneficial  owner of 138,000 shares or 2.6% of the
+outstanding  Common Stock.  Channel is the  beneficial  owner of 5,700 shares or
+0.1% of the outstanding Common Stock.
+
+     The  Reporting  Persons may  constitute a group for purposes of  Regulation
+13D.  As a member of a group,  each of the  Reporting  Persons  may be deemed to
+beneficially  own the shares of Common Stock  beneficially  owned by each of the
+other Reporting  Persons,  which in the aggregate is 143,700 of the total shares
+or 2.7% of the Common Stock outstanding.
+
+     Neither the filing of this  Schedule 13D nor any of its  contents  shall be
+deemed to constitute an admission  that any Reporting  Person is the  beneficial
+owner of any of the shares of Common Stock owned by another Reporting Person for
+purposes of Section 13(d) of the Exchange Act or for any other purpose, and such
+beneficial ownership is expressly disclaimed.
+
+     (b) No change.
+
+     (c) Item 5(c) is amended and restated as follows:
+
+     During the past sixty days, the following  transactions in the Common Stock
+were effected:
+
+     On March 21, 1997, the  Partnership  sold 25,000 shares of Common Stock for
+$429,688. On March 24, 1997, the Partnership sold 100,000 shares of Common Stock
+for $1,712,500.
+
+     (d) No change.
+
+     (e) Item 5(d) is amended and restated as follows:
+
+     On March 21, 1997,  due to the  Partnership's  sale of 25,000 shares of the
+Common Stock, the Reporting  Persons ceased to be the beneficial  owners of five
+percent of the Common Stock.
+
+Item 7.  Material to Be Filed as Exhibits
+
+     Item 7 is amended and restated as follows:
+
+     Exhibit A - Joint Filing  Agreement  (incorporated  by  reference  from the
+initial Schedule 13D)
+
+
+
+Signature
+
+     After  reasonable  inquiry and to the best of my  knowledge  and belief,  I
+certify that the information  set forth in this statement is true,  complete and
+correct.
+
+Dated:            March 31, 1997
+
+WYNNEFIELD PARTNERS SMALL CAP VALUE, L.P.
+
+
+By:  /s/ Joshua Landes
+         Joshua Landes
+         General Partner
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

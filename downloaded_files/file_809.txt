@@ -1,0 +1,1288 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SrOPDGNVPqs1EG1q38SP/9Py7RbxLnmSCxiTOySBZp3cqmA+eC0mHd4M/eiSWFLG
+ 0kFYHUp/jm9kwJ8YwiqBCw==
+
+<SEC-DOCUMENT>0000903893-97-000184.txt : 19970221
+<SEC-HEADER>0000903893-97-000184.hdr.sgml : 19970221
+ACCESSION NUMBER:		0000903893-97-000184
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970210
+SROS:			NONE
+GROUP MEMBERS:		A.R. HABERKORN, III
+GROUP MEMBERS:		FRANCES M. HAWK
+GROUP MEMBERS:		HLM ASSOCIATES II, L.P.
+GROUP MEMBERS:		HLM ASSOCIATES III/IV, L.P.
+GROUP MEMBERS:		HLM ASSOCIATES VI, L.P.
+GROUP MEMBERS:		HLM MANAGEMENT CO INC
+GROUP MEMBERS:		HLM MANAGEMENT CO. INC.
+GROUP MEMBERS:		HLM PARTNERS II, L.P.
+GROUP MEMBERS:		HLM PARTNERS IV, L.P.
+GROUP MEMBERS:		JAMES J. MAHONEY, JR.
+GROUP MEMBERS:		JUDITH P. LAWRIE
+GROUP MEMBERS:		PETER J. GRUA
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SAGA COMMUNICATIONS INC
+		CENTRAL INDEX KEY:			0000886136
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO BROADCASTING STATIONS [4832]
+		IRS NUMBER:				383042953
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-42921
+		FILM NUMBER:		97521684
+
+	BUSINESS ADDRESS:	
+		STREET 1:		73 KERCHEVAL AVE
+		CITY:			GROSSE POINTE FARMS
+		STATE:			MI
+		ZIP:			48236
+		BUSINESS PHONE:		3138867070
+
+	MAIL ADDRESS:	
+		STREET 2:		73 KERCHEVAL AVE
+		CITY:			GROSSE POINTE FARMS
+		STATE:			MI
+		ZIP:			48236
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HLM MANAGEMENT CO INC
+		CENTRAL INDEX KEY:			0000938635
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		IRS NUMBER:				042803046
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		222 BERKELEY ST
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		6172600030
+
+	MAIL ADDRESS:	
+		STREET 1:		222 BERKELEY ST
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D (AMENDMENT NO. 1)
+<TEXT>
+
+
+                                                  ------------------------------
+                                                           OMB APPROVAL
+                                                  ------------------------------
+                        UNITED STATES             OMB Number:       3235-0145
+             SECURITIES AND EXCHANGE COMMISSION   Expires:      October 31, 1997
+                   Washington, D.C. 20549         Estimated average burden 
+                                                  hours per response.......14.90
+                                                  ------------------------------
+
+                                  SCHEDULE 13D
+                    Under the Securities Exchange Act of 1934
+                               (Amendment No. 1)*
+
+                            Saga Communications, Inc.
+- --------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+
+                      Class A Common Stock, $.01 par value
+- --------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+                                    78659810
+                             ----------------------
+                                 (CUSIP Number)
+
+               Howard S. Rosenblum, Esq., Harold F. Pfister, Esq.
+                         Testa, Hurwitz & Thibeault, LLP
+                       High Street Tower, 125 High Street
+                           Boston, Massachusetts 02110
+                                 (617) 248-7000
+- --------------------------------------------------------------------------------
+            (Name, Address and Telephone Number of Person Authorized
+                     to Receive Notices and Communications)
+
+                               September 24, 1996
+- --------------------------------------------------------------------------------
+             (Date of Event which Requires Filing of this Statement)
+
+
+If the filing person has previously  filed a statement on Schedule 13G to report
+the  acquisition  which is the subject of this  Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4), check the following box .
+
+NOTE: Six copies of this statement, including all exhibits, should be filed with
+the  Commission.  See Rule  13d-1(a) for other  parties to whom copies are to be
+sent.
+
+*The  remainder of this cover page shall be filled out for a reporting  person's
+initial filing on this form with respect to the subject class of securities, and
+for any  subsequent  amendment  containing  information  which  would  alter the
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the  Securities  Exchange  Act of
+1934 ("Act") or otherwise  subject to the liabilities of that section of the Act
+but  shall be  subject  to all other  provisions  of the Act  (however,  see the
+Notes).
+
+
+
+
+
+
+
+
+                                  SCHEDULE 13D
+
+- --------------------------------------------------------------------------------
+CUSIP NO.   78659810                                          Page 2 of 18 Pages
+         -------------------                                    
+- --------------------------------------------------------------------------------
+    1      NAME OF REPORTING PERSON
+
+                              HLM PARTNERS VI, L.P.
+
+           S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+                                   04-3173219
+
+- ---------- ---------------------------------------------------------------------
+    2      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*            (a) [ ]
+                                                                        (b) [ ]
+
+- ---------- ---------------------------------------------------------------------
+    3      SEC USE ONLY
+
+
+- ---------- ---------------------------------------------------------------------
+    4      SOURCE OF FUNDS*
+                                       WC
+
+- ---------- ---------------------------------------------------------------------
+    5      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED          [ ]
+           PURSUANT TO ITEMS 2(d) or 2(e)
+
+- ---------- ---------------------------------------------------------------------
+    6      CITIZENSHIP OR PLACE OF ORGANIZATION
+                                    Delaware
+
+- ---------- ---------------------------------------------------------------------
+                                7     SOLE VOTING POWER
+                                                                        0
+         NUMBER OF
+                             -------- ------------------------------------------
+          SHARES                8     SHARED VOTING POWER
+       BENEFICIALLY                                                     0
+         OWNED BY
+                             -------- ------------------------------------------
+           EACH                 9     SOLE DISPOSITIVE POWER
+         REPORTING                                                      0
+          PERSON
+                             -------- ------------------------------------------
+           WITH                10     SHARED DISPOSITIVE POWER
+                                                                        0
+
+- ---------- ---------------------------------------------------------------------
+   11      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   12      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN    [ ]
+           SHARES*
+
+- ---------- ---------------------------------------------------------------------
+   13      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   14      TYPE OF REPORTING PERSON *
+                                       PN
+- ---------- ---------------------------------------------------------------------
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+
+
+
+
+
+                                  SCHEDULE 13D
+
+- --------------------------------------------------------------------------------
+CUSIP NO.   78659810                                          Page 3 of 18 Pages
+         -------------------                                    
+- --------------------------------------------------------------------------------
+    1      NAME OF REPORTING PERSON
+
+                             HLM ASSOCIATES VI, L.P.
+
+           S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+                                   04-3215396
+
+- ---------- ---------------------------------------------------------------------
+    2      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*            (a) [ ]
+                                                                        (b) [ ]
+
+- ---------- ---------------------------------------------------------------------
+    3      SEC USE ONLY
+
+
+- ---------- ---------------------------------------------------------------------
+    4      SOURCE OF FUNDS*
+                                       AF
+
+- ---------- ---------------------------------------------------------------------
+    5      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED          [ ]
+           PURSUANT TO ITEMS 2(d) or 2(e)
+
+- ---------- ---------------------------------------------------------------------
+    6      CITIZENSHIP OR PLACE OF ORGANIZATION
+                                    Delaware
+
+- ---------- ---------------------------------------------------------------------
+                                7     SOLE VOTING POWER
+                                                                        0
+         NUMBER OF
+                             -------- ------------------------------------------
+          SHARES                8     SHARED VOTING POWER
+       BENEFICIALLY                                                     0
+         OWNED BY
+                             -------- ------------------------------------------
+           EACH                 9     SOLE DISPOSITIVE POWER
+         REPORTING                                                      0
+          PERSON
+                             -------- ------------------------------------------
+           WITH                10     SHARED DISPOSITIVE POWER
+                                                                        0
+
+- ---------- ---------------------------------------------------------------------
+   11      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   12      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN    [ ]
+           SHARES*
+
+- ---------- ---------------------------------------------------------------------
+   13      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   14      TYPE OF REPORTING PERSON *
+                                       PN
+- ---------- ---------------------------------------------------------------------
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+
+
+
+
+                                  SCHEDULE 13D
+
+- --------------------------------------------------------------------------------
+CUSIP NO.   78659810                                          Page 4 of 18 Pages
+         -------------------                                    
+- --------------------------------------------------------------------------------
+    1      NAME OF REPORTING PERSON
+
+                              HLM PARTNERS II, L.P.
+
+           S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+                                   04-2919259
+
+- ---------- ---------------------------------------------------------------------
+    2      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*            (a) [ ]
+                                                                        (b) [ ]
+
+- ---------- ---------------------------------------------------------------------
+    3      SEC USE ONLY
+
+
+- ---------- ---------------------------------------------------------------------
+    4      SOURCE OF FUNDS*
+                                       WC
+
+- ---------- ---------------------------------------------------------------------
+    5      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED          [ ]
+           PURSUANT TO ITEMS 2(d) or 2(e)
+
+- ---------- ---------------------------------------------------------------------
+    6      CITIZENSHIP OR PLACE OF ORGANIZATION
+                                    Delaware
+
+- ---------- ---------------------------------------------------------------------
+                                7     SOLE VOTING POWER
+                                                                        0
+         NUMBER OF
+                             -------- ------------------------------------------
+          SHARES                8     SHARED VOTING POWER
+       BENEFICIALLY                                                     0
+         OWNED BY
+                             -------- ------------------------------------------
+           EACH                 9     SOLE DISPOSITIVE POWER
+         REPORTING                                                      0
+          PERSON
+                             -------- ------------------------------------------
+           WITH                10     SHARED DISPOSITIVE POWER
+                                                                        0
+
+- ---------- ---------------------------------------------------------------------
+   11      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   12      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN    [ ]
+           SHARES*
+
+- ---------- ---------------------------------------------------------------------
+   13      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   14      TYPE OF REPORTING PERSON *
+                                       PN
+- ---------- ---------------------------------------------------------------------
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+
+
+
+                                  SCHEDULE 13D
+
+- --------------------------------------------------------------------------------
+CUSIP NO.   78659810                                          Page 5 of 18 Pages
+         -------------------                                    
+- --------------------------------------------------------------------------------
+    1      NAME OF REPORTING PERSON
+
+                              HLM ASSOCIATES II, L.P.
+
+           S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+                                   04-2919258
+
+- ---------- ---------------------------------------------------------------------
+    2      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*            (a) [ ]
+                                                                        (b) [ ]
+
+- ---------- ---------------------------------------------------------------------
+    3      SEC USE ONLY
+
+
+- ---------- ---------------------------------------------------------------------
+    4      SOURCE OF FUNDS*
+                                       AF
+
+- ---------- ---------------------------------------------------------------------
+    5      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED          [ ]
+           PURSUANT TO ITEMS 2(d) or 2(e)
+
+- ---------- ---------------------------------------------------------------------
+    6      CITIZENSHIP OR PLACE OF ORGANIZATION
+                                    Delaware
+
+- ---------- ---------------------------------------------------------------------
+                                7     SOLE VOTING POWER
+                                                                        0
+         NUMBER OF
+                             -------- ------------------------------------------
+          SHARES                8     SHARED VOTING POWER
+       BENEFICIALLY                                                     0
+         OWNED BY
+                             -------- ------------------------------------------
+           EACH                 9     SOLE DISPOSITIVE POWER
+         REPORTING                                                      0
+          PERSON
+                             -------- ------------------------------------------
+           WITH                10     SHARED DISPOSITIVE POWER
+                                                                        0
+
+- ---------- ---------------------------------------------------------------------
+   11      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   12      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN    [ ]
+           SHARES*
+
+- ---------- ---------------------------------------------------------------------
+   13      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   14      TYPE OF REPORTING PERSON *
+                                       PN
+- ---------- ---------------------------------------------------------------------
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+
+
+
+
+
+
+                                  SCHEDULE 13D
+
+- --------------------------------------------------------------------------------
+CUSIP NO.   78659810                                          Page 6 of 18 Pages
+         -------------------                                    
+- --------------------------------------------------------------------------------
+    1      NAME OF REPORTING PERSON
+
+                              HLM PARTNERS IV, L.P.
+
+           S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+                                   04-3128419
+
+- ---------- ---------------------------------------------------------------------
+    2      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*            (a) [ ]
+                                                                        (b) [ ]
+
+- ---------- ---------------------------------------------------------------------
+    3      SEC USE ONLY
+
+
+- ---------- ---------------------------------------------------------------------
+    4      SOURCE OF FUNDS*
+                                       WC
+
+- ---------- ---------------------------------------------------------------------
+    5      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED         [ ]
+           PURSUANT TO ITEMS 2(d) or 2(e)
+
+- ---------- ---------------------------------------------------------------------
+    6      CITIZENSHIP OR PLACE OF ORGANIZATION
+                                    Delaware
+
+- ---------- ---------------------------------------------------------------------
+                                7     SOLE VOTING POWER
+                                                                        0
+         NUMBER OF
+                             -------- ------------------------------------------
+          SHARES                8     SHARED VOTING POWER
+       BENEFICIALLY                                                     0
+         OWNED BY
+                             -------- ------------------------------------------
+           EACH                 9     SOLE DISPOSITIVE POWER
+         REPORTING                                                      0
+          PERSON
+                             -------- ------------------------------------------
+           WITH                10     SHARED DISPOSITIVE POWER
+                                                                        0
+
+- ---------- ---------------------------------------------------------------------
+   11      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   12      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN   [ ]
+           SHARES*
+
+- ---------- ---------------------------------------------------------------------
+   13      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   14      TYPE OF REPORTING PERSON *
+                                       PN
+- ---------- ---------------------------------------------------------------------
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+
+
+
+
+                                  SCHEDULE 13D
+
+- --------------------------------------------------------------------------------
+CUSIP NO.   78659810                                          Page 7 of 18 Pages
+         -------------------                                    
+- --------------------------------------------------------------------------------
+    1      NAME OF REPORTING PERSON
+
+                            HLM ASSOCIATES III/IV, L.P.
+
+           S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+                                   04-3128422
+
+- ---------- ---------------------------------------------------------------------
+    2      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*            (a) [ ]
+                                                                        (b) [ ]
+
+- ---------- ---------------------------------------------------------------------
+    3      SEC USE ONLY
+
+
+- ---------- ---------------------------------------------------------------------
+    4      SOURCE OF FUNDS*
+                                       AF
+
+- ---------- ---------------------------------------------------------------------
+    5      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED         [ ]
+           PURSUANT TO ITEMS 2(d) or 2(e)
+
+- ---------- ---------------------------------------------------------------------
+    6      CITIZENSHIP OR PLACE OF ORGANIZATION
+                                    Delaware
+
+- ---------- ---------------------------------------------------------------------
+                                7     SOLE VOTING POWER
+                                                                        0
+         NUMBER OF
+                             -------- ------------------------------------------
+          SHARES                8     SHARED VOTING POWER
+       BENEFICIALLY                                                     0
+         OWNED BY
+                             -------- ------------------------------------------
+           EACH                 9     SOLE DISPOSITIVE POWER
+         REPORTING                                                      0
+          PERSON
+                             -------- ------------------------------------------
+           WITH                10     SHARED DISPOSITIVE POWER
+                                                                        0
+
+- ---------- ---------------------------------------------------------------------
+   11      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   12      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN    [ ]
+           SHARES*
+
+- ---------- ---------------------------------------------------------------------
+   13      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   14      TYPE OF REPORTING PERSON *
+                                       PN
+- ---------- ---------------------------------------------------------------------
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+
+
+
+
+                                  SCHEDULE 13D
+
+- --------------------------------------------------------------------------------
+CUSIP NO.   78659810                                          Page 8 of 18 Pages
+         -------------------                                    
+- --------------------------------------------------------------------------------
+    1      NAME OF REPORTING PERSON
+
+                              HLM MANAGEMENT CO. INC.
+
+           S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+                                   04-2803046
+
+- ---------- ---------------------------------------------------------------------
+    2      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*            (a) [ ]
+                                                                        (b) [ ]
+
+- ---------- ---------------------------------------------------------------------
+    3      SEC USE ONLY
+
+
+- ---------- ---------------------------------------------------------------------
+    4      SOURCE OF FUNDS*
+                                       A
+
+- ---------- ---------------------------------------------------------------------
+    5      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED         [ ]
+           PURSUANT TO ITEMS 2(d) or 2(e)
+
+- ---------- ---------------------------------------------------------------------
+    6      CITIZENSHIP OR PLACE OF ORGANIZATION
+                                    Delaware
+
+- ---------- ---------------------------------------------------------------------
+                                7     SOLE VOTING POWER
+                                                                        0
+         NUMBER OF
+                             -------- ------------------------------------------
+          SHARES                8     SHARED VOTING POWER
+       BENEFICIALLY                                                     0
+         OWNED BY
+                             -------- ------------------------------------------
+           EACH                 9     SOLE DISPOSITIVE POWER
+         REPORTING                                                      0
+          PERSON
+                             -------- ------------------------------------------
+           WITH                10     SHARED DISPOSITIVE POWER
+                                                                        0
+
+- ---------- ---------------------------------------------------------------------
+   11      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   12      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN    [ ]
+           SHARES*
+
+- ---------- ---------------------------------------------------------------------
+   13      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   14      TYPE OF REPORTING PERSON *
+                                       CO
+- ---------- ---------------------------------------------------------------------
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+
+
+
+                                  SCHEDULE 13D
+
+- --------------------------------------------------------------------------------
+CUSIP NO.   78659810                                          Page 9 of 18 Pages
+         -------------------                                    
+- --------------------------------------------------------------------------------
+    1      NAME OF REPORTING PERSON
+
+                              A.R. HABERKORN, III
+
+           S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+                                   ###-##-####
+
+- ---------- ---------------------------------------------------------------------
+    2      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*            (a) [ ]
+                                                                        (b) [ ]
+
+- ---------- ---------------------------------------------------------------------
+    3      SEC USE ONLY
+
+
+- ---------- ---------------------------------------------------------------------
+    4      SOURCE OF FUNDS*
+                                       AF
+- ---------- ---------------------------------------------------------------------
+    5      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED          [ ]
+           PURSUANT TO ITEMS 2(d) or 2(e)
+
+- ---------- ---------------------------------------------------------------------
+    6      CITIZENSHIP OR PLACE OF ORGANIZATION
+                                    Delaware
+
+- ---------- ---------------------------------------------------------------------
+                                7     SOLE VOTING POWER
+                                                                        0
+         NUMBER OF
+                             -------- ------------------------------------------
+          SHARES                8     SHARED VOTING POWER
+       BENEFICIALLY                                                     0
+         OWNED BY
+                             -------- ------------------------------------------
+           EACH                 9     SOLE DISPOSITIVE POWER
+         REPORTING                                                      0
+          PERSON
+                             -------- ------------------------------------------
+           WITH                10     SHARED DISPOSITIVE POWER
+                                                                        0
+
+- ---------- ---------------------------------------------------------------------
+   11      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   12      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN    [ ]
+           SHARES*
+
+- ---------- ---------------------------------------------------------------------
+   13      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   14      TYPE OF REPORTING PERSON *
+                                       IN
+- ---------- ---------------------------------------------------------------------
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+
+
+
+                                  SCHEDULE 13D
+
+- --------------------------------------------------------------------------------
+CUSIP NO.   78659810                                         Page 10 of 18 Pages
+         -------------------                                    
+- --------------------------------------------------------------------------------
+    1      NAME OF REPORTING PERSON
+
+                                JUDITH P. LAWRIE
+
+           S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+                                   ###-##-####
+
+- ---------- ---------------------------------------------------------------------
+    2      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*            (a) [ ]
+                                                                        (b) [ ]
+
+- ---------- ---------------------------------------------------------------------
+    3      SEC USE ONLY
+
+
+- ---------- ---------------------------------------------------------------------
+    4      SOURCE OF FUNDS*
+                                       AF
+
+- ---------- ---------------------------------------------------------------------
+    5      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED          [ ]
+           PURSUANT TO ITEMS 2(d) or 2(e)
+
+- ---------- ---------------------------------------------------------------------
+    6      CITIZENSHIP OR PLACE OF ORGANIZATION
+                                    Delaware
+
+- ---------- ---------------------------------------------------------------------
+                                7     SOLE VOTING POWER
+                                                                        0
+         NUMBER OF
+                             -------- ------------------------------------------
+          SHARES                8     SHARED VOTING POWER
+       BENEFICIALLY                                                     0
+         OWNED BY
+                             -------- ------------------------------------------
+           EACH                 9     SOLE DISPOSITIVE POWER
+         REPORTING                                                      0
+          PERSON
+                             -------- ------------------------------------------
+           WITH                10     SHARED DISPOSITIVE POWER
+                                                                        0
+
+- ---------- ---------------------------------------------------------------------
+   11      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   12      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN   [ ]
+           SHARES*
+
+- ---------- ---------------------------------------------------------------------
+   13      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   14      TYPE OF REPORTING PERSON *
+                                       IN
+- ---------- ---------------------------------------------------------------------
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+
+
+
+                                  SCHEDULE 13D
+
+- --------------------------------------------------------------------------------
+CUSIP NO.   78659810                                         Page 11 of 18 Pages
+         -------------------                                    
+- --------------------------------------------------------------------------------
+    1      NAME OF REPORTING PERSON
+
+                              JAMES J. MAHONEY, JR.
+
+           S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+                                   ###-##-####
+
+- ---------- ---------------------------------------------------------------------
+    2      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*            (a) [ ]
+                                                                        (b) [ ]
+
+- ---------- ---------------------------------------------------------------------
+    3      SEC USE ONLY
+
+
+- ---------- ---------------------------------------------------------------------
+    4      SOURCE OF FUNDS*
+                                       AF
+
+- ---------- ---------------------------------------------------------------------
+    5      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED         [ ]
+           PURSUANT TO ITEMS 2(d) or 2(e)
+
+- ---------- ---------------------------------------------------------------------
+    6      CITIZENSHIP OR PLACE OF ORGANIZATION
+                                    Delaware
+
+- ---------- ---------------------------------------------------------------------
+                                7     SOLE VOTING POWER
+                                                                        0
+         NUMBER OF
+                             -------- ------------------------------------------
+          SHARES                8     SHARED VOTING POWER
+       BENEFICIALLY                                                     0
+         OWNED BY
+                             -------- ------------------------------------------
+           EACH                 9     SOLE DISPOSITIVE POWER
+         REPORTING                                                      0
+          PERSON
+                             -------- ------------------------------------------
+           WITH                10     SHARED DISPOSITIVE POWER
+                                                                        0
+
+- ---------- ---------------------------------------------------------------------
+   11      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   12      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN   [ ]
+           SHARES*
+
+- ---------- ---------------------------------------------------------------------
+   13      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   14      TYPE OF REPORTING PERSON *
+                                       IN
+- ---------- ---------------------------------------------------------------------
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+
+
+
+                                  SCHEDULE 13D
+
+- --------------------------------------------------------------------------------
+CUSIP NO.   78659810                                         Page 12 of 18 Pages
+         -------------------                                    
+- --------------------------------------------------------------------------------
+    1      NAME OF REPORTING PERSON
+
+                                  PETER J. GRUA
+
+           S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+                                   ###-##-####
+
+- ---------- ---------------------------------------------------------------------
+    2      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*            (a) [ ]
+                                                                        (b) [ ]
+
+- ---------- ---------------------------------------------------------------------
+    3      SEC USE ONLY
+
+
+- ---------- ---------------------------------------------------------------------
+    4      SOURCE OF FUNDS*
+                                       AF
+
+- ---------- ---------------------------------------------------------------------
+    5      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED         [ ]
+           PURSUANT TO ITEMS 2(d) or 2(e)
+
+- ---------- ---------------------------------------------------------------------
+    6      CITIZENSHIP OR PLACE OF ORGANIZATION
+                                       USA
+
+- ---------- ---------------------------------------------------------------------
+                                7     SOLE VOTING POWER
+                                                                        0
+         NUMBER OF
+                             -------- ------------------------------------------
+          SHARES                8     SHARED VOTING POWER
+       BENEFICIALLY                                                     0
+         OWNED BY
+                             -------- ------------------------------------------
+           EACH                 9     SOLE DISPOSITIVE POWER
+         REPORTING                                                      0
+          PERSON
+                             -------- ------------------------------------------
+           WITH                10     SHARED DISPOSITIVE POWER
+                                                                        0
+
+- ---------- ---------------------------------------------------------------------
+   11      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   12      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN    [ ]
+           SHARES*
+
+- ---------- ---------------------------------------------------------------------
+   13      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                                        0%
+
+- ---------- ---------------------------------------------------------------------
+   14      TYPE OF REPORTING PERSON *
+                                       IN
+- ---------- ---------------------------------------------------------------------
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+
+
+
+
+                                  SCHEDULE 13D
+
+- --------------------------------------------------------------------------------
+CUSIP NO.   78659810                                         Page 13 of 18 Pages
+         -------------------                                    
+- --------------------------------------------------------------------------------
+    1      NAME OF REPORTING PERSON
+
+                              FRANCES M. HAWK
+
+           S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+                               ###-##-####
+
+- ---------- ---------------------------------------------------------------------
+    2      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*            (a) [ ]
+                                                                        (b) [ ]
+
+- ---------- ---------------------------------------------------------------------
+    3      SEC USE ONLY
+
+
+- ---------- ---------------------------------------------------------------------
+    4      SOURCE OF FUNDS*
+                                       AF
+
+- ---------- ---------------------------------------------------------------------
+    5      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED          [ ]
+           PURSUANT TO ITEMS 2(d) or 2(e)
+
+- ---------- ---------------------------------------------------------------------
+    6      CITIZENSHIP OR PLACE OF ORGANIZATION
+                                    U.S.A.
+
+- ---------- ---------------------------------------------------------------------
+                                7     SOLE VOTING POWER
+                                                                        0
+         NUMBER OF
+                             -------- ------------------------------------------
+          SHARES                8     SHARED VOTING POWER
+       BENEFICIALLY                                                     0
+         OWNED BY
+                             -------- ------------------------------------------
+           EACH                 9     SOLE DISPOSITIVE POWER
+         REPORTING                                                      0
+          PERSON
+                             -------- ------------------------------------------
+           WITH                10     SHARED DISPOSITIVE POWER
+                                                                        0
+
+- ---------- ---------------------------------------------------------------------
+   11      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+                                        0
+
+- ---------- ---------------------------------------------------------------------
+   12      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN    [ ]
+           SHARES*
+
+- ---------- ---------------------------------------------------------------------
+   13      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+                                        0%
+
+- ---------- ---------------------------------------------------------------------
+   14      TYPE OF REPORTING PERSON *
+                                       IN
+- ---------- ---------------------------------------------------------------------
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+
+
+
+Item 1.  Security and Issuer
+
+         This  statement  relates  to shares of Class A common  stock,  $.01 par
+value (the "Common Stock"), of Saga Communications, Inc. (the "Company"), having
+its principal  offices at 73 Kercheval  Avenue,  Grosse  Pointe Farms,  Michigan
+48236.
+
+Item 2.  Identity and Background
+
+         This  statement is being filed by HLM  Partners  VI, L.P.  ("HLM 6"), a
+Delaware limited  partnership;  the general partner of HLM 6, HLM Associates VI,
+L.P.  ("Associates  6"), a Delaware limited  partnership;  HLM Partners II, L.P.
+("HLM 2"), a Delaware  limited  partnership;  the general  partner of HLM 2, HLM
+Associates  II,  L.P.  ("Associates  2"), a Delaware  limited  partnership;  HLM
+Partners IV, L.P. ("HLM 4"), a Delaware limited partnership; the general partner
+of HLM 4, HLM  Associates  III/IV,  L.P.  ("Associates  4"), a Delaware  limited
+partnership;  HLM Management Co., Inc.  ("Management Co."), the managing general
+partner of Associates 2, 4 and 6; three general  partners of Associates 2, 4 and
+6: A.R.  Haberkorn,  III,  Judith P. Lawrie and James J.  Mahoney,  Jr.; and two
+additional  general  partners of Associates 6: Peter J. Grua and Frances M. Hawk
+(Haberkorn, Lawrie, Mahoney, Grua and Hawk collectively, the "Individual General
+Partners").  Each of the  foregoing  persons and  entities  shall be referred to
+herein  individually  as a "Reporting  Person" or collectively as the "Reporting
+Persons."
+
+         The  principal  business  of  each of HLM 2, 4 and 6 is  investment  in
+entrepreneurial  growth companies.  The principal business of each of Associates
+2, 4 and 6 is management of HLM 2, 4 and 6, respectively. Each of the Individual
+General Partners' principal occupation is his or her activities on behalf of HLM
+2, Associates 2, HLM 4, Associates 4, HLM 6, Associates 6 and Management Co. and
+affiliated  funds.  Management Co. is  wholly-owned  by the  Individual  General
+Partners and is engaged in  providing  management,  administrative  and clerical
+services for HLM 2, 4 and 6 and affiliated funds.
+
+         The principal  business address of each of the Reporting Persons is 222
+Berkeley Street, Boston, Massachusetts 02116.
+
+         During the five years prior to the date hereof,  none of the  Reporting
+Persons have been  convicted in a criminal  proceeding  or has been a party to a
+civil  proceeding  ending in a judgment,  decree or final order enjoining future
+violations  of, or prohibiting  or mandating  activities  subject to, federal or
+state securities laws or finding any violation with respect to such laws.
+
+         All of the Individual General Partners are United States citizens.
+
+Item 3.  Source and Amount of Funds or Other Consideration
+
+
+
+
+
+                                 Page 14 of 18
+
+
+
+
+         HLM 2, 4 and 6  acquired  a total of  300,000  shares of Class A Common
+Stock (the "Shares") in open market  transactions  during a period  beginning on
+September  12, 1994 and ending on May 22,  1995.  The Shares were  purchased  at
+prices ranging from $14.045 to $20.36 per share, for an aggregate purchase price
+of $4,985,981  which amount was derived from the working capital of HLM 2, 4 and
+6.
+
+Item 4.  Purpose of the Transaction
+
+         Each of HLM 2, 4 and 6 has sold shares of the Company's Common Stock as
+a result of investment decisions.
+
+         Depending upon market  conditions,  their continuing  evaluation of the
+business and prospects of the Company and other factors,  the Reporting  Persons
+may buy or sell  additional  shares in the open  market.  None of the  Reporting
+Persons has any present plans which relate to or would result in:
+
+         (a)  An  extraordinary   corporate  transaction,   such  as  a  merger,
+reorganization or liquidation, involving the Company or any of its subsidiaries;
+
+         (b) A sale or transfer of a material amount of assets of the Company or
+any of its subsidiaries;
+
+         (c) Any change in the present  board of directors or  management of the
+Company;
+
+         (d) Any  material  change in the  present  capitalization  or  dividend
+policy of the Company;
+
+         (e) Any other  material  change in the Company's  business or corporate
+structure;
+
+         (f) Changes in the  Company's  charter or bylaws or other actions which
+may impede the acquisition of control of the Company by any person;
+
+         (g) Causing a class of  securities of the Company to be delisted from a
+national  securities  exchange or to cease to be  authorized  to be quoted in an
+inter-dealer quotation system of a registered national securities association;
+
+         (h) A class of equity  securities of the Company becoming  eligible for
+termination  of  registration  pursuant to Section  12(g)(4)  of the  Securities
+Exchange Act of 1934; or
+
+         (i) Any action similar to any of those enumerated above.
+
+Item 5.  Interest in Securities of the Issuer
+
+
+
+
+                                 Page 15 of 18
+
+
+
+
+         THIS  AMENDMENT  NO.  1 TO THE  SCHEDULE  13D  ORIGINALLY  FILED BY THE
+REPORTING  PERSONS  IS FILED TO  REFLECT  THE  SALE(S)  OF ALL SHARES OF CLASS A
+COMMON STOCK PREVIOUSLY  REPORTED THEREIN AS BENEFICIALLY OWNED, OR DEEMED TO BE
+BENEFICIALLY  OWNED, BY THE REPORTING PERSONS.  NO REPORTING PERSON CONTINUES TO
+HOLD SOLE OR SHARED  POWERS TO VOTE OR TO DIRECT THE VOTE OR TO DISPOSE OF OR TO
+DIRECT THE DISPOSITION OF ANY SHARES OF CLASS A COMMON STOCK.
+
+Item 6.  Contracts,  Arrangements,  Understandings or Relationships With Respect
+         to Securities of the Issuer
+
+         Except  as  described   elsewhere  herein,   there  are  no  contracts,
+arrangements, understandings, or relationships (legal or otherwise) among any of
+the Reporting  Persons or between any Reporting Person and any other person with
+respect  to any  securities  of the  Company,  including,  but not  limited  to,
+transfer or voting of any of the securities, finder's fees, joint ventures, loan
+or option  arrangements,  puts or calls,  guarantees  of  profits,  division  of
+profits or loss or the giving or withholding of proxies.
+
+Item 7.  Material to be Filed as Exhibit
+
+         Exhibit  1  -  Agreement   regarding   filing  of  joint  Schedule  13D
+incorporated by reference.
+
+
+
+
+
+                              Page 16 of 18 pages
+
+
+
+
+
+                                   SIGNATURES
+
+         After  reasonable  inquiry and to the best of our knowledge and belief,
+we certify that the  information  set forth in this statement is true,  complete
+and correct. We also hereby agree to file this statement jointly pursuant to the
+agreement incorporated by reference hereto.
+
+Dated: February 5, 1997                       HLM PARTNERS VI, L.P
+
+                                              By:  HLM Associates VI, L.P.
+
+                                              By:   HLM Management Co., Inc.,
+                                                    its Managing General Partner
+
+
+                                              By: /s/ Peter J. Grua
+                                                 -------------------------------
+                                              Title:  Director
+
+
+                                              HLM PARTNERS II, L.P.
+
+                                              By:  HLM Associates II, L.P.
+
+
+                                              By: /s/ James J. Mahoney, Jr.
+                                                 -------------------------------
+                                                  General Partner
+
+
+                                              HLM PARTNERS IV, L.P.
+
+                                              By:  HLM Associates III/IV, L.P.
+
+                                              By:   HLM Management Co., Inc.,
+                                                    its Managing General Partner
+
+
+                                              By: /s/ James J. Mahoney, Jr.
+                                                 -------------------------------
+                                              Title:  Director
+
+
+
+
+
+                              Page 17 of 18 pages
+
+
+
+
+
+                                                HLM ASSOCIATES VI, L.P.
+
+                                                By: HLM Management Co., Inc.,
+                                                    its Managing General Partner
+
+
+                                                By: /s/ Peter J. Grua
+                                                   -----------------------------
+                                                Title:   Director
+
+
+                                                HLM ASSOCIATES II, L.P.
+
+
+                                                By: /s/ James J. Mahoney, Jr.
+                                                   -----------------------------
+                                                         General Partner
+
+
+                                                HLM ASSOCIATES III/IV, L.P.
+
+                                                By: HLM Management Co., Inc.,
+                                                    its Managing General Partner
+
+
+                                                By: /s/ James J. Mahoney, Jr.
+                                                --------------------------------
+                                                Title:   Director
+
+
+                                                 /s/ A.R. Haberkorn, III
+                                                 -------------------------------
+                                                 A.R. Haberkorn, III
+
+
+                                                 /s/ Judith P. Lawrie
+                                                 -------------------------------
+                                                 Judith P. Lawrie
+
+
+                                                 /s/ James J. Mahoney, Jr.
+                                                 -------------------------------
+                                                 James J. Mahoney, Jr.
+
+
+                                                 /s/ Peter J. Grua
+                                                 -------------------------------
+                                                 Peter J. Grua
+
+
+                                                 /s/ Frances M. Hawk
+                                                 -------------------------------
+                                                 Frances M. Hawk
+
+
+
+
+                                 Page 18 of 18
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

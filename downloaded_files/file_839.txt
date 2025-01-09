@@ -1,0 +1,861 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Wxo1CSOdvxnt2naH2Ui1GlUqvd99B5VSSmOVE21GU4LLguSthczRmXujSxib8HZ/
+ ukzo5GbJ9RF5WmOMssiOKQ==
+
+<SEC-DOCUMENT>0001007000-97-000022.txt : 19970522
+<SEC-HEADER>0001007000-97-000022.hdr.sgml : 19970522
+ACCESSION NUMBER:		0001007000-97-000022
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970521
+SROS:			NONE
+GROUP MEMBERS:		ARIES DOMESTIC FUND, L.P.
+GROUP MEMBERS:		ARIES FINANCIAL SERVICES INC
+GROUP MEMBERS:		LINDSAY A. ROSENWALD, M.D.
+GROUP MEMBERS:		THE ARIES TRUST
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			XYTRONYX INC
+		CENTRAL INDEX KEY:			0000731252
+		STANDARD INDUSTRIAL CLASSIFICATION:	IN VITRO & IN VIVO DIAGNOSTIC SUBSTANCES [2835]
+		IRS NUMBER:				363258753
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-38017
+		FILM NUMBER:		97612215
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6730 MESA RIDGE ROAD
+		STREET 2:		SUITE A
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+		BUSINESS PHONE:		6195503900
+
+	MAIL ADDRESS:	
+		STREET 1:		6730 MESA RIDGE ROAD
+		STREET 2:		SUITE A
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ARIES FINANCIAL SERVICES INC
+		CENTRAL INDEX KEY:			0001007000
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		375 PARK AVENUE
+		STREET 2:		SUITE 1501
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10152
+		BUSINESS PHONE:		2128324379
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D AMENDMENT NO. 2
+<TEXT>
+
+
+
+                   SECURITIES AND EXCHANGE COMMISSION
+                         WASHINGTON, D.C.  20549 
+
+                      SCHEDULE 13D (Amendment No. 2)
+
+                Under the Securities Exchange Act of 1934
+
+
+                              Xytronyx, Inc.   
+                          ----------------------
+                             (Name of Issuer)
+
+
+                  Common Stock, par value $.01 per share
+                  --------------------------------------
+                     (Title of Class of Securities) 
+
+
+                                984175109           
+                        ---------------------------
+                              (CUSIP Number)
+
+
+                  Paramount Capital Asset Management, Inc.
+                       c/o Lindsay A. Rosenwald, M.D.
+                              787 Seventh Avenue
+                              New York, NY 10019
+                                (212) 554-4300 
+
+            (Name, Address and Telephone Number of Person Authorized
+                      to Receive Notices and Communications) 
+
+
+                             March 6, 1996
+                             -------------
+         (Date of Event which Requires Filing of this Statement)
+
+
+
+        If the filing person has previously filed a statement on
+        Schedule 13G to report the acquisition which is the
+        subject of this Statement because of Rule 13d-1(b)(3) or
+        (4), check the following:
+                                                          ( )
+
+        Check the following box if a fee is being paid with this
+        Statement:
+                                                          ( )
+
+
+
+      CUSIP NO. [984175109]               13D
+
+  1   NAMES OF REPORTING PERSONS
+      S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+      Paramount Capital Asset Management, Inc.
+
+  2   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP  
+                                                         (a)( )
+                                                         (b)( )
+
+  3   SEC USE ONLY
+
+  4   SOURCE OF FUNDS*
+      OO (see Item 3 below)
+
+  5   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+      PURSUANT TO ITEM 2(d) or 2(e)
+                                                            ( )
+
+ 6    CITIZENSHIP OR PLACE OF ORGANIZATION
+      Delaware
+
+                        7    SOLE VOTING POWER
+                             None
+       NUMBER OF
+         SHARES         8    SHARED VOTING POWER
+      BENEFICIALLY           5,322,927
+        OWNED BY
+          EACH          9    SOLE DISPOSITIVE POWER
+       REPORTING             None
+         PERSON
+          WITH          10   SHARED DISPOSITIVE POWER
+                             5,322,927
+
+ 11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+      5,322,927
+
+ 12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW 11 EXCLUDES CERTAIN
+      SHARES*
+                                                           ( )
+
+ 13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+      40.7%
+
+ 14   TYPE OF REPORTING PERSON*
+      CO 
+
+
+
+      CUSIP NO. [984175109]                  13D
+
+
+  1   NAMES OF REPORTING PERSONS
+      S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+      Aries Domestic Fund, L.P.
+
+  2   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+                                                        (a)( )
+                                                        (b)( ) 
+
+  3   SEC USE ONLY
+
+  4   SOURCE OF FUNDS*
+      OO (see Item 3 below)
+
+  5   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+      PURSUANT TO ITEM 2(d) or 2(e)
+                                                            ( )
+
+  6   CITIZENSHIP OR PLACE OF ORGANIZATION
+      Delaware
+
+                        7    SOLE VOTING POWER
+                             None
+       NUMBER OF
+         SHARES         8    SHARED VOTING POWER
+      BENEFICIALLY           1,966,427
+        OWNED BY
+          EACH          9    SOLE DISPOSITIVE POWER
+       REPORTING             None
+         PERSON
+          WITH          10   SHARED DISPOSITIVE POWER
+                             1,966,427
+
+ 11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+      1,966,427
+
+ 12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW 11 EXCLUDES CERTAIN
+      SHARES*
+                                                               ( )
+
+ 13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+      19.8%
+
+ 14   TYPE OF REPORTING PERSON*
+      PN
+
+
+
+      CUSIP NO. [984175109]           13D
+
+  1   NAMES OF REPORTING PERSONS
+      S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+      The Aries Trust
+
+  2   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+                                                            (a)( )
+                                                            (b)( ) 
+
+  3   SEC USE ONLY
+
+  4   SOURCE OF FUNDS*
+      OO (see Item 3 below)
+
+  5   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+      PURSUANT TO ITEM 2(d) or 2(e)
+                                                               ( )
+
+  6   CITIZENSHIP OR PLACE OF ORGANIZATION
+      Cayman Islands
+
+                        7    SOLE VOTING POWER
+                             None
+       NUMBER OF
+         SHARES         8    SHARED VOTING POWER
+      BENEFICIALLY           3,356,500
+        OWNED BY
+          EACH          9    SOLE DISPOSITIVE POWER
+       REPORTING             None
+         PERSON
+          WITH          10   SHARED DISPOSITIVE POWER
+                             3,356,500
+
+ 11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+      3,356,500
+
+ 12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW 11 EXCLUDES CERTAIN
+      SHARES*
+                                                              ( )
+
+ 13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+      29.6%
+
+ 14   TYPE OF REPORTING PERSON*
+      OO (see Item 2) 
+
+
+
+      CUSIP NO. [984175109]            13D
+
+  1   NAMES OF REPORTING PERSONS
+      S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+      Lindsay A. Rosenwald, M.D.
+
+  2   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+                                                          (a)( )
+                                                          (b)( )
+
+  3   SEC USE ONLY
+
+  4   SOURCE OF FUNDS*
+      OO (see Item 3 below)
+
+  5   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+      PURSUANT TO ITEM 2(d) or 2(e)
+                                                             ( )
+
+  6   CITIZENSHIP OR PLACE OF ORGANIZATION
+      United States
+
+                        7    SOLE VOTING POWER
+                             None
+       NUMBER OF
+         SHARES         8    SHARED VOTING POWER
+      BENEFICIALLY           5,755,310
+        OWNED BY
+          EACH          9    SOLE DISPOSITIVE POWER
+       REPORTING             None
+         PERSON
+          WITH          10   SHARED DISPOSITIVE POWER
+                             5,755,310
+
+ 11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+      5,755,310
+
+ 12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW 11 EXCLUDES CERTAIN
+      SHARES*
+                                                               ( )
+
+ 13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+      42.6%
+
+ 14   TYPE OF REPORTING PERSON*
+      IN
+
+
+
+Item 1.   Security and Issuer.
+
+     (a)  Common Stock, $.02 par value ("Shares")
+
+          Xytronyx, Inc.
+          6730 Mesa Ridge Rd.,
+          San Diego, CA 92121
+          619-550-3900
+
+Item 2.   Identity and Background.
+
+     Names of Persons Filing:
+
+     (a)  This statement is filed on behalf of Paramount Capital Asset
+          Management, Inc. ("Paramount Capital"), Aries Domestic Fund, L.P.
+          ("Aries Domestic"), The Aries Trust ("Aries Trust") and Lindsay A.
+          Rosenwald, M.D. ("Dr. Rosenwald" and collectively with Paramount
+          Capital, Aries Domestic and Aries Trust, the "Reporting Parties").
+          See attached Exhibit A which is a copy of their agreement in
+          writing to file this statement on behalf of each of them.
+
+     (b)  The business address of Paramount Capital, Aries Domestic and Dr.
+          Rosenwald is 787 Seventh Avenue, New York, New York, 10019.  The
+          business address for Aries Trust is c/o MeesPierson (Cayman)
+          Limited, P.O. Box 2003, British American Centre, Phase 3, Dr. Roy's
+          Drive, George Town, Grand Cayman.
+
+     (c)  Dr. Rosenwald is an investment banker, venture capitalist, fund
+          manager and sole shareholder of Paramount Capital,(1) a Subchapter S
+          corporation incorporated in the State of Delaware. Paramount
+          Capital is the General Partner of Aries Domestic,(2) a limited
+          partnership incorporated in Delaware. Paramount Capital is the
+          Investment Manager to Aries Trust,(3) a Cayman Islands Trust.
+     _________________
+
+     1    Please see attached Exhibit B indicating the executive
+          officers and directors of Paramount Capital and providing
+          information called for by Items 2-6 of this statement as to
+          said officers and directors.  Exhibit B is herein
+          incorporated by reference.
+
+     2    Please see attached Exhibit C indicating the general partner
+          of Aries Domestic and the general partner's executive officers
+          and directors and providing information called for by Items 2-6
+          of this statement as to said general partners, officers and
+          directors.  Exhibit C is herein incorporated by reference.
+
+     3    Please see attached Exhibit D indicating the investment manager
+          of the Aries Trust and the investment manager's executive officers
+          and directors and providing information called for by Items 2-6 of
+          this statement as to said investment manager and officers and
+          directors. Exhibit D is herein incorporated by reference.
+
+
+
+     (d)  The Reporting Parties and their respective officers, directors,
+          general partners, investment managers, or trustees have not, during
+          the five years prior to the date hereof, been convicted in a
+          criminal proceeding (excluding traffic violations or similar
+          misdemeanors).
+
+     (e)  The Reporting Parties and their respective officers, directors,
+          general partners, investment managers, or trustees have not been,
+          during the five years prior to the date hereof, parties to a civil
+          proceeding of a judicial or administrative body of competent
+          jurisdiction, as a result of which such person was or is subject
+          to a judgment, decree or final order enjoining future violations
+          of, or prohibiting or mandating activities subject to, Federal or
+          State securities laws or finding any violation with respect to
+          such laws.
+
+     (f)  Dr. Rosenwald is a citizen of the United States.
+
+Item 3.   Source and Amount of Funds or Other Consideration.
+
+          Since December 6, 1995, the date of the original schedule 13D
+          filing of the Reporting Parties, Aries Domestic and the Aries Trust
+          acquired additional securities of the Issuer as detailed below.  On
+          October 8, 1996, Aries Domestic received warrants to purchase
+          45,000 shares of common stock of the Issuer, and the Aries Trust
+          received warrants to purchase 105,000 shares of common stock of the
+          Issuer in connection with a line of credit of up to $500,000 which
+          Aries Domestic and the Aries Trust extended to the Issuer.  
+
+          In connection with the closing (the "Closing") of a private
+          offering (the "Offering") of securities of the Issuer, Aries
+          Domestic used its general funds to effect the purchase of 8.6 units
+          (the "Units"), each Unit consisting of 500 shares of Premium
+          Preferred Stock (the "Preferred Stock") and warrants to purchase
+          50,000 shares of common stock of the Issuer for an aggregate amount
+          of 4,299 shares of Preferred Stock (which shares of Preferred Stock
+          are convertible into 895,625 shares of common stock of the Issuer
+          based on a conversion rate of 208.33 shares of common stock per
+          share of preferred stock) and warrants to purchase 429,900 shares
+          of common stock of the Issuer for an approximate aggregate purchase
+          price of $860,000. On the same date and in the same Offering, the
+          Aries Trust used its general funds to effect the purchase of 16.68
+          Units for an aggregate amount of 8,340 shares of Preferred Stock
+          (which shares of Preferred Stock are convertible into 1,737,500
+          shares of common stock of the Issuer based on a conversion rate of
+          208.33 shares of common stock per share of preferred stock) and
+          warrants to purchase 834,000 shares of common stock of the Issuer
+          for an approximate aggregate purchase price of $1,668,000. 
+
+          In addition, the Aries Domestic also received 0.86 Unit Purchase
+          Options to purchase 430 shares of Preferred Stock (convertible into
+          89,562 shares of common stock of the Issuer based on a conversion
+          rate of 208.33 shares of common stock per share of preferred stock)
+          and warrants to purchase 42,990 shares of common stock of the
+          Issuer. Similarly, the Aries Trust received 1.668 Unit Purchase
+          Options to purchase 834 shares of Preferred Stock of the Issuer
+          (convertible into 173,750 shares of common stock of the Issuer
+          based on a conversion rate of 208.33 shares of common stock per
+          share of preferred stock) and warrants to purchase 83,400 shares of
+          common stock of the Issuer.
+
+Item 4.   Purpose of Transaction.
+
+          The Reporting Parties have acquired shares of Common Stock of the
+          Issuer as an investment in the Issuer.
+
+          In December, 1996, the Issuer effected certain changes to its
+          management and Board of Directors, including but not limited to,
+          replacing its Chief Executive Officer.  Mr. Michael S. Weiss, a
+          member of the Issuer's Board of Directors and Senior Managing
+          Director of Paramount Capital, Inc. (an investment bank related to
+          Paramount Capital), voted in favor of these changes. As previously
+          set forth in Item 4., Paramount Capital, Inc. has acted as
+          placement agent for the Issuer in connection with its November,
+          1995 and March, 1996 private offering of securities.
+
+          Except as indicated in this Schedule 13D, the Reporting Parties
+          currently have no plans or proposals that relate to or would result
+          in any of the matters described in subparagraphs (a) through (j) of
+          Item 4 of Schedule 13D.
+
+Item 5.   Interest in Securities of the Issuer.
+
+          (a)  As of April 15, 1997, Paramount Capital, through acquisition
+               of the shares by the Aries Trust and Aries Domestic,
+               beneficially owned 400,000 shares of common stock of the
+               Issuer, warrants to purchase an additional 1,913,990, 12,639
+               shares of preferred stock of the Issuer (convertible into
+               2,633,125 common stock of the Issuer), 1,264 warrants to
+               purchase shares of preferred stock (which shares of preferred
+               stock shall be convertible into 263,312 shares of common
+               stock) and 0.625 Units (convertible into 50,000 shares of
+               common stock and 62,500 warrants to purchase shares of common
+               stock) or 39.7% of the Issuer's securities on a fully diluted
+               basis and Aries Domestic, the Aries Trust and Dr. Rosenwald
+               beneficially owned as follows:
+
+                                Percent    Amount Owned
+                                -------    ------------
+               Aries Domestic   19.8%(4)   200,000 shares of common stock
+                                           724,990 warrants to purchase
+                                             shares of common stock
+                                           895,625 shares of common stock
+                                             (underlying 4,299 shares of
+                                             preferred stock)
+                                           0.3125 Units (convertible into
+                                             25,000 shares of common
+                                             stock and 31,250 warrants to
+                                             purchase shares of common
+                                             stock)
+                                           430 warrants to purchase shares
+                                             of preferred shares (which
+                                             shares of preferred stock are
+                                             convertible into 89,562
+                                             shares of common stock) 
+
+               Aries Trust      28.4%(4)   200,000 common shares
+                                           1,189,000 warrants to purchase
+                                             shares of common stock
+                                           1,737,500 shares of common stock
+                                             (underlying 8,340 shares of
+                                             preferred stock)
+                                           0.3125 Units (convertible into
+                                             25,000 shares of common
+                                             stock and 31,250 warrants to
+                                             purchase shares of 834 warrants
+                                             to purchase shares of
+                                             preferred shares (which shares
+                                             of preferred stock are
+                                             convertible into 173,750 shares
+                                             of common stock) 
+
+               Dr. Rosenwald    41.7%(4)   2.40213 Units (convertible into
+                                             192,170 shares of common stock
+                                             and 240,213 warrants to purchase
+                                             shares of common stock).
+
+          ----------------
+
+          4    As of the date of this filing, Aries Domestic, the
+               Aries Trust and Dr. Rosenwald had not received any of
+               the warrants, Preferred Stock or Unit Purchase Options
+               issuable in connection with the Offering as more fully
+               set forth in Item 3.
+
+
+
+          (b)  Dr. Rosenwald and Paramount Capital share the power to vote or
+               to direct the vote, to dispose or to direct the disposition of
+               those shares owned by each of Aries Domestic and Aries Trust.
+
+          (c)  The following purchases were made by Aries Domestic and Aries
+               Trust in the past sixty (60) days:
+
+               On March 6, 1997, in connection with the closing (the
+               "Closing") of a private offering (the "Offering") of
+               securities of the Issuer, Aries Domestic used its general
+               funds to effect the purchase of 8.6 units (the "Units"), each
+               Unit consisting of 500 shares of Premium Preferred Stock (the
+               "Preferred Stock") and warrants to purchase 50,000 shares of
+               common stock of the Issuer for an aggregate amount of 4,299
+               shares of Preferred Stock (which shares of Preferred Stock are
+               convertible into 895,625 shares of common stock of the Issuer
+               based on a conversion rate of 208.33 shares of common stock
+               per share of preferred stock) and warrants to purchase 429,900
+               shares of common stock of the Issuer for an approximate
+               aggregate purchase price of $860,000. On the same date and in
+               the same Offering, the Aries Trust used its general funds to
+               effect the purchase of 16.68 Units for an aggregate amount of
+               8,340 shares of Preferred Stock (which shares of Preferred
+               Stock are convertible into 1,737,500 shares of common stock of
+               the Issuer based on a conversion rate of 208.33 shares of
+               common stock per share of preferred stock) and warrants to
+               purchase 834,000 shares of common stock of the Issuer for an
+               approximate aggregate purchase price of $1,668,000. 
+
+               In addition, the Aries Domestic also received 0.86 Unit
+               Purchase Options to purchase 430 shares of Preferred Stock
+               (convertible into 89,625 shares of common stock of the Issuer
+               based on a conversion rate of 208.33 shares of common stock
+               per share of preferred stock) and warrants to purchase 42,990
+               shares of common stock of the Issuer. Similarly, the Aries
+               Trust received 1.668 Unit Purchase Options to purchase 834
+               shares of Preferred Stock of the Issuer (convertible into
+               173,750 shares of common stock of the Issuer based on a
+               conversion rate of 208.33 shares of common stock per share of
+               preferred stock) and warrants to purchase 83,400 shares of
+               common stock of the Issuer.
+
+               Other than as set forth herein the Reporting Parties have not
+               engaged in any transactions in the Common Stock of the Issuer
+               during the past 60 days.
+
+          (d) & (e) Not applicable.
+
+Item 6.   Contracts, Arrangements, Understandings or Relationships
+          with respect to Securities of the Issuer                
+
+          Paramount Capital is the investment manager of the Aries Trust and
+          the General Partner of Aries Domestic and in such capacities has
+          the authority to make certain investment decisions on behalf of
+          such entities, including decisions relating to the securities of
+          the Issuer.  In connection with its investment management duties,
+          Paramount Capital receives certain management fees and performance
+          allocations from the Aries Trust and Aries Domestic.  Dr. Rosenwald
+          is the sole shareholder of Paramount Capital.  
+
+          Paramount Capital, Inc. has acted as placement agent for the Issuer
+          in connection with its November, 1995 and March, 1996 private
+          offerings of securities. Michael S. Weiss, Senior Managing Director
+          of Paramount Capital, Inc., serves as a member of the Board of
+          Directors of the Issuer, receives customary Board member
+          compensation and voted in favor of the December 1996 changes to
+          management and Board composition previously set forth in Item 4.
+          David R. Walner, Associate Director of Paramount Capital, Inc. and
+          Secretary of Paramount Capital Asset Management, Inc., serves as
+          Secretary of the Issuer without compensation.  
+
+          On November 27, 1995 Paramount Capital, Inc. and the Issuer entered
+          into a Financial Advisory Agreement whereby Paramount Capital, Inc.
+          agreed to act as a non-exclusive Financial Advisor to the Issuer
+          and to identify and negotiate potential acquisition candidates,
+          investments and/or strategic alliances.  Pursuant to a Placement
+          Agency Agreement entered into between Paramount Capital, Inc. and
+          the Issuer dated September 27, 1996, the parties agreed to extend
+          the Financial Advisory Agreement for an additional eighteen (18)
+          months.  
+
+          In addition, as described in Item 3, Aries Domestic and the Aries
+          Trust extended a line of credit of up to $500,000, which the
+          Company has not yet repaid.
+
+          Except as indicated in this 13D and exhibits hereto, there is no
+          contract, arrangement, understanding or relationship between the
+          Reporting Parties and any other party or parties, with respect to
+          any securities of the Issuer. 
+
+Item 7.   Material to be Filed as Exhibits:
+
+Exhibit A -    Copy of an Agreement between Dr. Rosenwald, Paramount Capital,
+               Aries Domestic and Aries Trust to file this Statement on
+               Schedule 13D on behalf of each of them.  
+
+Exhibit B -    List of executive officers and directors of Paramount Capital
+               and information called for by Items 2-6 of this statement
+               relating to said officers and directors.
+
+Exhibit C -    List of executive officers and directors of Aries Domestic and
+               information called for by Items 2-6 of this statement relating
+               to said officers and directors.
+
+Exhibit D -    List of executive officers and directors of Aries Trust and
+               information called for by Items 2-6 of this statement relating
+               to said officers and directors.  
+
+
+
+                                  SIGNATURES
+
+          After reasonable inquiry and to the best of my knowledge and
+belief, I certify that the information set forth in this statement is true,
+complete and correct.
+
+                                  PARAMOUNT CAPITAL ASSET MANAGEMENT, INC.
+
+Dated:    April 21, 1997
+          New York, NY            By: /s/ Lindsay A. Rosenwald, M.D.
+                                     ------------------------------------
+                                     Lindsay A. Rosenwald, M.D.
+                                     President
+
+
+                                  ARIES DOMESTIC FUND, L.P.
+                                  By: Paramount Capital Asset Management,
+                                      Inc.
+                                      General Partner
+
+Dated:    April 21, 1997
+          New York, NY            By: /s/ Lindsay A. Rosenwald, M.D.
+                                     -----------------------------------
+                                     Lindsay A. Rosenwald, M.D.
+                                     President
+
+
+                                  THE ARIES TRUST
+                                  By: Paramount Capital Asset Management,
+                                      Inc.
+                                      Investment Manager
+
+Dated:    April 21, 1997
+          New York, NY            By: /s/ Lindsay A. Rosenwald, M.D.
+                                     -----------------------------------
+                                     Lindsay A. Rosenwald, M.D.
+                                     President
+
+
+Dated:    April 21, 1997
+          New York, NY            By: /s/ Lindsay A. Rosenwald, M.D. 
+                                     -----------------------------------
+                                      Lindsay A. Rosenwald, M.D.
+
+
+
+
+                                  EXHIBIT A
+
+                                  AGREEMENT
+
+                         JOINT FILING OF SCHEDULE 13D
+
+          The undersigned hereby agree to jointly prepare and file with
+regulatory authorities a Schedule 13D and any future amendments thereto
+reporting each of the undersigned's ownership of securities of Xytronyx, and
+hereby affirm that such Schedule 13D is being filed on behalf of each of the
+undersigned.
+
+                                 PARAMOUNT CAPITAL ASSET MANAGEMENT, INC.
+
+Dated:    April 21, 1997
+          New York, NY            By: /s/ Lindsay A. Rosenwald, M.D.  
+                                     ----------------------------------
+                                     Lindsay A. Rosenwald, M.D.
+                                     President
+
+
+                                  ARIES DOMESTIC FUND, L.P.
+                                  By: Paramount Capital Asset Management,
+                                      Inc.
+                                      General Partner
+
+Dated:    April 21, 1997
+          New York, NY            By: /s/ Lindsay A. Rosenwald, M.D.
+                                     -----------------------------------
+                                     Lindsay A. Rosenwald, M.D.
+                                     President
+
+
+                                  THE ARIES TRUST
+                                  By: Paramount Capital Asset Management,
+                                      Inc.
+                                      Investment Manager
+
+Dated:    April 21, 1997
+          New York, NY            By: /s/ Lindsay A. Rosenwald, M.D.
+                                     -----------------------------------
+                                     Lindsay A. Rosenwald, M.D.
+                                     President
+
+
+Dated:    April 21, 1997
+          New York, NY            By: /s/ Lindsay A. Rosenwald, M.D.  
+                                     ----------------------------------
+                                      Lindsay A. Rosenwald, M.D.
+
+
+
+
+                                  EXHIBIT B
+
+     The name and principal occupation or employment, which in each instance
+is with Paramount Capital Asset Management, Inc. ("Paramount Capital")
+located at 787 Seventh Avenue, 44th Floor, New York, New York, 10019, of each
+executive officer and director of Paramount Capital is as follows:
+
+                                             PRINCIPAL OCCUPATION
+     NAME                                       OR EMPLOYMENT
+     ----                                    --------------------
+Lindsay A. Rosenwald, M.D.                   Chairman of the Board, President
+                                             of Paramount Capital Asset
+                                             Management, Inc., Paramount
+                                             Capital Investments, LLC and
+                                             Paramount Capital, Inc.
+
+Peter Morgan Kash                            Director of Paramount Capital
+                                             Asset Management, Inc., Senior
+                                             Managing Director, Paramount
+                                             Capital, Inc.
+
+Dr. Yuichi Iwaki                             Director of Paramount Capital
+                                             Asset Management, Inc.,
+                                             Professor, University of
+                                             Southern California School of
+                                             Medicine
+
+Item 2.
+
+     During the five years prior to the date hereof, none of the above
+persons (to the best of Paramount Capital's knowledge) has been convicted in
+a criminal proceeding (excluding traffic violations or similar misdemeanors)
+or was a party to a civil proceeding of a judicial or administrative body of
+competent jurisdiction, as a result of which such person was or is subject to
+a judgment, decree or final order enjoining future violations of, or
+prohibiting or mandating activities subject to, Federal or State securities
+laws or finding any violation with respect to such laws.
+
+Items 3-6.
+
+     Please refer to Items 3-6 herein reporting the beneficial ownership.
+
+
+
+
+                                  EXHIBIT C
+
+     The name and principal occupation or employment of the General Partner
+of Aries Domestic, which is located at 787 Seventh Avenue, New York, New
+York, 10019, is as follows:
+
+                                             PRINCIPAL OCCUPATION
+     NAME                                       OR EMPLOYMENT
+     ----                                    --------------------
+Paramount Capital Asset Management, Inc.     General Partner;
+                                             Investment Manager
+
+     Exhibit B is hereby incorporated by reference.
+
+Item 2.
+
+     During the five years prior to the date hereof, the above person (to the
+best of Aries Domestic's knowledge) has not been convicted in a criminal
+proceeding (excluding traffic violations or similar misdemeanors) or was a
+party to a civil proceeding of a judicial or administrative body of competent
+jurisdiction, as a result of which such person was or is subject to a
+judgment, decree or final order enjoining future violations of, or
+prohibiting or mandating activities subject to, Federal or State securities
+laws or finding any violation with respect to such laws.
+
+Items 3-6.
+
+     Please refer to Items 3-6 herein reporting the beneficial ownership.
+
+
+
+
+                                  EXHIBIT D
+
+     The name and principal occupation or employment, which in the case of
+Paramount Capital Asset Management, Inc. is located at 787 Seventh Avenue,
+44th Floor, New York, New York, 10019, of each executive officer and director
+of Aries Trust is as follows:
+
+                                             PRINCIPAL OCCUPATION
+     NAME                                       OR EMPLOYMENT
+     ----                                    --------------------
+Paramount Capital Asset Management, Inc.     Investment Manager
+
+MeesPierson (Cayman) Limited                 Trustee
+P.O. Box 2003
+British American Centre
+Phase 3, Dr. Roy's Drive
+George Town, Grand Cayman 
+
+     Exhibit B is hereby incorporated by reference.
+
+Item 2.
+
+     During the five years prior to the date hereof, neither of the above
+persons (to the best of Aries Trust's knowledge) have been convicted in a
+criminal proceeding (excluding traffic violations or similar misdemeanors) or
+was a party to a civil proceeding of a judicial or administrative body of
+competent jurisdiction, as a result of which such person was or is subject to
+a judgment, decree or final order enjoining future violations of, or
+prohibiting or mandating activities subject to, Federal or State securities
+laws or finding any violation with respect to such laws.
+
+Items 3-6.
+
+     Please refer to Items 3-6 herein reporting the beneficial ownership.
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

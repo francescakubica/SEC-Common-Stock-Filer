@@ -1,0 +1,274 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HY2jaCi4hmUxr7XXSQe3kVqsNPZ7R4nVj/kjkvkx2BASzhWIhMZ5OvGPv8zSInIp
+ GhiBN4RTSGqe/A9LI5M7pg==
+
+<SEC-DOCUMENT>0000905718-96-000217.txt : 19960906
+<SEC-HEADER>0000905718-96-000217.hdr.sgml : 19960906
+ACCESSION NUMBER:		0000905718-96-000217
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19960904
+SROS:			NYSE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LIBERTE INVESTORS INC
+		CENTRAL INDEX KEY:			0001017907
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTORS, NEC [6799]
+		IRS NUMBER:				751328153
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-46759
+		FILM NUMBER:		96625722
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 N PEARL
+		STREET 2:		SUITE 420
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+		BUSINESS PHONE:		2147208950
+
+	MAIL ADDRESS:	
+		STREET 1:		600 N PEARL SUITE 420
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HALIS JEFFREY S
+		CENTRAL INDEX KEY:			0000900202
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 PARK AVE 5TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		2127585106
+
+	MAIL ADDRESS:	
+		STREET 1:		500 PARK AVE 5TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>13D FOR LIBERTE INVESTORS
+<TEXT>
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D. C. 20549
+                                  SCHEDULE l3D
+                    Under the Securities Exchange Act of 1934
+                               (Amendment No. 1)*
+
+                                LIBERTE INVESTORS
+- --------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+                      Common Stock, no par value per share
+- --------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+                                    530152107
+- --------------------------------------------------------------------------------
+                                 (CUSIP Number)
+                                                                 with a copy to:
+Jeffrey S. Halis                                          Robert G. Minion, Esq.
+500 Park Avenue                                       Lowenstein, Sandler, Kohl,
+Fifth Floor                                                Fisher & Boylan, P.C.
+New York, New York  10022                                   65 Livingston Avenue
+(212) 486-4794                                       Roseland, New Jersey  07068
+                                                                  (201) 992-8700
+- --------------------------------------------------------------------------------
+                  (Name, Address and Telephone Number of Person
+                Authorized to Receive Notices and Communications)
+
+                                 August 16, 1996
+- --------------------------------------------------------------------------------
+             (Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously  filed a statement on Schedule l3G to report
+the  acquisition  which is the subject of this  Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4), check the following box.|_|
+
+Check the following box if a fee is being paid with this  statement  |_|. (A fee
+is not required only if the reporting  person:  (1) has a previous  statement on
+file  reporting  beneficial  ownership of more than five percent of the class of
+securities  described  in Item 1;  and (2) has  filed  no  amendment  subsequent
+thereto reporting  beneficial ownership of less than five percent of such class.
+See Rule 13d-7.)
+
+Note: Six copies of this statement, including all exhibits, should be filed with
+the  Commission.  See Rule l3d-1(a) for  other parties to whom copies are to be 
+sent.
+
+*The  remainder of this cover page shall be filled out for a reporting  person's
+initial filing on this form with respect to the subject class of securities, and
+for  any  subsequent   amendment   containing   information  which  would  alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the  Securities  Exchange  Act of
+1934 ("Act") or otherwise  subject to the liabilities of that section of the Act
+but  shall be  subject  to all other  provisions  of the Act  (however,  see the
+Notes).
+
+
+<PAGE>
+
+
+
+
+     1)  Names of Reporting Persons (S.S. or I.R.S. Identification Nos. of Above
+         Persons):
+
+              Jeffrey S. Halis ###-##-####
+
+     2)  Check the Appropriate Box if a Member of a Group (See Instructions):
+         (a)                                Not
+         (b)                             Applicable
+
+    3)   SEC Use Only
+
+    4)   Source of Funds (See Instructions):  WC
+
+    5)   Check if Disclosure of Legal Proceedings is Required Pursuant to Items 
+         2(d) or 2(e):
+
+                                 Not Applicable
+
+    6)   Citizenship or Place of Organization:
+
+                                  United States
+
+         Number of                7) Sole Voting Power:                 597,400*
+                                    --------------------------------------------
+         Shares Beneficially      8) Shared Voting Power:                      0
+                                     -------------------------------------------
+         Owned by
+         Each Reporting           9) Sole Dispositive Power:            597,400*
+                                    --------------------------------------------
+           Person With:          10) Shared Dispositive Power:                 0
+                                     -------------------------------------------
+
+
+    11)   Aggregate Amount Beneficially Owned by Each Reporting Person:
+
+          597,400*
+
+    12)   Check if the Aggregate Amount in Row (11) Excludes Certain Shares (See
+          Instructions):
+                   Not Applicable
+
+    13)  Percent of Class Represented by Amount in Row
+              (11):      2.9%*
+
+    14)  Type of Reporting Person (See Instructions):       IA, IN
+
+
+*        531,000  shares (2.6%) of Liberte  Investors  common stock are owned by
+         Tyndall Partners,  L.P., a Delaware limited partnership.  66,400 shares
+         (0.3%) of Liberte  Investors  common stock are owned by Madison  Avenue
+         Partners,  L.P.,  a  Delaware  limited  partnership.  Pursuant  to  the
+         Agreement of Limited Partnership of each of Tyndall Partners,  L.P. and
+         Madison Avenue Partners,  L.P.,  Jeffrey S. Halis possesses sole voting
+         and  investment  control over all  securities  owned by each of Tyndall
+         Partners,  L.P. and Madison Avenue Partners,  L.P.,  respectively.  See
+         Item 5 for further  information on the  computation of percentages  set
+         forth herein.
+
+
+<PAGE>
+
+
+Item 5.           Interest in Securities of the Issuer.
+
+                  Based  upon  information  provided  by  management  of Liberte
+Investors,  as of August 16, 1996 there were issued and  outstanding  20,256,097
+shares of common  stock of Liberte  Investors.  As of August 16,  1996,  Tyndall
+Partners,  L.P. owned 531,000 of such shares, or 2.9% of those outstanding,  and
+Madison  Avenue  Partners,  L.P.  owned 66,400 of such shares,  or 0.3% of those
+outstanding.  Jeffrey  Halis  possesses  sole  power  to  vote  and  direct  the
+disposition of all shares of common stock of Liberte  Investors owned by each of
+Tyndall  Partners,  L.P. and Madison Avenue  Partners,  L.P. The following table
+details the  transactions by each of Tyndall  Partners,  L.P. and Madison Avenue
+Partners,  L.P. in shares of common stock of Liberte  Investors  during the past
+sixty days:
+
+                            A. Tyndall Partners, L.P.
+
+      Date                          Quantity                               Price
+
+                                   (Purchases)
+
+                                      NONE
+
+                                     (Sales)
+
+    August 15, 1996                   2,400                                $4.00
+    August 16, 1996                  15,100                                $4.00
+
+                        B. Madison Avenue Partners, L.P.
+
+      Date                           Quantity                              Price
+
+                                   (Purchases)
+
+                                      NONE
+
+                                     (Sales)
+
+    August 16, 1996                    2,500                               $4.00
+
+
+         As of August 16,  1996,  Jeffrey S. Halis  ceased to be the  beneficial
+owner of more than five percent of the common stock of Liberte Investors.
+
+<PAGE>
+
+                                    Signature
+
+                  After reasonable  inquiry and to the best of the undersigned's
+knowledge and belief,  the undersigned hereby certifies that the information set
+forth in this statement is true, complete and correct.
+
+                                       August 30, 1996
+
+
+                                       /s/ Jeffrey S. Halis
+                                       _________________________________________
+                                       Jeffrey  S.  Halis, as a  general partner
+                                       of  Halo Capital  Partners,  L.P.,   the 
+                                       general  partner  of  each  of   Tyndall 
+                                       Partners,   L.P.  and   Madison    Avenue
+                                       Partners, L.P.
+
+ATTENTION:  INTENTIONAL   MISSTATEMENTS   OR  OMISSIONS   OF   FACT   CONSTITUTE
+FEDERAL CRIMINAL VIOLATIONS (SEE 18 U.S.C. 1001).
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,983 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ U4bAnEoYb57JxyKysTOK0T89qPCby1mZaOS3IHv23DJ3d2Oj6LAydr6F00JTpe8x
+ H0zl9tN8/bmsxfy2xhoqJQ==
+
+<SEC-DOCUMENT>0000950131-96-005378.txt : 19961101
+<SEC-HEADER>0000950131-96-005378.hdr.sgml : 19961101
+ACCESSION NUMBER:		0000950131-96-005378
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19961031
+SROS:			NONE
+GROUP MEMBERS:		CS FIRST BOSTON INC
+GROUP MEMBERS:		CS FIRST BOSTON SECURITIES CORPORATION
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MK RAIL CORP
+		CENTRAL INDEX KEY:			0000919563
+		STANDARD INDUSTRIAL CLASSIFICATION:	RAILROAD EQUIPMENT [3743]
+		IRS NUMBER:				820461010
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-44069
+		FILM NUMBER:		96651001
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1200 REEDSDALE ST
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15233
+		BUSINESS PHONE:		4122372250
+
+	MAIL ADDRESS:	
+		STREET 1:		1200 REEDSDALE STREET
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15233
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CS FIRST BOSTON INC
+		CENTRAL INDEX KEY:			0000036121
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY BROKERS, DEALERS & FLOTATION COMPANIES [6211]
+		IRS NUMBER:				132853402
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		55 E 52ND ST
+		STREET 2:		PARK AVE PLZ
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10055
+		BUSINESS PHONE:		2129092000
+
+	MAIL ADDRESS:	
+		STREET 1:		55 E 52ND ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10055-0186
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CS FIRST BOSTON GROUP INC/DE
+		DATE OF NAME CHANGE:	19931029
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+
+<PAGE>
+ 
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                                  ------------
+                                  SCHEDULE 13D
+                                  ------------
+
+                   Under the Securities Exchange Act of 1934
+                             
+                              MK RAIL CORPORATION
+                               (Name of Issuer)
+
+                    COMMON STOCK, PAR VALUE $0.01 PER SHARE
+                         (Title of Class of Securities)
+
+
+                                   55305T102
+                                (CUSIP Number)
+
+                              William W. Chandler
+                             CS First Boston, Inc.
+                               Park Avenue Plaza
+                              55 East 52nd Street
+                              New York, NY 10055
+                                (212) 909-3498
+
+                (Name, Address and Telephone Number of Person 
+               Authorized to Receive Notices and Communications)
+
+                              SEPTEMBER 14, 1996
+            (Date of Event which Requires Filing of this Statement)
+
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4), check the following box [_].
+
+Check the following box if a fee is being paid with the statement [_]. (A fee is
+not required only if the reporting person: (1) has a previous statement on file
+reporting beneficial ownership of more than five percent of the class of
+securities described in Item 1; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of such class.)
+(See Rule 13d-7.)
+
+Note: Six copies of this statement, including all exhibits, should be filed with
+the Commission. See Rule 13d-1(a) for other parties to whom copies are to be
+sent.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act (however, see the
+Notes).
+<PAGE>
+
+                                 
+- -----------------------                                  ---------------------
+  CUSIP NO. 55305T102            SCHEDULE 13D              PAGE 2 OF 15 PAGES
+- -----------------------                                  ---------------------
+
+- ------------------------------------------------------------------------------
+ 1    NAME OF REPORTING PERSON
+
+      CS First Boston, Inc.
+
+      S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON: 13-2853402
+
+
+- ------------------------------------------------------------------------------
+ 2    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+                                                                (a) [_]
+                                                                (b) [X]
+- ------------------------------------------------------------------------------
+ 3    SEC USE ONLY
+
+
+- ------------------------------------------------------------------------------
+ 4    SOURCE OF FUNDS*
+
+      00
+- ------------------------------------------------------------------------------
+ 5    CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT
+      TO ITEMS 2(d) or 2(e) [_]
+
+- ------------------------------------------------------------------------------
+ 6    CITIZENSHIP OR PLACE OF ORGANIZATION
+
+      DELAWARE
+- ------------------------------------------------------------------------------
+     NUMBER OF       7    SOLE VOTING POWER
+
+      SHARES              0
+                   -----------------------------------------------------------
+   BENEFICIALLY      8    SHARED VOTING POWER
+
+                          1,940,099
+     OWNED BY
+                   -----------------------------------------------------------
+       EACH          9    SOLE DISPOSITIVE POWER
+
+    REPORTING             0
+                   -----------------------------------------------------------
+      PERSON        10    SHARED DISPOSITIVE POWER
+
+       WITH               1,940,099
+- ------------------------------------------------------------------------------
+11    AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+      1,940,099
+ ------------------------------------------------------------------------------
+12    CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+
+                                                                           [_]
+- ------------------------------------------------------------------------------
+13    PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+      11.1%
+- ------------------------------------------------------------------------------
+14    TYPE OF REPORTING PERSON*
+
+      HC
+- ------------------------------------------------------------------------------
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+<PAGE>
+ 
+                                 
+- -----------------------                                  ---------------------
+  CUSIP NO. 55305T102            SCHEDULE 13D              PAGE 3 OF 15 PAGES
+- -----------------------                                  ---------------------
+ 
+- ------------------------------------------------------------------------------
+ 1    NAME OF REPORTING PERSON
+      
+      CS First Boston Securities Corporation
+
+      S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON: 13-2972600
+                                         
+- ------------------------------------------------------------------------------
+ 2    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+                                                                (a) [_]
+                                                                (b) [X]
+- ------------------------------------------------------------------------------
+ 3    SEC USE ONLY
+  
+ 
+- ------------------------------------------------------------------------------
+ 4    SOURCE OF FUNDS*
+      
+      OO
+- ------------------------------------------------------------------------------
+ 5    CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT 
+      TO ITEMS 2(D) or 2(E) [_]
+      
+- ------------------------------------------------------------------------------
+ 6    CITIZENSHIP OR PLACE OF ORGANIZATION
+      
+      Delaware
+- ------------------------------------------------------------------------------
+                          SOLE VOTING POWER
+                     7     
+     NUMBER OF            0
+                             
+      SHARES       -----------------------------------------------------------
+                          SHARED VOTING POWER
+   BENEFICIALLY      8    
+                          1,885,099
+     OWNED BY                    
+                   -----------------------------------------------------------
+       EACH               SOLE DISPOSITIVE POWER
+                     9     
+    REPORTING             0
+                         
+      PERSON       -----------------------------------------------------------
+                          SHARED DISPOSITIVE POWER
+       WITH          10   
+                          1,885,099       
+- ------------------------------------------------------------------------------
+11    AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+      
+      1,885,099
+      
+- ------------------------------------------------------------------------------
+12    CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+                    
+      [_]
+- ------------------------------------------------------------------------------
+13    PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+      
+      10.7%            
+- ------------------------------------------------------------------------------
+14    TYPE OF REPORTING PERSON*
+  
+      CO
+- ------------------------------------------------------------------------------
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+<PAGE>
+ 
+                                 
+- -----------------------                                  ---------------------
+  CUSIP NO. 55305T102            SCHEDULE 13D              PAGE 4 OF 15 PAGES
+- -----------------------                                  ---------------------
+ 
+ITEM 1.  SECURITY AND ISSUER
+     This schedule relates to the common stock, $0.01 par value (the "Common
+Stock") of MK Rail Corporation, a Delaware corporation ("MK Rail").  The
+principal executive offices of MK Rail are located at 1200 Reedsdale Street,
+Pittsburgh, PA 15233.
+
+ITEM 2.  IDENTITY AND BACKGROUND
+     (a)       This Schedule 13D is being filed by (a) CS First Boston
+Securities Corporation, a Delaware corporation ("CSFBSC"), as the beneficial
+owner of 1,885,099 shares of Common Stock and (b) CS First Boston, Inc., a
+Delaware corporation ("CSFBI"), which may be deemed the beneficial owner of
+1,940,099 shares of Common Stock by virtue of its ownership of 100 percent of
+the outstanding capital stock of CSFBSC and CS First Boston Corporation
+("CSFBC"). CSFBSC and CSFBI are collectively referred to herein as the
+"Reporting Persons."
+     CSFBSC is a dealer in commercial paper, other exempt securities and
+derivative products such as interest rate swaps, and invests in certain other
+assets. CSFBSC is also a holding company for various subsidiaries. CSFBI is a
+holding company whose subsidiaries are principally engaged in the business of
+investment banking and broker-dealer activities. All of the outstanding voting
+common stock of CSFBI and approximately 69% of the outstanding non-voting common
+stock of CSFBI are owned by CS Holding, a Swiss corporation having its
+registered offices at Nuschelerstrasse 1, CH-8021 Zurich, Switzerland. The
+principal business of CS Holding is acting as a holding company for a group of
+companies in the financial services and energy business offering a comprehensive
+range of products. Through its ownership of common stock of CSFBI, CS Holding,
+for purposes of the federal securities laws, may be deemed to ultimately control
+CSFBI. CS Holding, its executive officers and directors and its direct and
+indirect subsidiaries, in addition to the Reporting Persons, may beneficially
+own Common Stock and such ownership is not reported in this Statement. CS
+Holding disclaims beneficial ownership of Common Stock beneficially owned by its
+direct and indirect subsidiaries, including the Reporting Persons. CSFBI hereby
+undertakes to amend this Statement, if necessary, to include the information
+required by Items 3 through 6 of Schedule 13D with respect to any Common Stock
+that may be beneficially owned by the executive officers or directors of CS
+Holding.
+     (b)       The principal business address of each of CSFBI and CSFBSC is
+Park Avenue Plaza, 55 East 52nd Street, New York, New York 10055.
+     (c), (f)  The name, citizenship, residence or business address and present
+principal occupation or employment, and the name, principal business and address
+of any corporation or other organization in which such employment is conducted,
+of each executive officer and director of CSFBI, CSFBSC and CS Holding is set
+forth on Schedule I hereto, which Schedule is hereby incorporated herein by
+reference in its entirety.
+     (d)-(e)   Neither of the Reporting Persons and, to the knowledge of the
+Reporting Persons, neither CS Holding nor any of the executive officers and
+directors listed on Schedule I hereto, has, during the last five years, (i) been
+convicted in a criminal proceeding (excluding traffic violations or similar
+misdemeanors) or (ii) been a party to a civil proceeding of a judicial or
+administrative body of competent jurisdiction and as a result of such proceeding
+was or is subject to a judgment, decree or final order enjoining future
+violations of, or prohibiting or mandating activities subject to, federal or
+state securities laws or finding any violation with respect to such laws.
+
+ITEM 3.  SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION
+     Pursuant to an order of the United States Bankruptcy Court for the District
+of Delaware, dated August 26, 1996, the First Amended Plan of Reorganization of
+Morrison Knudsen Corporation ("MKC") under Chapter 11 of the Bankruptcy Code
+(the "Plan") was confirmed.  Under the Plan, CSFBSC became entitled to receive
+1,885,099 shares of Common Stock (the "Aggregate Proceeds"), comprised of
+927,171 shares on account of debt owed by MKC and 957,928 shares on account of
+debt owed by American Passenger Rail Company, L.L.C., a Delaware limited
+liability company ("APRC"), an affiliate of MKC (the "APRC Proceeds").  The
+Aggregate Proceeds and the APRC Proceeds include 519,542 shares (the "Nomura
+Proceeds") which CSFBSC became entitled to receive under the Plan on behalf of
+Nomura Holding America, Inc. ("Nomura") as a result of purchases of debt owed by
+APRC made pursuant to an oral
+<PAGE>
+ 
+                                 
+- -----------------------                                  ---------------------
+  CUSIP NO. 55305T102            SCHEDULE 13D              PAGE 5 OF 15 PAGES
+- -----------------------                                  ---------------------
+ 
+agreement entered into between CSFBSC and Nomura in June 1996 (the "Nomura
+Agreement").  Under the Nomura Agreement, CSFBSC has agreed to irrevocably
+transfer, assign and convey to Nomura specified percentages of the debt owed by
+APRC and purchased by CSFBSC at various times, or the proceeds thereof (which
+constitute the Nomura Proceeds), upon the payment to CSFBSC by Nomura of the
+specified percentages of CSFBSC's actual cost of the related purchases, plus an
+amount based on CSFBSC's cost of carry of such purchases from the dates of such
+purchases.
+     CSFBC acts as a market maker for the Common Stock.  As of the filing date,
+CSFBC held 55,000 shares of Common Stock in its trading account, acquired from
+time to time in open market transactions in the ordinary course of its market
+making activities, using working capital funds.  CSFBI, through its 100 percent
+ownership of the outstanding capital stock of CSFBC, may be deemed to share the
+power to vote or direct the vote and dispose or direct the disposition of the
+shares of Common Stock held in CSFBC's trading account pursuant to its market
+making activities.
+
+ITEM 4.  PURPOSE OF TRANSACTION
+     CSFBSC became entitled to receive 1,885,099 shares of Common Stock in the
+manner described in Item 3 above.  CSFBI may be deemed to have become entitled
+to receive 1,885,099 shares of Common Stock through its 100 percent ownership of
+the outstanding capital stock of CSFBSC in the manner described in Item 3 above
+and may also be deemed to beneficially own 55,000 shares of Common Stock through
+its 100 percent ownership of the outstanding capital stock of CSFBC.  Except as
+described below and in Items 3 and 5, the Reporting Persons have no plans or
+proposals that would result in (1) the acquisition by any person of additional
+securities of MK Rail or the disposition of securities of MK Rail; (2) an
+extraordinary corporate transaction, such as a merger, reorganization or
+liquidation of MK Rail or any of its subsidiaries; (3) a sale or transfer of a
+material amount of assets of MK Rail or any of its subsidiaries; (4) any change
+in the present board of directors or management of MK Rail, including any plans
+or proposals to change the number or term of directors or to fill any existing
+vacancies on the board of directors of MK Rail; (5) any material change in the
+present capitalization or dividend policy of MK Rail; (6) any other material
+change in the business or corporate structure of MK Rail; (7) changes in the
+charter, by-laws or instruments corresponding thereto of MK Rail, or other
+actions which may impede the acquisition of control of MK Rail by any person;
+(8) any class of securities of MK Rail being delisted from a national securities
+exchange or ceasing to be authorized to be quoted in an inter-dealer quotation
+system of a registered national securities association; (9) any class of equity
+securities of MK Rail becoming eligible for termination of registration pursuant
+to Section 12(g)(4) of the Securities Exchange Act of 1934, as amended ("the
+Exchange Act"); or (10) any action similar to any of those enumerated above.
+The Reporting Persons, however, reserve the right to change their plans or
+intentions at any time and to take any and all actions that they deem
+appropriate to maximize the value of their investment including, among other
+things, from time to time increasing or decreasing the number of shares of
+Common Stock by acquiring additional shares, or by disposing of all or a portion
+of the shares of Common Stock in open market or privately negotiated
+transactions or otherwise, depending on existing market conditions and other
+considerations discussed below.  The Reporting Persons intend to review their
+investment in MK Rail on a continuing basis and, depending upon the price and
+availability of Common Stock, subsequent developments affecting MK Rail, the
+general business and future prospects of MK Rail, other investment and business
+opportunities available to the Reporting Persons, general stock market and
+economic conditions, tax considerations and other factors considered relevant,
+may decide at any time to increase or decrease the size of their investment in
+MK Rail.
+     CSFBSC intends to transfer its shares of Common Stock to CSFBC in the
+ordinary course of business. CSFBC intends to continue to engage in purchase and
+sale transactions in the Common Stock through its trading account in connection
+with its market making activities.
+
+ITEM 5.  INTEREST IN SECURITIES OF THE ISSUER
+     (a) Following the consummation of the Plan on September 14, 1996, CSFBSC
+became entitled to receive 1,885,099 shares of Common Stock, which constitute
+10.7% of the shares of Common Stock estimated to be outstanding as of September
+14, 1996.  The Nomura Proceeds, which constitute 3.0% of the shares of Common
+Stock estimated to be outstanding as of September 14, 1996, included in such
+total number of shares were acquired on behalf of Nomura under, and are subject
+to, the Nomura Agreement, under which CSFBSC has agreed to irrevocably transfer,
+assign and convey to Nomura the debt owed by APRC and acquired pursuant to the
+Nomura Agreement (which debt represented specified percentages of the total debt
+owed by APRC acquired by CSFBSC) upon payment by Nomura of
+<PAGE>
+ 
+                                 
+- -----------------------                                  ---------------------
+  CUSIP NO. 55305T102            SCHEDULE 13D              PAGE 6 OF 15 PAGES
+- -----------------------                                  ---------------------
+ 
+the specified percentages of CSFBSC's actual cost of the related purchases, plus
+an amount based on CSFBSC's cost of carry of such purchases from the dates of
+such purchases.   Upon the receipt of payment under the terms of the Nomura
+Agreement, CSFBSC will transfer, assign and convey the Nomura Proceeds to
+Nomura, and the Reporting Persons will have no further arrangements with Nomura
+with respect to the Nomura Proceeds or the securities of MK Rail, except to the
+extent the Nomura Proceeds are subject to the Stockholders Agreement described
+below.
+     The Plan required creditors of MKC, including CSFBSC, to be bound by the
+terms of a Stockholders Agreement dated as of June 20, 1996, and as amended by
+the First Amendment to the Stockholders Agreement dated as of July 25, 1996,
+between MK Rail and MKC (the "Stockholders Agreement").  Under the Stockholders
+Agreement, no person who receives shares of Common Stock pursuant to the Plan
+may transfer any shares of Common Stock to any person except under certain
+circumstances.  The restrictions on transfers under the Stockholders Agreement
+will not apply to any subsequent transferee so long as the transfer was
+permitted under the Stockholders Agreement.  Pursuant to the Stockholders
+Agreement, certain persons, including CSFBSC, have agreed not to (a) solicit
+proxies, (b) initiate any stockholder proposal for a tender offer, change of
+control or attempt to convene stockholders meeting or (c) otherwise seek to
+influence or control the management or policies of MK Rail.  The above
+restrictions expire on the second anniversary of the distribution of the Common
+Stock under the Plan (subject to certain alternate termination provisions).
+     The Stockholders Agreement provides that the shares of Common Stock
+received by CSFBSC and the other stockholders bound thereby (the "Stockholders")
+must be voted for certain nominees for election to MK Rail's board of directors.
+The Reporting Persons and the Stockholders may be deemed to constitute a group
+for purposes of Section 13(d)(3) of the Exchange Act because of the Stockholders
+Agreement.  The Reporting Persons disclaim beneficial ownership of the shares of
+Common Stock held by the Stockholders and disclaim that they constitute a group
+with the Stockholders for purposes of Section 13(d)(3) of the Exchange Act.
+     The Stockholders Agreement also provides certain holders, including CSFBSC,
+with demand registration rights and piggyback registration rights.  Pursuant to
+the Stockholders Agreement, certain holders may demand that MK Rail file a
+registration statement under the Securities Act of 1933, as amended (the
+"Securities Act") for the resale of the Common Stock received by such holders in
+accordance with the Plan or, if MK Rail has filed a registration statement
+pursuant to the Securities Act, such holders may include shares of Common Stock
+received in accordance with the Plan on MK Rail's registration statement.
+     As of the filing date, CSFBC, the principal business of which is investment
+banking and registered broker-dealer activities, held 55,000 shares of Common
+Stock in its trading account in connection with its market making activities.
+CSFBI, through its 100 percent ownership of the outstanding capital stock of
+CSFBSC and CSFBC, may be deemed to beneficially own 1,940,099 shares of Common
+Stock, which constitute 11.1% of the shares of Common Stock estimated to be
+outstanding as of September 14, 1996.
+     (b) CSFBSC, through its ownership of 1,885,099 shares of Common Stock, and
+CSFBI, through its ownership of 100 percent of the outstanding capital stock of
+CSFBSC, may be deemed to share the power to vote or direct the vote and dispose
+or direct the disposition of 1,885,099 shares of Common Stock.  CSFBI, through
+its ownership of 100 percent of the outstanding capital stock of CSFBC, may also
+be deemed to share the power to vote or direct the vote and dispose or direct
+the disposition of an additional 55,000 shares of Common Stock held by CSFBC
+pursuant to its market making activities.
+     (c) During the past 60 days, the Reporting Persons have not effected any
+transactions relating to the Common Stock, except as described below and in
+Items 3 and 5(a).  During the past 60 days, CSFBC has effectuated six
+transactions in the Common Stock as a market maker in the ordinary course of
+business, purchasing shares of Common Stock at prices ranging from $5.25 to
+$5.37.  To the knowledge of the Reporting Persons, none of the executive
+officers or directors of CSFBI or CSFBSC listed in Schedule I hereto has
+effected any transaction relating to the Common Stock during the past 60 days.
+     (d)  Not applicable.
+<PAGE>
+ 
+                                 
+- -----------------------                                  ---------------------
+  CUSIP NO. 55305T102            SCHEDULE 13D              PAGE 7 OF 15 PAGES
+- -----------------------                                  ---------------------
+      (e)  Not applicable.
+
+ITEM 6.  CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH RESPECT
+         TO SECURITIES OF THE ISSUER
+     Except as described in Items 3 and 5, the Reporting Persons do not have any
+contract, arrangement, understanding or relationship with any other person with
+respect to any security of MK Rail.  In addition, the Reporting Persons
+expressly disclaim that they are a member of a group as a result of the
+imposition of the Plan and the Stockholders Agreement.
+
+ITEM 7.  MATERIAL TO BE FILED AS EXHIBITS
+
+Exhibit No.    Description
+- -----------    -----------
+
+     1         First Amended Plan of Reorganization of Morrison Knudsen
+               Corporation, as confirmed by the United States Bankruptcy Court
+               for the District of Delaware, dated August 26, 1996 (filed as
+               Exhibit 2.1 to the Current Report on Form 10-Q of MKC dated June
+               30, 1996 and incorporated herein by reference thereto).
+
+     2         Stockholders Agreement dated as of June 20, 1996 between MK Rail
+               and MKC (filed as Exhibit 10.2 to the Current Report on Form 8-K
+               of MKC dated June 25, 1996 and incorporated herein by reference
+               thereto).
+
+     3         First Amendment to Stockholders Agreement dated as of July 25,
+               1996 between MK Rail and MKC (filed as Exhibit 10.4 to the
+               Current Report on Form 8-K of MK Rail dated September 10, 1996
+               and incorporated herein by reference thereto).
+
+SIGNATURE
+
+After reasonable inquiry and to the best of my knowledge and belief, I certify
+that the information set forth in this Amendment is true, complete and correct.
+
+Dated:  October 30, 1996
+
+                                             CS FIRST BOSTON, INC.
+
+                                             By:     /s/ Agnes F. Reicke
+                                             Name:   Agnes F. Reicke
+                                             Title:  Deputy General Counsel,
+                                                     Director and Secretary
+<PAGE>
+- -----------------------                                 ------------------------
+  CUSIP No. 55305T102             SCHEDULE 13D             Page 8 of 15 Pages
+- -----------------------                                 ------------------------
+
+ 
+                                   SCHEDULE I
+
+               CERTAIN INFORMATION CONCERNING THE DIRECTORS AND
+                 EXECUTIVE OFFICERS OF CS FIRST BOSTON, INC.,
+             CS FIRST BOSTON SECURITIES CORPORATION AND CS HOLDING
+
+          Except where indicated, each of the persons named below is a citizen
+of the United States of America. Unless otherwise indicated, for each person
+whose principal employment is with CSFBI or CSFBSC, the principal business and
+address of such person's employer is described under Item 2 above. Unless
+otherwise indicated, for each person whose principal employment is with CSFBC or
+CS First Boston Pacific, Inc. ("CSFBP"), the address of such person's employer
+is Park Avenue Plaza, 55 East 52nd Street, New York, New York 10055. None of the
+persons named in Parts A through C below is a record owner of any Common Stock.
+
+
+                                       Employment; Business Address;
+                                       and Principal Business of
+Name                                   Employer
+- --------------------------             -----------------------------
+ 
+A.   CS First Boston, Inc.
+     --------------------
+ 
+Directors
+- ---------
+
+Rainer E. Gut                          Chairman of the Board
+(Chairman)                             Credit Suisse
+(Citizen of Switzerland)               Paradeplatz 8
+                                       CH - 8001 Zurich,
+                                       Switzerland
+                                       (Swiss Bank)
+
+John M. Hennessy                       CEO, Director and Chairman
+                                       of the Executive
+                                       Board of CSFBI
+ 
+Aziz D. Syriani                        President
+(Citizen of Canada)                    Olayan Investments Company
+                                       Establishment
+                                       The Olayan Group
+                                       206 Syngrou Avenue
+                                       Kallithea,
+                                       Athens, 17610
+                                       Greece
+
+Robert G. Schwartz                     Director
+                                       Metropolitan Life Insurance
+                                       Company
+                                       200 Park Avenue, Suite 5700
+                                       New York, NY  10166
+
+<PAGE>
+- -----------------------                                 ------------------------
+  CUSIP No. 5530T102              SCHEDULE 13D             Page 9 of 15 Pages
+- -----------------------                                 ------------------------
+ 
+
+Hans-Ulrich Doerig                    Chief Executive Officer
+                                      Credit Suisse
+                                      Paradeplatz 8
+                                      CH - 8001 Zurich,
+                                      Switzerland
+
+Dr. Hugo von der Crone                Retired
+(Citizen of Switzerland)              c/o Credit Suisse
+                                      Filiale Werdmuehleplatz
+                                      Uranianstrasse 4
+                                      CH - 8001 Zurich,
+                                      Switzerland
+
+Robert L. Genillard                   Chairman of the Board
+(Citizen of Switzerland)              Clariden Bank
+                                      One Quai du Mont-Blanc
+                                      1211 Geneva, Switzerland
+
+Phillip M. Colebatch                  Chief Financial and Administrative Officer
+(Citizen of Australia)                CS Holding
+                                      Nuschelerstrasse 1
+                                      CH - 8021 Zurich,
+                                      Switzerland
+
+Frank G. Zarb                         Chairman, Chief Executive
+                                      Officer and President
+                                      Alexander & Alexander
+                                      Services Inc.
+                                      1185 Avenue of the Americas
+                                      New York, NY  10036
+
+Executive Board
+- ---------------
+
+John M. Hennessy                      CEO, Director and Chairman
+(Chairman)                            of the Executive Board, of
+                                      CSFBI
+
+Allen D. Wheat                        President, Chief Operating
+                                      Officer, of CSFBI
+
+Brady W. Dougan                       Managing Director-Equities,
+                                      of CSFBC
+
+Marc Hotimsky                         Managing Director-Fixed
+                                      Income and Foreign Exchange,
+                                      of CSFBC
+
+David C. Mulford                      Vice Chairman, Investment
+                                      Banking, of CSFBI
+
+Richard E. Thornburgh                 Chief Financial and
+                                      Administrative Officer, of
+                                      CSFBI
+
+<PAGE>
+- -----------------------                                 ------------------------
+  CUSIP No. 55305T102             SCHEDULE 13D             Page 10 of 15 Pages
+- -----------------------                                 ------------------------
+ 
+
+Charles G. Ward, III                   Managing Director-Investment
+                                       Banking, of CSFBC
+
+Operating Committee
+- -------------------
+
+Allen D. Wheat                         President, Chief Operating
+(Chairman)                             Officer and Chairman of
+                                       the Operating Committee,
+                                       of CSFBI
+
+Brady W. Dougan                        Managing Director-Equities,
+                                       of CSFBC
+
+Christopher A. Goekjian                Managing Director of CSFBC
+                                       1 Cabot Square
+                                       London, England
+                                       E14, 4QJ
+
+Charles G. Ward III                    Managing Director-Investment
+                                       Banking, of CSFBC
+
+Christopher Carter                     Managing Director-Equities,
+                                       of CSFBC 1 Cabot Square
+                                       London, England
+                                       E14, 4QJ
+
+Brian D. Finn                          Managing Director-Mergers
+                                       and Acquisitions, of CSFBC
+
+Craig Foster                           Managing Director-Fixed
+                                       Income, of CSFBC
+
+John S. Harrison                       Managing Director, of CSFBC
+
+Marc Hotimsky                          Managing Director-Fixed
+                                       Income and Foreign Exchange,
+                                       of CSFBC
+
+Ian Molson                             Managing Director, of CSFBC
+
+Mark R. Patterson                      Managing Director-Leveraged
+                                       Finance, of CSFBC
+
+Stephen Stonefield                     Managing Director, of CSFBP
+
+Richard E. Thornburgh                  Chief Financial and
+                                       Administrative Officer, of
+                                       CSFBI
+
+<PAGE>
+- -----------------------                                 ------------------------
+  CUSIP No. 55305T102             SCHEDULE 13D             Page 11 of 15 Pages
+- -----------------------                                 ------------------------
+
+
+Executive Officers
+- ------------------
+
+John M. Hennessy                       CEO, Director and Chairman
+(CEO)                                  of the Executive Board, of CSFBI
+
+Allen D. Wheat                         President, Chief Operating
+(President and Chief                   Officer and Chairman of
+Operating Officer)                     the Operating Committee, of CSFBI
+
+David C. Mulford                       Vice Chairman, Investment
+(Vice Chairman,                        Banking, of CSFBI
+Investment Banking)
+
+Charles G. Ward, III                   Managing Director,
+(Managing Director,                    Investment Banking, of CSFBC
+Investment Banking)
+
+Richard E. Thornburgh                  Chief Administrative and
+(Chief Administrative and              Financial Officer, of CSFBI
+Financial Officer)
+
+Anthony J. Cetta                       Managing Director-Senior
+(Managing Director-Senior              Advisor and Tax Director, of
+Advisor and Director of Taxes)         CSFBI
+
+William P. Bowden, Jr.                 Managing Director and
+(Managing Director and                 General Counsel,
+General Counsel)                       of CSFBI
+
+Maynard J. Toll, Jr.                   Managing Director-Senior
+(Managing Director-                    Advisor and Communications
+Senior Advisor and                     Officer, of CSFBI
+Communications Officer)
+
+Carlos Onis                            Managing Director and
+(Managing Director and Controller)     Controller, of CSFBI
+
+Lewis H. Wirshba                       Managing Director and
+(Managing Director and Treasurer)      Treasurer, of CSFBI
+
+Agnes F. Reicke                        Deputy General Counsel,
+(Deputy General Counsel,               Director and Secretary, of
+Director and Secretary)                CSFBI
+(Citizen of Switzerland)
+
+Lori M. Russo                          Vice President and Assistant
+(Vice President and                    Secretary, of CSFBI
+Assistant Secretary)
+
+<PAGE>
+- ---------------------                                      ---------------------
+ CUSIP No. 55305T102               SCHEDULE 13 D            Page 12 of 15 Pages 
+- ---------------------                                      ---------------------
+
+
+B.   CS First Boston Securities Corporation
+     --------------------------------------
+
+Directors
+- -----------
+
+John M. Hennessy                             CEO, Director and Chairman
+(President and Chairman)                     of the Executive Board, of
+                                             CSFBI
+
+Richard E. Thornburgh                        Chief Administrative and
+(Vice President)                             Financial Officer, of CSFBI
+
+Officers
+- --------
+
+John M. Hennessy                             CEO, Director and Chairman
+(President and Chairman)                     of the Executive Board, of
+                                             CSFBI
+
+Agnes F. Reicke                              Deputy General Counsel,
+(Vice President and                          Director and Secretary, of
+Secretary)                                   CSFBI
+(Citizen of Switzerland)
+
+Richard E. Thornburgh                        Chief Administrative and
+(Vice President)                             Financial Officer, of CSFBI
+
+Benjamin H. Cohen                            Managing Director, of CSFBI
+(Vice President)
+
+Lewis H. Wirshba                             Managing Director and
+(Treasurer)                                  Treasurer, of CSFBI
+
+Carlos Onis                                  Managing Director and
+(Vice President and Controller)              Controller, of CSFBI
+
+Anthony J. Cetta                             Managing Director-Senior
+(Vice President and                          Advisor and Tax Director, of
+Director of Taxes)                           CSFBI
+
+C.   CS Holding
+     ----------
+
+Directors
+- ---------
+
+Rainer E. Gut                                Chairman of the Board
+(Chairman)                                   Credit Suisse
+(Citizen of Switzerland)                     Paradeplatz 8,
+                                             CH - 8021 Zurich,
+                                             Switzerland
+                                             (Swiss Bank)
+<PAGE>
+- ---------------------                                      ---------------------
+ CUSIP No. 55305T102               SCHEDULE 13 D            Page 13 of 15 Pages 
+- ---------------------                                      ---------------------
+
+Helmut O. Maucher                            Chairman of the Board and
+(Citizen of Germany)                         CEO
+                                             Nestle Ltd.
+                                             1800 Vevey, Switzerland
+
+Dr. Ulrich Albers                            Partner
+(Citizen of Switzerland)                     Albers & Co.
+                                             CH - 8022 Zurich,
+                                             Switzerland
+                                             (Textile products)
+
+Dr. Thomas W. Bechtler                       Vice Chairman and CEO
+(Citizen of Switzerland)                     Hesta AG
+                                             P.O. Box 1910
+                                             CH-5700 Kusnacht
+                                             Switzerland
+
+Ulrich Bremi                                 Chairman
+(Citizen of Switzerland)                     Swiss Reinsurance Company
+                                             Mythenqual 50/60
+                                             CH - 8022 Zurich,
+                                             Switzerland
+
+Jean-Daniel Cornaz                           Chairman of the Board and
+(Citizen of Switzerland)                     CEO
+                                             Vetropack Holding Ltd.
+                                             CH - 8180 Bulach,
+                                             Switzerland
+                                             (Glass, packaging industry)
+
+Giafranco Cotti                              Chairman of the Board
+(Citizen of Switzerland)                     Swiss Volksbank
+                                             Weltpostsrasse 5
+                                             CH - 3015 Berne, Switzerland
+
+Arthur Dunkel                                Boulevard du Theatre 6-4
+(Citizen of Switzerland)                     CH - 1204 Geneva,
+                                             Switzerland
+
+Robert L. Genillard                          Chairman of the Board
+(Citizen of Switzerland)                     Clariden Bank
+                                             One Quai du Mont-Blanc
+                                             CH - 1211 Geneva,
+                                             Switzerland
+
+Dr. Adolf Gugler                             Chairman of the Board
+(Citizen of Switzerland)                     Swiss Volksbank
+                                             Weltpoststrasse 5
+                                             CH - 3015 Berne,
+                                             Switzerland
+<PAGE>
+- ---------------------                                      ---------------------
+ CUSIP No. 55305T102               SCHEDULE 13 D            Page 14 of 15 Pages 
+- ---------------------                                      ---------------------
+ 
+Heini Lippuner                               President and Chief
+(Citizen of Switzerland)                     Operating Officer
+                                             Ciba-Geigy Ltd.
+                                             CH - 4002 Basle, Switzerland
+
+Otto Loepfe                                  CEO
+(Citizen of Switzerland)                     Swissair Group
+                                             8058 Zurich-Airport,
+                                             Switzerland
+
+Erich Mueller                                Member of the Executive
+(Citizen of Switzerland)                     Board
+                                             Sulzer Brothers Ltd.
+                                             8401 Winterthur, Switzerland
+                                             (Machinery)
+
+Thomas Schmidheiny                           Chairman of the Board
+(Citizen of Switzerland)                     Holderbank Financiere Glarus
+                                             Ltd.
+                                             Zurcherstrasse 170
+                                             CH - 8645 Jona, Switzerland
+
+Ernst Schneider                              Chairman of the Board
+(Citizen of Switzerland)                     Bank Leu, Ltd.
+                                             Baerenstrasse 8
+                                             CH - 6304 Zug, Switzerland
+
+Vreni Spoerry                                National Councillor
+(Citizen of Switzerland)                     Claridenstrasse 3
+                                             CH - 8810 Horgen,
+                                             Switzerland
+
+Theodor M. Tschopp                           President
+(Citizen of Switzerland)                     Alusuisse-Lonza Holding Ltd.
+                                             Feldeggstrasse 4
+                                             CH - 8034 Zurich,
+                                             Switzerland
+
+Executive Officers
+- ------------------
+
+Rainer E. Gut                                Chairman of the Board
+(President and Chairman                      Credit Suisse
+of the Board)                                Paradeplatz 8
+(Citizen of Switzerland)                     CH - 8021 Zurich,
+                                             Switzerland
+                                             (Swiss Bank)
+
+Oskar K. Ronner                              President and CEO
+(Member of the Executive                     Electrowatt Ltd.
+Board)                                       Bellerivestrasse 36
+(Citizen of Switzerland)                     CH - 8022 Zurich,
+                                             Switzerland
+<PAGE>
+- ---------------------                                      ---------------------
+ CUSIP No. 55305T102               SCHEDULE 13 D            Page 15 of 15 Pages 
+- ---------------------                                      ---------------------
+ 
+Allen D. Wheat                               President, Chief Operating
+(Member of the Executive Board)              Officer and Chairman of the
+                                             Operating Committee, of
+                                             CSFBI
+
+Phillip M. Colebatch                         Chief Financial and
+Member of the Executive Board                Administrative Officer
+(Citizen of Australia)                       CS Holding
+                                             Nuschelerstrasse 1
+                                             CH - 8021 Zurich,
+                                             Switzerland
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

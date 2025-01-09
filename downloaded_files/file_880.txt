@@ -1,0 +1,579 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QJB6aYFIiFe5iQudbhsrCFx5Ec3oaJgjoz9Pc8wAo0BHVYzk4MDUFNiGwUY5E9Xv
+ 30RaZIVJzXYMwI1WthkHYg==
+
+<SEC-DOCUMENT>0000902664-96-000101.txt : 19960805
+<SEC-HEADER>0000902664-96-000101.hdr.sgml : 19960805
+ACCESSION NUMBER:		0000902664-96-000101
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19960802
+SROS:			NASD
+GROUP MEMBERS:		CLIFFORD GREENBERG
+GROUP MEMBERS:		HOWARD P. BERKOWITZ
+GROUP MEMBERS:		HPB ASSOCIATES LP
+GROUP MEMBERS:		HPB ASSOCIATES, L.P.
+GROUP MEMBERS:		HPB GROUP, L.L.C
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ARK RESTAURANTS CORP
+		CENTRAL INDEX KEY:			0000779544
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		IRS NUMBER:				133156768
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-37165
+		FILM NUMBER:		96602729
+
+	BUSINESS ADDRESS:	
+		STREET 1:		85 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10003-3019
+		BUSINESS PHONE:		2122068800
+
+	MAIL ADDRESS:	
+		STREET 2:		85 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10003-3019
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HPB ASSOCIATES LP
+		CENTRAL INDEX KEY:			0000760559
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		888 SEVENTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10106
+		BUSINESS PHONE:		2126640990
+
+	MAIL ADDRESS:	
+		STREET 2:		888 SEVENTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10106
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<TEXT>
+
+ 
+               SECURITIES AND EXCHANGE COMMISSION 
+                     Washington, D.C. 20549 
+                     ______________________ 
+                                 
+                          SCHEDULE 13D 
+                                 
+            Under the Securities Exchange Act of 1934 
+                                 
+ 
+                      ARK RESTAURANTS CORP. 
+                         (Name of Issuer) 
+                                 
+             Common Stock, par value $.01 per share 
+                  (Title of Class of Securities) 
+                                 
+                           040712-10-1 
+                          (CUSIP Number) 
+ 
+          Howard P. Berkowitz            (212) 664-0990 
+          HPB Associates, L.P.          888 Seventh Avenue 
+                                   New York, New York 10106 
+          (Name, address and telephone number of person 
+        authorized to receive notices and communications) 
+ 
+                        November 1, 1993 
+     (Date of event which requires filing of this statement) 
+                     ______________________ 
+ 
+          If the filing person has previously filed a statement 
+on Schedule 13G to report the acquisition which is the subject of 
+this Schedule 13D, and is filing this schedule because of Rule 
+13d-1(b)(3) or (4), check the following box  [ ]. 
+ 
+          Check the following box if a fee is being paid with the 
+statement  [X].  (A fee is not required only if the reporting 
+person:  (1) has a previous statement on file reporting 
+beneficial ownership of more than five percent of the class of 
+securities described in Item 1; and (2) has filed no amendment 
+subsequent thereto reporting beneficial ownership of five percent 
+or less of such class.)  (See Rule 13d-7.) 
+ 
+                          Page 1 of 10 Pages 
+ 
+ 
+                               <PAGE> 
+CUSIP No.  040712-10-1 
+_____________________________________________________________________________ 
+     (1)  NAME OF REPORTING PERSON 
+          S.S. OR I.R.S. IDENTIFICATION NO.     HPB Associates, L.P. 
+          OF ABOVE PERSON 
+_____________________________________________________________________________ 
+     (2)  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP **  
+                                                                    (a)  [ ]  
+                                                                    (b)  [X]  
+_____________________________________________________________________________ 
+     (3)  SEC USE ONLY 
+ 
+_____________________________________________________________________________ 
+     (4)  SOURCE OF FUNDS 
+                  WC 
+_____________________________________________________________________________ 
+     (5)  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS  
+          REQUIRED PURSUANT TO ITEMS 2(d) OR 2(e)                        [ ]  
+_____________________________________________________________________________ 
+     (6)  CITIZENSHIP OR PLACE OF ORGANIZATION        Delaware 
+ 
+_____________________________________________________________________________ 
+ 
+NUMBER OF      (7)  SOLE VOTING POWER       		-0- 
+ 
+SHARES         ______________________________________________________________ 
+ 
+BENEFICIALLY   (8)  SHARED VOTING POWER			150,000 
+ 
+OWNED BY       ______________________________________________________________ 
+ 
+EACH           (9)  SOLE DISPOSITIVE POWER		-0- 
+ 
+REPORTING      ______________________________________________________________ 
+ 
+PERSON WITH    (10) SHARED DISPOSITIVE POWER		150,000 
+_____________________________________________________________________________ 
+      (11)  AGGREGATE AMOUNT BENEFICIALLY OWNED 
+            BY EACH REPORTING PERSON                  150,000 
+ 
+_____________________________________________________________________________ 
+      (12)  CHECK BOX IF THE AGGREGATE AMOUNT 
+            IN ROW (11) EXCLUDES CERTAIN SHARES **                       [ ]  
+_____________________________________________________________________________ 
+      (13)  PERCENT OF CLASS REPRESENTED 
+            BY AMOUNT IN ROW (11)           		4.6% 
+_____________________________________________________________________________ 
+       (14)  TYPE OF REPORTING PERSON 
+                  PN 
+_____________________________________________________________________________ 
+                    ** SEE INSTRUCTIONS BEFORE FILLING OUT!                    
+ 
+                        Page 2 of 10 Pages 
+ 
+                               <PAGE> 
+CUSIP No.  040712-10-1 
+ 
+_____________________________________________________________________________ 
+     (1)  NAME OF REPORTING PERSON 
+          S.S. OR I.R.S. IDENTIFICATION NO.     HPB Group, L.L.C. 
+          OF ABOVE PERSON 
+_____________________________________________________________________________ 
+     (2)  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP **  
+                                                                    (a)  [ ]  
+                                                                    (b)  [X]  
+_____________________________________________________________________________ 
+     (3)  SEC USE ONLY 
+_____________________________________________________________________________ 
+     (4)  SOURCE OF FUNDS 
+                  WC 
+_____________________________________________________________________________ 
+     (5)  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS  
+          REQUIRED PURSUANT TO ITEMS 2(d) OR 2(e)                        [ ]  
+_____________________________________________________________________________ 
+     (6)  CITIZENSHIP OR PLACE OF ORGANIZATION        Delaware 
+_____________________________________________________________________________ 
+ 
+NUMBER OF      (7)  SOLE VOTING POWER       		- 0 - 
+ 
+SHARES         ______________________________________________________________ 
+ 
+BENEFICIALLY   (8)  SHARED VOTING POWER			150,000     (all shares are 
+                                                      owned for the account of 
+                                                      HPB Associates, L.P.) 
+OWNED BY       ______________________________________________________________ 
+ 
+EACH           (9)  SOLE DISPOSITIVE POWER		- 0 - 
+REPORTING      ______________________________________________________________ 
+ 
+PERSON WITH    (10) SHARED DISPOSITIVE POWER		150,000 (all shares are 
+                                                      owned for the account of 
+                                                      HPB Associates, L.P.) 
+_____________________________________________________________________________ 
+      (11)  AGGREGATE AMOUNT BENEFICIALLY OWNED 
+            BY EACH REPORTING PERSON			150,000        (all shares are 
+                                                      owned for the account of 
+                                                      HPB Associates, L.P.) 
+_____________________________________________________________________________ 
+      (12)  CHECK BOX IF THE AGGREGATE AMOUNT 
+            IN ROW (11) EXCLUDES CERTAIN SHARES **                       [ ]  
+_____________________________________________________________________________ 
+      (13)  PERCENT OF CLASS REPRESENTED 
+            BY AMOUNT IN ROW (11)           		4.6% 
+_____________________________________________________________________________ 
+(14)  TYPE OF REPORTING PERSON 
+                  OO 
+_____________________________________________________________________________ 
+                    ** SEE INSTRUCTIONS BEFORE FILLING OUT! 
+ 
+                          Page 3 of 10 Pages 
+ 
+                               <PAGE> 
+CUSIP No.  040712-10-1 
+_____________________________________________________________________________ 
+     (1)  NAME OF REPORTING PERSON 
+          S.S. OR I.R.S. IDENTIFICATION NO.     Howard P. Berkowitz 
+          OF ABOVE PERSON 
+_____________________________________________________________________________ 
+     (2)  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP **  
+                                                                    (a)  [ ]  
+                                                                    (b)  [X]  
+_____________________________________________________________________________ 
+     (3)  SEC USE ONLY 
+_____________________________________________________________________________ 
+     (4)  SOURCE OF FUNDS 
+                  WC 
+_____________________________________________________________________________ 
+     (5)  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS 
+          REQUIRED PURSUANT TO ITEMS 2(d) OR 2(e)                        [ ]  
+_____________________________________________________________________________ 
+     (6)  CITIZENSHIP OR PLACE OF ORGANIZATION 
+                  United States 
+_____________________________________________________________________________ 
+ 
+NUMBER OF      (7)  SOLE VOTING POWER		- 0 - 
+ 
+SHARES         ______________________________________________________________ 
+ 
+BENEFICIALLY   (8)  SHARED VOTING POWER		150,000 (all shares are owned  
+                                                for the account of HPB  
+                                                Associates, L.P.) 
+OWNED BY       ______________________________________________________________ 
+ 
+EACH           (9)  SOLE DISPOSITIVE POWER	- 0 - 
+REPORTING      ______________________________________________________________ 
+ 
+PERSON WITH    (10) SHARED DISPOSITIVE POWER	150,000 (all shares are owned  
+                                                for the account of HPB  
+                                                Associates, L.P.) 
+_____________________________________________________________________________ 
+      (11)  AGGREGATE AMOUNT BENEFICIALLY 
+ 		OWNED BY EACH REPORTING PERSON	150,000 (all shares are owned  
+                                                for the account of HPB  
+                                                Associates, L.P.) 
+_____________________________________________________________________________ 
+      (12)  CHECK BOX IF THE AGGREGATE AMOUNT  
+            IN ROW (11) EXCLUDES CERTAIN SHARES **                       [ ]  
+_____________________________________________________________________________ 
+      (13)  PERCENT OF CLASS REPRESENTED  
+            BY AMOUNT IN ROW (11)              4.6% 
+_____________________________________________________________________________ 
+       (14)  TYPE OF REPORTING PERSON  
+                        IN 
+_____________________________________________________________________________ 
+                    ** SEE INSTRUCTIONS BEFORE FILLING OUT! 
+ 
+ 
+                          Page 4 of 10 Pages 
+ 
+                               <PAGE> 
+CUSIP No.  040712-10-1 
+_____________________________________________________________________________ 
+     (1)  NAME OF REPORTING PERSON 
+          S.S. OR I.R.S. IDENTIFICATION NO.     Clifford Greenberg 
+          OF ABOVE PERSON 
+_____________________________________________________________________________ 
+     (2)  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP **  
+                                                                    (a)  [ ]  
+                                                                    (b)  [X]  
+_____________________________________________________________________________ 
+     (3)  SEC USE ONLY 
+ 
+_____________________________________________________________________________ 
+     (4)  SOURCE OF FUNDS 
+                  PF 
+_____________________________________________________________________________ 
+     (5)  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS 
+          REQUIRED PURSUANT TO ITEMS 2(d) OR 2(e)                        [ ]  
+_____________________________________________________________________________ 
+     (6)  CITIZENSHIP OR PLACE OF ORGANIZATION 
+                  United States 
+_____________________________________________________________________________ 
+ 
+NUMBER OF      (7)  SOLE VOTING POWER	37,300 
+ 
+SHARES         ______________________________________________________________ 
+ 
+BENEFICIALLY   (8)  SHARED VOTING POWER		 - 0 - 
+ 
+OWNED BY       ______________________________________________________________ 
+ 
+EACH           (9)  SOLE DISPOSITIVE POWER      	37,300 
+ 
+REPORTING      ______________________________________________________________ 
+ 
+PERSON WITH    (10) SHARED DISPOSITIVE POWER	- 0 - 
+_____________________________________________________________________________ 
+      (11)  AGGREGATE AMOUNT BENEFICIALLY 
+ 		OWNED BY EACH REPORTING PERSON	37,300 
+ 
+_____________________________________________________________________________ 
+      (12)  CHECK BOX IF THE AGGREGATE AMOUNT  
+            IN ROW (11) EXCLUDES CERTAIN SHARES **                       [ ]  
+_____________________________________________________________________________ 
+      (13)  PERCENT OF CLASS REPRESENTED  
+            BY AMOUNT IN ROW (11)              1.2% 
+_____________________________________________________________________________ 
+       (14)  TYPE OF REPORTING PERSON  
+                        IN 
+_____________________________________________________________________________ 
+                    ** SEE INSTRUCTIONS BEFORE FILLING OUT! 
+ 
+                          Page 5 of 10 Pages 
+ 
+                               <PAGE> 
+ 
+		This Schedule 13D relates to the Common Stock, par value $.01 per  
+share (the "Common Stock"), of Ark Restaurants Corp., a New York corporation  
+(the "Company"), whose principal executive office is located at 65 Fifth  
+Avenue, New York, New York 10003.  
+ 
+ITEM 2.	IDENTITY AND BACKGROUND. 
+ 
+		(a)  This Schedule 13D is being filed on behalf of HPB Associates,  
+L.P., a Delaware partnership whose principal office is located at 888 Seventh  
+Avenue, New York, New York 10106 (the "Partnership"), HPB Group, L.L.C., a  
+Delaware limited liability company ("HPB Group"), whose principal office is  
+located at 888 Seventh Avenue, New York, New York 10106, Mr. Howard P.  
+Berkowitz and Mr. Clifford Greenberg. 
+ 
+		(b)  The Partnership is a private investment partnership. HPB  
+Group is the sole managing partner of the Partnership.  Mr. Berkowitz is the  
+senior managing member of HPB Group. Mr. Berkowitz's present principal  
+occupation is acting as senior managing member of HPB Group.  Mr. Clifford  
+Greenberg and Mr. Terry O'Connor are each a managing member of HPB Group. The  
+present principal occupation of each of Mr. Greenberg and Mr. O'Connor is  
+acting as a managing member of HPB Group.  The business address of each of  
+Messrs. Berkowitz, Greenberg and O'Connor is 888 Seventh Avenue, New York, New  
+York  10106. Messrs. Berkowitz, Greenberg and O'Connor are citizens of the  
+United States. 
+ 
+		(c)  Neither the Partnership, HPB Group, Mr. Berkowitz, Mr.  
+Greenberg nor Mr. O'Connor has, during the last five years: 
+ 
+			(i)	been convicted in a criminal proceeding (excluding  
+traffic violations or similar misdemeanors); or 
+ 
+			(ii)	been a party to a civil proceeding of a judicial or  
+administrative body of competent jurisdiction and, as a result of such  
+proceeding, was or is subject to a judgment, decree or final order enjoining  
+future violations of, or prohibiting or mandating activities subject to,  
+federal or state securities laws or a finding of any violation with respect to  
+such laws. 
+ 
+ITEM 3.     SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION. 
+ 
+            (a)	The source of funds for the purchases of the 150,000 shares  
+of Common Stock beneficially owned by the Partnership was the Partnership's  
+capital.  The total amount of funds used by the Partnership to purchase the  
+150,000 shares of Common Stock owned by it as described in Item 4 below was  
+$1,129,763.80 
+ 
+		(b)	The source of funds for the purchases of 37,300 shares of  
+Common Stock beneficially owned by Mr. Greenberg was his personal funds. 
+ 
+                          Page 6 of 10 Pages 
+ 
+                               <PAGE> 
+ 
+ITEM 4.	PURPOSE OF TRANSACTION. 
+ 
+		(a)	The shares of Common Stock beneficially owned by the  
+Partnership and Mr. Greenberg have been acquired in the ordinary course of  
+business for investment purposes.  Each of the Partnership and Mr. Greenberg  
+may make further purchases of the Common Stock from time to time and may  
+dispose of any or all shares of the Common Stock held by it at any time. Other  
+than as set forth in this paragraph, neither the Partnership nor Mr. Greenberg  
+has any plans or proposals which relate to, or could result in, any of the  
+matters referred to in paragraphs (b) through (j), inclusive, of Item 4 of  
+Schedule 13D. The Partnership may, at any time and from time to time, review  
+or reconsider its position with respect to the Company, and formulate plans or  
+proposals with respect to any such matters, but has no present intention of  
+doing so.   
+ 
+ITEM 5.     INTEREST IN SECURITIES OF THE ISSUER. 
+ 
+		(a)	The approximate aggregate percentage of shares of Common  
+Stock beneficially owned by each person herein is based on the number of  
+outstanding shares of Common Stock as of May 10, 1996, as reflected in the  
+Form 10-Q of the Company filed with the Securities and Exchange Commission for  
+the period ending March 30, 1996, equal to 3,241,045. 
+ 
+		As of the close of business on July 30, 1996: 
+ 
+		(i) The Partnership is the beneficial owner of 150,000 shares of  
+Common Stock (constituting approximately 4.63% of the shares of Common Stock  
+outstanding). 
+ 
+		(ii)	HPB Group owns directly no shares of Common Stock.  By  
+reason of provisions of Rule 13d-3 of the Act, HPB Group, as sole managing  
+partner of the Partnership, may be deemed the beneficial owner of 150,000  
+shares of Common Stock held by the Partnership (constituting approximately  
+4.63% of the shares of Common Stock outstanding). 
+ 
+		(iii)	Mr. Berkowitz owns directly no shares of Common Stock.  By  
+reason of provisions of Rule 13d-3 of the Act, Mr. Berkowitz, as Senior  
+Managing Member of HPB Group, may be deemed the beneficial owner of 150,000  
+shares of Common Stock held by the Partnership (constituting approximately  
+4.63% of the shares of Common Stock outstanding). 
+ 
+		(iv)	Mr. Greenberg owns beneficially 37,300 shares of Common  
+Stock (constituting approximately 1.15% of the shares of Common Stock  
+outstanding). 
+ 
+		(b) 	(i)	The Partnership has the shared power to vote and  
+dispose of 150,000 shares of the Common Stock owned by it, which power may be  
+exercised by its managing partner, HPB Group and Mr. Berkowitz as the Senior  
+Managing Member of HPB Group. 
+ 
+			(ii)  HPB Group has the shared power to vote and dispose of  
+150,000 shares of the Common Stock owned by the Partnership. 
+ 
+                          Page 7 of 10 Pages 
+ 
+                               <PAGE> 
+ 
+ 
+			(iii)	Mr. Greenberg has the sole power to vote and dispose  
+of 37,300 shares of the Common Stock owned by him. 
+ 
+			(iv)	Mr. Berkowitz has the shared power to vote and dispose  
+of 150,000 shares of Common Stock owned by the Partnership, the sole power to  
+vote no shares of Common Stock and the sole power to dispose of no shares of  
+Common Stock. 
+ 
+            (c)	No transactions in the shares of Common Stock of the Company  
+were effected by the Partnership, HPB Group, Mr. Berkowitz or Mr. Greenberg  
+during the past sixty days.  Transactions previously effected by the  
+Partnership in shares of Common Stock of the Company are set forth in Schedule  
+I hereto. 
+ 
+            (d)	No person other than each respective record owner referred  
+to herein of shares of Common Stock is known to have the right to receive or  
+the power to direct the receipt of dividends from or the proceeds of sale of  
+such shares of Common Stock. 
+ 
+            (e) Not applicable. 
+ 
+ITEM 6.	CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH 	 
+		RESPECT TO SECURITIES OF THE ISSUER. 
+ 
+		There are no contracts, understandings or relationships (legal or  
+otherwise) among the person named in Item 2 hereof and between such persons or  
+any person with respect to any securities of the Company, including but not  
+limited to transfer or voting of any of the shares of Common Stock, finder's  
+fees, joint ventures, loan or option arrangements, puts or calls, guarantees  
+of profits, division of profits or loss, or the giving or withholding of  
+proxies. 
+ 
+ITEM 7.	MATERIAL TO BE FILED AS EXHIBITS. 
+ 
+		Not Applicable. 
+ 
+                          Page 8 of 10 Pages 
+ 
+                               <PAGE> 
+ 
+                              SIGNATURE  
+ 
+          After reasonable inquiry and to the best of their knowledge and  
+belief, the undersigned certify that the information set forth in this  
+statement is true, complete and correct.  
+ 
+Dated: August 1, 1996 
+ 
+                              						HPB ASSOCIATES, L.P. 
+ 
+                                    By: 	HPB GROUP, L.L.C., 
+                                  							its general partner 
+ 
+ 
+                                  							By: /s/ Howard P. Berkowitz 
+                                     								Howard P. Berkowitz 
+                                     								Senior Managing Member 
+ 
+ 
+                               					HPB GROUP, L.L.C. 
+ 
+ 
+	                              					By: /s/ Howard P. Berkowitz 
+                                 							Howard P. Berkowitz 
+                                  						Senior Managing Member 
+ 
+ 
+ 
+                                    /s/ Howard P. Berkowitz 
+                             							Howard P. Berkowitz 
+ 
+ 
+  
+	                              					/s/ Clifford Greenberg 
+                             							Clifford Greenberg 
+ 
+                          Page 9 of 10 Pages 
+ 
+                               <PAGE> 
+ 
+                             Schedule I 
+  
+                            Transactions 
+ 
+			 
+ 
+               			Number of 
+  Date of	         Shares 
+Transactions	     Purchased	   Price Per Share	   Total Cost 
+ 
+05/09/87 		        49,500 		         4.375 		     236,562.50 
+11/04/92 		         5,500 		         5.810 	      	31,955.00 
+04/22/93 		           500         			6.060        		3,030.00 
+04/26/93          		5,400          		6.532       		35,273.88 
+07/16/93          		2,000 		         7.560 		      15,120.00 
+08/09/93 	        	10,000 	         	8.560 		      85,600.00 
+08/18/93          		2,000 		         8.935 		      17,870.00 
+08/20/93 		         1,900 		         8.810       		16,739.00 
+08/23/93 		           100         			8.900          		890.00 
+08/24/93 		         3,000          		8.810       		26,430.00 
+09/02/93 		         5,000 	         	9.310       		46,550.00 
+09/14/93 		         6,100          		9.060 	      	55,266.00 
+09/15/93 		         6,400          		9.060       		57,984.00 
+09/20/93            		500 	        		8.935        		4,467.50 
+09/22/93          		2,100          		9.060       		19,026.00 
+09/23/93 	         	6,000 	         	9.060 	      	54,360.00 
+11/01/93         		44,000         		10.060      		442,640.00 
+ 		 		 		 
+  
+                          Page 10 of 10 Pages  
+ </TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

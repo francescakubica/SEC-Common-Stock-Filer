@@ -1,0 +1,405 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LM0Qi/yLXNJyJWHvvYcVVsLPGgvqv3hp9Cu9ltKkmEtQS8NBa5oAA1VgohoihWQ+
+ q8bjh8B62E9hLL0C55Bfkg==
+
+<SEC-DOCUMENT>0000756976-97-000026.txt : 19970807
+<SEC-HEADER>0000756976-97-000026.hdr.sgml : 19970807
+ACCESSION NUMBER:		0000756976-97-000026
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970806
+SROS:			NONE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COMSTOCK BANCORP
+		CENTRAL INDEX KEY:			0001035733
+		STANDARD INDUSTRIAL CLASSIFICATION:	SAVINGS INSTITUTION, FEDERALLY CHARTERED [6035]
+		IRS NUMBER:				860856406
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-51371
+		FILM NUMBER:		97652299
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6275 NEIL RD
+		CITY:			RENO
+		STATE:			NV
+		ZIP:			89511
+		BUSINESS PHONE:		7028286477
+
+	MAIL ADDRESS:	
+		STREET 1:		6275 NEIL RD
+		STREET 2:		6275 NEIL RD
+		CITY:			RENO
+		STATE:			NV
+		ZIP:			89511
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MAXUS INVESTMENT GROUP
+		CENTRAL INDEX KEY:			0000924473
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		IRS NUMBER:				341049596
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		28601 CHAGRIN BLVD
+		STREET 2:		# 500
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44141
+		BUSINESS PHONE:		2162923434
+
+	MAIL ADDRESS:	
+		STREET 1:		28601 CHAGRIN BLVD
+		STREET 2:		STE 500
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44141
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<TEXT>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+                                   -----------
+
+                                  SCHEDULE 13D
+                                 (Rule 13d-101)
+                    UNDER THE SECURITIES EXCHANGE ACT OF 1934
+
+
+                                COMSTOCK BANCORP
+                                (Name of Issuer)
+
+
+                             Common Stock, par value
+                                 $.01 per share
+                         (Title of Class of Securities)
+
+
+                                   205667 10 8
+                                 (CUSIP Number)
+
+
+                                Richard A. Barone
+                            Resource Management, Inc.
+                         28601 Chagrin Blvd., Suite 500
+                              Cleveland, Ohio 44122
+                                 (216) 292-3434
+                  (Name, Address and Telephone Number of Person
+                Authorized to Receive Notices and Communications)
+
+
+                                  June 16, 1997
+             (Date of Event Which Requires Filing of This Statement)
+
+
+         If the filing person has  previously  filed a statement on Schedule 13G
+to report the  acquisition  which is the subject of this  Schedule  13D,  and is
+filing this schedule because of Rule 13d-1(b)(3) or (4),check the following box.
+
+                         (Continued on following pages)
+
+                               (Page 1 of 7 Pages)
+<PAGE>
+================================================================================
+CUSIP No. 205667 10 8                 13D                  Page 2  of  7   Pages
+================================================================================
+                                                                       
+- --------------------------------------------------------------------------------
+1        NAMES OF REPORTING PERSONS
+         S.S. OR I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS
+           Richard A. Barone
+- --------------------------------------------------------------------------------
+2        CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP                (a)
+                                                                         (b)
+- --------------------------------------------------------------------------------
+3        SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+4        SOURCE OF FUNDS
+           OO
+- --------------------------------------------------------------------------------
+5        CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED 
+         PURSUANT TO ITEM 2(d) or 2(e)
+- --------------------------------------------------------------------------------
+6        CITIZENSHIP OR PLACE OF ORGANIZATION
+          USA
+- --------------------------------------------------------------------------------
+   NUMBER OF SHARES     7         SOLE VOTING POWER
+ BENEFICIALLY OWNED BY                          390,000
+ EACH REPORTING PERSON
+         WITH
+                       ---------------------------------------------------------
+                        8         SHARED VOTING POWER
+                                                  --
+                       ---------------------------------------------------------
+                        9         SOLE DISPOSITIVE POWER
+                                                390,000
+                       ---------------------------------------------------------
+                        10        SHARED DISPOSITIVE POWER
+                                                  --
+- --------------------------------------------------------------------------------
+11       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+            390,000
+- --------------------------------------------------------------------------------
+12       CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+         SHARES
+
+- --------------------------------------------------------------------------------
+13       PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+           8.8%
+- --------------------------------------------------------------------------------
+14       TYPE OF REPORTING PERSON
+           IN
+- --------------------------------------------------------------------------------
+<PAGE>
+================================================================================
+CUSIP No. 205667 10 8                 13D             Page   3   of   7    Pages
+================================================================================
+
+- --------------------------------------------------------------------------------
+1        NAMES OF REPORTING PERSONS
+         S.S. OR I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS
+           Resource Management, Inc.
+- --------------------------------------------------------------------------------
+2        CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP                (a)
+                                                                         (b)
+- --------------------------------------------------------------------------------
+3        SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+4        SOURCE OF FUNDS
+          OO
+- --------------------------------------------------------------------------------
+5        CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED 
+         PURSUANT TO ITEM 2(d) or 2(e)
+- --------------------------------------------------------------------------------
+6        CITIZENSHIP OR PLACE OF ORGANIZATION
+            Ohio
+- --------------------------------------------------------------------------------
+   NUMBER OF SHARES     7         SOLE VOTING POWER
+ BENEFICIALLY OWNED BY                           390,000
+ EACH REPORTING PERSON
+         WITH
+                        --------------------------------------------------------
+                        8         SHARED VOTING POWER
+                                                   --
+                        --------------------------------------------------------
+                        9         SOLE DISPOSITIVE POWER
+                                                  390,000
+                        --------------------------------------------------------
+                        10        SHARED DISPOSITIVE POWER
+                                                   --
+- --------------------------------------------------------------------------------
+11       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+           390,000
+- --------------------------------------------------------------------------------
+12       CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+         SHARES
+
+- --------------------------------------------------------------------------------
+13       PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+           8.8%
+- --------------------------------------------------------------------------------
+14       TYPE OF REPORTING PERSON
+           CO
+- --------------------------------------------------------------------------------
+<PAGE>
+                                  Schedule 13D
+
+                                Comstock Bancorp
+
+
+         This Statement on Schedule 13D (this  "Statement") is filed by Resource
+Management,  Inc. and Richard A. Barone (together, the "Reporting Persons").
+
+Item     1.       Security and Issuer.
+
+                           This Statement relates to the common stock, par value
+                  $.01 per share  ("Common  Stock"),  of Comstock  Bancorp  (the
+                  "Company").  The address of the principal executive offices of
+                  the Company is 6275 Neil Road, Reno, Nevada 89511.
+
+Item     2.       Identity and Background.
+
+                           (a).  This   Statement  is  being  filed  jointly  by
+                  Resource  Management,  Inc., an Ohio corporation  ("RMI"), and
+                  Richard A. Barone,  the controlling  stockholder,  Chairman of
+                  the Board of Directors and President of RMI.
+
+                           (b), (c) and (f). The address of RMI is 28601 Chagrin
+                  Boulevard,  Suite 500,  Cleveland,  Ohio 44122. RMI is an Ohio
+                  corporation. The principal business of RMI is investments.
+
+                           Richard   A.   Barone's   principal   occupation   is
+                  investment  management  and his business  address is c/o Maxus
+                  Investment  Group,   28601  Chagrin   Boulevard,   Suite  500,
+                  Cleveland,  Ohio 44122.  Mr. Barone is a citizen of the United
+                  States of America.
+
+                           (d) and (e).  During the past five years,  neither of
+                  the  Reporting  Persons  has been  convicted  in any  criminal
+                  proceeding    (excluding   traffic   violations   or   similar
+                  misdemeanors)  or been a  party  to a  civil  proceeding  of a
+                  judicial or administrative body of competent  jurisdiction and
+                  as a  result  of  such  proceeding  was  or  is  subject  to a
+                  judgment,  decree or final order enjoining  future  violations
+                  of, or prohibiting or mandating activities subject to, federal
+                  or state securities laws or finding any violation with respect
+                  to such laws.
+
+Item     3.       Source and Amount of Funds or Other Consideration.
+
+                           The Common Stock was not  acquired by  purchase,  but
+                  pursuant to the Plan of Reorganization described under Item 4.
+<PAGE>
+Item     4.       Purpose of Transaction.
+
+                           Each of the  Reporting  Persons  acquired  its or his
+                  shares of Common Stock in  connection  with an  Agreement  and
+                  Plan of Reorganization (the "Plan of Reorganization") dated as
+                  of February 26, 1997 between the Company and Comstock  Bank, a
+                  Nevada  corporation  (the  "Bank"),  pursuant  to  which  each
+                  outstanding  share of common stock,  par value $.50 per share,
+                  of the Bank was  exchanged  for two shares of Common Stock and
+                  the Bank became a wholly-owned  subsidiary of the Company. The
+                  Plan of Reorganization became effective June 16, 1997. Each of
+                  the Reporting  Persons holds its or his shares of Common Stock
+                  for investment purposes.
+                           Neither  of the  Reporting  Persons  has any  present
+                  plans or  proposals  which relate to or would result in any of
+                  the actions or events  described in paragraphs (a) through (j)
+                  of Item 4 of Schedule 13D.
+
+Item     5.       Interest in Securities of the Issuer.
+
+                           (a). RMI is the  beneficial  owner of 390,000  shares
+                  (8.8% of the outstanding  shares) of Common Stock.  Richard A.
+                  Barone, as controlling  stockholder,  Chairman of the Board of
+                  Directors  and  President  of RMI,  is deemed to have the same
+                  beneficial ownership as RMI.
+
+                           The  number of shares  of Common  Stock  beneficially
+                  owned  by  the  Reporting   Persons  and  the   percentage  of
+                  outstanding  shares of Common Stock  represented  thereby have
+                  been  computed  in  accordance   with  Rule  13d-3  under  the
+                  Securities  Exchange  Act of  1934,  as  amended.  There  were
+                  4,421,668 shares of Common Stock outstanding at June 30, 1997,
+                  as reported in the  Company's  Registration  Statement on Form
+                  S-8 filed with the Securities and Exchange Commission July 23,
+                  1997.
+
+                           (b). RMI has the sole power to (i) vote or direct the
+                  voting of, and (ii) dispose or direct the  disposition  of the
+                  390,000 shares of Common Stock beneficially owned by it.
+
+                           (c).  The  transactions  with  respect  to  shares of
+                  Common Stock effected by the Reporting  Persons in the past 60
+                  days are as set forth below. All such  transactions  were open
+                  market sales.
+<PAGE>
+                                                      Shares             Price
+                                 Date                  Sold            Per Share
+                                 ----                --------          ---------
+                             June 26, 1997             1,500             $7.00
+                             June 30, 1997             3,500             $7.00
+                              July 2, 1997             1,000             $7.00
+                             July 10, 1997             4,000             $7.00
+
+                           (d).  Not applicable.
+
+                           (e).  Not applicable.
+
+Item              6.       Contracts, Arrangements,  Understandings or Relation-
+                           ships With Respect to Securities of the Issuer.
+
+                           None.
+
+Item              7.       Exhibits.
+
+                           Exhibit A -- Agreement of Joint Filing
+
+
+
+                                    SIGNATURE
+
+         After reasonable  inquiry and to the best of my knowledge and belief, I
+certify that the information  set forth in this statement is true,  complete and
+correct.
+
+
+Dated:  July 31, 1997                           RESOURCE MANAGEMENT, INC.
+
+
+
+                                                /s/ Richard A. Barone
+                                                --------------------------------
+                                                By: Richard A. Barone,  Chairman
+                                                    of the Board and President
+
+
+
+Dated:  July 31, 1997                           /s/ Richard A. Barone
+                                                --------------------------------
+                                                    RICHARD A. BARONE
+<PAGE>
+                                    EXHIBIT A
+
+                            AGREEMENT OF JOINT FILING
+
+         In accordance  with Rule 13d-1(f) under the Securities  Exchange Act of
+1934,  as amended,  the  undersigned  hereby  agree to the joint filing with all
+other Reporting Persons (as such term is defined in the Schedule 13D referred to
+below) of a statement on Schedule 13D or any amendments thereto, with respect to
+the common stock,  par value $.01 per share,  of Comstock  Bancorp and that this
+Agreement of Joint Filing be included as an Exhibit to such filing.
+
+         This  Agreement  of Joint  Filing  may be  executed  in any  number  of
+counterparts  each of which shall be deemed to be an  original  and all of which
+together shall be deemed to constitute one and the same document.
+
+         IN WITNESS  WHEREOF,  the undersigned  hereby execute this Agreement of
+Joint Filing as of the 31st day of July, 1997.
+
+
+                                                RESOURCE MANAGEMENT, INC.
+
+
+
+                                                /s/ Richard A. Barone
+                                                --------------------------------
+                                                By:  Richard A. Barone, Chairman
+                                                     of the Board and President
+
+
+
+                                                /s/ Richard A. Barone
+                                                --------------------------------
+                                                    RICHARD A. BARONE
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

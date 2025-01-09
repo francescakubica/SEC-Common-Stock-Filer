@@ -1,0 +1,3283 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ L3nP3ixfpIbeXMj2sRAHCxmhmO0DP82MOkiFSMaWyJEe7896L0eMKrZLe10F2sRW
+ r7guhLvr8cXPfvVV1Iuqew==
+
+<SEC-DOCUMENT>0000070858-01-500137.txt : 20010627
+<SEC-HEADER>0000070858-01-500137.hdr.sgml : 20010627
+ACCESSION NUMBER:		0000070858-01-500137
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20010626
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TELETOUCH COMMUNICATIONS INC
+		CENTRAL INDEX KEY:			0000928659
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO TELEPHONE COMMUNICATIONS [4812]
+		IRS NUMBER:				752556090
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		
+		SEC FILE NUMBER:	005-45725
+		FILM NUMBER:		1667736
+
+	BUSINESS ADDRESS:	
+		STREET 1:		110 NORTH COLLEGE SUITE 200
+		CITY:			TYLER
+		STATE:			TX
+		ZIP:			75702
+		BUSINESS PHONE:		9035958800
+
+	MAIL ADDRESS:	
+		STREET 1:		110 NORTH COLLEGE SUITE 200
+		CITY:			TYLER
+		STATE:			TX
+		ZIP:			75702
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BANK OF AMERICA CORP /DE/
+		CENTRAL INDEX KEY:			0000070858
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				560906609
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		NATIONSBANK CORPORATE CENTER
+		STREET 2:		100 N TRYON ST
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28255
+		BUSINESS PHONE:		7043865000
+
+	MAIL ADDRESS:	
+		STREET 1:		NATIONALSBANK CORPORATE CENTER
+		STREET 2:		NC1007 19 04
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28255
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BANKAMERICA CORP/DE/
+		DATE OF NAME CHANGE:	19981022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NATIONSBANK CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NCNB CORP
+		DATE OF NAME CHANGE:	19920107
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<FILENAME>teletouch.htm
+<DESCRIPTION>13D - AMENDMENT #2
+<TEXT>
+
+<HTML>
+<HEAD>
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>SECURITIES AND EXCHANGE COMMISSION</TITLE>
+</HEAD>
+<BODY LINK="#0000ff" VLINK="#800080">
+
+<B><FONT SIZE=2><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">&nbsp;</P>
+<P ALIGN="CENTER">UNITED STATES</P>
+<P ALIGN="CENTER">SECURITIES AND EXCHANGE COMMISSION</P>
+<P ALIGN="CENTER">Washington, D.C.  20549</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">&nbsp;</P>
+</FONT><P ALIGN="CENTER">SCHEDULE 13D</P>
+</B><FONT SIZE=2><P ALIGN="CENTER">Under the Securities Exchange Act of 1934</P>
+<P ALIGN="CENTER">(Amendment No. 2)*</P>
+<B><P ALIGN="CENTER"></P>
+</B><U><P ALIGN="CENTER">      Teletouch Communications, Inc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</U><P ALIGN="CENTER">(Name of Issuer)</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">&nbsp;</P>
+<U><P ALIGN="CENTER">      Common Stock, par value $0.001 per share&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</U><P ALIGN="CENTER">(Title of Class of Securities)</P>
+
+<P>&nbsp;</P>
+<U><P ALIGN="CENTER">      87951V 10 7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</U><P ALIGN="CENTER">(CUSIP Number)</P>
+<P ALIGN="CENTER"></P>
+<P>&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;Copy to: </P>
+<P>&#9;Marcus D. Wedner&#9;&#9;&#9;&#9;&#9;Jill Rose Tappert</P>
+<P>&#9;Continental Illinois Venture Corporation&#9;&#9;&#9;Arnold &amp; Porter</P>
+<P>&#9;231 South LaSalle Street&#9;&#9;&#9;&#9;&#9;1700 Lincoln Street, Suite 4000</P>
+<P>&#9;Chicago, IL 60697&#9;&#9;&#9;&#9;&#9;Denver, CO 80203</P>
+<U><P>&#9;(312) 828-8021&#9;&#9;&#9;&#9;&#9;&#9;(303) 863-1000&#9;&#9;&#9;</P>
+
+</U><P ALIGN="CENTER">(Name, Address and Telephone Number of Person Authorized to</P>
+<P ALIGN="CENTER">Receive Notices and Communications)</P>
+
+<U><P ALIGN="CENTER">     June 5, 1997&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</U><P ALIGN="CENTER">(Date of Event which Requires Filing of this Statement)</P>
+<P ALIGN="CENTER"></P>
+<P>&nbsp;</P><DIR>
+<DIR>
+
+<P>If the filing person has previously filed a statement on Schedule 13 to report the acquisition that is the subject of this Schedule 13D, and is filing this schedule because of Sec.&nbsp;240.13d-1(e), 240.13d-l(f) or 240.13d-l(g), check the following []
+</P>
+<P>Note: Schedules filed in paper format shall include a signed original and five copies of the schedule, including all exhibits. See Sec.&nbsp;240.13d-7 for other parties to whom copies are to be sent.</P>
+<P>*The remainder of this cover page shall be filled out for a reporting person's initial filing on this form with respect to the subject class of securities, and for any subsequent amendment containing information which would alter disclosures provided
+in a prior cover page.</P>
+<P>The information required on the remainder of this cover page shall not be deemed to be "filed" for the purpose of Section 18 of the Securities Exchange Act of 1934 ("Act") or otherwise subject to the liabilities of that section of the Act but shall be
+subject to all other provisions of the Act (however, see the Notes).</P>
+<B><P>Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB control number.</P></DIR>
+</DIR>
+</B></FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=9 WIDTH=738>
+<TR><TD VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=2>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+</B><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>CUSIP No. ......................................87951V 10 7</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">1.</P>
+<P ALIGN="RIGHT">&#9;1.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Names of Reporting Persons&#9;Bank of America Corporation</P>
+<P>I.R.S. Identification Nos. of above persons (entities only)&#9;</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">2.</P>
+<P ALIGN="RIGHT">&#9;2.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check the Appropriate Box if a Member of a Group (See Instructions)</P>
+
+<P>(a)&#9;/   /</P>
+<P>(b)&#9;/ X /</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">3.</P>
+<P ALIGN="RIGHT">&#9;3.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>SEC Use Only&#9;</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">4.</P>
+<P ALIGN="RIGHT">&#9;4.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Source of Funds (See Instructions)&#9;N/A</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">5.</P>
+<P ALIGN="RIGHT">&#9;5.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check if Disclosure of Legal Proceedings Is Required Pursuant to Items 2(d) or 2(e)&#9;/   /</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">6.</P>
+<P ALIGN="RIGHT">&#9;6.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Citizenship or Place of Organization&#9;Delaware</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="84%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>Number of</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>7.&#9;Sole Voting Power&#9;0</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>Shares Beneficially </P>
+<P>Owned by</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>8.&#9;Shared Voting Power &#9;5,307,404</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>Each </P>
+<P>Reporting</P>
+<P>Person </FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>9.&#9;Sole Dispositive Power&#9;0</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>With</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>10.&#9;Shared Dispositive Power&#9;5,307,404</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&#9;</P>
+<P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">11.</P>
+<P ALIGN="RIGHT">&#9;11.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Aggregate Amount Beneficially Owned by Each Reporting Person &#9;5,307,404</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">12.</P>
+<P ALIGN="RIGHT">&#9;12.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check if the Aggregate Amount in Row (11) Excludes Certain </P>
+<P>Shares (See Instructions)&#9;/ X /</P>
+</FONT><FONT SIZE=1></FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">13.</P>
+<P ALIGN="RIGHT">&#9;13.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Percent of Class Represented by Amount in Row (11) &#9;54.2%</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">14.</P>
+<P ALIGN="RIGHT">&#9;14.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Type of Reporting Person (See Instructions)&#9;CO</P>
+</FONT></TD>
+</TR>
+</TABLE>
+
+<I><FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P></I></FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=9 WIDTH=738>
+<TR><TD VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+</B><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>CUSIP No. ......................................87951V 10 7</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">1.</P>
+<P ALIGN="RIGHT">&#9;1.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Names of Reporting Persons&#9;NB Holding Corporation</P>
+<P>I.R.S. Identification Nos. of above persons (entities only)&#9;</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">2.</P>
+<P ALIGN="RIGHT">&#9;2.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check the Appropriate Box if a Member of a Group (See Instructions)</P>
+
+<P>(a)&#9;/   /</P>
+<P>(b)&#9;/ X /</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">3.</P>
+<P ALIGN="RIGHT">&#9;3.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>SEC Use Only&#9;</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">4.</P>
+<P ALIGN="RIGHT">&#9;4.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Source of Funds (See Instructions)&#9;N/A</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">5.</P>
+<P ALIGN="RIGHT">&#9;5.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check if Disclosure of Legal Proceedings Is Required Pursuant to Items 2(d) or 2(e)&#9;/   /</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">6.</P>
+<P ALIGN="RIGHT">&#9;6.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Citizenship or Place of Organization&#9;Delaware</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="84%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>Number of</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>7.&#9;Sole Voting Power&#9;0</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>Shares Beneficially </P>
+<P>Owned by</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>8.&#9;Shared Voting Power &#9;5,307,404</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>Each </P>
+<P>Reporting</P>
+<P>Person </FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>9.&#9;Sole Dispositive Power&#9;0</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>With</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>10.&#9;Shared Dispositive Power&#9;5,307,404</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&#9;</P>
+<P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">11.</P>
+<P ALIGN="RIGHT">&#9;11.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Aggregate Amount Beneficially Owned by Each Reporting Person &#9;5,307,404</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">12.</P>
+<P ALIGN="RIGHT">&#9;12.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check if the Aggregate Amount in Row (11) Excludes Certain </P>
+<P>Shares (See Instructions)&#9;/ X /</P>
+</FONT><FONT SIZE=1></FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">13.</P>
+<P ALIGN="RIGHT">&#9;13.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Percent of Class Represented by Amount in Row (11) &#9;54.2%</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">14.</P>
+<P ALIGN="RIGHT">&#9;14.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Type of Reporting Person (See Instructions)&#9;CO</P>
+</FONT></TD>
+</TR>
+</TABLE>
+
+<I><FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P></I></FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=9 WIDTH=738>
+<TR><TD VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+</B><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>CUSIP No. ......................................87951V 10 7</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">1.</P>
+<P ALIGN="RIGHT">&#9;1.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Names of Reporting Persons&#9;Bank of America, National Association </P>
+<P>I.R.S. Identification Nos. of above persons (entities only)&#9;</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">2.</P>
+<P ALIGN="RIGHT">&#9;2.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check the Appropriate Box if a Member of a Group (See Instructions)</P>
+
+<P>(a)&#9;/   /</P>
+<P>(b)&#9;/ X /</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">3.</P>
+<P ALIGN="RIGHT">&#9;3.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>SEC Use Only&#9;</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">4.</P>
+<P ALIGN="RIGHT">&#9;4.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Source of Funds (See Instructions)&#9;N/A</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">5.</P>
+<P ALIGN="RIGHT">&#9;5.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check if Disclosure of Legal Proceedings Is Required Pursuant to Items 2(d) or 2(e)&#9;/   /</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">6.</P>
+<P ALIGN="RIGHT">&#9;6.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Citizenship or Place of Organization&#9;United States</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="84%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>Number of</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>7.&#9;Sole Voting Power&#9;0</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>Shares Beneficially </P>
+<P>Owned by</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>8.&#9;Shared Voting Power &#9;5,307,404</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>Each </P>
+<P>Reporting</P>
+<P>Person </FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>9.&#9;Sole Dispositive Power&#9;0</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>With</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>10.&#9;Shared Dispositive Power&#9;5,307,404</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&#9;</P>
+<P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">11.</P>
+<P ALIGN="RIGHT">&#9;11.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Aggregate Amount Beneficially Owned by Each Reporting Person &#9;5,307,404</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">12.</P>
+<P ALIGN="RIGHT">&#9;12.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check if the Aggregate Amount in Row (11) Excludes Certain </P>
+<P>Shares (See Instructions)&#9;/ X /</P>
+</FONT><FONT SIZE=1></FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">13.</P>
+<P ALIGN="RIGHT">&#9;13.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Percent of Class Represented by Amount in Row (11) &#9;54.2%</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">14.</P>
+<P ALIGN="RIGHT">&#9;14.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Type of Reporting Person (See Instructions)&#9;CO</P>
+</FONT></TD>
+</TR>
+</TABLE>
+
+<I><FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P></I></FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=9 WIDTH=738>
+<TR><TD VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+</B><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>CUSIP No. ......................................87951V 10 7</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">1.</P>
+<P ALIGN="RIGHT">&#9;1.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Names of Reporting Persons&#9;Continental Illinois Venture Corporation</P>
+<P>I.R.S. Identification Nos. of above persons (entities only)&#9;</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">2.</P>
+<P ALIGN="RIGHT">&#9;2.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check the Appropriate Box if a Member of a Group (See Instructions)</P>
+
+<P>(a)&#9;/ X /</P>
+<P>(b)&#9;/   /</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">3.</P>
+<P ALIGN="RIGHT">&#9;3.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>SEC Use Only&#9;</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">4.</P>
+<P ALIGN="RIGHT">&#9;4.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Source of Funds (See Instructions)&#9;WC</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">5.</P>
+<P ALIGN="RIGHT">&#9;5.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check if Disclosure of Legal Proceedings Is Required Pursuant to Items 2(d) or 2(e)&#9;/   /</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">6.</P>
+<P ALIGN="RIGHT">&#9;6.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Citizenship or Place of Organization&#9;Delaware</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="84%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>Number of</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>7.&#9;Sole Voting Power&#9;5,307,404</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>Shares Beneficially </P>
+<P>Owned by</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>8.&#9;Shared Voting Power &#9;0</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>Each </P>
+<P>Reporting</P>
+<P>Person </FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>9.&#9;Sole Dispositive Power&#9;5,307,404</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>With</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>10.&#9;Shared Dispositive Power&#9;0</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&#9;</P>
+<P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">11.</P>
+<P ALIGN="RIGHT">&#9;11.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Aggregate Amount Beneficially Owned by Each Reporting Person &#9;5,307,404</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">12.</P>
+<P ALIGN="RIGHT">&#9;12.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check if the Aggregate Amount in Row (11) Excludes Certain </P>
+<P>Shares (See Instructions)&#9;/ X /</P>
+</FONT><FONT SIZE=1></FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">13.</P>
+<P ALIGN="RIGHT">&#9;13.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Percent of Class Represented by Amount in Row (11) &#9;54.2%</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">14.</P>
+<P ALIGN="RIGHT">&#9;14.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Type of Reporting Person (See Instructions)&#9;CO</P>
+</FONT></TD>
+</TR>
+</TABLE>
+
+<I><FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P></I></FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=9 WIDTH=738>
+<TR><TD VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+</B><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>CUSIP No. ......................................87951V 10 7</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">1.</P>
+<P ALIGN="RIGHT">&#9;1.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Names of Reporting Persons&#9;CIVC Partners I</P>
+<P>I.R.S. Identification Nos. of above persons (entities only)&#9;</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">2.</P>
+<P ALIGN="RIGHT">&#9;2.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check the Appropriate Box if a Member of a Group (See Instructions)</P>
+
+<P>(a)&#9;/ X /</P>
+<P>(b)&#9;/   /</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">3.</P>
+<P ALIGN="RIGHT">&#9;3.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>SEC Use Only&#9;</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">4.</P>
+<P ALIGN="RIGHT">&#9;4.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Source of Funds (See Instructions)&#9;WC, BK</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">5.</P>
+<P ALIGN="RIGHT">&#9;5.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check if Disclosure of Legal Proceedings Is Required Pursuant to Items 2(d) or 2(e)&#9;/   /</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">6.</P>
+<P ALIGN="RIGHT">&#9;6.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Citizenship or Place of Organization&#9;Delaware</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="84%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>Number of</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>7.&#9;Sole Voting Power&#9;511,763</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>Shares Beneficially </P>
+<P>Owned by</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>8.&#9;Shared Voting Power &#9;0</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>Each </P>
+<P>Reporting</P>
+<P>Person </FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>9.&#9;Sole Dispositive Power&#9;511,763</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>With</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>10.&#9;Shared Dispositive Power&#9;0</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&#9;</P>
+<P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">11.</P>
+<P ALIGN="RIGHT">&#9;11.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Aggregate Amount Beneficially Owned by Each Reporting Person &#9;511,763</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">12.</P>
+<P ALIGN="RIGHT">&#9;12.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check if the Aggregate Amount in Row (11) Excludes Certain </P>
+<P>Shares (See Instructions)&#9;/   /</P>
+</FONT><FONT SIZE=1></FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">13.</P>
+<P ALIGN="RIGHT">&#9;13.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Percent of Class Represented by Amount in Row (11) &#9;10.0%</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">14.</P>
+<P ALIGN="RIGHT">&#9;14.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Type of Reporting Person (See Instructions)&#9;PN</P>
+</FONT></TD>
+</TR>
+</TABLE>
+
+<I><FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P></I></FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=9 WIDTH=738>
+<TR><TD VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+</B><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>CUSIP No. ......................................87951V 10 7</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">1.</P>
+<P ALIGN="RIGHT">&#9;1.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Names of Reporting Persons&#9;Marcus D. Wedner</P>
+<P>I.R.S. Identification Nos. of above persons (entities only)&#9;</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">2.</P>
+<P ALIGN="RIGHT">&#9;2.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check the Appropriate Box if a Member of a Group (See Instructions)</P>
+
+<P>(a)&#9;/   /</P>
+<P>(b)&#9;/ X /</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">3.</P>
+<P ALIGN="RIGHT">&#9;3.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>SEC Use Only&#9;</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">4.</P>
+<P ALIGN="RIGHT">&#9;4.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Source of Funds (See Instructions)&#9;N/A</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">5.</P>
+<P ALIGN="RIGHT">&#9;5.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check if Disclosure of Legal Proceedings Is Required Pursuant to Items 2(d) or 2(e)&#9;/   /</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">6.</P>
+<P ALIGN="RIGHT">&#9;6.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Citizenship or Place of Organization&#9;United States</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="84%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>Number of</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>7.&#9;Sole Voting Power&#9;6,666</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>Shares Beneficially </P>
+<P>Owned by</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>8.&#9;Shared Voting Power &#9;511,763</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>Each </P>
+<P>Reporting</P>
+<P>Person </FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>9.&#9;Sole Dispositive Power&#9;6,666</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>With</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>10.&#9;Shared Dispositive Power&#9;511,763</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&#9;</P>
+<P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">11.</P>
+<P ALIGN="RIGHT">&#9;11.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Aggregate Amount Beneficially Owned by Each Reporting Person &#9;518,429</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">12.</P>
+<P ALIGN="RIGHT">&#9;12.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check if the Aggregate Amount in Row (11) Excludes Certain </P>
+<P>Shares (See Instructions)&#9;/ X /</P>
+</FONT><FONT SIZE=1></FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">13.</P>
+<P ALIGN="RIGHT">&#9;13.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Percent of Class Represented by Amount in Row (11) &#9;10.1%</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">14.</P>
+<P ALIGN="RIGHT">&#9;14.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Type of Reporting Person (See Instructions)&#9;IN</P>
+</FONT></TD>
+</TR>
+</TABLE>
+
+<I><FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P></I></FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=9 WIDTH=738>
+<TR><TD VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+</B><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>CUSIP No. ......................................87951V 10 7</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">1.</P>
+<P ALIGN="RIGHT">&#9;1.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Names of Reporting Persons&#9;Daniel G. Helle</P>
+<P>I.R.S. Identification Nos. of above persons (entities only)&#9;</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">2.</P>
+<P ALIGN="RIGHT">&#9;2.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check the Appropriate Box if a Member of a Group (See Instructions)</P>
+
+<P>(a)&#9;/   /</P>
+<P>(b)&#9;/ X /</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">3.</P>
+<P ALIGN="RIGHT">&#9;3.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>SEC Use Only&#9;</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">4.</P>
+<P ALIGN="RIGHT">&#9;4.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Source of Funds (See Instructions)&#9;N/A</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">5.</P>
+<P ALIGN="RIGHT">&#9;5.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check if Disclosure of Legal Proceedings Is Required Pursuant to Items 2(d) or 2(e)&#9;/   /</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">6.</P>
+<P ALIGN="RIGHT">&#9;6.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Citizenship or Place of Organization&#9;United States</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="84%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>Number of</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>7.&#9;Sole Voting Power&#9;0</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>Shares Beneficially </P>
+<P>Owned by</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>8.&#9;Shared Voting Power &#9;511,763</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>Each </P>
+<P>Reporting</P>
+<P>Person </FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>9.&#9;Sole Dispositive Power&#9;0</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>With</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>10.&#9;Shared Dispositive Power&#9;511,763</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&#9;</P>
+<P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">11.</P>
+<P ALIGN="RIGHT">&#9;11.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Aggregate Amount Beneficially Owned by Each Reporting Person &#9;511,763</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">12.</P>
+<P ALIGN="RIGHT">&#9;12.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check if the Aggregate Amount in Row (11) Excludes Certain </P>
+<P>Shares (See Instructions)&#9;/   /</P>
+</FONT><FONT SIZE=1></FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">13.</P>
+<P ALIGN="RIGHT">&#9;13.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Percent of Class Represented by Amount in Row (11) &#9;10.0%</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">14.</P>
+<P ALIGN="RIGHT">&#9;14.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Type of Reporting Person (See Instructions)&#9;IN</P>
+</FONT></TD>
+</TR>
+</TABLE>
+
+<I><FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P></I></FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=9 WIDTH=738>
+<TR><TD VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+</B><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>CUSIP No. ......................................87951V 10 7</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">1.</P>
+<P ALIGN="RIGHT">&#9;1.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Names of Reporting Persons&#9;Sue C. Rushmore</P>
+<P>I.R.S. Identification Nos. of above persons (entities only)&#9;</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">2.</P>
+<P ALIGN="RIGHT">&#9;2.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check the Appropriate Box if a Member of a Group (See Instructions)</P>
+
+<P>(a)&#9;/   /</P>
+<P>(b)&#9;/ X /</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">3.</P>
+<P ALIGN="RIGHT">&#9;3.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>SEC Use Only&#9;</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">4.</P>
+<P ALIGN="RIGHT">&#9;4.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Source of Funds (See Instructions)&#9;N/A</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">5.</P>
+<P ALIGN="RIGHT">&#9;5.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check if Disclosure of Legal Proceedings Is Required Pursuant to Items 2(d) or 2(e)&#9;/   /</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">6.</P>
+<P ALIGN="RIGHT">&#9;6.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Citizenship or Place of Organization&#9;United States</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="84%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>Number of</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>7.&#9;Sole Voting Power&#9;0</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>Shares Beneficially </P>
+<P>Owned by</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>8.&#9;Shared Voting Power &#9;511,763</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>Each </P>
+<P>Reporting</P>
+<P>Person </FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>9.&#9;Sole Dispositive Power&#9;0</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>With</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>10.&#9;Shared Dispositive Power&#9;511,763</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&#9;</P>
+<P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">11.</P>
+<P ALIGN="RIGHT">&#9;11.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Aggregate Amount Beneficially Owned by Each Reporting Person &#9;511,763</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">12.</P>
+<P ALIGN="RIGHT">&#9;12.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check if the Aggregate Amount in Row (11) Excludes Certain </P>
+<P>Shares (See Instructions)&#9;/   /</P>
+</FONT><FONT SIZE=1></FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">13.</P>
+<P ALIGN="RIGHT">&#9;13.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Percent of Class Represented by Amount in Row (11) &#9;10.0%</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">14.</P>
+<P ALIGN="RIGHT">&#9;14.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Type of Reporting Person (See Instructions)&#9;IN</P>
+</FONT></TD>
+</TR>
+</TABLE>
+
+<I><FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P></I></FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=9 WIDTH=738>
+<TR><TD VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+</B><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>CUSIP No. ......................................87951V 10 7</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">1.</P>
+<P ALIGN="RIGHT">&#9;1.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Names of Reporting Persons&#9;Thomas E. VanPelt, Jr.</P>
+<P>I.R.S. Identification Nos. of above persons (entities only)&#9;</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">2.</P>
+<P ALIGN="RIGHT">&#9;2.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check the Appropriate Box if a Member of a Group (See Instructions)</P>
+
+<P>(a)&#9;/   /</P>
+<P>(b)&#9;/ X /</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">3.</P>
+<P ALIGN="RIGHT">&#9;3.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>SEC Use Only&#9;</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">4.</P>
+<P ALIGN="RIGHT">&#9;4.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Source of Funds (See Instructions)&#9;N/A</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">5.</P>
+<P ALIGN="RIGHT">&#9;5.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check if Disclosure of Legal Proceedings Is Required Pursuant to Items 2(d) or 2(e)&#9;/   /</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">6.</P>
+<P ALIGN="RIGHT">&#9;6.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Citizenship or Place of Organization&#9;United States</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="84%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>Number of</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>7.&#9;Sole Voting Power&#9;7,332</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>Shares Beneficially </P>
+<P>Owned by</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>8.&#9;Shared Voting Power &#9;511,763</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>Each </P>
+<P>Reporting</P>
+<P>Person </FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>9.&#9;Sole Dispositive Power&#9;7,332</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>With</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>10.&#9;Shared Dispositive Power&#9;511,763</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&#9;</P>
+<P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">11.</P>
+<P ALIGN="RIGHT">&#9;11.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Aggregate Amount Beneficially Owned by Each Reporting Person &#9;519,095</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">12.</P>
+<P ALIGN="RIGHT">&#9;12.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check if the Aggregate Amount in Row (11) Excludes Certain </P>
+<P>Shares (See Instructions)&#9;/   /</P>
+</FONT><FONT SIZE=1></FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">13.</P>
+<P ALIGN="RIGHT">&#9;13.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Percent of Class Represented by Amount in Row (11) &#9;10.1%</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">14.</P>
+<P ALIGN="RIGHT">&#9;14.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Type of Reporting Person (See Instructions)&#9;IN</P>
+</FONT></TD>
+</TR>
+</TABLE>
+
+<I><FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P></I></FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=9 WIDTH=738>
+<TR><TD VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+</B><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>CUSIP No. ......................................87951V 10 7</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">1.</P>
+<P ALIGN="RIGHT">&#9;1.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Names of Reporting Persons&#9;Christopher J. Perry</P>
+<P>I.R.S. Identification Nos. of above persons (entities only)&#9;</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">2.</P>
+<P ALIGN="RIGHT">&#9;2.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check the Appropriate Box if a Member of a Group (See Instructions)</P>
+
+<P>(a)&#9;/   /</P>
+<P>(b)&#9;/ X /</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">3.</P>
+<P ALIGN="RIGHT">&#9;3.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>SEC Use Only&#9;</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">4.</P>
+<P ALIGN="RIGHT">&#9;4.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Source of Funds (See Instructions)&#9;N/A</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">5.</P>
+<P ALIGN="RIGHT">&#9;5.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check if Disclosure of Legal Proceedings Is Required Pursuant to Items 2(d) or 2(e)&#9;/   /</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">6.</P>
+<P ALIGN="RIGHT">&#9;6.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Citizenship or Place of Organization&#9;United States</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="84%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>Number of</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>7.&#9;Sole Voting Power&#9;6,666</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>Shares Beneficially </P>
+<P>Owned by</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>8.&#9;Shared Voting Power &#9;511,763</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>Each </P>
+<P>Reporting</P>
+<P>Person </FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>9.&#9;Sole Dispositive Power&#9;6,666</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P>With</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>10.&#9;Shared Dispositive Power&#9;511,763</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&#9;</P>
+<P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">11.</P>
+<P ALIGN="RIGHT">&#9;11.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Aggregate Amount Beneficially Owned by Each Reporting Person &#9;518,429</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">12.</P>
+<P ALIGN="RIGHT">&#9;12.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Check if the Aggregate Amount in Row (11) Excludes Certain </P>
+<P>Shares (See Instructions)&#9;/   /</P>
+</FONT><FONT SIZE=1></FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">13.</P>
+<P ALIGN="RIGHT">&#9;13.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Percent of Class Represented by Amount in Row (11) &#9;10.1%</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">14.</P>
+<P ALIGN="RIGHT">&#9;14.</FONT></TD>
+<TD WIDTH="84%" VALIGN="TOP">
+<FONT SIZE=2>
+<P>&nbsp;</P>
+<P>Type of Reporting Person (See Instructions)&#9;IN</FONT></TD>
+</TR>
+</TABLE>
+
+<B><FONT SIZE=2><P>Introductory Statement</P>
+
+</B><P>&#9;The previous disclosures by the Filing Persons (as defined below) on Schedule 13D, filed April&nbsp;26, 1996 (the &quot;<U>Schedule</U>&quot;), as amended August 30, 1996 (together, the &quot;<U>Previous Disclosure</U>&quot;), are further
+amended by this Amendment No. 2 to Schedule 13D (the &quot;<U>Amendment</U>&quot;).</P>
+
+<B><P>&nbsp;</P>
+<P>Item 1.&#9;&#9;Security and Issuer</P>
+</B>
+<P>&#9;This Statement relates to shares of Common Stock, par value $0.001 per share (the &quot;<U>Common Stock</U>&quot;), of Teletouch Communications, Inc., a Delaware corporation (the &quot;<U>Company</U>&quot;).</P>
+
+<P>&#9;The address of the Company's principal executive office is 110 North College, Suite 200, Tyler, Texas 75702.</P>
+
+<P>&#9;In June 1998, the Company effected a two-for-three reverse split of the Common Stock.  All figures in this Amendment have been calculated or adjusted to give effect to the reverse split.</P>
+
+<P>&nbsp;</P>
+<B><P>Item 2.&#9;&#9;Identity and Background</P>
+</B>
+<P>&#9;This Amendment is jointly filed on behalf of each of the following persons with respect to the Common Stock:  </P>
+
+<OL TYPE="i">
+<DIR>
+<DIR>
+
+<OL TYPE="i">
+
+<LI>Bank of America Corporation, a Delaware corporation (&quot;<U>BAC</U>&quot;); </LI>
+<LI>NB Holdings Corporation, a Delaware corporation (&quot;<U>NB</U>&quot;);</LI>
+<LI>Bank of America, National Association, a federally-chartered bank (&quot;<U>B&nbsp;of&nbsp;A</U>&quot;);</LI>
+<LI>Continental Illinois Venture Corporation, a Delaware corporation (&quot;<U>CIVC</U>&quot;);</LI>
+<LI>CIVC Partners I, a Delaware partnership (&quot;<U>CIVC Partners&nbsp;I</U>&quot;);</LI>
+<LI>Daniel G. Helle, a natural person (&quot;<U>Helle</U>&quot;);</LI>
+<LI>Christopher J. Perry, a natural person (&quot;<U>Perry</U>&quot;);</LI>
+<LI>Sue C. Rushmore, a natural person (&quot;<U>Rushmore</U>&quot;);</LI>
+<LI>Thomas E. VanPelt, Jr., a natural person (&quot;<U>VanPelt</U>&quot;); and</LI>
+<LI>Marcus D. Wedner, a natural person (&quot;<U>Wedner</U>&quot;).</LI></OL>
+</DIR>
+</DIR>
+</OL>
+
+
+<P>The entities and natural persons identified in (i)-(x) above are collectively referred to herein as the &quot;<U>Filing Persons</U>&quot; and the natural persons identified in (vi)-(x) above are collectively referred to herein as the &quot;<U>General
+Partners</U>.&quot;</P>
+
+<P>&#9;The Filing Persons hereby make a single joint filing pursuant to Rule 13d-1(k).  Information with respect to each of the Filing Persons is given solely by such Filing Persons, and no Filing Person assumes responsibility for the accuracy or
+completeness of information by another Filing Person.  By their signatures on this Amendment, each of the Filing Persons agrees that this Amendment is filed on behalf of such Filing Persons.</P>
+
+<P>&#9;The Filing Persons expressly disclaim that they have agreed to act as a group (a &quot;Group&quot;) as such term is described under Section 13(d)(3) of the Securities Exchange Act of 1934 (the &quot;Act&quot;) other than as described in this
+Amendment or, if applicable, the Previous Disclosure.  As disclosed below, certain of the General Partners have positions with both CIVC and CIVC Partners I.  CIVC, CIVC Partners I, and the General Partners, however, have not agreed to act as a Group
+other than as described in this Amendment or, if applicable, the Previous Disclosure.  CIVC and CIVC Partners I have agreed to act as a Group regarding the disposition of shares of Common Stock as described in Items 4 and 5 of this Amendment.</P>
+
+<P>&#9;For purposes of this Amendment, &quot;<U>Control Persons</U>&quot; shall mean those individuals identified in General Instruction C to Schedule 13D and Exhibits B-F hereto, <I>provided</I>, however, that any such person who is a Filing Person as
+set forth above shall not be a Control Person.</P>
+<B><P>&#9;A.&#9;NATURAL PERSONS</P>
+</B>
+<B><U><P>Helle</P>
+</B></U>
+<P>Business Address:  231 South La Salle Street, Chicago, IL 60697.</P>
+
+<P>Present Principal Occupation and Name, Address, and Principal Business of Organization in which such Occupation is Conducted:  General Partner of CIVC Partners&nbsp;I (see below for information regarding CIVC Partners&nbsp;I); Managing Director and
+Director of CIVC (see below for information regarding CIVC).</P>
+
+<P>Citizenship:  United States.</P>
+
+<B><U><P>Perry</P>
+</B></U>
+<P>Business Address:  231 South La Salle Street, Chicago, IL 60697.</P>
+
+<P>Present Principal Occupation and Name, Address, and Principal Business of Organization in which such Occupation is Conducted:  General Partner of CIVC Partners&nbsp;I (see below for information regarding CIVC Partners&nbsp;I); President, Managing
+Director, and Director of CIVC (see below for information regarding CIVC).</P>
+
+<P>Citizenship:  United States.</P>
+
+<B><U><P>Rushmore</P>
+</B></U>
+<P>Business Address:  231 South La Salle Street, Chicago, IL 60697.</P>
+
+<P>Present Principal Occupation and Name, Address, and Principal Business of Organization in which such Occupation is Conducted:  General Partner of CIVC Partners&nbsp;I (see below for information regarding CIVC Partners&nbsp;I); Managing Director of
+CIVC (see below for information regarding CIVC). </P>
+
+<P>Citizenship:  United States.</P>
+
+<B><U><P>VanPelt</P>
+</B></U>
+<P>Business Address:  350 Talon Centre, Detroit, MI 48207.</P>
+
+<P>Present Principal Occupation and Name, Address, and Principal Business of Organization in which such Occupation is Conducted:  General Partner of CIVC Partners&nbsp;I (see below for information regarding CIVC Partners&nbsp;I); Principal of Talon
+Group, LLC (350 Talon Centre, Detroit, MI 48207; Holding and investing in diversified manufacturing entities); Director of the Company (see Item 1 above for address of the Company; Providing telecommunications services).</P>
+
+<P>Citizenship:  United States.</P>
+
+<B><U><P>Wedner</P>
+</B></U>
+<P>Business Address:  231 South La Salle Street, Chicago, IL 60697.</P>
+
+<P>Present Principal Occupation and Name, Address, and Principal Business of Organization in which such Occupation is Conducted:  General Partner of CIVC Partners&nbsp;I (see below for information regarding CIVC Partners&nbsp;I); Managing Director and
+Director of CIVC (see below for information regarding CIVC); Director of the Company (see Item 1 above for address of the Company; Providing telecommunications services).  </P>
+
+<P>Citizenship:  United States.</P>
+<B>
+<P>&#9;B.&#9;ENTITIES</P>
+</B>
+<B><U><P>CIVC</P>
+</B></U>
+<P>State of Organization:  Delaware</P>
+
+<P>Principal Business:  Providing debt and equity financing to businesses in the United States.</P>
+
+<P>Address of Principal Office:  231 South LaSalle Street, Chicago, IL 60697.</P>
+
+<P>Name, Business Address, Present Principal Occupation, and Citizenship of each Control Person of CIVC:  See Exhibit B hereto, which is incorporated herein by reference.</P>
+
+<B><U><P>B of A</P>
+</B></U>
+<P>State of Organization:  Illinois</P>
+
+<P>Principal Business:  Banking.</P>
+
+<P>Address of Principal Office:  101 North Tryon Street, Charlotte, NC 28255.</P>
+
+<P>Name, Business Address, Present Principal Occupation, and Citizenship of each Control Person of B of A:  See Exhibit C hereto, which is incorporated herein by reference.</P>
+
+<P>At the time of the Previous Disclosures, Bank of America Illinois was the Filing Person.  Bank of America Illinois merged with Bank of America NT &amp; SA and the surviving entity changed its name to Bank of America, National Association.</P>
+
+<B><U><P>BAC</P>
+</B></U>
+<P>State of Organization:  Delaware</P>
+
+<P>Principal Business:  Providing financial services to businesses, governments, financial institutions and individuals in the United States and through the world.</P>
+
+<P>Address of Principal Office:  101 North Tryon Street, Charlotte, NC 28255.</P>
+
+<P>Name, Business Address, Present Principal Occupation, and Citizenship of each Control Person of BAC:  See Exhibit D hereto, which is incorporated herein by reference.</P>
+
+<P>At the time of the Previous Disclosures, the name of the Filing Person was BankAmerica Corporation.  BankAmerica Corporation filed an Amended and Restated Certificate of Incorporation with the Secretary of State of Delaware on April 28, 1999, to
+effect a name change to Bank of America Corporation.</P>
+</FONT><B><FONT SIZE=3>
+</FONT><U><FONT SIZE=2><P>CIVC Partners&nbsp;I</P>
+</B></U>
+<P>State of Organization:  Delaware</P>
+
+<P>Principal Business:  Providing debt and equity financing to businesses in the United States.</P>
+
+<P>Address of Principal Office: 231 South La Salle Street, Chicago, IL 60697.</P>
+
+<P>Name, Business Address, Present Principal Occupation, and Citizenship of each Control Person of CIVC Partners&nbsp;I:  See Exhibit E hereto, which is incorporated herein by reference.</P>
+
+<B><U><P>NB</P>
+
+</B></U><P>State of Organization:  Delaware</P>
+
+<P>Principal Business:  Acting as a holding corporation.</P>
+
+<P>Address of Principal Office:  101 North Tryon Street, Charlotte, NC 28255.</P>
+
+<P>Name, Business Address, Present Principal Occupation, and Citizenship of each Control Person of NB Holdings:  See Exhibit F hereto, which is incorporated herein by reference.</P>
+
+<B><P>&#9;C.&#9;FILING PERSONS AND CONTROL PERSONS</P>
+</B>
+<P>&#9;None of the Filing Persons, nor the Control Persons, have, during the last five years, (i) been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors) or (ii) been a party to a civil proceeding and as a result of
+which was or is subject to a judgment, decree or final order enjoining future violations or, or prohibiting or mandating activities subject to, federal or state securities laws, or a judgment decree or final order finding any violations with respect to
+such laws.</P>
+
+<P>&nbsp;</P>
+<B><P>Item 3.&#9;&#9;Source and Amount of Funds or Other Consideration</P>
+</B>
+<P>&#9;The Company, CIVC, CIVC Partners&nbsp;I and certain other persons are parties to an Amended and Restated Subordinated Note, Preferred Stock and Warrant Purchase Agreement, dated as of August 3, 1995 (the &quot;<U>Purchase Agreement</U>&quot;).  A
+copy of the Purchase Agreement was filed by the Company with the SEC on August 18, 1995, as an exhibit to the Company's Form 8-K and was incorporated by reference into the Previous Disclosures.  </P>
+
+<P>&#9;Pursuant to the Purchase Agreement, on August&nbsp;3, 1995, CIVC acquired, among other securities, warrants (the &quot;<U>Common Stock Warrants</U>&quot;) to purchase 2,660,840 shares of Common Stock (underlying shares of Common Stock, the &quot;<U>
+Warrant Shares</U>&quot;) at a price of&nbsp;$1.71 per warrant, for a total purchase price of $4,542,469.00, and warrants (the &quot;<U>Series B Warrants</U>&quot; and together with the Common Stock Warrants, the &quot;<U>Warrants</U>&quot;) to purchase 324,173 shares
+of Series B Preferred Stock of the Company which are each presently convertible into six shares of Common Stock (underlying shares of Common Stock, the &quot;<U>Conversion Shares</U>&quot;) at a price of&nbsp;$1.71 per warrant, for a total purchase price of $3,320,489.00.  The source of such funds was internal capital.</P>
+
+<P>&#9;Pursuant to the Purchase Agreement, on August 3, 1995, CIVC Partners&nbsp;I acquired, among other securities, Common Stock Warrants to purchase 295,649 Warrant Shares at a price of $1.71 per warrant, for a total purchase price of $504,719.00 and
+Series B Warrants to purchase 36,019 Conversion Shares at a price of&nbsp;$1.71 per warrant, for a total purchase price of $368,943.00.  The source of such funds was internal capital and funds borrowed from Bank America Investment Corp., a related entity,
+at an annual interest rate of 6.13%, pursuant to a revolving credit facility.  In September 1995, CIVC Partners&nbsp;I exercised its Warrants at an exercise price of $0.015 per Warrant for a total exercise price of $4,975.02.  The source of such funds was
+internal capital.</P>
+
+<P>&#9;A form of Common Stock Purchase Warrant and a form of Series B Preferred Stock Purchase Warrant were filed by the Company with the SEC on August 18, 1995, as exhibits to the Company's Form 8-K.  The form of Common Stock Purchase Warrant was
+incorporated by reference into the Previous Disclosure.  The form of Series B Preferred Stock Purchase Warrant is hereby incorporated by reference into this Amendment.</P>
+
+<P>&nbsp;</P>
+<B><P>Item 4.&#9;&#9;Purpose of Transaction</P>
+</B>
+<P>&#9;CIVC and CIVC Partners&nbsp;I acquired the Warrants and CIVC Partners&nbsp;I acquired the Warrant Shares for investment purposes.  Depending on market conditions and other factors (including evaluation of the Company's businesses and prospects,
+availability of funds, alternative uses of funds and general economic conditions), CIVC and CIVC Partners&nbsp;I may from time to time purchase additional securities of the Company or dispose of all or a portion of its investment in the Company.</P>
+
+<P>&#9;Except as set forth below, none of the Filing Persons nor the Control Persons has any present plan or proposal that relates to or would result in:  (i) the acquisition by any person of additional securities of the Company, or the disposition of
+securities of the Company; (ii) an extraordinary corporate transaction, involving the Company or any of its subsidiaries; (iii) a sale or transfer of a material amount of assets of the Company or any of its subsidiaries; (iv) any change in the present
+board of directors of the Company or management of the Company; (v) any material change in the present capitalization or dividend policy of the Company; (vi)&nbsp;any material change in the Company's business or corporate structure; (vii) any change in
+the Company's certificate of incorporation or bylaws, or other action which may impede the acquisition of control of the Company by any person; (viii) causing a class of securities of the Company to be delisted from a national securities exchange; (ix) a
+class of equity securities of the Company becoming eligible for termination of registration pursuant to Section 12(g)(4) of the Act; or (x) any action similar to any of the foregoing. </P>
+
+<P>&#9;The Company, CIVC, CIVC Partners&nbsp;I and certain other stockholders of the Company are parties to a Stockholders Agreement, dated as of August 3, 1995 (the &quot;<U>Stockholders Agreement</U>&quot;) which governs certain rights and obligations
+regarding, among other securities, the Warrant Shares and the Conversion Shares (together, the &quot;<U>Stockholder Shares</U>&quot;).  Presently, stockholders (other than CIVC) holding an aggregate of 2,489,812 Stockholder Shares are parties to the Stockholders Agreement.  </P>
+
+<P>&#9;The Stockholders Agreement provides, among other things, that CIVC shall have certain voting rights.  </P>
+
+<P>&#9;(i)&#9;Pursuant to the terms of the Stockholders Agreement, CIVC, as the holder of a majority of the Underlying Shares (as defined in the Stockholders Agreement), had the right to designate a number of directors to the Company's board of directors
+equal to the number which is one less than a majority of the directors (initially three of seven) until August 3, 1997.  Following August 3, 1997, CIVC has the right to designate a majority of the Company's board of directors (<I>e.g.</I>, four of seven).  In general, each party to the Stockholders Agreement agreed under certain circumstances to vote all of his or its Stockholder Shares in favor of the persons designated by CIVC.</P>
+
+<P>&#9;(ii)&#9;All but one party to the Stockholders Agreement also agreed under certain circumstances to vote all of his or its Stockholder Shares in favor of a Sale of the Company (as defined in the Stockholders Agreement) if proposed by parties to the
+Stockholders Agreement holding a majority of the Underlying Shares, presently CIVC.</P>
+
+<P>&#9;(iii)&#9;GM Holdings, L.L.C. (&quot;GM&quot;), which holds an aggregate of 701,526 Stockholder Shares, agreed to vote its shares of Common Stock only as directed by CIVC.</P>
+
+<P>&#9;The Stockholders Agreement also provides that CIVC shall have certain disposition powers.  </P>
+
+<P>&#9;(i)&#9;All but one party to the Stockholders Agreement agreed under certain circumstances to participate in, and raise no objection to, a Sale of the Company, including the sale of his or its capital stock of the Company, if proposed by parties to
+the Stockholders Agreement holding a majority of the Underlying Shares, presently CIVC.</P>
+
+<P>&#9;(ii)&#9;GM, which holds an aggregate of 701,526 Stockholder Shares, agreed to dispose of its shares of Common Stock only as directed by CIVC.</P>
+
+<P>&#9;Pursuant to the Stockholders Agreement, Wedner and VanPelt presently serve as Directors of the Company and Perry served as a Director of the Company from August of 1995 through March of 1998.</P>
+
+<P>&#9;A copy of the Stockholders Agreement was filed by the Company with the SEC on August&nbsp;18,&nbsp;1995, as an exhibit to the Company's Form 8-K and was incorporated by reference into the Previous Disclosure.</P>
+
+<P>&#9;Pursuant to a Registration Agreement, dated as of August 3, 1995, by and among the Company, CIVC, CIVC Partners&nbsp;I and certain other stockholders of the Company (the &quot;<U>Registration Agreement</U>&quot;), CIVC, CIVC Partners&nbsp;I and
+certain other stockholders of the Company were granted certain registration rights with respect to their Warrants Shares and Conversion Shares.  A copy of the Registration Agreement was filed by the Company with the SEC on August 18, 1995, as an exhibit
+to the Company's Form 8-K and was incorporated by reference into the Previous Disclosures.</P>
+
+<P>&#9;Pursuant to a Form of Plan of Divestiture, dated as of August 3, 1995, by the Company, CIVC, and CIVC Partners I (the &quot;Divestiture Agreement&quot;), CIVC and CIVC Partners I agreed to dispose of shares of Common Stock by August 3, 2002, or by
+such other date as provided by regulations (the &quot;SBA Regulations&quot;) under the Small Business Investment Act of 1958, as amended.  CIVC and CIVC Partners I agreed to reduce their percentage ownership of the Company's voting securities to a
+percentage at which CIVC and CIVC Partners I, in the aggregate, would no longer be presumed to have control of the Company as such term is described under the SBA Regulations.</P>
+
+<P>&#9;A copy of the Divestiture Agreement is attached hereto as Exhibit H and is hereby incorporated by reference into this Amendment.</P>
+
+<P>&#9;The summaries of the agreements referred to in this Item 4 and elsewhere in this Amendment are not intended to be complete and are qualified in their entirely by reference to the detailed provisions of such agreements.  </P>
+
+<P>&nbsp;</P>
+<B><P>Item 5.&#9;&#9;Interest in Securities of the Issuer</P>
+</B>
+<B><U><P>Event that Requires Filing of this Amendment</P>
+</B></U>
+<P>&#9;The Filings Persons became the direct or indirect beneficial owners of the Conversion Shares, as set forth in this Item 5, on June 5, 1997, the date on which they obtained the right to acquire those shares within 60 days.</P>
+
+<B><U><P>Filing Persons and Control Persons</P>
+</B></U>
+<P>&#9;CIVC, BAC, B of A, and NB disclaim indirect beneficial ownership of all Stockholder Shares, <I>except</I> those Stockholder Shares held by GM.  Accordingly, CIVC, BAC, B of A, and NB disclaim indirect beneficial ownership of 1,788,286 of the
+2,489,812 Stockholder Shares (such total number Stockholder Shares does not include those held directly by CIVC) and have not included such shares in the calculation of their beneficial ownership of the Common Stock.  </P>
+
+<P>&#9;CIVC, BAC, B of A, and NB disclaim indirect beneficial ownership of the 511,763 shares of Common Stock directly-owned by CIVC Partners I and have not included such shares in the calculation of their beneficial ownership of the Common Stock.</P>
+
+<P>&#9;The filing of this Statement by B of A, BAC, NB, CIVC, and each of the General Partners shall not be construed as an admission that any of them is, for the purpose of Section 13(d) or 13(g) of the Act, the indirect beneficial owner of any
+securities covered by this Statement.  </P>
+
+<P>&#9;Each of the Control Persons, to the best of the Filing Person's belief, beneficially owns 0 shares of Common Stock.</P>
+
+<P>&#9;None of the Filing Persons nor the Control Persons has effected a transaction in the Common Stock within the past sixty days.</P>
+<B><U>
+<P>CIVC Partners&nbsp;I</P>
+</B></U>
+<P>&#9;CIVC Partners&nbsp;I is the direct beneficial owner of 511,763 shares of Common Stock, comprised of 295,649 shares of Common Stock and 216,114 Conversion Shares that it has the right to acquire within 60 days.  Based on 4,898,192 shares of Common
+Stock outstanding as of the time of the filing of this Amendment and based on the conversion of the Conversion Shares held by CIVC Partners&nbsp;I (which increases the number of outstanding shares of Common Stock to 5,114,306), CIVC Partners&nbsp;I is the
+direct beneficial owner of 10.0% of the outstanding shares of Common Stock.</P>
+
+<P>&#9;CIVC Partners&nbsp;I is the indirect beneficial owner of 0 shares of Common Stock.</P>
+
+<P>&#9;CIVC Partners&nbsp;I has sole power, though the General Partners, to vote or to direct the vote and to dispose or to direct the disposition of the 511,763 directly-owned shares of Common Stock.</P>
+
+<B><U><P>CIVC</P>
+</B></U>
+<P>&#9;CIVC is the direct beneficial owner of 4,605,878 shares of Common Stock, comprised of 1,945,038 Conversion Shares and 2,660,840 Warrant Shares that it has the right to acquire within 60 days.</P>
+
+<P>&#9;CIVC may be deemed to the be the indirect beneficial owner of 701,526 shares of Common Stock, comprised of shares directly owned by GM (296,250 of which are Conversion Shares that GM has the right to acquire within 60 days).  Such indirect
+beneficial ownership may be deemed to result from the voting and disposition powers granted to CIVC by GM pursuant to the Stockholders Agreement.</P>
+
+<P>&#9;Based on 4,898,192 shares of Common Stock outstanding as of the time of the filing of this Amendment and based on the conversion and exercise of the Conversion Shares and Warrant Shares held by CIVC and based on the conversion of the Conversion
+Shares held by GM (which increases the number of outstanding shares of Common Stock to 9,800,320), CIVC Partners&nbsp;I is the direct and indirect beneficial owner of 54.2% of the outstanding shares of Common Stock.</P>
+
+<P>&#9;CIVC may also be deemed to be the indirect beneficial owner of the Stockholder Shares directly-owned by parties to the Stockholder Agreement other than GM and of the Common Stock directly-owned by CIVC Partners I.  As set forth above, CIVC
+disclaims beneficial ownership of such shares.</P>
+
+<P>&#9;Except as set forth below regarding the relationship of B of A, BAC, and NB to CIVC, CIVC has sole power to vote or to direct the vote and to dispose or to direct the disposition of the 5,307,404 shares of Common Stock directly-owned by CIVC and GM.
+</P>
+
+<B><U><P>Group of CIVC and CIVC Partners I</P>
+</B></U>
+<P>&#9;As a result of the Divestiture Agreement, CIVC and CIVC Partners I may be deemed to be a Group.  In the aggregate, CIVC and CIVC Partners I are the direct and indirect beneficial owners of 5,819,167 shares of Common Stock, comprised of 700,925
+shares of Common Stock, 2,457,402 Conversion Shares that CIVC, CIVC Partners I, and GM have the right to acquire within 60 days, and 2,660,840 Warrant Shares that CIVC has the right to acquire within 60 days.  Based on 4,898,192 shares of Common Stock
+outstanding as of the time of the filing of this Amendment and based on the conversion of the Conversion Shares held by CIVC, CIVC Partners I, and GM and based on the exercise of the Warrant Shares held by CIVC (which increases the number of outstanding
+shares of Common Stock to 10,016,434), in the aggregate, CIVC and CIVC Partners I are the direct and indirect beneficial owners of 58.1% of the outstanding shares of Common Stock.</P>
+
+<B><U><P>BAC, B of A, and NB</P>
+</B></U>
+<P>&#9;BAC, B of A, and NB are each the direct beneficial owner of 0 shares of Common Stock.</P>
+
+<P>&#9;BAC, B of A, and NB may each be deemed to be the indirect beneficial owner of 5,307,404 shares of Common Stock, comprised of 4,605,878 shares directly owned by CIVC (all of which are Conversion Shares or Warrant Shares that CIVC has the right to
+acquire within 60 days) and 701,526 shares indirectly owned by CIVC (296,250 of which are Conversion Shares that GM has the right to acquire within 60 days).  Such indirect beneficial ownership may be deemed to result from the ownership by B of A of all
+of the outstanding common stock of CIVC, from the ownership by NB of all of the outstanding common stock of B of A, and from the ownership by BAC of all of the outstanding common stock of NB.  </P>
+
+<P>&#9;Based on 4,898,192 shares of Common Stock outstanding as of the time of the filing of this Amendment and based on the conversion and exercise of the Conversion Shares and Warrant Shares held by CIVC and based on the conversion of the Conversion
+Shares held by GM (which increases the number of outstanding shares of Common Stock to 9,800,320), BAC, B&nbsp;of&nbsp;A, and NB are each the indirect beneficial owner of 54.2% of the outstanding shares of Common Stock.</P>
+
+<P>&#9;BAC, B of A, and NB may also be deemed to be the indirect beneficial owners of the Stockholder Shares directly-owned by parties to the Stockholders Agreement other than GM and of the Common Stock directly-owned by CIVC Partners I.  As set forth
+above, BAC, B of A, and NB disclaim indirect beneficial ownership of such shares.</P>
+
+<P>&#9;BAC and B of A each have shared power to vote or to direct the vote and to dispose or to direct the disposition of the 5,307,404 shares of Common Stock directly and indirectly owned CIVC.</P>
+
+<B><U><P>Helle and Rushmore</P>
+</B></U>
+<P>&#9;Helle and Rushmore are each the direct beneficial owner of 0 shares of Common Stock.</P>
+
+<P>&#9;Helle and Rushmore may each be deemed to be the indirect beneficial owner of 511,763 shares of Common Stock, comprised solely of shares directly owned by CIVC Partners&nbsp;I (216,114 of which are Conversion Shares that CIVC Partners&nbsp;I has
+the right to acquire within 60 days).  Such indirect beneficial ownership may be deemed to result from each person's position as a General Partner of CIVC Partners&nbsp;I.  </P>
+
+<P>&#9;Based on 4,898,192 shares of Common Stock outstanding as of the time of the filing of this Amendment and based on the conversion of the Conversion Shares held by CIVC Partners&nbsp;I (which increases the number of outstanding shares of Common
+Stock to 5,114,306), Helle and Rushmore are each the direct and indirect beneficial owner of 10.0% of the outstanding shares of Common Stock.</P>
+
+<P>&#9;Helle and Rushmore each have shared power to vote or to direct the vote and to dispose or to direct the disposition of the 511,763 shares of Common Stock directly owned by CIVC Partners&nbsp;I.</P>
+
+<B><U><P>Wedner and Perry</P>
+</B></U>
+<P>&#9;Wedner and Perry are each the direct beneficial owner of 6,666 shares of Common Stock, comprised solely of shares that each person has the right to acquire within 60 days upon the exercise of stock options.</P>
+
+<P>&#9;Wedner and Perry may each be deemed to be the indirect beneficial owner of 511,763 shares of Common Stock, comprised solely of shares directly owned by CIVC Partners&nbsp;I (216,114 of which are Conversion Shares that CIVC Partners&nbsp;I has the
+right to acquire within 60 days).  Such indirect beneficial ownership may be deemed to result from each person's position as a General Partner of CIVC Partners&nbsp;I.</P>
+
+<P>&#9;Based on 4,898,192 shares of Common Stock outstanding as of the time of the filing of this Amendment and based on the exercise of the stock options held by Wedner and Perry and based on the conversion of the Conversion Shares held by CIVC
+Partners&nbsp;I (which increases the number of outstanding shares of Common Stock to 5,120,972), Wedner and Perry are each the direct and indirect beneficial owner of 10.1% of the outstanding shares of Common Stock.</P>
+
+<P>&#9;Wedner disclaims indirect beneficial ownership of the 5,307,404 shares of Common Stock directly and indirectly owned by CIVC and has not included such shares in the calculation of his beneficial ownership of the Common Stock.</P>
+
+<P>&#9;Wedner and Perry each has the sole power to vote or to direct the vote and to dispose or to direct the disposition each person's 6,666 directly-owned shares of Common Stock.  Wedner and Perry each has the shared power to vote or to direct the vote
+and to dispose or to direct the disposition of the 511,763 shares of Common Stock directly-owned by CIVC Partners&nbsp;I.</P>
+
+<B><U><P>VanPelt</P>
+</B></U>
+<P>&#9;VanPelt is the direct beneficial owner of 7,332 shares of Common Stock, comprised solely of shares that he has the right to acquire within 60 days upon the exercise of stock options.</P>
+
+<P>&#9;VanPelt may be deemed to be the indirect beneficial owner of 511,763 shares of Common Stock, comprised solely of shares directly owned by CIVC Partners&nbsp;I (216,114 of which are Conversion Shares that CIVC Partners&nbsp;I has the right to
+acquire within 60 days).  Such indirect beneficial ownership may be deemed to result from VanPelt's position as a General Partner of CIVC Partners&nbsp;I.</P>
+
+<P>&#9;Based on 4,898,192 shares of Common Stock outstanding as of the time of the filing of this Amendment and based on the exercise of the stock options held by VanPelt and based on the conversion of the Conversion Shares held by CIVC Partners&nbsp;I
+(which increases the number of outstanding shares of Common Stock to 5,121,638), VanPelt is the direct and indirect beneficial owner of 10.1% of the outstanding shares of Common Stock.</P>
+
+<P>&#9;VanPelt disclaims indirect beneficial ownership of the 5,307,404 shares of Common Stock directly and indirectly owned by CIVC and has not included such shares in the calculation of his beneficial ownership of the Common Stock.</P>
+
+<P>&#9;VanPelt has the sole power to vote or to direct the vote and to dispose or to direct the disposition of the 7,332 directly-owned shares of Common Stock.  VanPelt has shared power to vote or to direct the vote and to dispose or to direct the
+disposition of the 511,763 shares of Common Stock directly-owned by CIVC Partners&nbsp;I.</P>
+
+<P>&nbsp;</P><DIR>
+<DIR>
+
+<B><P>Item 6.&#9;&#9;Contracts, Arrangements, Understandings or Relationships with </P>
+<P>&#9;&#9;Respect to Securities of the Issuer</P>
+</B></DIR>
+</DIR>
+
+<P>&#9;Except as set forth in Item 4, to the best knowledge of the Filing Persons, no contracts, arrangements, understandings or relationships (legal or otherwise) exist among the Filing Persons and Control Persons or between such persons and any other
+person with respect to any securities of the Company, including, but not limited to, transfer or voting of any such securities, finder's fees, joint venture, loan or option arrangements, puts or calls, guarantees of profits, divisions of profits or loss,
+or the giving or withholding of proxies.</P>
+
+<P>&nbsp;</P>
+<B><P>Item 7.&#9;&#9;Material to Be Filed as Exhibits</P>
+</B>
+<P>Exhibit A - Statement of Filing Persons pursuant to Rule 13d-1(k).</P>
+
+<P>Exhibit B - CIVC:  Name, Business Address, Present Principal Occupation, and Citizenship of Each Control Person.</P>
+
+<P>Exhibit C - B of A:  Name, Business Address, Present Principal Occupation, and Citizenship of Each Control Person.</P>
+
+<P>Exhibit D - BAC:  Name, Business Address, Present Principal Occupation, and Citizenship of Each Control Person.</P>
+
+<P>Exhibit E - CIVC Partners&nbsp;I:  Name, Business Address, Present Principal Occupation, and Citizenship of Each Control Person.</P>
+
+<P>Exhibit F - NB:  Name, Business Address, Present Principal Occupation, and Citizenship of Each Control Person.</P>
+<B>
+</B><P>Exhibit G - Form of Series B Preferred Stock Purchase Warrant, incorporated by reference to Exhibit 4.5 to the Company's Form 8-K, filed on August 18, 1995 (Commission File Number 0-24992).</P>
+
+<P>Exhibit H - Form of Plan of Divestiture, dated August 3, 1995, by CIVC, CIVC Partners I, and the Company.</P>
+
+<P>&nbsp;</P>
+<B><P ALIGN="CENTER">Signature Page</P>
+</B>
+<P>After reasonable inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>Bank of America Corporation</P>
+<P>By:</P>
+
+<P>&nbsp;</P>
+<P>&#9;<U>/s/  James H. Hance, Jr.&#9;&#9;&#9;</U>&#9;&#9;June 21, 2001</P>
+<P>&#9;Name:&#9;James H. Hance, Jr.</P>
+<P>&#9;Title:&#9;Chief Financial Officer and</P>
+<P>&#9;&#9;Vice Chairman of the Board</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>Bank of America, National Association</P>
+<P>By:</P>
+
+<P>&nbsp;</P>
+<P>&#9;<U>/s/  James H. Hance, Jr.&#9;&#9;&#9;</U>&#9;&#9;June 21, 2001</P>
+<P>&#9;Name:&#9;James H. Hance, Jr.</P>
+<P>&#9;Title:&#9;Vice Chairman of the Board</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>Continental Illinois Venture Corporation</P>
+<P>By:</P>
+
+<P>&nbsp;</P>
+<P>&#9;<U>/s/  Christopher J. Perry&#9;&#9;&#9;</U>&#9;&#9;June 18, 2001</P>
+<P>&#9;Name:&#9;Christopher J. Perry</P>
+<P>&#9;Title:&#9;President and Managing Director</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>CIVC Partners I</P>
+<P>By:</P>
+
+<P>&nbsp;</P>
+<P>&#9;<U>/s/  Marcus D. Wedner&#9;&#9;&#9;</U>&#9;&#9;June 18, 2001</P>
+<P>&#9;Name:&#9;Marcus D. Wedner</P>
+<P>&#9;Title:&#9;General Partner</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>NB Holdings Corporation</P>
+<P>By:</P>
+
+<P>&nbsp;</P>
+<P>&#9;<U>/s/  James H. Hance, Jr.&#9;&#9;&#9;</U>&#9;&#9;June 21, 2001</P>
+<P>&#9;Name:&#9;James H. Hance, Jr.</P>
+<P>&#9;Title:&#9;Vice Chairman of the Board</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<U><P>&nbsp;</P>
+<P>/s/  Marcus D. Wedner&#9;&#9;&#9;</U>&#9;&#9;June 18, 2001</P>
+<P>Marcus D. Wedner</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<U><P>/s/  Daniel G. Helle&#9;&#9;&#9;</U>&#9;&#9;June 19, 2001</P>
+<P>Daniel G. Helle</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<U><P>/s/  Sue C. Rushmore&#9;&#9;&#9;</U>&#9;&#9;June 18, 2001</P>
+<P>Sue C. Rushmore</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<U><P>/s/  Thomas E. VanPelt, Jr.&#9;&#9;&#9;</U>&#9;&#9;June 19, 2001</P>
+<P>Thomas E. VanPelt, Jr.</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<U><P>/s/  Christopher J. Perry&#9;&#9;&#9;</U>&#9;&#9;June 18, 2001</P>
+<P>Christopher J. Perry</P>
+<B><P ALIGN="CENTER">Exhibit A</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">Statement of Joint Filing</P>
+</B>
+<P>Each of the Filing Persons hereby agrees that this Amendment is filed on behalf of each of the Filing Persons.</P>
+
+<P>&nbsp;</P>
+<P>Bank of America Corporation</P>
+<P>By:</P>
+
+<P>&nbsp;</P>
+<P>&#9;<U>/s/  James H. Hance, Jr.&#9;&#9;&#9;</U>&#9;&#9;June 21, 2001</P>
+<P>&#9;Name:&#9;James H. Hance, Jr.</P>
+<P>&#9;Title:&#9;Chief Financial Officer and</P>
+<P>&#9;&#9;Vice Chairman of the Board</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>Bank of America, National Association</P>
+<P>By:</P>
+
+<P>&nbsp;</P>
+<P>&#9;<U>/s/  James H. Hance, Jr.&#9;&#9;&#9;</U>&#9;&#9;June 21, 2001</P>
+<P>&#9;Name:&#9;James H. Hance, Jr.</P>
+<P>&#9;Title:&#9;Vice Chairman of the Board</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>Continental Illinois Venture Corporation</P>
+<P>By:</P>
+
+<P>&nbsp;</P>
+<P>&#9;<U>/s/  Christopher J. Perry&#9;&#9;&#9;</U>&#9;&#9;June 18, 2001</P>
+<P>&#9;Name:&#9;Christopher J. Perry</P>
+<P>&#9;Title:&#9;President and Managing Director</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>CIVC Partners I</P>
+<P>By:</P>
+
+<P>&nbsp;</P>
+<P>&#9;<U>/s/  Marcus D. Wedner&#9;&#9;&#9;</U>&#9;&#9;June 18, 2001</P>
+<P>&#9;Name:&#9;Marcus D. Wedner</P>
+<P>&#9;Title:&#9;General Partner</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>NB Holdings Corporation</P>
+<P>By:</P>
+
+<P>&nbsp;</P>
+<P>&#9;<U>/s/  James H. Hance, Jr.&#9;&#9;&#9;</U>&#9;&#9;June 21, 2001</P>
+<P>&#9;Name:&#9;James H. Hance, Jr.</P>
+<P>&#9;Title:&#9;Vice Chairman of the Board</P>
+
+<U><P>&nbsp;</P>
+<P>/s/  Marcus D. Wedner&#9;&#9;&#9;</U>&#9;&#9;June 18, 2001</P>
+<P>Marcus D. Wedner</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<U><P>/s/  Daniel G. Helle&#9;&#9;&#9;</U>&#9;&#9;June 19, 2001</P>
+<P>Daniel G. Helle</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<U><P>/s/  Sue C. Rushmore&#9;&#9;&#9;</U>&#9;&#9;June 18, 2001</P>
+<P>Sue C. Rushmore</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<U><P>/s/  Thomas E. VanPelt, Jr.&#9;&#9;&#9;</U>&#9;&#9;June 19, 2001</P>
+<P>Thomas E. VanPelt, Jr. &#9;&#9;</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<U><P>/s/  Christopher J. Perry&#9;&#9;&#9;</U>&#9;&#9;June 18, 2001</P>
+<P>Christopher J. Perry</P>
+
+<B><P ALIGN="CENTER">Exhibit B</P>
+<P ALIGN="CENTER"></P>
+<U><P ALIGN="CENTER">CIVC</P>
+</U><P ALIGN="CENTER">Name, Residence or Business Address, Present Principal Occupation, and Citizenship of Each Control Person</P>
+</B><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">&nbsp;</P>
+<P>Each Control Person is a citizen of the United States.</P>
+
+<P>In the interest of a complete presentation, Filing Persons are included below and are indicated with an asterisk.</P>
+</FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=9 WIDTH=832>
+<TR><TD WIDTH="22%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER">Name and Position at CIVC</B></FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER">Residence or Business Address</B></FONT></TD>
+<TD WIDTH="23%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER">Present Principal Occupation In Addition To or Other Than Position at CIVC</B></FONT></TD>
+<TD WIDTH="30%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER">Principal Business and Address of Organization in which such Occupation is Conducted</P>
+<P ALIGN="CENTER"></B></FONT></TD>
+</TR>
+<TR><TD WIDTH="22%" VALIGN="TOP">
+<FONT SIZE=2><P>James H. Hance, Jr.</P>
+<P>Chairman of the Board and Director</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>100 North Tryon Street<BR>
+Charlotte, NC 28255</P>
+</FONT></TD>
+<TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Director, Vice Chairman of the Board and Chief Financial Officer of BAC; Director and Vice Chairman of the Board of B&nbsp;of&nbsp;A; Director and Vice Chairman of the Board<B> </B>of NB</FONT></TD>
+<TD WIDTH="30%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment </P>
+<P>Item 2.B.</FONT></TD>
+</TR>
+<TR><TD WIDTH="22%" VALIGN="TOP">
+<FONT SIZE=2><P>Edward J. McCaffrey</P>
+<P>Managing Director, Chief Investment Officer and Director</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>231 South La Salle Street Chicago, IL 60697</FONT></TD>
+<TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Chief Investment Officer of Banc of America Equity Partners; Executive Vice President of B of A</FONT></TD>
+<TD WIDTH="30%" VALIGN="TOP">
+<FONT SIZE=2><P>financing; see the text of Amendment Item 2.B.</P>
+
+<P>231 South La Salle Street</P>
+<P>Chicago, IL 60697; see the text of Amendment Item 2.B.</FONT></TD>
+</TR>
+<TR><TD WIDTH="22%" VALIGN="TOP">
+<FONT SIZE=2><P>Daniel G. Helle*</P>
+<P>Managing Director and Director</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>231 South La Salle Street Chicago, IL 60697</FONT></TD>
+<TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>General Partner of CIVC Partners I; Managing Director of B of A</FONT></TD>
+<TD WIDTH="30%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment </P>
+<P>Item 2.B.</P>
+<B></B></FONT></TD>
+</TR>
+<TR><TD WIDTH="22%" VALIGN="TOP">
+<FONT SIZE=2><P>Christopher J. Perry*</P>
+<P>President, Managing Director and Director </FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>231 South La Salle Street Chicago, IL 60697</FONT></TD>
+<TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>General Partner of CIVC Partners I; Managing Director of B of A</FONT></TD>
+<TD WIDTH="30%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment </P>
+<P>Item 2.B.</FONT></TD>
+</TR>
+<TR><TD WIDTH="22%" VALIGN="TOP">
+<FONT SIZE=2><P>Terry E. Perucca</P>
+<P>Vice Chairman of the Board and Director</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>231 South La Salle Street Chicago, IL 60697</FONT></TD>
+<TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>President of Bank of America, Chicago; President of Banc of America Equity Partners; Group Executive Vice President of B of A</FONT></TD>
+<TD WIDTH="30%" VALIGN="TOP">
+<FONT SIZE=2><P>banking; financing; see the text of Amendment Item 2.B.</P>
+
+<P>231 South La Salle Street Chicago, IL 60697; see the text of Amendment Item 2.B.</FONT></TD>
+</TR>
+<TR><TD WIDTH="22%" VALIGN="TOP">
+<FONT SIZE=2><P>Marcus D. Wedner*</P>
+<P>Managing Director and Director</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>231 South La Salle Street</P>
+<P>Chicago, IL 60697</FONT></TD>
+<TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>General Partner of CIVC Partners I; Managing Director of B of A; Director of the Company</FONT></TD>
+<TD WIDTH="30%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment</P>
+<P>Item 2.B; see the text of Amendment Item 2.A.</FONT></TD>
+</TR>
+</TABLE>
+
+<B><FONT SIZE=2><P ALIGN="CENTER">Exhibit C</P>
+<P ALIGN="CENTER"></P>
+<U><P ALIGN="CENTER">B of A</P>
+</U><P ALIGN="CENTER">Name, Residence or Business Address, Present Principal Occupation, and Citizenship of Each Control Person</P>
+</B>
+<P>&nbsp;</P>
+<P>Each Control Person is a citizen of the United States.</P>
+</FONT><B></B>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=9 WIDTH=840>
+<TR><TD WIDTH="22%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER">Name and Position at B of A</B></FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER">Residence or Business Address</B></FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER">Present Principal Occupation In Addition To or Other Than Position at</P>
+<P ALIGN="CENTER">B of A</P>
+<P ALIGN="CENTER"></B></FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER">Principal Business and Address of Organization in which such Occupation is Conducted</P>
+<P ALIGN="CENTER"></B></FONT></TD>
+</TR>
+<TR><TD WIDTH="22%" VALIGN="TOP">
+<FONT SIZE=2><P>Kenneth D. Lewis</P>
+<P>Director, Chairman, President and CEO</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>100 North Tryon Street</P>
+<P>Charlotte, NC 28255</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>Director, Chairman, President and CEO of BAC; Director, Chairman President and CEO of NB</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment</P>
+<P>Item 2.B.</FONT></TD>
+</TR>
+<TR><TD WIDTH="22%" VALIGN="TOP">
+<FONT SIZE=2><P>James H. Hance, Jr.</P>
+<P>Director and Vice Chairman of the Board</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>100 North Tryon Street</P>
+<P>Charlotte, NC 28255</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>Director, Vice Chairman of the Board and Chief Financial Officer of BAC; Chairman of the Board and Director of CIVC; Director and Vice Chairman of the Board of NB</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment</P>
+<P>Item 2.B.</FONT></TD>
+</TR>
+<TR><TD WIDTH="22%" VALIGN="TOP">
+<FONT SIZE=2><P>F. William Vandiver, Jr.</P>
+<P>Director and Vice Chairman</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>100 North Tryon Street</P>
+<P>Charlotte, NC 28255</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>Corporate Risk Management Executive of BAC; Director and Chairman, Corporate Risk Policy of NB</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment</P>
+<P>Item 2.B.</FONT></TD>
+</TR>
+<TR><TD WIDTH="22%" VALIGN="TOP">
+<FONT SIZE=2><P>Edward J. Brown III</P>
+<P>Director and President, Global Corporate and Investment Banking</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>555 California Street</P>
+<P>San Francisco, CA 94104-1503</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>President, Global Corporate and Investment Banking of BAC</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment</P>
+<P>Item 2.B.</FONT></TD>
+</TR>
+<TR><TD WIDTH="22%" VALIGN="TOP">
+<FONT SIZE=2><P>R. Eugene Taylor</P>
+<P>Director and President, Consumer and Commercial Banking</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>100 North Tryon Street</P>
+<P>Charlotte, NC 28255</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>President, Consumer and Commercial Banking of BAC</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment</P>
+<P>Item 2.B.</FONT></TD>
+</TR>
+<TR><TD WIDTH="22%" VALIGN="TOP">
+<FONT SIZE=2><P>Amy Woods Brinkley</P>
+<P>Director and President, Consumer Products</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>100 North Tryon Street</P>
+<P>Charlotte, NC 28255</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>President, Consumer Products of BAC</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment</P>
+<P>Item 2.B.</FONT></TD>
+</TR>
+<TR><TD WIDTH="22%" VALIGN="TOP">
+<FONT SIZE=2><P>Richard M. DeMartini</P>
+<P>President, Asset Management</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>9 West 57<SUP>th</SUP> Street</P>
+<P>New York, NY 10019</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>President, Asset Management of BAC</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment</P>
+<P>Item 2.B.</FONT></TD>
+</TR>
+</TABLE>
+
+<B><FONT SIZE=2><P ALIGN="CENTER">Exhibit D</P>
+<P ALIGN="CENTER"></P>
+<U><P ALIGN="CENTER">BAC</P>
+</U><P ALIGN="CENTER">Name, Residence or Business Address, Present Principal Occupation, and Citizenship of Each Control Person</P>
+</B><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">&nbsp;</P>
+<P>Each Control Person is a citizen of the United States.</P>
+</FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=9 WIDTH=832>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER">Name and Position at BAC</B></FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER">Residence or Business Address</B></FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER">Present Principal Occupation In Addition To or Other Than Position at BAC</B></FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER">Principal Business and Address of Organization in which such Occupation is Conducted</P>
+<P ALIGN="CENTER"></B></FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>James H. Hance, Jr.</P>
+<P>Director, Vice Chairman of the Board and</P>
+<P>Chief Financial Officer</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>100 North Tryon Street</P>
+<P>Charlotte, NC 28255</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>Chairman of the Board and Director of CIVC; Director and Vice Chairman of the Board of B&nbsp;of&nbsp;A; Director and Vice Chairman of the Board of NB</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment Item 2.B.</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>John R. Belk</P>
+<P>Director</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>2801 W. Tyvola Road</P>
+<P>Charlotte, NC 28217</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>President, Finance, Systems and Operations of Belk, Inc.</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P>department store operator</P>
+
+<P>2801 W. Tyvola Road</P>
+<P>Charlotte, NC 28217</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Charles W. Coker</P>
+<P>Director</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>Post Office Box 160</P>
+<P>Hartsville, SC 29551-0160</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>Chairman of Sonoco Products Company</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P>packaging</P>
+
+<P>One N. Second Street</P>
+<P>Hartsville, SC 29550</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Frank Dowd, IV</P>
+<P>Director</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>2109 Randolph Road</P>
+<P>Charlotte, NC 28207</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>Chairman and Chief Executive Officer of Charlotte Pipe and Foundry Company</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P>cast iron and plastics</P>
+
+<P>P.O. Box 35430</P>
+<P>Charlotte, NC 35430</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Kathleen F. Feldstein</P>
+<P>Director</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>147 Clifton Street</P>
+<P>Belmont, MA 02478</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>President of Economic Studies, Inc.</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P>consulting</P>
+
+<P>147 Clifton Street</P>
+<P>Belmont, MA 02478</P>
+</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Paul Fulton</P>
+<P>Director</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>380 Knollwood Street,</P>
+<P>Suite 610</P>
+<P>Winston-Salem, NC 27103</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>Chairman of Bassett Furniture Industries, Inc.</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P>furniture</P>
+
+<P>3525 Fairystone Park Highway</P>
+<P>Bassett, VA 24055</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Donald E. Guinn</P>
+<P>Director</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>130 Keaerney Street,</P>
+<P>Suite 3200</P>
+<P>San Francisco, CA 94108-4887</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>Chairman Emeritus of Pacific Telesis Group</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P>telecommunications</P>
+
+<P>130 Keaerney Street,</P>
+<P>Suite 3200</P>
+<P>San Francisco, CA 94108-4887</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>C. Ray Holman</P>
+<P>Director</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>7733 Forsyth Boulevard</P>
+<P>Suite 1080</P>
+<P>St. Louis, MO 63105</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>Chairman of the Board of Mallinckrodt, Inc.</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P>medical products</P>
+
+<P>675 McDonnell Boulevard</P>
+<P>Hazelwood, MO 63042</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Walter E. Massey</P>
+<P>Director</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>Office of the President</P>
+<P>830 Westview Drive</P>
+<P>Atlanta, GA 30314</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>President of Morehouse College</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P>education</P>
+
+<P>Office of the President</P>
+<P>830 Westview Drive</P>
+<P>Atlanta, GA 30314</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>C. Steven McMillan</P>
+<P>Director</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>3 First National Plaza</P>
+<P>Chicago, IL 60602</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>President and Chief Executive Officer of Sara Lee Corporation</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P>consumer products</P>
+
+<P>3 First National Plaza</P>
+<P>Chicago, IL 60602</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Patricia E. Mitchell</P>
+<P>Director</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>1320 Braddock Place</P>
+<P>Alexandria, VA 22314</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>President and Chief Executive Officer of Public Broadcasting Service</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P>broadcasting</P>
+
+<P>1320 Braddock Place</P>
+<P>Alexandria, VA 22314</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>O. Temple Sloan</P>
+<P>Director</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>2635 Millbrook Road</P>
+<P>Raleigh, NC 27604</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>Chairman and Chief Executive Officer of General Parts, Inc.</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P>automotive parts and supplies</P>
+
+<P>2635 Millbrook Road</P>
+<P>Raleigh, NC 27604</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Meredith R. Spangler</P>
+<P>Director</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>668 Hempstead Place</P>
+<P>Charlotte, NC 28207-2320</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>Director of C.D. Spangler Construction Company</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P>construction</P>
+
+<P>1110 East Morehead Street</P>
+<P>Charlotte, NC 28204</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Ronald Townsend</P>
+<P>Director</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>Gannett Television</P>
+<P>c/o WTLV-TV12</P>
+<P>1070 East Adams Street</P>
+<P>Jacksonville, FL 32202</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>Communications consultants</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Jackie M. Ward</P>
+<P>Director</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>5775 Peachtree Dunwoody Road </P>
+<P>Building G, Fourth Floor</P>
+<P>Atlanta, GA 30342</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>Outside Managing Director of Intec Telecom Systems PLC</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P>OSS provider</P>
+
+<P>5775 Peachtree Dunwoody Road </P>
+<P>Building G, Fourth Floor</P>
+<P>Atlanta, GA 30342</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Virgil R. Williams</P>
+<P>Director</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>2076 West Park Place</P>
+<P>Stone Mountain, GA 30087</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>Chairman and Chief Executive Officer of Williams Group International, Inc.</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P>industrial outsourcing</P>
+
+<P>2076 West Park Place</P>
+<P>Stone Mountain, GA 30087</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Kenneth D. Lewis</P>
+<P>Director, Chairman, President and CEO</P>
+</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>100 North Tryon Street</P>
+<P>Charlotte, NC 28255</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>Director, Chairman, President and CEO of B&nbsp;of&nbsp;A; Director, Chairman, President and CEO of NB</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment </P>
+<P>Item 2.B.</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>F. William Vandiver, Jr.</P>
+<P>Corporate Risk Management Executive</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>100 North Tryon Street</P>
+<P>Charlotte, NC 28255</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>Director and Vice Chairman of B&nbsp;of&nbsp;A; Director and Chairman, Corporate Risk Policy of NB</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment </P>
+<P>Item 2.B.</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Edward J. Brown III</P>
+<P>President, Global Corporate and Investment Banking</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>555 California Street</P>
+<P>San Francisco, CA 94104-1503</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>Director and President, Global Corporate and  Investment Banking of B&nbsp;of&nbsp;A</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment </P>
+<P>Item 2.B.</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>R. Eugene Taylor</P>
+<P>President, Consumer and Commercial Banking</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>100 North Tryon Street</P>
+<P>Charlotte, NC 28255</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>Director and President, Consumer and Commercial Banking of B&nbsp;of&nbsp;A</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment </P>
+<P>Item 2.B.</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Richard M. DeMartini</P>
+<P>President, Asset Management</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>9 West 57<SUP>th</SUP> Street</P>
+<P>New York, NY 10019</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>President, Asset Management of B&nbsp;of&nbsp;A</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment </P>
+<P>Item 2.B.</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Amy Woods Brinkley</P>
+<P>President, Consumer Products</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>100 North Tryon Street</P>
+<P>Charlotte, NC 28255</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP">
+<FONT SIZE=2><P>Director and President, Consumer Products of B&nbsp;of&nbsp;A</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment </P>
+<P>Item 2.B.</FONT></TD>
+</TR>
+</TABLE>
+
+<B><FONT SIZE=2><P ALIGN="CENTER">Exhibit E</P>
+<P ALIGN="CENTER"></P>
+<U><P ALIGN="CENTER">CIVC Partners&nbsp;I</P>
+</U><P ALIGN="CENTER">Name, Residence or Business Address, Present Principal Occupation, and Citizenship of Each Control Person</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">&nbsp;</P>
+<P ALIGN="CENTER">&nbsp;</P>
+</B><P>Each Control Person is a citizen of the United States.</P>
+</FONT>
+<FONT SIZE=2><P>In the interest of a complete presentation, Filing Persons are included below and are indicated with an asterisk.</P>
+</FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=9 WIDTH=832>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER">Name and Position at CIVC Partners&nbsp;I</B></FONT></TD>
+<TD WIDTH="24%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER">Residence of Business Address</B></FONT></TD>
+<TD WIDTH="23%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER">Present Principal Occupation In Addition To or Other Than Position at CIVC&nbsp;I Partners</P>
+<P ALIGN="CENTER"></B></FONT></TD>
+<TD WIDTH="30%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER">Principal Business and Address of Organization in which such Occupation is Conducted</P>
+<P ALIGN="CENTER"></B></FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Daniel G. Helle*</P>
+<P>General Partner</FONT></TD>
+<TD WIDTH="24%" VALIGN="TOP">
+<FONT SIZE=2><P>231 South La Salle Street</P>
+<P>Chicago, IL 60697</FONT></TD>
+<TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Managing Director and Director of CIVC; Managing Director of </P>
+<P>B of A</FONT></TD>
+<TD WIDTH="30%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment </P>
+<P>Item 2.B.</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Christopher J. Perry*</P>
+<P>General Partner</P>
+</FONT></TD>
+<TD WIDTH="24%" VALIGN="TOP">
+<FONT SIZE=2><P>231 South La Salle Street</P>
+<P>Chicago, IL 60697</FONT></TD>
+<TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>President, Managing Director and Director of CIVC; Managing Director of B of A</FONT></TD>
+<TD WIDTH="30%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment </P>
+<P>Item 2.B.</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Sue C. Rushmore*</P>
+<P>General Partner</FONT></TD>
+<TD WIDTH="24%" VALIGN="TOP">
+<FONT SIZE=2><P>231 South La Salle Street</P>
+<P>Chicago, IL 60697</FONT></TD>
+<TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Managing Director of CIVC</FONT></TD>
+<TD WIDTH="30%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment </P>
+<P>Item 2.B.</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Thomas E. VanPelt, Jr.*</P>
+<P>General Partner</FONT></TD>
+<TD WIDTH="24%" VALIGN="TOP">
+<FONT SIZE=2><P>350 Talon Centre</P>
+<P>Detroit, MI  48207</FONT></TD>
+<TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Principal of Talon Group, LLC; Director of the Company</FONT></TD>
+<TD WIDTH="30%" VALIGN="TOP">
+<FONT SIZE=2><P>financing</P>
+
+<P>350 Talon Centre</P>
+<P>Detroit, MI  48207; see the text of Amendment Item 2.A.</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Marcus D. Wedner*</P>
+<P>General Partner</FONT></TD>
+<TD WIDTH="24%" VALIGN="TOP">
+<FONT SIZE=2><P>231 South La Salle Street</P>
+<P>Chicago, IL 60697</FONT></TD>
+<TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Managing Director and Director of CIVC; Director of the Company</FONT></TD>
+<TD WIDTH="30%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment </P>
+<P>Item 2.B; see the text of Amendment Item 2.A.</FONT></TD>
+</TR>
+</TABLE>
+
+<B><FONT SIZE=2><P ALIGN="CENTER">Exhibit F</P>
+<P ALIGN="CENTER"></P>
+<U><P ALIGN="CENTER">NB</P>
+</U><P ALIGN="CENTER">Name, Residence or Business Address, Present Principal Occupation, and Citizenship of Each Control Person</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">&nbsp;</P>
+</B><P>Each Control Person is a citizen of the United States.</P>
+</FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=9 WIDTH=832>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER">Name and Position at NB</B></FONT></TD>
+<TD WIDTH="24%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER">Residence or Business Address</B></FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER">Present Principal Occupation In Addition To or Other Than Position at NB</P>
+<P ALIGN="CENTER"></B></FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER">Principal Business and Address of Organization in which such Occupation is Conducted</P>
+<P ALIGN="CENTER"></B></FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>Kenneth D. Lewis</P>
+<P>Director, Chairman, President and CEO</FONT></TD>
+<TD WIDTH="24%" VALIGN="TOP">
+<FONT SIZE=2><P>100 North Tryon Street</P>
+<P>Charlotte, NC 28255</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>Director, Chairman, President and CEO of BAC; Director, Chairman, President and CEO of B&nbsp;of&nbsp;A</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment </P>
+<P>Item 2.B.</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>James H. Hance, Jr.</P>
+<P>Director and Vice Chairman of the Board</FONT></TD>
+<TD WIDTH="24%" VALIGN="TOP">
+<FONT SIZE=2><P>100 North Tryon Street</P>
+<P>Charlotte, NC 28255</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>Director, Vice Chairman of the Board and Chief Financial Officer of BAC; Director and Vice Chairman of the Board of B&nbsp;of&nbsp;A; Chairman of the Board and Director of CIVC</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment </P>
+<P>Item 2.B.</FONT></TD>
+</TR>
+<TR><TD WIDTH="23%" VALIGN="TOP">
+<FONT SIZE=2><P>F. William Vandiver, Jr.</P>
+<P>Director and Chairman, Corporate Risk Policy</FONT></TD>
+<TD WIDTH="24%" VALIGN="TOP">
+<FONT SIZE=2><P>100 North Tryon Street</P>
+<P>Charlotte, NC 28255</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<FONT SIZE=2><P>Corporate Risk Management Executive of BAC; Director and Vice Chairman of B&nbsp;of&nbsp;A</FONT></TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<FONT SIZE=2><P>See the text of Amendment </P>
+<P>Item 2.B.</FONT></TD>
+</TR>
+</TABLE>
+
+
+<B><FONT SIZE=2><P ALIGN="CENTER">Exhibit H</P>
+</B></FONT>
+<B><FONT SIZE=2><P ALIGN="CENTER">Form of Plan of Divestiture, dated August 3, 1995, by CIVC, CIVC Partners I, and the Company</P>
+</B><P>&nbsp;</P><DIR>
+<DIR>
+
+</FONT><P>&#9;<FONT SIZE=2>THIS PLAN OF DIVESTITURE is made as of August 3, 1995, by Teletouch Communications, Inc. (the &quot;Company&quot;), Continental Illinois Venture Corporation (&quot;CIVC&quot;) and CIVC Partners I.  CIVC is a federally-licensed
+small business investment company under the Small Business Investment Act of 1958, as amended (the &quot;Act&quot;), and is herein referred to as the &quot;SBIC.&quot;  The Company is a &quot;small concern&quot; and CIVC Partners I is an &quot;
+associate&quot; of CIVC as such terms are defined in the regulations under the Act (the &quot;SBA Regulations&quot;).  Capitalized terms not otherwise defined herein shall have the meanings ascribed to such terms in the Amended and Restated Subordinated
+Note, Preferred Stock and Warrant Purchase Agreement, dated as of the date hereof, among the Company, CIVC, CIVC Partners I and certain other parties.</P>
+<P>&#9;The SBIC and CIVC Partners I (the &quot;Investors&quot;) have participated in a financing of the Company and as a result have acquired the number and type of the Company's securities set forth opposite their respective names on <U>Exhibit A</U>
+attached hereto.  The Warrants are exercisable for Common Stock or Series B Preferred and the Series A Preferred and Series B Preferred are convertible into shares of the Common Stock.  The Common Stock is entitled to one vote per share on all matters
+presented to the Company's stockholders for a vote.  Thus, the Investors in the aggregate hold approximately <U>0</U>% of the voting power of the Company, and under Section 107.801 of the SBA Regulations, the Investors are presumed to be in control of the Company.</P>
+<P>&#9;Because the Company is a newly-acquired company, the Investors believe that assuming temporary control of the Company is necessary for the protection of their investment in the Company.  Consequently, the Investors and the Company desire to enter
+into this Agreement pursuant to Section 107.801 of the SBA Regulations.</P>
+<P>&#9;NOW, THEREFORE, in consideration of the premises and the mutual and dependent promises hereinafter set forth, the parties hereto agree as follows:</P></DIR>
+</DIR>
+
+<OL>
+<DIR>
+<DIR>
+
+<OL>
+
+<U><LI>Undertaking of the Investors</U>.  The Investors hereby undertake and represent that they shall, within the time period provided by Section 107.801 of the SBA Regulations (currently seven years), unless the Small Business Administration (the &quot;
+SBA&quot;) otherwise consents, reduce their percentage ownership of the Company's voting securities to a percentage at which the Investors when taken together shall no longer be presumed (under Section 107,801 of the SBA Regulations) to have control of
+the Company, by either (i) dilution through a public offering or private sale of additional shares of voting securities by the Company, (ii) disposition of their voting stock through public offerings or private sales to persons other than the Investors
+and their associates, (iii) redemptions of their voting securities by the Company, and/or (iv) exchanges or conversions of their voting securities for nonvoting securities of the Company or securities of the Company with less voting power.</LI>
+<U><LI>Approval by SBA</U>.  This Agreement shall be effective as of the date hereof but shall be subject to approval by the SBA as hereinafter provided and to renegotiation in the event the SBA at any time determines that renegotiation is appropriate.
+A fully executed copy of this Agreement shall be filed by the Company with the SBA within 30 days after the date hereof.  Following receipt of such executed copy of this Agreement, the SBA shall have, pursuant to Section 107.801 of the SBA Regulations, 90
+days within which to notify the Investors that the plan for divestiture of voting control of the Company provided herein has not been approved.  In the absence of such notice, the plan shall be deemed to have been approved by the SBA.</LI>
+<U><LI>Fairness and Reasonableness of Plan</U>.  The parties hereto agree that the plan for divestiture of voting control of the Company by the Investors as provided herein is fair and reasonable.</LI>
+<U><LI>Notices</U>.  All notices and other communications hereunder shall be in writing and shall be deemed to have been duly given if delivered or mailed, first class, postage prepaid to any party hereto at the address set forth opposite its name in <U>
+Exhibit B</U> attached hereto, or to such other person or such other address as the recipient party has specified by prior written notice to the sending party.</LI>
+<U><LI>Termination</U>.  Unless terminated earlier pursuant to the provisions hereof, this Agreement shall terminate on the date as of which the Investors cease to be deemed in control of the Company under Section 107.801 of the SBA Regulations as
+determined by the percentage of the Company's voting securities owned by the Investors.  Upon termination of this Agreement, the parties hereto shall have no further rights or obligations hereunder except as to matters arising prior to the date of such
+termination.</LI>
+<U><LI>Binding Agreement; Assignment</U>.  This Agreement, and the terms, covenants and conditions hereof, shall inure to the benefit of, and be binding upon, the parties hereto and their respective successors and assigns.</LI>
+<U><LI>Governing Law; Amendments</U>.  This Agreement shall be governed by the laws of Illinois, including matters of validity, construction, enforceability and performance.  All amendments or modifications hereto shall be in writing and signed by all of
+the parties hereto.</LI>
+<U><LI>Headings</U>.  Paragraph headings used herein are for convenience only and do not affect in any way the meaning and interpretation of this Agreement.</LI>
+<U><LI>Counterparts</U>.  This Agreement may be executed in any number of counterparts, any one of which need not contain the signatures of more than one party, but all of which taken together shall constitute one and the same instrument.</LI></OL>
+</DIR>
+</DIR>
+</OL>
+
+<P ALIGN="CENTER">* * * * * * * *  * * * * * * * * * </P>
+<P>&#9;IN WITNESS WHEREOF, the parties hereto have duly executed this Agreement as of the date first above written.</P>
+</FONT><DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+
+<FONT SIZE=2><P>TELETOUCH COMMUNICATIONS, INC.</P>
+
+<P>By  <U>/s/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</U>
+<P>Its <U>CEO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</U><P>&nbsp;</P>
+<P>CONTINENTAL ILLINOIS VENTURE<BR>
+ CORPORATION</P>
+<P>By  <U>/s/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</U><P>Its  <U>ManagingDirector&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</U><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>CIVC PARTNERS I</P>
+<P>By  <U>/s/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</U><P>Its  <U>Partner&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+
+</U><B><P ALIGN="CENTER">EXHIBIT A</P>
+</B></FONT>
+<P>&nbsp;</P></DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=9 WIDTH=1051>
+<TR><TD WIDTH="17%" VALIGN="TOP">
+<B><U><FONT SIZE=2><P ALIGN="CENTER"><BR>
+<BR>
+<BR>
+<BR>
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Investor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></U></FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER"><BR>
+<BR>
+<BR>
+<BR>
+Shares of<BR>
+<U>&nbsp;Series A &nbsp;Preferred&nbsp;</B></U></FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER"><BR>
+<BR>
+Shares of Common Stock Issuable Upon Conversion of <BR>
+<U>&nbsp;Series A &nbsp;Preferred&nbsp;</B></U></FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER"><BR>
+<BR>
+<BR>
+Warrants to Acquire Common Stock or <U>&nbsp;Series B Preferred&nbsp;</B></U></FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER">Shares of Common Stock Issuable Upon Conversion of Series B Preferred and Upon Exercise<BR>
+<U>&nbsp;&nbsp;of the&nbsp;Warrants&nbsp;&nbsp;</B></U></FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<B><FONT SIZE=2><P ALIGN="CENTER"><BR>
+<BR>
+<BR>
+Total Number of Shares of Common <U>&nbsp;&nbsp;&nbsp;Stock &nbsp;Available&nbsp;&nbsp;</B></U></FONT></TD>
+</TR>
+<TR><TD WIDTH="17%" VALIGN="TOP">
+<FONT SIZE=2><P>Continental Illinois Venture Corporation</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">11,818&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">3,376,571&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">6,908,814&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">6,908,814&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">10,285,385&nbsp;&nbsp;&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="17%" VALIGN="TOP">
+<FONT SIZE=2><P>CIVIC Partners I</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">  <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,313</U>&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;375,143</U>&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;767,647</U>&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;767,647</U>&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">&nbsp;1,142,790</U>&nbsp;&nbsp;&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="17%" VALIGN="TOP">
+<FONT SIZE=2><P>Total</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">13,131&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">3,751,714&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">7,676,461&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">7,676,461&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">11,428,175&nbsp;&nbsp;&nbsp;</FONT></TD>
+</TR>
+</TABLE>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+
+<B><FONT SIZE=2><P>EXHIBIT B</P>
+</B></DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+
+<U><P>ADDRESSES</P>
+</U><P>Teletouch Communications, Inc.</P>
+<P>1000 Louisiana Street</P>
+<P>Suite 600</P>
+<P>Houston, TX 77002</P>
+<P>Attn:  Chief Executive Officer</P>
+
+<P>Continental Illinois Venture Corporation</P>
+<P>231 S. LaSalle Street</P>
+<P>Chicago, IL 60697</P>
+<P>Attn:  Marcus Wedner</P>
+
+<P>CIVC Partners I</P>
+<P>c/o Continental Illinois Venture Corporation</P>
+<P>231 S. LaSalle Street</P>
+<P>Chicago, IL 60697</P>
+<P>Attn:  Marcus Wedner</P></FONT></BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

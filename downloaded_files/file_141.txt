@@ -1,0 +1,549 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Oz6i0zVISgRsMf2yKhsUVgRSNErxavaYUkWFNUuUnM5azf94W1i4w0moXROs3caZ
+ TehQaFQGROUzBJdh9yQS3g==
+
+<SEC-DOCUMENT>0000050863-98-000059.txt : 19980810
+<SEC-HEADER>0000050863-98-000059.hdr.sgml : 19980810
+ACCESSION NUMBER:		0000050863-98-000059
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19980807
+SROS:			NASD
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AVID TECHNOLOGY INC
+		CENTRAL INDEX KEY:			0000896841
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHOTOGRAPHIC EQUIPMENT & SUPPLIES [3861]
+		IRS NUMBER:				042977748
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		
+		SEC FILE NUMBER:	005-43239
+		FILM NUMBER:		98678863
+
+	BUSINESS ADDRESS:	
+		STREET 1:		METROPOLITAN TECHNOLOGY PARK
+		STREET 2:		ONE PARK WEST
+		CITY:			TEWKSBURY
+		STATE:			MA
+		ZIP:			01876
+		BUSINESS PHONE:		5086406789
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<TEXT>
+
+               SECURITIES AND EXCHANGE COMMISSION
+                     Washington, D.C. 20549
+                                
+                          SCHEDULE 13D
+                         (Amendment #1)
+                                
+            Under the Securities Exchange Act of 1934
+                                
+                      AVID TECHNOLOGY, INC.
+                        (Name of Issuer)
+                                
+                          Common Stock
+                 (Title of Class of Securities)
+                                
+                            05367P100
+                         (CUSIP Number)
+                                
+                      F. Thomas Dunlap, Jr.
+          Vice President, General Counsel and Secretary
+                        Intel Corporation
+                 2200 Mission College Boulevard
+                      Santa Clara, CA 95052
+                    Telephone: (408) 765-8080
+          (Name, Address and Telephone Number of Person
+        Authorized to Receive Notices and Communications)
+                                
+                         August 4, 1997
+                  (Date of Event which Requires
+                    Filing of this Statement)
+                                
+If the filing person has previously filed a statement on Schedule
+13G  to  report  the  acquisition which is the  subject  of  this
+Schedule  13D, and is filing this schedule because of Rule  13d-1
+(b)(3) or (4), check the following box [  ].
+
+The  information  required on the remainder of  this  cover  page
+shall  not be deemed to be "filed" for the purpose of Section  18
+of  the  Securities  Exchange Act of 1934  ("Act")  or  otherwise
+subject  to the liabilities of that section of the Act but  shall
+be subject to all other provisions of the Act.
+
+                          Page 1 of 10
+                                
+<PAGE>
+
+                          Schedule 13D         Page 2 of 10 Pages
+
+
+1.   NAME OF REPORTING PERSON                      Intel
+                                                   Corporation
+     S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE    94-1672743
+     PERSON
+                                                   
+2.   CHECK THE APPROPRIATE BOX IF A MEMBER OF A        (a) [   ]
+     GROUP                                             (b) [   ]
+                                                   
+3.   SEC USE ONLY                                  
+                                                   
+4.   SOURCE OF FUNDS                               WC
+                                                   
+5.   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS          [   ]
+     IS REQUIRED PURSUANT TO ITEM 2(d) OR 2(e)
+                                                   
+6.   CITIZENSHIP OR PLACE OF ORGANIZATION          Delaware
+                                                   
+  NUMBER OF   7.     SOLE VOTING POWER             1,002,632
+   SHARES                                          
+BENEFICIALLY  8.     SHARED VOTING POWER           N/A
+  OWNED BY                                         
+    EACH      9.     SOLE DISPOSITIVE POWER        1,002,632
+  REPORTING                                        
+ PERSON WITH  10.    SHARED DISPOSITIVE POWER      N/A
+                                                   
+11.  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH   1,002,632
+     REPORTING PERSON
+                                                   
+12.  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11)          [   ]
+     EXCLUDES CERTAIN SHARES
+                                                   
+13.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW           4.1%
+     (11)
+                                                   
+14.  TYPE OF REPORTING PERSON                                  CO
+
+<PAGE>
+                          Schedule 13D         Page 3 of 10 Pages
+
+Item 2.   Identity and Background.
+                 
+          (a)    Name of Person Filing:    Intel Corporation
+                 
+                                           The executive
+                                           officers and
+                                           directors of Intel
+                                           Corporation are set
+                                           forth on Appendix A
+                                           hereto.
+                                           
+          (b)    State of Incorporation:   Delaware
+                                           
+          (c)    Principal Business:       Manufacturer of
+                                           microcomputer
+                                           components, modules
+                                           and systems
+                 
+          (d)    Address of Principal Business and Principal
+                 Office:
+                 
+                 2200 Mission College Boulevard
+                 Santa Clara, CA 95052-8119
+                 
+          (e)    Criminal Proceedings:
+                 
+                 During the last five years neither the
+                 Reporting Person nor any officer or director of
+                 the Reporting Person has been convicted in any
+                 criminal proceeding.
+                 
+          (f)    Civil Proceedings:
+                 
+                 During the last five years neither the
+                 Reporting Person nor any officer or director of
+                 the Reporting Person has been party to any
+                 civil proceeding of a judicial or
+                 administrative body of competent jurisdiction
+                 as a result of which such person would have
+                 been subject to any judgment, decree or final
+                 order enjoining future violations of or
+                 prohibiting or mandating activities subject to
+                 Federal or State securities laws or finding any
+                 violation with respect to such laws.
+                 
+Item 4.   Purpose of the Transaction.
+          
+          On August 4, 1998, the Reporting Person sold 500,000
+          shares of Avid Technology, Inc. ("Avid") Common Stock
+          to Avid for a sales price of $33.00 per share.  The
+          Reporting Person will, from time to time, evaluate
+          market opportunities for further sale of its shares
+          and may sell all or a portion of its shares in one or
+          more sales pursuant to public or private offerings.
+          
+
+<PAGE>
+                          Schedule 13D         Page 4 of 10 Pages
+
+          On August 6, 1998, the Reporting Person sold 50,000
+          shares of Avid Common Stock in an open market
+          transaction for a sales price of $34.50 per share.
+          
+Item 5.   Interests in Securities of the Issuer.
+                 
+          (a)    Number of Shares        
+                 Beneficially Owned:     1,002,632 shares
+                                         
+                 Percent of Class:       4.1% (based upon
+                                         25,682,130 shares of
+                                         common stock
+                                         outstanding)
+
+          (b)    Sole Power to Vote,     
+                 Direct the Vote of, or  1,002,632 shares
+                 Dispose of Shares:
+                                         
+                 Shared Power to Vote,   
+                 Direct the Vote of, or  None
+                 Dispose of Shares:
+                 
+          (c)    Recent Transactions:
+                 
+                 On August 4, 1997, the Reporting Person sold
+                 500,000 shares of Common Stock of Avid to Avid
+                 at a price per share of $33.00.
+                 
+                 On August 6, 1998, the Reporting Person sold
+                 50,000 shares of Avid Common Stock in an open
+                 market transaction for a sales price of $34.50
+                 per share.
+                 
+          (d)    Rights with Respect to Dividends or     N/A
+                 Sales Proceeds:
+                                                         
+          (e)    Date of Cessation of Five Percent       August
+                 Beneficial Ownership:                   4, 1998
+                 
+
+<PAGE>
+                          Schedule 13D         Page 5 of 10 Pages
+
+                            SIGNATURE
+                                
+After  reasonable  inquiry and to the best of  my  knowledge  and
+belief,  I  certify  that  the  information  set  forth  in  this
+statement is true, complete and correct.
+
+Dated as of August 6,     
+1998.
+                          
+                          INTEL CORPORATION
+                          
+                          By: /s/LESLIE L. VADASZ
+                              Leslie L. Vadasz
+                              Sr. Vice President, Director
+                              Corporate Business Development
+
+
+
+
+<PAGE>
+                          Schedule 13D         Page 6 of 10 Pages
+
+                           APPENDIX A
+                                
+                            DIRECTORS
+                                
+The following is a list of all Directors of Intel Corporation and
+certain other information with respect to each Director:
+
+Name:             Craig R. Barrett
+                  
+Business          2200 Mission College Boulevard, Santa Clara,
+Address:          CA 95052
+                  
+Principal         President and Chief Executive Officer of Intel
+Occupation:       Corporation
+                  
+Name, principal   Intel Corporation, a manufacturer of
+business and      microcomputer components, modules and systems.
+address of        2200 Mission College Boulevard
+corporation or    Santa Clara, CA 95052
+other
+organization in
+which employment
+is conducted:
+                  
+                  
+Name:             John Browne
+                  
+Business          The British Petroleum Company plc, Britannic
+Address:          House, 1 Finsbury Circus, London EC2M 7BA
+                  
+Principal         Group Chief Executive
+Occupation:
+                  
+Name, principal   The British Petroleum Company plc, an
+business and      integrated oil company.
+address of        Britannic House, 1 Finsbury Circus
+corporation or    London EC2M 7BA
+other
+organization in
+which employment
+is conducted:
+                  
+Citizenship:      British
+                  
+                  
+
+<PAGE>
+                          Schedule 13D         Page 7 of 10 Pages
+
+Name:             Winston H. Chen
+                  
+Business          Paramitas Foundation, 3945 Freedom Circle,
+Address:          Suite 760, Santa Clara, CA 95054
+                  
+Principal         Chairman of Paramitas Foundation
+Occupation:
+                  
+Name, principal   Paramitas Foundation, a charitable foundation.
+business and      3945 Freedom Circle, Suite 760
+address of        Santa Clara, CA 95054
+corporation or
+other
+organization in
+which employment
+is conducted:
+                  
+                  
+Name:             Andrew S. Grove
+                  
+Business          2200 Mission College Boulevard, Santa Clara,
+Address:          CA 95052
+                  
+Principal         Chairman of the Board of Directors of Intel
+Occupation:       Corporation
+                  
+Name, principal   Intel Corporation, a manufacturer of
+business and      microcomputer components, modules and systems.
+address of        2200 Mission College Boulevard
+corporation or    Santa Clara, CA 95052
+other
+organization in
+which employment
+is conducted:
+                  
+                  
+Name:             D. James Guzy
+                  
+Business          1340 Arbor Road, Menlo Park, CA 94025
+Address:
+                  
+Principal         Chairman of The Arbor Company
+Occupation:
+                  
+Name, principal   The Arbor Company, a limited partnership
+business and      engaged in the electronics and computer
+address of        industry.
+corporation or    1340 Arbor Road
+other             Menlo Park, CA 94025
+organization in
+which employment
+is conducted:
+                  
+
+<PAGE>
+                          Schedule 13D         Page 8 of 10 Pages
+
+Name:             Gordon E. Moore
+                  
+Business          2200 Mission College Boulevard, Santa Clara,
+Address:          CA 95052
+                  
+Principal         Chairman Emeritus of the Board of Intel
+Occupation:       Corporation
+                  
+Name, principal   Intel Corporation, a manufacturer of
+business and      microcomputer components, modules and systems.
+address of        2200 Mission College Boulevard
+corporation or    Santa Clara, CA 95052
+other
+organization in
+which employment
+is conducted:
+                  
+                  
+Name:             Arthur Rock
+                  
+Business          One Maritime Plaza, Suite 1220, San Francisco,
+Address:          CA 94111
+                  
+Principal         Venture Capitalist
+Occupation:
+                  
+Name, principal   Arthur Rock and Company, a venture capital
+business and      firm.
+address of        One Maritime Plaza, Suite 1220
+corporation or    San Francisco, CA 94111
+other
+organization in
+which employment
+is conducted:
+
+
+Name:             Jane E. Shaw
+                  
+Business          1310 Orleans Drive, Sunnyvale, CA 94089
+Address:
+                  
+Principal         Chairman and Chief Executive Officer
+Occupation:
+                  
+Name, principal   AeroGen, Inc., a private company specializing
+business and      in controlled delivery of drugs to the lungs
+address of        1310 Orleans Drive
+corporation or    Sunnyvale, CA 94089
+other
+organization in
+which employment
+is conducted:
+                  
+
+<PAGE>
+                          Schedule 13D         Page 9 of 10 Pages
+
+Name:             Leslie L. Vadasz
+                  
+Business          2200 Mission College Boulevard, Santa Clara,
+Address:          CA 95052
+                  
+Principal         Senior Vice President, Director, Corporate
+Occupation:       Business Development, Intel Corporation
+                  
+Name, principal   Intel Corporation, a manufacturer of
+business and      microcomputer components, modules and systems.
+address of        2200 Mission College Boulevard
+corporation or    Santa Clara, CA 95052
+other
+organization in
+which employment
+is conducted:
+                  
+                  
+Name:             David B. Yoffie
+                  
+Business          Harvard Business School, Morgan Hall 247,
+Address:          Soldiers Field Road, Boston, MA 92163
+                  
+Principal         Max and Doris Starr Professor of International
+Occupation:       Business Administration
+                  
+Name, principal   Harvard Business School, an educational
+business and      institution.
+address of        Harvard Business School
+corporation or    Morgan Hall 247, Soldiers Field Road
+other             Boston, MA 92163
+organization in
+which employment
+is conducted:
+                  
+                  
+Name:             Charles E. Young
+                  
+Business          10920 Wilshire Boulevard, Los Angeles, CA
+Address:          90024
+                  
+Principal         Chancellor Emeritus
+Occupation:
+                  
+Name, principal   University of California at Los Angeles, an
+business and      educational institution.
+address of        10920 Wilshire Boulevard
+corporation or    Los Angeles, CA 90024
+other
+organization in
+which employment
+is conducted:
+
+<PAGE>
+                          Schedule 13D        Page 10 of 10 Pages
+
+                       EXECUTIVE OFFICERS
+                                
+The  following  is  a  list of all executive  officers  of  Intel
+Corporation excluding executive officers who are also  directors.
+Unless  otherwise indicated, each officer's business  address  is
+2200  Mission  College Boulevard, Santa Clara, California  95052-
+8119, which address is Intel Corporation's business address.
+
+Name:       Paul S. Otellini
+Title:      Executive Vice President, Director, Intel
+            Architecture Business Group
+            
+Name:       Gerhard H. Parker
+Title:      Executive Vice President, General Manager, New
+            Business Group
+            
+Name:       Albert Y. C. Yu
+Title:      Senior Vice President, General Manager,
+            Microprocessor Products Group
+            
+Name:       Andy D. Bryant
+Title:      Vice President and Chief Financial Officer
+            
+Name:       F. Thomas Dunlap, Jr.
+Title:      Vice President, General Counsel and Secretary
+            
+Name:       Sean M. Maloney
+Title:      Vice President, Director, Sales and Marketing Group
+            
+Name:       Arvind Sodhani
+Title:      Vice President, Treasurer
+            
+Name:       Michael R. Splinter
+Title:      Vice President, General Manager, Technology and
+            Manufacturing Group
+            
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

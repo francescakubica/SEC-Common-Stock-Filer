@@ -1,0 +1,455 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Ssa6lh1N1UeCtIhT5DvEKODSyocA+6+Fw62IKWBzFEeKUmUdS8wxIWUJ7BAZWs2s
+ Z5+bY+TSEIQYsSGPd89H4A==
+
+<SEC-DOCUMENT>0000947871-96-000024.txt : 19960327
+<SEC-HEADER>0000947871-96-000024.hdr.sgml : 19960327
+ACCESSION NUMBER:		0000947871-96-000024
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19960326
+SROS:			NYSE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ROYAL AHOLD
+		CENTRAL INDEX KEY:			0000869425
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-FOOD STORES [5400]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-45673
+		FILM NUMBER:		96538614
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ALBERT HEIJNWEG 1
+		STREET 2:		P O BOX 33
+		CITY:			1500 EA ZAANDAM THE
+		STATE:			P7
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALGEMEEN BURGERLIJK PENSIOENFONDS
+		CENTRAL INDEX KEY:			0000918509
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		OUDE LINDESTRAAT 70
+		STREET 2:		POSTBUS 6401
+		CITY:			DL HEERLEN
+		BUSINESS PHONE:		011-31-45-798022
+
+	MAIL ADDRESS:	
+		STREET 1:		SHERMAN & STERLING
+		STREET 2:		599 LEXINGTON AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                             ----------------------
+
+
+                                  SCHEDULE 13D
+
+                    Under the Securities Exchange Act of 1934
+
+
+                              KONINKLIJKE AHOLD NV
+               --------------------------------------------------
+                  (Name of issuer as specified in its Charter)
+
+
+                                 ROYAL AHOLD NV
+               --------------------------------------------------
+                   (Translation of issuer's name into English)
+
+
+                   Common Stock, Par Value NLG 1.25 Per Share
+                    represented by American Depositary Shares
+               --------------------------------------------------
+                         (Title of class of securities)
+
+
+                                   000NO137M1
+               --------------------------------------------------
+                                 (CUSIP Number)
+
+                             Cornelius J. Dwyer, Jr.
+                               Shearman & Sterling
+                              599 Lexington Avenue
+                            New York, New York 10022
+                            Telephone: (212) 848-7019
+               --------------------------------------------------
+
+                  (Name, address and telephone number of person
+                authorized to receive notices and communications)
+
+                                February 20, 1996
+               --------------------------------------------------
+             (Date of event which requires filing of this statement)
+
+
+If the filing person has previously  filed a statement on Schedule 13G to report
+the  acquisition  which is the subject of this  Schedule 13D, and is filing this
+statement because of Rule 13d-1(b)(3) or (4), check the following |_|.
+
+Check the following box if a fee is being paid with the statement |X|. (A fee is
+not required only if the reporting person:  (1) has a previous statement on file
+reporting  beneficial  ownership  of more  than  five  percent  of the  class of
+securities  described  in Item 1;  and (2) has  filed  no  amendment  subsequent
+thereto reporting  beneficial  ownership of five percent or less of such class.)
+(See Rule 13d-7.)
+
+Note: Six copies of this statement, including all exhibits, should be filed with
+the  Commission.  See Rule  13d-1(a) for other  parties to whom copies are to be
+sent.
+
+*The  remainder of this cover page shall be filled out for a reporting  person's
+initial filing on this form with respect to the subject class of securities, and
+for  any  subsequent   amendment   containing   information  which  would  alter
+disclosures provided in a prior cover page.
+
+                              (Page 1 of 7 Pages)
+
+<PAGE>
+                                                                    SCHEDULE 13D
+
+- --------------------                                          ------------------
+CUSIP No. 000NO137M1                                          Page 2 of 11 Pages
+- --------------------                                          ------------------
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the  Securities  Exchange  Act of
+1934 ("Act") or otherwise  subject to the liabilities of that section of the Act
+but  shall be  subject  to all other  provisions  of the Act  (however,  see the
+Notes).
+                         (Continued on following pages)
+                            Exhibit Index on Page 10
+- --------------------------------------------------------------------------------
+    1       NAME OF REPORTING PERSON
+
+            Stichting Pensioenfonds ABP
+
+            S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+- --------------------------------------------------------------------------------
+    2       CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+
+                                                                      (a) |_|
+                                                                      
+                                                                      (b) |_|
+                                                               
+- --------------------------------------------------------------------------------
+    3       SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+    4       SOURCE OF FUNDS*   00
+
+- --------------------------------------------------------------------------------
+    5       CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+            PURSUANT TO ITEMS 2(d) or 2(e)                             |_|
+
+- --------------------------------------------------------------------------------
+    6       CITIZENSHIP OR PLACE OF ORGANIZATION     
+                         The Kingdom of the Netherlands
+
+- --------------------------------------------------------------------------------
+          NUMBER OF                7     SOLE VOTING POWER          6,780,465
+           SHARES             --------------------------------------------------
+        BENEFICIALLY               8     SHARED VOTING POWER        --
+          OWNED BY            --------------------------------------------------
+            EACH                   9     SOLE DISPOSITIVE POWER     6,780,465
+          REPORTING           --------------------------------------------------
+           PERSON                 10     SHARED DISPOSITIVE POWER   --
+            WITH              
+- --------------------------------------------------------------------------------
+   11       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+                     6,780,465
+- --------------------------------------------------------------------------------
+   12       CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+            CERTAIN SHARES*                                            |_|
+- --------------------------------------------------------------------------------
+   13       PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)       5.5%
+
+- --------------------------------------------------------------------------------
+   14       TYPE OF REPORTING PERSON*                               EP
+
+- --------------------------------------------------------------------------------
+
+                              (Page 2 of 7 Pages)
+<PAGE>
+
+
+
+
+Item 1.   Security and Issuer.
+
+                  This statement relates to the Common Stock, par value NLG 1.25
+per share (the "Common Stock"), of Royal Ahold NV (the "Issuer").  The Issuer is
+incorporated in the Kingdom of the  Netherlands and has its principal  executive
+offices located at Albert Heijnweg 1, 1507 EH Zaandam, The Netherlands.
+
+Item 2.   Identity and Background.
+
+                  This  statement  is filed by Stichting  Pensioenfonds  ABP, an
+entity  established  under  the  laws of The  Kingdom  of the  Netherlands  (the
+"Fund"),  whose  principal  business is investing funds held on behalf of public
+sector  employees of The Kingdom of the  Netherlands.  The address of the Fund's
+principal  executive  office  is Oude  Lindestraat  70;  postbus  2889,  6401 DL
+Heerlen,  The  Netherlands.  The name,  principal  occupation,  citizenship  and
+business address of each director and of each executive  officer of the Fund are
+as follows:
+<TABLE>
+<CAPTION>
+
+                              PRINCIPAL
+NAME                          OCCUPATION                   CITIZENSHIP               BUSINESS ADDRESS
+- ----                          ----------                   -----------               ----------------
+
+<S>                           <C>                          <C>                       <C>    
+J. Kleiterp                   Executive Chairman           The Netherlands           Bestuur Abp
+                              of the Board of                                        P.O. Box 30909
+                              Trustees of the Fund                                   2500 GX 's-GRAVENHAGE
+                                                              
+H.J. Albersen                 Trustee of the Fund          The Netherlands           CMHF
+                                                                                     P.O. box 80204
+                                                                                     2508 AM 's-GRAVENHAGE
+
+E.J. Anneveld                 Trustee of the Fund          The Netherlands           C.F.O.
+                                                                                     P.O. box 84501
+                                                                                     2508 AM 's-GRAVENHAGE
+
+W. Drees                      Trustee of the Fund          The Netherlands           Wieringenmeen 36
+                                                                                     3844 NA HARDERWIJK
+
+P.H. Holthuis                 Trustee of the Fund          The Netherlands           Ministerie van O&W/ BR/DG
+                                                                                     P.O. box 25000
+                                                                                     2700 LZ ZOETERMEER
+
+L. Koopmans                   Trustee of the Fund          The Netherlands           Lange Voorhout 86, app. 24
+                                                                                     2514 EJ DEN HAAG
+
+R. van Leeuwen                Trustee of the Fund          The Netherlands           ABOP
+                                                                                     Herengracht 54
+                                                                                     1015 BN AMSTERDAM
+
+                              (Page 3 of 7 Pages)
+
+<PAGE>
+
+
+
+
+
+C.L.J. V. Overbeek            Trustee of the Fund          The Netherlands           Katholieke Onderwijs
+                                                                                     Vakorganisatie
+                                                                                     Verrijn Stuartlaan 36
+                                                                                     2280 EL RIJSWIJK
+
+A.C. van Pelt                 Trustee of the Fund          The Netherlands           Ned. Gennootschap van
+                                                                                     Leraren
+                                                                                     P.O. box 407
+                                                                                     3300 AK DORDRECHT
+
+D.M. Sluimers                 Trustee of the Fund          The Netherlands           Ministerie van Financien
+                                                                                     Casuariestraat 32
+                                                                                     2511 VB 's-GRAVENHAGE
+
+A.F.P.M. Scherf               Trustee of the Fund          The Netherlands           Icaruslaan 20
+                                                                                     5631 LD EINDHOVEN
+
+X.J. den Uyl                  First Deputy Chairman        The Netherlands           Linnaeuslaan 14
+                              of the Fund                                            2012 PP HAARLEM
+
+J.W.E. Neervens               Executive Chairman of        The Netherlands           ABP
+                              the Board of Directors                                 Oude Lindestraat 70
+                              of the Fund                                            6411 EJ HEERLEN
+
+P.J. Bezemer                  Member of the Board of       The Netherlands           ABP
+                              Directors of the Fund                                  Oude Lindestraat 70
+                                                                                     6411 EJ HEERLEN
+
+J.M.G. Frijns                 Member of the Board          The Netherlands           ABP
+                              of Directors of the Fund                               Oude Lindestraat 70
+                                                                                     6411 EJ HEERLEN
+
+
+</TABLE>
+
+
+                   During the last five  years,  neither the Fund nor any of its
+executive officers or directors has been (i) convicted in a criminal  proceeding
+(excluding  traffic  violations  or similar  misdemeanors)  or (ii) a party to a
+civil proceeding of a judicial or administrative body of competent  jurisdiction
+and as a result of such  proceeding  was or is subject to a judgment,  decree or
+final  order  enjoining  future  violations  of,  or  prohibiting  or  mandating
+activities subject to, United States federal or state securities laws or finding
+any violation with respect to such laws.
+
+
+Item 3.   Source and Amount of Funds or Other Consideration.
+
+                              (Page 4 of 7 Pages)
+
+<PAGE>
+
+                   On February 20, 1996, the Fund acquired  1,850,001  shares of
+Common Stock for a purchase price of NLG 64.30 per share,  raising the number of
+shares  of  Common   Stock   beneficially   owned  by  the  Fund  to   6,727,314
+(approximately  5.42%  of  the  aggregate  number  of  shares  outstanding)  and
+requiring  the Fund to file this  statement on Schedule 13D. From February 23 to
+March 1, 1996, the Fund acquired an additional 53,151 shares of Common Stock, as
+described in more detail in Item 5 below, raising the number of shares of Common
+Stock  beneficially owned by the Fund to 6,780,465  (approximately  5.46% of the
+aggregate number of shares outstanding).
+
+                  The funds for the  foregoing  purchase of shares of the Common
+Stock  by  the  Fund  were  supplied   from  Dutch  public  sector   pensioners'
+contributions to the Fund.
+
+
+Item 4.   Purpose of Transaction.
+
+                  The Fund has  acquired  the  Common  Stock for the  purpose of
+making  an  investment  in the  Issuer  and not with the  present  intention  of
+acquiring control of the Issuer's business.
+
+                  The Fund from time to time intends to review its investment in
+the Issuer on the basis of various  factors,  including  the Issuer's  business,
+financial condition,  results of operations and prospects,  general economic and
+industry  conditions,  the  securities  markets  in  general  and  those for the
+Issuer's  securities  in  particular,  as well as other  developments  and other
+investment opportunities.  Based on such review, the Fund will take such actions
+in the  future as the Fund may deem  appropriate  in light of the  circumstances
+existing from time to time. If the Fund believes that further  investment in the
+Issuer is  attractive,  whether  because  of the  market  price of the  Issuer's
+securities  or  otherwise,  it may  acquire  shares  of  Common  Stock  or other
+securities  of the Issuer  either in the open market or in privately  negotiated
+transactions.  Similarly,  depending on market and other  factors,  the Fund may
+determine to dispose of some or all of the Common Stock  currently  owned by the
+Fund or otherwise acquired by the Fund either in the open market or in privately
+negotiated transactions.
+
+                   Except as set forth above,  the Fund has not  formulated  any
+plans or proposals which relate to or would result in: (a) the acquisiton by any
+person of additional  securities of the Issuer or the  disposition of securities
+of the Issuer, (b) an extraordinary  corporate  transaction involving the Issuer
+or any of its  subsidiaries,  (c) a sale or transfer of a material amount of the
+assets of the Issuer or any of its  subsidiaries,  (d) any change in the present
+board of directors or  managment of the Issuer,  (e) any material  change in the
+Issuer's capitalization or dividend policy, (f) any other material change in the
+Issuer's business or corporate structure, (g) any change in the Issuer's charter
+or bylaws or other  instrument  corresponding  thereto or other action which may
+impede the  acquisiton  of control of the Issuer by any  person,  (h)  causing a
+class of the Issuer's securities to be deregistered or delisted,  (i) a class of
+equity   securities  of  the  Issuer   becoming   eligible  for  termination  of
+registration or (j) any action similar to any of those enumerated above.
+
+                              (Page 5 of 7 Pages)
+<PAGE>
+
+Item 5.  Interest in Securities of the Issuer.
+
+                   (a)-(b) As of the date hereof, the Fund beneficially owns and
+has the sole power to vote and  dispose  of  6,780,465  shares of Common  Stock.
+Based on the Official  Pricing Gazette issued by the Amsterdam Stock Exchange on
+February 2, 1996, such shares constitute  approximately  5.5% of the outstanding
+shares of Common Stock.  To the knowledge of the Fund, no shares of Common Stock
+are beneficially  owned by any director or executive officer listed under Item 2
+above.
+
+                  (c) The Fund has effected the following open market  purchases
+of the Common Stock during the past 60 days:
+
+           DATE OF                    NUMBER OF                  PRICE
+          PURCHASE                 SHARES PURCHASED            PER SHARE
+          --------                 ----------------            ---------
+      December 1, 1995                  10,474                 NLG. 63.76
+      December 11, 1995                 12,298                 NLG. 64.63
+       January 3, 1996                  40,386                 NLG. 69.16
+      February 20, 1996             1, 850,001                 NLG. 64.30
+      February 23, 1996                 22,977                 NLG. 69.93
+        March 1, 1996                   30,174                 NLG. 69.12
+                                                      
+
+
+                  (d) To the  knowledge  of the Fund,  no other  person  has the
+right to receive or the power to direct the receipt of  dividends  from,  or the
+proceeds from the sale of, any shares of Common Stock  beneficially owned by the
+Fund.
+
+                  (e)      Not applicable.
+
+
+Item 6.   Contracts,  Arrangements,  Understandings  or  Relationships  with
+          Respect to Securities of the Issuer.
+
+                  Neither  the  Fund  nor  any  of  its  executive  officers  or
+directors has any contracts, arrangements or understandings with any person with
+respect to any securities of the Issuer.
+
+
+Item 7.  Material to Be Filed as Exhibits.
+
+                  None.
+
+                              (Page 6 of 7 Pages)
+<PAGE>
+
+
+
+                                    Signature
+                                    ---------
+
+
+                  After due inquiry and to the best of my knowledge  and belief,
+I certify that the information set forth in this statement is true, complete and
+correct.
+
+Dated:  March 26, 1996                  STICHTING PENSIOENFONDS ABP
+
+
+
+
+                                       By s/s Jay Mensonides
+                                          -----------------    
+                                          Name: Jay Mensonides
+                                          Title: Managing Director
+                                                 Equity Investments
+
+
+                                       By s/s P.A.W.M. Spijkers
+                                          ---------------------    
+                                          Name: P.A.W.M. Spijkers
+                                          Title: Managing Director
+                                                 Fixed Income Investments
+
+
+
+                             (Page 7 of 7 Pages)
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

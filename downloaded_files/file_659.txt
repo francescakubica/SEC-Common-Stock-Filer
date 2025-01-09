@@ -1,0 +1,717 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Lubue5aTElIl6EDm/g+4E3tDDmFbHl3yvY+8hdBQWfYjywVb2tbrTzkZZYyF7xTK
+ 8MJ+e7UFSA4vGxp37v8HUQ==
+
+<SEC-DOCUMENT>0000938775-97-000007.txt : 19970602
+<SEC-HEADER>0000938775-97-000007.hdr.sgml : 19970602
+ACCESSION NUMBER:		0000938775-97-000007
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970530
+SROS:			AMEX
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PERINI CORP
+		CENTRAL INDEX KEY:			0000077543
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL BUILDING CONTRACTORS - NONRESIDENTIAL BUILDINGS [1540]
+		IRS NUMBER:				041717070
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-08309
+		FILM NUMBER:		97616432
+
+	BUSINESS ADDRESS:	
+		STREET 1:		73 MT WAYTE AVE
+		CITY:			FRAMINGHAM
+		STATE:			MA
+		ZIP:			01701
+		BUSINESS PHONE:		5086282000
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BLUM RICHARD C & ASSOCIATES L P
+		CENTRAL INDEX KEY:			0000938775
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		IRS NUMBER:				943205364
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		909 MONTGOMERY STREET # 400
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94133
+
+	MAIL ADDRESS:	
+		STREET 1:		909 MONTGOMERY STREET
+		STREET 2:		SUITE 400
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94133
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<TEXT>
+
+                                UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C. 20549
+
+                                 SCHEDULE 13D
+
+                   Under the Securities Exchange Act of 1934
+                               (Amendment No. 2)*
+
+                               PERINI CORPORATION
+                                (Name of Issuer)
+
+                                Common Stock and
+                Series B Cumulative Convertible Preferred Stock
+                         (Title of Class of Securities)
+
+                                 713-839108
+                               (CUSIP Number)
+
+                               Murray A. Indick
+                      Richard C. Blum & Associates, L.P.
+                       909 Montgomery Street, Suite 400
+                           San Francisco, CA 94133
+                                (415) 434-1111
+                 (Name, Address and Telephone Number of Person
+                Authorized to Receive Notices and Communications)
+
+                                  April 9, 1997
+             (Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to 
+report the acquisition which is the subject of this Schedule 13D, and is 
+filing this schedule because of Rule 13d-1(b)(3) or (4), check the following 
+box [ ].
+
+NOTE:  Six copies of this statement, including all exhibits, should be filed 
+with the Commission.  See Rule 13d-1(a) for other parties to whom copies are 
+to be sent.
+
+*The remainder of this cover page shall be filled out for a reporting person's 
+initial filing on this form with respect to the subject class of securities, 
+and for any subsequent amendment containing information which would alter 
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be 
+deemed to be "filed" for the purpose of Section 18 of the Securities Exchange 
+Act of 1934 ("Act") or otherwise subject to the liabilities of that section of 
+the Act but shall be subject to all other provisions of the Act (however, see 
+the Notes).
+
+                                 Page 1 of 12
+
+
+CUSIP NO. 713-839108            SCHEDULE 13D                      Page 2 of 12
+
+- ------------------------------------------------------------------------------
+ 1.  NAME OF REPORTING PERSON                        PB CAPITAL PARTNERS, L.P.
+
+     S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON              94-3248865
+- ------------------------------------------------------------------------------
+2.   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*               (a) [x]**
+                                                                     (b) [x]**
+- ------------------------------------------------------------------------------
+ 3.  SEC USE ONLY
+
+- ------------------------------------------------------------------------------
+ 4.  SOURCE OF FUNDS*                                                       WC
+
+- ------------------------------------------------------------------------------
+ 5.  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+     PURSUANT TO ITEMS 2(d) or 2(e)                                        [ ]
+- ------------------------------------------------------------------------------
+ 6.  CITIZENSHIP OR PLACE OF ORGANIZATION                             Delaware
+
+- ------------------------------------------------------------------------------
+                    7.   SOLE VOTING POWER                                 -0-
+   NUMBER OF       -----------------------------------------------------------
+   SHARES           8.  SHARED VOTING POWER                          93,837.85
+   BENEFICIALLY                                         (of Series B Shares)**
+   OWNED BY EACH                                                     1,985,627
+   PERSON WITH                           (of common stock, after conversion)**
+                   -----------------------------------------------------------
+                    9.  SOLE DISPOSITIVE POWER                             -0-
+                   -----------------------------------------------------------
+                   10.  SHARED DISPOSITIVE POWER                     93,837.85
+                                                        (of Series B Shares)**
+                                                                     1,985,627
+                                         (of common stock, after conversion)**
+- ------------------------------------------------------------------------------
+11.  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON    93,837.85
+                                                        (of Series B Shares)**
+                                                                     1,985,627
+                                         (of common stock, after conversion)**
+- ------------------------------------------------------------------------------
+12.  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+     CERTAIN SHARES                                                        [ ]
+- ------------------------------------------------------------------------------
+13.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)                 61.51%
+                                                        (of Series B Shares)**
+                                                                        27.99%
+                                         (of common stock, after conversion)**
+- ------------------------------------------------------------------------------
+14.  TYPE OF REPORTING PERSON                                               PN
+- ------------------------------------------------------------------------------
+** See Item 5 below.
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+CUSIP NO. 713-839108            SCHEDULE 13D                      Page 3 of 12
+
+- ------------------------------------------------------------------------------
+ 1.  NAME OF REPORTING PERSON               RICHARD C. BLUM & ASSOCIATES, L.P.
+
+    S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON               94-3205364
+- ------------------------------------------------------------------------------
+2.   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*               (a) [x]**
+                                                                     (b) [x]**
+- ------------------------------------------------------------------------------
+ 3.  SEC USE ONLY
+
+- ------------------------------------------------------------------------------
+ 4.  SOURCE OF FUNDS*                                           Not Applicable
+
+- ------------------------------------------------------------------------------
+ 5.  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+     PURSUANT TO ITEMS 2(d) or 2(e)                                        [ ]
+- ------------------------------------------------------------------------------
+ 6.  CITIZENSHIP OR PLACE OF ORGANIZATION                           California
+
+- ------------------------------------------------------------------------------
+                    7.   SOLE VOTING POWER                                 -0-
+   NUMBER OF       -----------------------------------------------------------
+   SHARES           8.  SHARED VOTING POWER                         117,513.24
+   BENEFICIALLY                                         (of Series B Shares)**
+   OWNED BY EACH                                                     2,474,677
+   PERSON WITH                           (of common stock, after conversion)**
+                   -----------------------------------------------------------
+                    9.  SOLE DISPOSITIVE POWER                             -0-
+                   -----------------------------------------------------------
+                   10.  SHARED DISPOSITIVE POWER                    117,513.24
+                                                        (of Series B Shares)**
+                                                                     2,474,677
+                                         (of common stock, after conversion)**
+- ------------------------------------------------------------------------------
+11.  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON   117,513.24
+                                                        (of Series B Shares)**
+                                                                     2,474,677
+                                         (of common stock, after conversion)**
+- ------------------------------------------------------------------------------
+12.  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+     CERTAIN SHARES                                                        [ ]
+- ------------------------------------------------------------------------------
+13.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)                 77.01%
+                                                        (of Series B Shares)**
+                                                                        32.63%
+                                         (of common stock, after conversion)**
+- ------------------------------------------------------------------------------
+14.  TYPE OF REPORTING PERSON                                           PN, IA
+
+- ------------------------------------------------------------------------------
+** See Item 5 below.
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+CUSIP NO. 713-839108            SCHEDULE 13D                      Page 4 of 12
+
+- ------------------------------------------------------------------------------
+ 1.  NAME OF REPORTING PERSON               RICHARD C. BLUM & ASSOCIATES, INC.
+
+    S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON               94-2967812
+- ------------------------------------------------------------------------------
+2.   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*               (a) [x]**
+                                                                     (b) [x]**
+- ------------------------------------------------------------------------------
+ 3.  SEC USE ONLY
+
+- ------------------------------------------------------------------------------
+ 4.  SOURCE OF FUNDS*                                           Not Applicable
+
+- ------------------------------------------------------------------------------
+ 5.  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+     PURSUANT TO ITEMS 2(d) or 2(e)                                        [ ]
+- ------------------------------------------------------------------------------
+ 6.  CITIZENSHIP OR PLACE OF ORGANIZATION                           California
+
+- ------------------------------------------------------------------------------
+                    7.   SOLE VOTING POWER                                 -0-
+   NUMBER OF       -----------------------------------------------------------
+   SHARES           8.  SHARED VOTING POWER                         117,513.24
+   BENEFICIALLY                                         (of Series B Shares)**
+   OWNED BY EACH                                                     2,474,677
+   PERSON WITH                           (of common stock, after conversion)**
+                   -----------------------------------------------------------
+                    9.  SOLE DISPOSITIVE POWER                             -0-
+                   -----------------------------------------------------------
+                   10.  SHARED DISPOSITIVE POWER                    117,513.24
+                                                        (of Series B Shares)**
+                                                                     2,474,677
+                                         (of common stock, after conversion)**
+- ------------------------------------------------------------------------------
+11.  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON   117,513.24
+                                                        (of Series B Shares)**
+                                                                     2,474,677
+                                         (of common stock, after conversion)**
+- ------------------------------------------------------------------------------
+12.  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+     CERTAIN SHARES                                                        [ ]
+- ------------------------------------------------------------------------------
+13.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)                 77.01%
+                                                        (of Series B Shares)**
+                                                                        32.63%
+                                         (of common stock, after conversion)**
+- ------------------------------------------------------------------------------
+14.  TYPE OF REPORTING PERSON                                               CO
+
+- ------------------------------------------------------------------------------
+** See Item 5 below.
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+CUSIP NO. 713-839108            SCHEDULE 13D                      Page 5 of 12
+
+- ------------------------------------------------------------------------------
+ 1. NAME OF REPORTING PERSON                                   RICHARD C. BLUM
+
+    S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON              ###-##-####
+- ------------------------------------------------------------------------------
+2.   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*               (a) [x]**
+                                                                     (b) [x]**
+- ------------------------------------------------------------------------------
+ 3.  SEC USE ONLY
+
+- ------------------------------------------------------------------------------
+ 4.  SOURCE OF FUNDS*                                           Not Applicable
+
+- ------------------------------------------------------------------------------
+ 5.  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+     PURSUANT TO ITEMS 2(d) or 2(e)                                        [ ]
+- ------------------------------------------------------------------------------
+ 6.  CITIZENSHIP OR PLACE OF ORGANIZATION                                  USA
+
+- ------------------------------------------------------------------------------
+                    7.   SOLE VOTING POWER                                 -0-
+   NUMBER OF       -----------------------------------------------------------
+   SHARES           8.  SHARED VOTING POWER                         117,513.24
+   BENEFICIALLY                                         (of Series B Shares)**
+   OWNED BY EACH                                                     2,474,677
+   PERSON WITH                           (of common stock, after conversion)**
+                   -----------------------------------------------------------
+                    9.  SOLE DISPOSITIVE POWER                             -0-
+                   -----------------------------------------------------------
+                   10.  SHARED DISPOSITIVE POWER                    117,513.24
+                                                        (of Series B Shares)**
+                                                                     2,474,677
+                                         (of common stock, after conversion)**
+- ------------------------------------------------------------------------------
+11.  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON   117,513.24
+                                                        (of Series B Shares)**
+                                                                     2,474,677
+                                         (of common stock, after conversion)**
+- ------------------------------------------------------------------------------
+12.  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+     CERTAIN SHARES                                                        [ ]
+- ------------------------------------------------------------------------------
+13.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)                 77.01%
+                                                        (of Series B Shares)**
+                                                                        32.63%
+                                         (of common stock, after conversion)**
+- ------------------------------------------------------------------------------
+14.  TYPE OF REPORTING PERSON                                               IN
+
+- ------------------------------------------------------------------------------
+** See Item 5 below.
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+CUSIP NO. 713-839108            SCHEDULE 13D                      Page 6 of 12
+
+- ------------------------------------------------------------------------------
+ 1. NAME OF REPORTING PERSON      THE COMMON FUND FOR NON-PROFIT ORGANIZATIONS
+
+    S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON               23-7037968
+- ------------------------------------------------------------------------------
+2.   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*               (a) [ ]
+                                                                     (b) [x]**
+- ------------------------------------------------------------------------------
+ 3.  SEC USE ONLY
+
+- ------------------------------------------------------------------------------
+ 4.  SOURCE OF FUNDS*                                                       WC
+
+- ------------------------------------------------------------------------------
+ 5.  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+     PURSUANT TO ITEMS 2(d) or 2(e)                                        [ ]
+- ------------------------------------------------------------------------------
+ 6.  CITIZENSHIP OR PLACE OF ORGANIZATION                                  USA
+
+- ------------------------------------------------------------------------------
+                    7.   SOLE VOTING POWER                                 -0-
+   NUMBER OF       -----------------------------------------------------------
+   SHARES           8.  SHARED VOTING POWER                          23,675.39
+   BENEFICIALLY                                         (of Series B Shares)**
+   OWNED BY EACH                                                       489,050
+   PERSON WITH                           (of common stock, after conversion)**
+                   -----------------------------------------------------------
+                    9.  SOLE DISPOSITIVE POWER                             -0-
+                   -----------------------------------------------------------
+                   10.  SHARED DISPOSITIVE POWER                     23,675.39
+                                                        (of Series B Shares)**
+                                                                       489,050
+                                         (of common stock, after conversion)**
+- ------------------------------------------------------------------------------
+11.  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON    23,675.39
+                                                        (of Series B Shares)**
+                                                                       489,050
+                                         (of common stock, after conversion)**
+- ------------------------------------------------------------------------------
+12.  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+     CERTAIN SHARES                                                        [ ]
+- ------------------------------------------------------------------------------
+13.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)                 15.52%
+                                                        (of Series B Shares)**
+                                                                         8.66%
+                                         (of common stock, after conversion)**
+- ------------------------------------------------------------------------------
+14.  TYPE OF REPORTING PERSON                                               CO
+
+- ------------------------------------------------------------------------------
+** See Item 5 below.
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+CUSIP NO. 713-839108            SCHEDULE 13D                      Page 7 of 12
+
+Item 1.  Security and Issuer
+- ----------------------------
+This Schedule 13D Amendment No. 2 relates to the Series B Cumulative 
+Convertible Preferred Stock (the "Series B Shares") of the Perini Corporation 
+(the "Issuer") and the common stock of the Issuer into which such stock is 
+convertible.  This Amendment is being filed because the Reporting Persons 
+received certain additional Series B Shares as dividends on the Series B 
+Shares originally acquired from the Issuer.
+
+Item 2.  Identity and Background
+- --------------------------------
+This Schedule 13D Amendment No. 2 is filed by and on behalf of PB Capital 
+Partners, L.P. ("PB Capital"), Richard C. Blum & Associates, L.P., a 
+California limited partnership ("RCBA L.P."); Richard C. Blum & Associates, 
+Inc., a California corporation ("RCBA Inc."); Richard C. Blum, the Chairman 
+and a substantial shareholder of RCBA Inc.; and The Common Fund for Non-Profit 
+Organizations ("The Common Fund" and, collectively with the other persons 
+named in this paragraph, the "Reporting Persons"). 
+
+Item 2 from Schedule 13D Amendment No. 1 is supplemented with the following 
+additional information:
+
+The Common Fund is a New York non-profit corporation.  The Common Fund is 
+principally engaged in the business of managing investments for educational 
+institutions.  The principal administrative office of The Common Fund is 
+located at 450 Post Road East, Westport, Connecticut 06881-0909.  RCBA L.P. is 
+an investment advisor for The Common Fund and has discretion to vote and 
+dispose of the Series B Shares held by it for the benefit of The Common Fund.
+
+The Trustees and Principal Officers of The Common Fund (including principal 
+occupations and addresses) are as follows:
+
+Trustees
+- --------
+Paul J. Aslanian                            Robert D. Flanigan, Jr.
+Vice President for Finance & Planning       Vice President for Business and
+Swarthmore College                             Financial Affairs & Treasurer
+500 College Avenue                          Spelman College
+Swarthmore, PA 19081-1397                   350 Spelman Lane, S.W., Box 589
+                                            Atlanta, GA 30314-4399
+Robert L. Bovinette
+President                                   Caspa L. Harris, Jr.
+The Common Fund                             Consultant and Attorney
+450 Post Road East                          39109 John Wolford Road
+Westport, CT 06881                          Waterford, VA 20197
+
+John B. Carroll                             Norman G. Herbert
+President                                   Associate Vice President
+GTE Investment Management Corp.                & Treasurer
+Tresser Boulevard                           University of Michigan
+Seventh Floor                               5032 Fleming Administration Bldg.
+Stamford, CT 06901                          Ann Arbor, MI 48109-1340
+
+
+CUSIP NO. 713-839108            SCHEDULE 13D                      Page 8 of 12
+
+Mayree C. Clark                             Louis W. Moelchert
+Managing Director, Global Research          Vice President for Business
+Morgan Stanley & Co., Inc.                     and Finance
+1251 Avenue of the Americas                 University of Richmond
+New York, NY 10020                          Campus Drive, Room 202
+                                            Maryland Hall
+William C. Hromadka                         Richmond, VA 23173
+Treasurer and Assoc Sr Vice President
+University of Southern California           Robert D. Pavey
+University Park, Treasurer's Office         General Partner
+BKS 402 - Bookstore Building                Morgenthaler Ventures
+Los Angeles, CA 90089-2541                  629 Euclid Avenue, Suite 700
+                                            Cleveland, OH 44114
+
+David M. Lascell                            Andre F. Perold
+Partner                                     Sylvan C. Coleman Professor
+Hallenbeck, Lascell, Norris & Zorn             of Financial Management
+One Exchange Street                         Harvard University Graduate School
+Rochester, NY 14614-1403                       of Business
+                                            Morgan Hall, 367, Soldiers Field
+John T. Leatham                             Boston, MA 02163
+Chairman and Chief Executive Officer
+Security Health Providers, Inc.             Robert S. Salomon, Jr.
+Drake Oak Brook Plaza                       Principal
+2215 York Road, Suite 206                   STI Management LLC
+Oak Brook, IL 60521                         36 Flying Cloud Road
+                                            Stamford, CT 06902
+David J. Meagher
+Vice President for Finance & Treasurer      William T. Spitz
+Loyola University of Chicago                Treasurer
+840 North Wabash                            Vanderbilt University
+Chicago, IL 60611                           102 Alumni Hall
+                                            Nashville, TN 37240-0159
+
+Principal Officers Who Are Not Trustees
+- ---------------------------------------
+
+Todd E. Petzel                              Curt R. Tobey
+Executive Vice President                    Senior Vice President
+   and Chief Investment Officer
+                                            William P. Miller III
+John S. Griswold, Jr.                       Senior Vice President and
+Senior Vice President                        Independent Risk Oversight Officer
+
+Maria L.C. Tapia                            Marita Wein
+Senior Vice President                       Vice President and Secretary
+
+The address of each of the above principal officers of The Common Fund who are 
+not Trustees is:  The Common Fund, 450 Post Road East, Westport, CT 06881-
+0909.  Each of the Trustees and principal officers listed above is a citizen 
+of the United States.  Although The Common Fund might be deemed to be part of 
+a group by virtue of its acquisition of the Series B Shares, The Common Fund
+
+
+CUSIP NO. 713-839108            SCHEDULE 13D                      Page 9 of 12
+
+disclaims acting as a group and disclaims "beneficial ownership" in the shares 
+of each other person.
+
+Item 3.  Source and Amount of Funds or Other Consideration
+- ----------------------------------------------------------
+No change.
+
+Item 4.	Purpose of Transaction
+- ----------------------------------
+No change.   On April 9, 1997, the Issuer issued 1,487.85 additional Series B 
+Shares to PB Capital as payment-in-kind dividends payable on PB Capital's pre-
+existing Series B Shares, and 375.39 additional Series B Shares to The Common 
+Fund as payment-in-kind dividends payable on The Common Fund's pre-existing 
+Series B Shares.
+
+Item 5.	Interest in Securities of the Issuer
+- ------------------------------------------------
+(a),(b) According to the Issuer's most recent 10Q, there were no shares of 
+Series B Shares and 5,155,811 of Common Stock issued and outstanding as of
+May 10, 1997.
+
+Based on the above information, after taking into account the transactions 
+described in Item 5(c) below, the following Reporting Persons will report the 
+following holdings and corresponding percentage interests in the Series B 
+Shares and Common Shares (assuming the conversion of each Reporting Person's 
+Series B Shares into Common Shares):
+
+                                                        Total Common Shares
+                                Series B Shares          (after conversion)
+                            ---------------------      ---------------------
+Name                        No. Owned     % Owned      No. Owned     % Owned
+- -----------------           ---------     -------      ---------     -------
+PB Capital                  93,837.85      61.51%      1,985,627(1)   27.99%
+The Common Fund             23,675.39      15.52%        489,050       8.66%
+RCBA L.P.                  117,513.24      77.01%      2,474,677(2)   32.63% 
+RCBA Inc.                  117,513.24      77.01%      2,474,677(3)   32.63%
+Richard C. Blum            117,513.24      77.01%      2,474,677(4)   32.63%
+
+(1)  Includes 4,727 shares of common stock of Issuer owned by RCBA L.P., and 
+42,540 shares of common stock of Perini Corporation owned by the United 
+Brotherhood of Carpenters and Joiners of America Local Unions Councils Pension 
+Fund ("UBC"), which is a limited partner in PB Capital.
+
+(2) Includes shares of common stock of Issuer as follows:  1,980,900 shares 
+owned by PB Capital and one of its limited partners, UBC; and, 489,050 shares 
+owned by The Common Fund.  RCBA L.P. is the general Partner of PB Capital and 
+investment advisor to The Common Fund.  RCBA L.P. disclaims beneficial 
+ownership of such shares except to the extent of its pecuniary interest 
+therein.
+
+(3) Includes shares of common stock of Issuer as follows:  1,980,900 shares 
+owned by PB Capital and one of its limited partners, UBC; 489,050 shares owned
+
+
+CUSIP NO. 713-839108            SCHEDULE 13D                     Page 10 of 12
+
+by The Common Fund; and 4,747 shares owned by RCBA L.P.  RCBA Inc. is the 
+general Partner of RCBA L.P., which is the general partner of PB Capital and 
+investment advisor to The Common Fund.  RCBA Inc. disclaims beneficial 
+ownership of such shares except to the extent of its pecuniary interest 
+therein.
+
+(4) Includes shares of common stock of Issuer as follows:  1,980,900 shares 
+owned by PB Capital and one of its limited partners, UBC; 489,050 shares owned 
+by The Common Fund; and 4,747 shares owned by RCBA L.P.  Richard C. Blum is a 
+significant stockholder and chairman of RCBA Inc., the general partner of RCBA 
+L.P., which is the general partner of PB Capital and investment advisor to The 
+Common Fund.  Mr. Blum disclaims beneficial ownership of such shares except to 
+the extent of his pecuniary interest therein.
+
+(c)	The Reporting Persons have engaged in no transaction involving such 
+shares or the Common Stock for the 60 days prior to the date of the event 
+requiring the filing of this statement.
+
+(d), (e)  No change.
+
+Item 6.  Contracts, Arrangements, Understandings or Relationships with        
+         Respect to Securities of the Issuer
+- ----------------------------------------------------------------------
+Except as previously disclosed, none of the Reporting Persons or, to the best 
+knowledge of the Reporting Persons, the other persons named in Item 2, is a 
+party to any contract, arrangement, understanding or relationship with respect 
+to any securities of the Issuer, including but not limited to the transfer or 
+voting of any securities of the Issuer, finder's fees, joint ventures, loan or 
+option arrangements, puts or calls, guarantees of profits, division of profits 
+or loss, or the giving or withholding of proxies, except (i) as previously 
+disclosed, or (ii) as noted above, RCBA L.P. has the power to vote and dispose 
+of the Series B Shares held by it for the benefit of the Common Fund.
+
+Item 7.	Material to Be Filed as Exhibits
+- --------------------------------------------
+Exhibit A   Joint Filing Undertaking
+
+
+CUSIP NO. 713-839108            SCHEDULE 13D                     Page 11 of 12
+
+                                 SIGNATURES
+
+After reasonable inquiry and to the best of our knowledge and belief, the 
+undersigned certify that the information set forth in this statement is true, 
+complete and correct.
+
+May 29, 1997
+
+
+RICHARD C. BLUM & ASSOCIATES, L.P.     RICHARD C. BLUM & ASSOCIATES, INC.
+
+By  /s/ Marc T. Scholvinck              By  /s/ Marc T. Scholvinck
+    -------------------------------        -----------------------------------
+    Marc T. Scholvinck                     Marc T. Scholvinck
+    Managing Director and                  Managing Director and
+    Chief Financial Officer                Chief Financial Officer
+
+
+
+PB CAPITAL PARTNERS, L.P.               /s/ Marc T. Scholvinck
+                                        --------------------------------------
+By  Richard C. Blum & Associates,       RICHARD C. BLUM
+    L.P., its General Partner
+                                        By  Marc T. Scholvinck,
+    By  /s/ Marc T. Scholvinck              Attorney-in-Fact 
+        -------------------------- 
+        Marc T. Scholvinck,
+        Managing Director and
+        Chief Financial Officer
+
+
+
+THE COMMON FUND FOR NON-PROFIT ORGANIZATIONS
+
+By  Richard C. Blum & Associates, L.P.,
+    its Investment Advisor
+
+    By  /s/ Marc T. Scholvinck
+        -------------------------------
+        Marc T. Scholvinck,
+        Managing Director and
+        Chief Financial Officer
+
+
+
+CUSIP NO. 713-839108            SCHEDULE 13D                     Page 12 of 12
+
+                                  Exhibit A
+
+	                    Joint Filing Undertaking
+
+The undersigned, being duly authorized thereunto, hereby execute this 
+agreement as an exhibit to the Schedule 13D to evidence the agreement of the 
+below-named parties, in accordance with the rules promulgated pursuant to the 
+Securities Exchange Act of 1934, to file this Schedule jointly on behalf of 
+each such party.
+
+Dated:	May 29, 1997
+
+
+
+RICHARD C. BLUM & ASSOCIATES, L.P.     RICHARD C. BLUM & ASSOCIATES, INC.
+
+By  /s/ Marc T. Scholvinck              By  /s/ Marc T. Scholvinck
+    -------------------------------        -----------------------------------
+    Marc T. Scholvinck                     Marc T. Scholvinck
+    Managing Director and                  Managing Director and
+    Chief Financial Officer                Chief Financial Officer
+
+
+
+PB CAPITAL PARTNERS, L.P.               /s/ Marc T. Scholvinck
+                                        --------------------------------------
+By  Richard C. Blum & Associates,       RICHARD C. BLUM
+    L.P., its General Partner
+                                        By  Marc T. Scholvinck,
+    By  /s/ Marc T. Scholvinck              Attorney-in-Fact 
+        -------------------------- 
+        Marc T. Scholvinck,
+        Managing Director and
+        Chief Financial Officer
+
+
+
+THE COMMON FUND FOR NON-PROFIT ORGANIZATIONS
+
+By  Richard C. Blum & Associates, L.P.,
+    its Investment Advisor
+
+    By  /s/ Marc T. Scholvinck
+        -------------------------------
+        Marc T. Scholvinck,
+        Managing Director and
+        Chief Financial Officer
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

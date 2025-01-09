@@ -1,0 +1,596 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ c9nSzWVN/FEATtZJ5+IEUXd51cNygSzZaFc/Bdq0bOg6XQ6EfP+argeY3Ov1YpeY
+ LWeO+b5QRuuSEiOSG6yz6g==
+
+<IMS-DOCUMENT>0000932799-95-000014.txt : 19950613
+<IMS-HEADER>0000932799-95-000014.hdr.sgml : 19950613
+ACCESSION NUMBER:		0000932799-95-000014
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19950612
+SROS:			NYSE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FAMILY DOLLAR STORES INC
+		CENTRAL INDEX KEY:			0000034408
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				560942963
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-12639
+		FILM NUMBER:		95546490
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 1017
+		STREET 2:		10401 OLD MONROE RD
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28201-1017
+		BUSINESS PHONE:		7048476961
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SC FUNDAMENTAL INC
+		CENTRAL INDEX KEY:			0000919094
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				133563937
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		712 5TH AVE 19TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		2129573500
+
+	MAIL ADDRESS:	
+		STREET 1:		712 5TH AVENUE 19TH FL
+		STREET 2:		712 5TH AVENUE 19TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<TEXT>
+
+<PAGE>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+                                  SCHEDULE 13D
+
+
+                    Under the Securities Exchange Act of 1934
+                                (Amendment No. 2)
+
+                           Family Dollar Stores, Inc.
+                                (Name of Issuer)
+
+                    Common Stock, Par Value, $0.10 Per Share
+                         (Title of Class of Securities)
+
+                                    307000109
+                                 (CUSIP Number)
+
+                             Stephen M. Davis, Esq.
+                          Werbel McMillin & Carnelutti
+                           A Professional Corporation
+
+           711 Fifth Avenue, New York, New York 10022, (212) 832-8300
+            (Name, Address and Telephone Number of Person Authorized
+                     to Receive Notices and Communications)
+
+                                  May 10, 1995
+             (Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13-d-1(b)(3) or (4), check the following box [ ].
+
+Check the following box if a fee is being paid with the statement [ ].  (A fee
+is not required only if the reporting person: (1) has a previous statement on
+file reporting beneficial ownership of more than five percent of the class of
+securities described in Item 1; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of such class.)
+(See Rule 13d-7.)
+
+Note:  Six copies of this statement, including all exhibits, should be filed
+with the Commission.  See Rule 13d-1(a) for other parties to whom copies are to
+be sent.
+
+*  The remainder of this cover page shall be filled out for a reporting
+person's initial filing on this form with respect to the subject class of
+securities, and for any subsequent amendment containing information which would
+alter disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be
+deemed to be "filed" for the purposes of Section 18 of the Securities Exchange
+Act of 1934 ("Act") or otherwise subject to the liabilities of that section of
+the Act but shall be subject to all other provisions of the Act (however, see
+the Notes).
+
+                               Page 1 of 10 Pages<PAGE>
+<PAGE>
+                                 SCHEDULE 13D
+
+- -------------------                                         -----------------
+CUSIP No. 307000109                                         Page 2 of 10 Pages
+- -------------------                                         ------------------
+
+===============================================================================
+1  NAME OF REPORTING PERSON - S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+   The SC Fundamental Value Fund, L.P.
+                                        
+- --------------------------------------------------------------------------------
+2  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*                  (a)  [X]
+                                                                      (b)  [ ]
+- --------------------------------------------------------------------------------
+3  SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+4  SOURCE OF FUNDS*
+   WC/00
+- --------------------------------------------------------------------------------
+5  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+   PURSUANT TO ITEMS 2(d) or 2(E)                                          [ ]
+
+- --------------------------------------------------------------------------------
+6  CITIZENSHIP OR PLACE OF ORGANIZATION
+   Delaware   
+- --------------------------------------------------------------------------------
+       NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH
+- --------------------------------------------------------------------------------
+7  SOLE VOTING POWER
+   0
+- --------------------------------------------------------------------------------
+8  SHARED VOTING POWER
+   2,656,300 
+                 
+- --------------------------------------------------------------------------------
+9  SOLE DISPOSITIVE POWER
+   0
+- --------------------------------------------------------------------------------
+10 SHARED DISPOSITIVE POWER
+   2,656,300 
+
+- --------------------------------------------------------------------------------
+11  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+    2,656,300 
+               
+- --------------------------------------------------------------------------------
+12  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES* [ ]
+- --------------------------------------------------------------------------------
+13  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+    4.7%
+- --------------------------------------------------------------------------------
+14  TYPE OF REPORTING PERSON*
+    PN      
+==============================================================================
+                  *SEE INSTRUCTIONS BELOW BEFORE FILLING OUT!
+SEC 1746 (9-88)<PAGE>
+<PAGE>
+                                 SCHEDULE 13D
+
+- -------------------                                         --------------------
+CUSIP No. 307000109                                         Page 3 of 10 Pages
+- -------------------                                         --------------------
+
+==============================================================================
+1  NAME OF REPORTING PERSON - S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+   SC Fundamental Value BVI, Inc.
+                                     
+- --------------------------------------------------------------------------------
+2  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*                  (a)  [X]
+                                                                      (b)  [ ]
+- --------------------------------------------------------------------------------
+3  SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+4  SOURCE OF FUNDS*
+   Not Applicable    
+- --------------------------------------------------------------------------------
+5  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+   PURSUANT TO ITEMS 2(d) or 2(E)                                          [ ]
+
+- --------------------------------------------------------------------------------
+6  CITIZENSHIP OR PLACE OF ORGANIZATION
+   Delaware       
+- --------------------------------------------------------------------------------
+       NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH
+- --------------------------------------------------------------------------------
+7  SOLE VOTING POWER
+   1,639,200   
+- --------------------------------------------------------------------------------
+8  SHARED VOTING POWER
+   0
+- --------------------------------------------------------------------------------
+9  SOLE DISPOSITIVE POWER
+   1,639,200   
+- --------------------------------------------------------------------------------
+10 SHARED DISPOSITIVE POWER
+   0
+- --------------------------------------------------------------------------------
+11  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+   1,639,200
+- --------------------------------------------------------------------------------
+12  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES 
+    CERTAIN SHARES*                                                        [ ]
+- --------------------------------------------------------------------------------
+13  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+    2.9%     
+- --------------------------------------------------------------------------------
+14  TYPE OF REPORTING PERSON*
+    CO
+==============================================================================
+                  *SEE INSTRUCTIONS BELOW BEFORE FILLING OUT!
+SEC 1746 (9-88)<PAGE>
+<PAGE>
+                                 SCHEDULE 13D
+
+- -------------------                                         --------------------
+CUSIP No. 307000109                                         Page 4 of 10 Pages
+- -------------------                                         --------------------
+
+==============================================================================
+1  NAME OF REPORTING PERSON - S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+   SC Fundamental Inc.
+                             
+- --------------------------------------------------------------------------------
+2  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*                  (a)  [X]
+                                                                      (b)  [ ]
+- --------------------------------------------------------------------------------
+3  SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+4  SOURCE OF FUNDS*
+   Not Applicable
+                          
+- --------------------------------------------------------------------------------
+5  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+   PURSUANT TO ITEMS 2(d) or 2(E)                                          [ ]
+
+- --------------------------------------------------------------------------------
+6  CITIZENSHIP OR PLACE OF ORGANIZATION
+   Delaware         
+- --------------------------------------------------------------------------------
+       NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH
+- --------------------------------------------------------------------------------
+7  SOLE VOTING POWER
+   0
+- --------------------------------------------------------------------------------
+8  SHARED VOTING POWER
+   2,656,300
+                 
+- --------------------------------------------------------------------------------
+9  SOLE DISPOSITIVE POWER
+   0
+- --------------------------------------------------------------------------------
+10 SHARED DISPOSITIVE POWER
+   2,656,300
+- --------------------------------------------------------------------------------
+11 AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+   2,656,300
+- --------------------------------------------------------------------------------
+12  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES 
+    CERTAIN SHARES*                                                        [ ]
+- --------------------------------------------------------------------------------
+13  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+    4.7%      
+- --------------------------------------------------------------------------------
+14  TYPE OF REPORTING PERSON*
+    CO           
+==============================================================================
+                  *SEE INSTRUCTIONS BELOW BEFORE FILLING OUT!
+SEC 1746 (9-88)<PAGE>
+<PAGE>
+                                 SCHEDULE 13D
+
+- -------------------                                         --------------------
+CUSIP No. 307000109                                         Page 5 of 10 Pages
+- -------------------                                         --------------------
+
+==============================================================================
+1  NAME OF REPORTING PERSON - S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+   Gary N. Siegler
+                     
+- --------------------------------------------------------------------------------
+2  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*                  (a)  [ ]
+                                                                      (b)  [X]
+- --------------------------------------------------------------------------------
+3  SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+4  SOURCE OF FUNDS*
+   OO   
+- --------------------------------------------------------------------------------
+5  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+   PURSUANT TO ITEMS 2(d) or 2(E)                                          [ ]
+
+- --------------------------------------------------------------------------------
+6  CITIZENSHIP OR PLACE OF ORGANIZATION
+   United States             
+- --------------------------------------------------------------------------------
+       NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH
+- --------------------------------------------------------------------------------
+7  SOLE VOTING POWER
+   55,000
+- --------------------------------------------------------------------------------
+8  SHARED VOTING POWER
+   4,295,500
+          
+- --------------------------------------------------------------------------------
+9  SOLE DISPOSITIVE POWER
+   55,000
+- --------------------------------------------------------------------------------
+10 SHARED DISPOSITIVE POWER
+   4,295,500
+- --------------------------------------------------------------------------------
+11 AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+   4,350,500   
+- --------------------------------------------------------------------------------
+12  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES 
+    CERTAIN SHARES*                                                        [ ]
+- --------------------------------------------------------------------------------
+13  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+    7.7%           
+- --------------------------------------------------------------------------------
+14  TYPE OF REPORTING PERSON*
+    IN           
+==============================================================================
+                  *SEE INSTRUCTIONS BELOW BEFORE FILLING OUT!
+SEC 1746 (9-88)<PAGE>
+<PAGE>
+                                 SCHEDULE 13D
+
+- -------------------                                         --------------------
+CUSIP No.  307000109                                        Page 6 of 10 Pages
+- -------------------                                         --------------------
+
+==============================================================================
+1  NAME OF REPORTING PERSON - S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+   Peter M. Collery
+
+- --------------------------------------------------------------------------------
+2  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*                  (a)  [ ]
+                                                                      (b)  [X]
+- --------------------------------------------------------------------------------
+3  SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+4  SOURCE OF FUNDS*
+   Not Applicable       
+- --------------------------------------------------------------------------------
+5  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+   PURSUANT TO ITEMS 2(d) or 2(E)                                          [ ]
+
+- --------------------------------------------------------------------------------
+6  CITIZENSHIP OR PLACE OF ORGANIZATION
+   U.S.A.               
+- --------------------------------------------------------------------------------
+       NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH
+- --------------------------------------------------------------------------------
+7  SOLE VOTING POWER
+   0
+- --------------------------------------------------------------------------------
+8  SHARED VOTING POWER
+   4,295,500
+- --------------------------------------------------------------------------------
+9  SOLE DISPOSITIVE POWER
+   0
+- --------------------------------------------------------------------------------
+10 SHARED DISPOSITIVE POWER
+   4,295,500
+- --------------------------------------------------------------------------------
+11 AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+   4,295,500
+- --------------------------------------------------------------------------------
+12  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES 
+    CERTAIN SHARES*                                                        [ ]
+- --------------------------------------------------------------------------------
+13  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+    7.6%
+              
+- --------------------------------------------------------------------------------
+14  TYPE OF REPORTING PERSON*
+    IN      
+==============================================================================
+                  *SEE INSTRUCTIONS BELOW BEFORE FILLING OUT!
+SEC 1746 (9-88)<PAGE>
+<PAGE>
+                                                            Page 7 of 10 Pages
+                                  AMENDMENT 
+                                     No. 2
+                                    TO THE
+                                 SCHEDULE 13D
+
+
+     The Reporting Persons consisting of SC Fundamental Inc., The SC
+Fundamental Value Fund, L.P., SC Fundamental Value BVI, Inc., Gary N. Siegler
+and Peter M. Collery, hereby amend their Schedule 13D relating to the Common
+Stock, par value $0.10, of Family Dollar Stores, Inc.
+
+
+Item 3.   Source and Amount of Funds or Other Consideration
+
+          The aggregate purchase prices of the shares of the Issuer's Common
+Stock ("Shares") purchased by the Fund, BVI Inc. and Siegler, respectively, as
+reported in Item 5(c) of this Schedule 13D were as follows:
+
+      Name of                                  Aggregate
+ Reporting Person                            Purchase Price
+
+Fund                                         $  2,239,406.02
+BVI Inc. (on behalf of BVI Ltd.)             $  3,267,113.24
+Siegler                                      $    181,950.00
+
+          Fund and BVI Inc. purchased their Shares with working capital or
+with funds extended by brokerage firms in connection with margin transactions. 
+Siegler purchased his Shares with funds extended to him by a brokerage firm in
+connection with a margin transaction.
+
+
+Item 5.   Interest in Securities of the Issuer
+
+          (a) As of the close of business on June 8, 1995, the Reporting
+Persons, by virtue of the language of Rule 13d-3, may be deemed to own
+beneficially in the aggregate the number and percentage of the Issuer's Common
+Stock set forth opposite their names below (based upon the number of shares of
+the Issuer's Common Stock that were reported to be outstanding in the Issuer's
+Form 10-Q for the fiscal quarter ended March 31, 1995).
+
+
+<PAGE>
+<PAGE>                                                      Page 8  of 10 Pages
+
+
+<TABLE>
+<CAPTION>
+==============================================================================
+==
+        Name             Shares of Common Stock        Percentage
+- --------------------------------------------------------------------------------
+<S>                           <C>                                <C>
+SC Fundamental Inc.(1)   2,656,300                                4.7%
+- --------------------------------------------------------------------------------
+The SC Fundamental
+Value Fund, L.P.         2,656,300                                4.7%
+- --------------------------------------------------------------------------------
+SC Fundamental(2)
+Value BVI, Inc.          1,639,200                                2.9% 
+- --------------------------------------------------------------------------------
+Gary N. Siegler(2)       4,350,500                                7.6%  
+- --------------------------------------------------------------------------------
+Peter M. Collery(2)      4,295,500                                7.6%
+================================================================================
+(1)  Does not include shares of the Issuer's Common Stock previously held for the
+     benefit of the Managed Account.  
+
+(2)  Includes shares of the Issuer's Common Stock previously held for the benefit
+     of the Managed Account.  
+
+          (c)  The following table sets forth transactions effected by the Fund,
+Siegler and by BVI Inc. on behalf of BVI Ltd in the last 60 days.  Unless
+otherwise noted, each of the transactions reflects a purchase by means of trades
+on the New York Stock Exchange. <PAGE>
+<PAGE>                                                      Page 9 of 10 Pages
+
+
+</TABLE>
+<TABLE>
+<CAPTION>
+================================================================================
+                                             BVI, Inc.              
+               Price Per                     on behalf      
+Trade Date     Share($)       Fund           of BVI Ltd.    Siegler
+- --------------------------------------------------------------------------------
+<S>            <C>            <C>            <C>            <C>
+5/08/95        11.1250         15,900           9,100       0
+- --------------------------------------------------------------------------------
+5/09/95        11.0424         21,400          12,200       0
+- -------------------------------------------------------------------------------- 
+5/10/95        11.3750         19,100          10,900       0
+- --------------------------------------------------------------------------------
+5/11/95        11.3943         32,500          18,600       0    
+- --------------------------------------------------------------------------------
+5/12/95        11.8732         12,900           7,400       0
+- --------------------------------------------------------------------------------
+5/15/95        11.2328         25,450          14,550       0
+- -------------------------------------------------------------------------------- 
+5/31/95        11.6250          3,200          1,800        0
+- --------------------------------------------------------------------------------
+6/01/95        11.8750        164,000(3)     164,000        0
+- --------------------------------------------------------------------------------
+6/01/95        12.0770              0              0        15,000
+- --------------------------------------------------------------------------------
+6/05/95        12.8750          5,600          3,500        0
+- -------------------------------------------------------------------------------- 
+6/07/95        13.0000         37,100         22,900        0
+- --------------------------------------------------------------------------------
+6/07/95        12.7500          6,200          3,800        0
+- --------------------------------------------------------------------------------
+6/08/95        13.3553          7,050          4,350        0
+- --------------------------------------------------------------------------------
+
+<FN>
+- ---------
+(3)  Reflects a sale effected by means of a trade on the New York Stock Exchange.
+
+</TABLE>
+<PAGE>
+<PAGE>                                                      Page 10 of 10 Pages
+
+
+
+          After reasonable inquiry and to the best of our knowledge and
+belief, we certify that the information set forth in this statement is true,
+complete and correct.
+
+Dated:  June 9, 1995
+
+
+SC FUNDAMENTAL INC.
+
+
+     By:  /s/ Peter M. Collery       
+- ---------------------------------
+              Peter M. Collery
+              Vice President
+
+THE SC FUNDAMENTAL VALUE FUND, L.P.
+
+     By:  SC FUNDAMENTAL INC.
+
+
+     By:  /s/ Peter M. Collery       
+- ----------------------------------
+              Peter M. Collery
+              Vice President
+
+SC FUNDAMENTAL VALUE BVI, INC.
+
+
+     By:  /s/ Peter M. Collery      
+- ---------------------------------- 
+              Peter M. Collery
+              Vice President
+
+
+
+/s/ Gary N. Siegler       
+- ---------------------------------
+    Gary N. Siegler
+
+
+
+/s/ Peter M. Collery      
+- ---------------------------------
+    Peter M. Collery
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

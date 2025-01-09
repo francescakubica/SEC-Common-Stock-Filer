@@ -1,0 +1,697 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EPLNcuu147MK63UWYjs5vqwCG8/QTgwyDq6muUoj1Vr7gNNl9mktDTBEcm7KbpIZ
+ H5Lbjx2hQcikmGFBpcs+ug==
+
+<SEC-DOCUMENT>0000950136-96-000006.txt : 19960112
+<SEC-HEADER>0000950136-96-000006.hdr.sgml : 19960112
+ACCESSION NUMBER:		0000950136-96-000006
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19960111
+SROS:			NONE
+GROUP MEMBERS:		LIBRA ADVISORS INC
+GROUP MEMBERS:		N/A
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			READING CO
+		CENTRAL INDEX KEY:			0000082334
+		STANDARD INDUSTRIAL CLASSIFICATION:	LAND SUBDIVIDERS & DEVELOPERS (NO CEMETERIES) [6552]
+		IRS NUMBER:				236000773
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-07710
+		FILM NUMBER:		96502739
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE PENN SQ WEST
+		STREET 2:		30 S 15TH ST, STE 1300
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19102-4813
+		BUSINESS PHONE:		2155693344
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE PENN SQ WEST
+		STREET 2:		30 S 15TH ST, STE 1300
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19102-4813
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LIBRA ADVISORS INC
+		CENTRAL INDEX KEY:			0001005557
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		IRS NUMBER:				133561953
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		277 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2123505125
+
+	MAIL ADDRESS:	
+		STREET 1:		277 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+
+
+
+
+- ------------------------------------------------------------------------------
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                  SCHEDULE 13D
+                   UNDER THE SECURITIES EXCHANGE ACT OF 1934
+                              (AMENDMENT NO.   )*
+
+
+                                Reading Company
+- -------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+
+                              Common Stock Class A
+- -------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+                                   755332509
+- -------------------------------------------------------------------------------
+                                 (CUSIP Number)
+
+                              Libra Advisors, Inc.
+         Ranjan Tandon, 277 Park Avenue, 26th Floor, New York, NY 10017
+- -------------------------------------------------------------------------------
+                 (Name, Address, and Telephone Number of Person
+               Authorized to Receive Notices and Communications)
+
+                               December 12, 1995
+- -------------------------------------------------------------------------------
+            (Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4), check the following box [ ].
+
+Check the following box if a fee is being paid with this statement [X]. (A fee
+is not required only if the reporting person: (1) has a previous statement on
+file reporting beneficial ownership of more than five percent of the class of
+securities described in Item 1; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of such class.)
+(See Rule 13d-7.)
+
+NOTE: Six copies of this statement, including all exhibits, should be filed with
+the Commission. See Rule 13d-1(a) for other parties to whom copies are to be
+sent.
+
+*The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act (however, see the
+Notes).
+
+
+
+
+    
+<TABLE>
+
+                                SCHEDULE 13D
+
+CUSIP NO. 755332509                                     PAGE   OF   PAGES
+
+<S>   <C>                                                          <C>
+1.     NAME OF REPORTING PERSON
+       S.S. OR I.R.S IDENTIFICATION NO. OF ABOVE PERSON
+
+        Libra Advisors, Inc.
+- ------------------------------------------------------------------------------
+2.     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP              (a) [ ]
+                                                                     (b) [ ]
+- ------------------------------------------------------------------------------
+3.     SEC USE ONLY
+- ------------------------------------------------------------------------------
+4.     SOURCE OF FUNDS                                                   00
+- ------------------------------------------------------------------------------
+5.     CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS
+       REQUIRED PURSUANT TO ITEMS 2(d) OR 2(e)                          [ ]
+
+- ------------------------------------------------------------------------------
+6.     CITIZENSHIP OR PLACE OF ORGANIZATION                        New York
+- ------------------------------------------------------------------------------
+      NUMBER OF          7. SOLE VOTING POWER                       209,500
+      SHARES            ------------------------------------------------------
+      BENEFICIALLY       8. SHARED VOTING POWER
+      OWNED BY          ------------------------------------------------------
+      EACH               9. SOLE DISPOSITIVE POWER                  209,500
+      REPORTING         ------------------------------------------------------
+      PERSON WITH       10. SHARED DISPOSITIVE POWER
+- ------------------------------------------------------------------------------
+11.   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH
+      REPORTING PERSON                                              209,500
+- ------------------------------------------------------------------------------
+12.   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11)
+      EXCLUDES CERTAIN SHARES                                           [ ]
+
+- ------------------------------------------------------------------------------
+13.   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)                4.2%
+- ------------------------------------------------------------------------------
+14.   TYPE OF REPORTING PERSON                                            CO
+- -------------------------------------------------------------------------------
+</TABLE>
+
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+          INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+      (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+
+
+
+    
+
+<TABLE>
+
+                                SCHEDULE 13D
+
+CUSIP NO. 755332509                                     PAGE   OF   PAGES
+
+<S>   <C>                                                          <C>
+1.     NAME OF REPORTING PERSON
+       S.S. OR I.R.S IDENTIFICATION NO. OF ABOVE PERSON
+
+        Libra Fund, L.P.
+- ------------------------------------------------------------------------------
+2.     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP              (a) [ ]
+                                                                     (b) [ ]
+- ------------------------------------------------------------------------------
+3.     SEC USE ONLY
+- ------------------------------------------------------------------------------
+4.     SOURCE OF FUNDS                                                   WC
+- ------------------------------------------------------------------------------
+5.     CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS
+       REQUIRED PURSUANT TO ITEMS 2(d) OR 2(e)                          [ ]
+
+- ------------------------------------------------------------------------------
+6.     CITIZENSHIP OR PLACE OF ORGANIZATION                        Delaware
+- ------------------------------------------------------------------------------
+      NUMBER OF          7. SOLE VOTING POWER                       209,500
+      SHARES            ------------------------------------------------------
+      BENEFICIALLY       8. SHARED VOTING POWER
+      OWNED BY          ------------------------------------------------------
+      EACH               9. SOLE DISPOSITIVE POWER                  209,500
+      REPORTING         ------------------------------------------------------
+      PERSON WITH       10. SHARED DISPOSITIVE POWER
+- ------------------------------------------------------------------------------
+11.   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH
+      REPORTING PERSON                                              209,500
+- ------------------------------------------------------------------------------
+12.   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11)
+      EXCLUDES CERTAIN SHARES                                           [ ]
+
+- ------------------------------------------------------------------------------
+13.   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)                4.2%
+- ------------------------------------------------------------------------------
+14.   TYPE OF REPORTING PERSON                                            PN
+- -------------------------------------------------------------------------------
+</TABLE>
+
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+          INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+      (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+
+
+
+    
+
+<TABLE>
+
+                                SCHEDULE 13D
+
+CUSIP NO. 755332509                                     PAGE   OF   PAGES
+
+<S>   <C>                                                          <C>
+1.     NAME OF REPORTING PERSON
+       S.S. OR I.R.S IDENTIFICATION NO. OF ABOVE PERSON
+
+        Ranjan Tandon
+- ------------------------------------------------------------------------------
+2.     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP              (a) [ ]
+                                                                     (b) [ ]
+- ------------------------------------------------------------------------------
+3.     SEC USE ONLY
+- ------------------------------------------------------------------------------
+4.     SOURCE OF FUNDS                                                   00
+- ------------------------------------------------------------------------------
+5.     CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS
+       REQUIRED PURSUANT TO ITEMS 2(d) OR 2(e)                          [ ]
+
+- ------------------------------------------------------------------------------
+6.     CITIZENSHIP OR PLACE OF ORGANIZATION                            U.S.
+- ------------------------------------------------------------------------------
+      NUMBER OF          7. SOLE VOTING POWER                       209,500
+      SHARES            ------------------------------------------------------
+      BENEFICIALLY       8. SHARED VOTING POWER
+      OWNED BY          ------------------------------------------------------
+      EACH               9. SOLE DISPOSITIVE POWER                  209,500
+      REPORTING         ------------------------------------------------------
+      PERSON WITH       10. SHARED DISPOSITIVE POWER
+- ------------------------------------------------------------------------------
+11.   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH
+      REPORTING PERSON                                              209,500
+- ------------------------------------------------------------------------------
+12.   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11)
+      EXCLUDES CERTAIN SHARES                                           [ ]
+
+- ------------------------------------------------------------------------------
+13.   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)                4.2%
+- ------------------------------------------------------------------------------
+14.   TYPE OF REPORTING PERSON                                            IN
+- -------------------------------------------------------------------------------
+</TABLE>
+
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+          INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+      (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+
+
+
+    
+
+<TABLE>
+
+                                SCHEDULE 13D
+
+CUSIP NO. 755332509                                     PAGE   OF   PAGES
+
+<S>   <C>                                                          <C>
+1.     NAME OF REPORTING PERSON
+       S.S. OR I.R.S IDENTIFICATION NO. OF ABOVE PERSON
+
+        Chandrika Tandon
+- ------------------------------------------------------------------------------
+2.     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP              (a) [ ]
+                                                                     (b) [ ]
+- ------------------------------------------------------------------------------
+3.     SEC USE ONLY
+- ------------------------------------------------------------------------------
+4.     SOURCE OF FUNDS                                                   PF
+- ------------------------------------------------------------------------------
+5.     CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS
+       REQUIRED PURSUANT TO ITEMS 2(d) OR 2(e)                          [ ]
+
+- ------------------------------------------------------------------------------
+6.     CITIZENSHIP OR PLACE OF ORGANIZATION                             U.S.
+- ------------------------------------------------------------------------------
+      NUMBER OF          7. SOLE VOTING POWER                        59,000
+      SHARES            ------------------------------------------------------
+      BENEFICIALLY       8. SHARED VOTING POWER
+      OWNED BY          ------------------------------------------------------
+      EACH               9. SOLE DISPOSITIVE POWER                   59,000
+      REPORTING         ------------------------------------------------------
+      PERSON WITH       10. SHARED DISPOSITIVE POWER
+- ------------------------------------------------------------------------------
+11.   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH
+      REPORTING PERSON                                               59,000
+- ------------------------------------------------------------------------------
+12.   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11)
+      EXCLUDES CERTAIN SHARES                                           [ ]
+
+- ------------------------------------------------------------------------------
+13.   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)                1.2%
+- ------------------------------------------------------------------------------
+14.   TYPE OF REPORTING PERSON                                            IN
+- -------------------------------------------------------------------------------
+</TABLE>
+
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+          INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+      (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+
+
+
+
+    
+
+
+
+                          SCHEDULE 13D
+
+
+
+ITEM 1. SECURITY AND ISSUER
+
+        Securities acquired:    Class A Common Stock ("Class A Common Stock")
+
+        Issuer: Reading Company
+                One Penn Square West
+                30 South Fifteenth Street, Suite 1300
+                Philadelphia, Pennsylvania 19102-4813
+
+
+ITEM 2. IDENTITY AND BACKGROUND
+
+                (a), (b), (c) and (f)  This Schedule 13D is being filed jointly
+by Libra Fund, L.P., a Delaware limited partnership ("Libra"), Libra Advisors,
+Inc., a New York corporation and the general partner of Libra ("Advisors"),
+Ranjan Tandon ("R. Tandon") and Chandrika Tandon ("C. Tandon").  R. Tandon is
+the sole shareholder and president of Advisors.  C. Tandon is the wife of R.
+Tandon.  Libra, Advisors, R. Tandon and C. Tandon are hereinafter sometimes
+referred to collectively as the "Reporting Persons."  The business address of
+each of Libra, Advisors and R. Tandon is 277 Park Avenue, New York, New York
+10017 and the business address of C. Tandon is 277 Park Avenue, 32nd Floor, New
+York, New York 10017.
+
+                Libra is a private investment fund.  Advisors is the general
+partner of Libra.
+
+                R. Tandon's principal occupation is president of Advisors.  C.
+Tandon's principal occupation is management consultant.  R. Tandon and C. Tandon
+are each United States citizens.
+
+                See Item 5 for information regarding ownership of Common Stock.
+
+                (d) and (e).  During the past five years, none of the Reporting
+Persons has been convicted in any criminal proceeding (excluding traffic
+violations or similar misdemeanors) or been a party to a civil proceeding of a
+judicial or administrative body of competent jurisdiction and as a result of
+such proceeding was or is subject to a judgment, decree or final order enjoining
+future violations of, or prohibiting or mandating activities subject to, federal
+or state securities laws or finding any violation with respect to such laws.
+
+
+                                       1
+
+
+
+    
+
+ITEM 3. SOURCE AND AMOUNT OF FUNDS
+
+                Libra purchased an aggregate of 209,500 shares of Class A
+Common Stock for an aggregate purchase price of $2,211,732 using its own funds.
+C. Tandon purchased an aggregate of 59,000 shares of Class A Common Stock for
+an aggregate purchase price of $635,400.
+
+ITEM 4. PURPOSE OF THE TRANSACTION
+
+                All of the shares of Class A Common Stock were acquired for
+investment purposes.  Each of the Reporting Persons may acquire or dispose of
+securities of the Issuer, including shares of Common Stock, directly or
+indirectly, in open-market or privately negotiated transactions, depending upon
+the evaluation of the performance and prospects of the Issuer by the Reporting
+Persons, and upon other developments and circumstances, including, but not
+limited to, general economic and business conditions and stock market
+conditions.
+
+                Except for the foregoing and as disclosed below, no Reporting
+Person has any present plans or proposals which relate to or would result in
+any of the actions or events described in paragraphs (a) through (j) of Item 4
+of Schedule 13D.
+
+ITEM 5. INTEREST IN SECURITIES OF THE ISSUER
+
+                (a) and (b) Libra is the beneficial owner of 209,500 shares of
+Class A Common Stock, or 4.2% of the outstanding shares of Class A Common
+Stock.
+
+                Advisors, as general partner of Libra, has the power to vote
+and to direct the voting of and the power to dispose and direct the disposition
+of the 209,500 shares of Class A Common Stock owned by Libra.  Accordingly,
+Advisors may be deemed to be the beneficial owner of such 209,500 shares of
+Class A Common Stock.
+
+                As the sole shareholder and president of  Advisors, R. Tandon
+may be deemed to have the power to vote and to direct the voting of and the
+power to dispose and direct the disposition of the 209,500 shares of Class A
+Common Stock owned by Libra.  Accordingly, R. Tandon may be deemed to be the
+beneficial owner of such 209,500 shares of Class A Common Stock.
+
+                C. Tandon is the beneficial owner of 59,000 shares of Class A
+Common Stock, or 1.2% of the outstanding shares of Class A Common Stock.  C.
+Tandon has the sole power to vote and to direct the voting of and the power to
+dispose and direct the disposition of the 59,000 shares of Class A Common Stock
+owned by her.  C. Tandon disclaims beneficial ownership of the shares of Class
+A Common Stock owned by the other Reporting Persons.  Libra, Advisors and R.
+Tandon each disclaim beneficial ownership of the shares of Class A Common Stock
+owned by C. Tandon.
+
+                                       2
+
+
+
+    
+
+
+                The number of shares beneficially owned by each of the
+Reporting Persons and the percentage of outstanding shares represented thereby,
+have been computed in accordance with Rule 13d-3 under the Securities Exchange
+Act of 1934, as amended. The ownership of the Reporting Persons is based on
+4,961,764 outstanding shares of Class A Common Stock of the Issuer as reported
+in the Issuer's Quarterly Report on Form 10-Q for the period ended September
+30, 1995.
+
+                (c)     See Schedule A attached hereto for a list of the
+transactions executed by Libra with respect to the Class A Common Stock in the
+past 60 days.  All of such transactions were effected in the open market.  No
+other Reporting Person has executed any transactions with respect to the Class
+A Common Stock in the past 60 days.
+
+                (d)     Not Applicable
+
+                (e)     Not Applicable
+
+ITEM 6. CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH RESPECT
+        TO SECURITIES OF THE ISSUER
+
+                On October 7, 1995, the Issuer waived (for a period of six
+months) the transfer restrictions imposed by the provisions of the Class A
+Common Stock to the extent necessary to permit Libra and related accounts to
+acquire up to 7% (348,135 shares) of Class A Common Stock and or Common Stock
+of the Issuer.
+
+ITEM 7. MATERIAL TO BE FILED AS EXHIBITS
+
+                Exhibit A. Waiver of Reading Corporation
+
+                Exhibit B. Agreement of Joint Filing
+
+                                       3
+
+
+
+    
+
+
+SIGNATURES
+
+                After reasonable inquiry and to the best of my knowledge and
+belief, I certify that the information set forth in this statement is true,
+complete and correct.
+
+                                                LIBRA FUNDS, L.P.
+
+                                                By: LIBRA ADVISORS, INC.,
+                                                      its General Partner
+
+
+                                                By:  /s/ Ranjan Tandon
+                                                     -------------------------
+                                                     Name: Ranjan Tandon
+                                                     Title: President
+
+
+                                                LIBRA ADVISORS, INC.
+
+
+                                                By:  /s/ Ranjan Tandon
+                                                     -------------------------
+                                                     Name: Ranjan Tandon
+                                                     Title: President
+
+
+                                                /s/ Ranjan Tandon
+                                                -----------------------------
+                                                RANJAN TANDON
+
+
+                                                /s/ Chandrika Tandon
+                                                -----------------------------
+                                                CHANDRIKA TANDON
+
+
+
+
+
+
+
+Dated: December 29, 1995
+
+                                       4
+
+
+
+    
+
+                                 [LETTERHEAD]
+
+                                                October 17, 1995
+
+Mr. Ranjan Tandon
+Libra Advisors, Inc.
+277 Park Avenue
+26th Floor
+New York, NY 10017
+
+Dear Ranjan:
+
+        Confirming our telephone conversation, on October 6, 1995 Reading
+Company's Board of Directors waived the transfer restrictions imposed by the
+provisions of the Company's Class A Common Stock to the extent necessary to
+permit Libra Fund LP and related accounts to acquire up to 7% (348,135 shares)
+of Class A Common Stock and or Common Stock. This waiver will apply for a
+period of six months from the date hereof. In the event that you elect not to
+exercise your right to acquire the additional shares, we would appreciate your
+advising us accordingly.
+
+        Please let me know should you have any questions relating to this
+matter. Best regards.
+
+                                        Very truly yours,
+
+
+                                        /s/ James A. Wunderle
+                                        ----------------------------
+                                        James A. Wunderle
+                                        Executive Vice President
+                                        and Chief Operating Officer
+
+JAW:cew
+
+
+
+
+
+
+
+    
+
+Exhibit B
+
+                    AGREEMENT OF JOINT FILING
+
+
+                In accordance with Rule 13d-1(f) under the Securities Exchange
+Act of 1934, as amended, the undersigned hereby agree to the joint filing with
+all other Reporting Persons (as such term is defined in the Schedule 13D
+referred to below) of a statement on Schedule 13D or any amendments thereto,
+with respect to the Class A Common Stock of Reading Company, and that this
+Agreement be included as an Exhibit to such filing.
+
+                This Agreement may be executed in any number of counterparts
+each of which shall be deemed to be an original and all of which together shall
+be deemed to constitute one and the same Agreement.
+
+                IN WITNESS WHEREOF, the undersigned hereby execute this
+Agreement on the 29th day of December, 1995.
+
+                                                LIBRA FUNDS, L.P.
+
+                                                By: LIBRA ADVISORS, INC.,
+                                                      its General Partner
+
+
+                                                By:  /s/ Ranjan Tandon
+                                                     -------------------------
+                                                     Name: Ranjan Tandon
+                                                     Title: President
+
+
+                                                LIBRA ADVISORS, INC.
+
+
+                                                By:  /s/ Ranjan Tandon
+                                                     -------------------------
+                                                     Name: Ranjan Tandon
+                                                     Title: President
+
+
+                                                /s/ Ranjan Tandon
+                                                -------------------------
+                                                RANJAN TANDON
+
+
+                                                /s/ Chandrika Tandon
+                                                -------------------------
+                                                CHANDRIKA TANDON
+
+
+                                       5
+
+
+
+
+
+    
+
+                                                        Schedule A
+
+RDGCA purchased for:
+
+LIBRA Fund
+
+  Date          Shares          Price            Total
+- --------        ------          ------          -------
+10/12/95        10,000          8.9375           83,375
+10/23/95           500          8.8000            4,400
+10/24/95         7,500          9.1250           68,438
+ 11/9/95         3,000          9.0600           27,180
+11/10/95         6,300          9.0600           57,078
+11/13/95         2,500          9.0600           22,650
+11/28/95         2,000          9.0600           18,120
+ 12/8/95         2,000          9.0600           18,120
+12/12/95         4,000          9.4375           37,750
+12/27/95         1,500          9.1250           13,688
+12/27/95         2,000          9.0600           18,120
+12/28/95        11,200          9.0600          101,472
+12/29/95         2,000          9.0600           18,120
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

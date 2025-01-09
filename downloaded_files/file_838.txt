@@ -1,0 +1,2682 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PZzBlw8/NLHO7OplLokvGG1cwhWiPwJSGNesONUa4Fc8C0NhzpUbOz3B4Zt3iVCx
+ k+dZ9qgvuw7tEpnmgCYfKQ==
+
+<SEC-DOCUMENT>0000888002-96-000139.txt : 19960808
+<SEC-HEADER>0000888002-96-000139.hdr.sgml : 19960808
+ACCESSION NUMBER:		0000888002-96-000139
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		19960807
+SROS:			NYSE
+GROUP MEMBERS:		ALLIANCE CAPITAL MANAGEMENT L.P.
+GROUP MEMBERS:		ALPHA ASSURANCES I.A.R.D. VIE MUTUELLE
+GROUP MEMBERS:		ALPHA ASSURANCES VIE MUTUELLE
+GROUP MEMBERS:		AXA
+GROUP MEMBERS:		AXA ASSURANCES I.A.R.D. MUTUELLE
+GROUP MEMBERS:		AXA ASSURANCES VIE MUTUELLE
+GROUP MEMBERS:		CLAUDE BEBEAR, AS AXA VOTING TRUSTEE
+GROUP MEMBERS:		EQ ASSET TRUST 1993
+GROUP MEMBERS:		EQUITABLE COMPANIES INC
+GROUP MEMBERS:		FINAXA
+GROUP MEMBERS:		HENRI DE CLERMONT-TONNERRE, AS AXA VOTING TRUSTEE
+GROUP MEMBERS:		PATRICE GARNIER, AS AXA VOTING TRUSTEE
+GROUP MEMBERS:		UNI EUROPE ASSURANCE MUTUELLE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FURRS BISHOPS INC
+		CENTRAL INDEX KEY:			0000872548
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		IRS NUMBER:				752350724
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-41576
+		FILM NUMBER:		96605236
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6901 QUAKER AVE
+		CITY:			LUBBOCK
+		STATE:			TX
+		ZIP:			79413
+		BUSINESS PHONE:		8067927151
+
+	MAIL ADDRESS:	
+		STREET 1:		6901 QUAKER AVE
+		CITY:			LUBBOCK
+		STATE:			TX
+		ZIP:			79413
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EQUITABLE COMPANIES INC
+		CENTRAL INDEX KEY:			0000888002
+		STANDARD INDUSTRIAL CLASSIFICATION:	LIFE INSURANCE [6311]
+		IRS NUMBER:				133623351
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		787 SEVENTH AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		2125541234
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>INITIAL SCHEDULE 13D
+<TEXT>
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                  SCHEDULE 13D
+                   Under the Securities Exchange Act of 1934
+                               (Amendment No. )*
+
+                         Furr's/Bishop's, Incorporated
+                                (Name of Issuer)
+
+                                  Common Stock
+                         (Title of class of securities)
+
+                                   361115504
+                                 (CUSIP Number)
+
+                               Alvin H. Fenichel
+                      Senior Vice President and Controller
+                      The Equitable Companies Incorporated
+                               787 Seventh Avenue
+                               New York, NY 10019
+                                 (212) 554-4489
+
+      (Name, Address and Telephone Number of Person Authorized to Receive
+                          Notices and Communications)
+
+                                 March 12, 1996
+                  (Date of event which requires filing of this
+                                   Statement)
+
+         If the filing person has  previously  filed a statement on Schedule 13G
+to report the  acquisition  which is the subject of this  Schedule  13D,  and is
+filing this schedule because of Rule 13d-1(b)(3) or (4), check the following box
+[ ].
+
+         Check the following box if a fee is being paid with this statement [X].
+(A fee  is not  required  only  if the  reporting  person:  (1)  has a  previous
+statement on file  reporting  beneficial  ownership of more than five percent of
+the class of  securities  described  in Item 1; and (2) has  filed no  amendment
+subsequent thereto reporting  beneficial  ownership of less than five percent of
+such class. See Rule 13d-7.)
+
+     Note: Six copies of this statement, including all exhibits, should be filed
+with the  Commission.  See Rule 13d-1(a) for other parties to whom copies are to
+be sent.
+
+*The  remainder of this cover page shall be filled out for a reporting  person's
+initial filing on this form with respect to the subject class of securities, and
+for  any  subsequent   amendment   containing   information  which  would  alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purposes of Section 18 of the  Securities  Exchange Act of
+1934 ("Act") or otherwise  subject to the liabilities of that section of the Act
+but  shall be  subject  to all other  provisions  of the Act  (however,  see the
+Notes).
+
+
+
+                                       1
+<PAGE>
+
+
+    |--------------------|
+    |CUSIP NO. 361115504 |       SCHEDULE 13D
+    |--------------------|
+    |---------------------------------------------------------------------|
+    | 1|NAME OF REPORTING PERSON                                          |
+    |  |EQ Asset Trust 1993                                               |
+    |  |                                                                  |
+    |  |S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON                 |
+    |  |13-3623351                                                        |
+    |--|------------------------------------------------------------------|
+    | 2|CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP *   (A) [ ]      |
+    |  |                                                     (B) [ ]      |
+    |--|------------------------------------------------------------------|
+    | 3|SEC USE ONLY                                                      |
+    |  |                                                                  |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 4|SOURCE OF FUNDS*                                                  |
+    |  |00                                                                |
+    |--|------------------------------------------------------------------|
+    | 5|CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED          |
+    |  |PURSUANT TO ITEMS 2(d) OR 2(e)                           [ ]      |
+    |--|------------------------------------------------------------------|
+    | 6|CITIZENSHIP OR PLACE OF ORGANIZATION                              |
+    |  |Delaware                                                          |
+    |---------------------------------------------------------------------|
+    |                  | 7|SOLE VOTING POWER                              |
+    |     NUMBER OF    |  |               0                               |
+    |      SHARES      |--|-----------------------------------------------|
+    |   BENEFICIALLY   | 8|SHARED VOTING POWER                            |
+    |      OWNED       |  |       8,499,857                               |
+    |     BY EACH      |--|-----------------------------------------------|
+    |    REPORTING     | 9|SOLE DISPOSITIVE POWER                         |
+    |     PERSON       |  |               0                               |
+    |      WITH        |--|-----------------------------------------------|
+    |                  |10|SHARED DISPOSITIVE POWER                       |
+    |                  |  |       8,499,857                               |
+    |---------------------------------------------------------------------|
+    |11|AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON      |
+    |  |                          8,499,857  - see Item 5                 |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    |12|CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN     |
+    |  |SHARES *                                                 [ ]      |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    |13|PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 11                  |
+    |  |                                                                  |
+    |  |                             17.46% - see Item 5                  |
+    |--|------------------------------------------------------------------|
+    |14|TYPE OF REPORTING PERSON *                                        |
+    |  | OO                                                               |
+    |  |                                                                  |
+    |---------------------------------------------------------------------|
+                    * SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+                                       2
+<PAGE>
+
+
+    |--------------------|
+    |CUSIP NO. 361115504 |       SCHEDULE 13D
+    |--------------------|
+    |---------------------------------------------------------------------|
+    | 1|NAME OF REPORTING PERSON                                          |
+    |  |Alliance Capital Management L.P.                                  |
+    |  |                                                                  |
+    |  |S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON                 |
+    |  |13-3434400                                                        |
+    |--|------------------------------------------------------------------|
+    | 2|CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP *   (A) [ ]      |
+    |  |                                                     (B) [ ]      |
+    |--|------------------------------------------------------------------|
+    | 3|SEC USE ONLY                                                      |
+    |  |                                                                  |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 4|SOURCE OF FUNDS*                                                  |
+    |  |00                                                                |
+    |--|------------------------------------------------------------------|
+    | 5|CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED          |
+    |  |PURSUANT TO ITEMS 2(d) OR 2(e)                           [ ]      |
+    |--|------------------------------------------------------------------|
+    | 6|CITIZENSHIP OR PLACE OF ORGANIZATION                              |
+    |  |Delaware                                                          |
+    |---------------------------------------------------------------------|
+    |                  | 7|SOLE VOTING POWER                              |
+    |     NUMBER OF    |  |               0                               |
+    |      SHARES      |--|-----------------------------------------------|
+    |   BENEFICIALLY   | 8|SHARED VOTING POWER                            |
+    |      OWNED       |  |       8,499,857                               |
+    |     BY EACH      |--|-----------------------------------------------|
+    |    REPORTING     | 9|SOLE DISPOSITIVE POWER                         |
+    |     PERSON       |  |               0                               |
+    |      WITH        |--|-----------------------------------------------|
+    |                  |10|SHARED DISPOSITIVE POWER                       |
+    |                  |  |       8,499,857                               |
+    |---------------------------------------------------------------------|
+    |11|AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON      |
+    |  |                          8,499,857  - see Item 5                 |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    |12|CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN     |
+    |  |SHARES *                                                 [ ]      |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    |13|PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 11                  |
+    |  |                                                                  |
+    |  |                             17.46% - see Item 5                  |
+    |--|------------------------------------------------------------------|
+    |14|TYPE OF REPORTING PERSON *                                        |
+    |  | IA, PN                                                           |
+    |  |                                                                  |
+    |---------------------------------------------------------------------|
+                    * SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+                                       3
+<PAGE>
+
+
+    |--------------------|
+    |CUSIP NO. 361115504 |       SCHEDULE 13D
+    |--------------------|
+    |---------------------------------------------------------------------|
+    | 1|NAME OF REPORTING PERSON                                          |
+    |  |The Equitable Companies Incorporated                              |
+    |  |                                                                  |
+    |  |S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON                 |
+    |  |13-3623351                                                        |
+    |--|------------------------------------------------------------------|
+    | 2|CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP *   (A) [ ]      |
+    |  |                                                     (B) [ ]      |
+    |--|------------------------------------------------------------------|
+    | 3|SEC USE ONLY                                                      |
+    |  |                                                                  |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 4|SOURCE OF FUNDS*                                                  |
+    |  |00                                                                |
+    |--|------------------------------------------------------------------|
+    | 5|CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED          |
+    |  |PURSUANT TO ITEMS 2(d) OR 2(e)                           [ ]      |
+    |--|------------------------------------------------------------------|
+    | 6|CITIZENSHIP OR PLACE OF ORGANIZATION                              |
+    |  |Delaware                                                          |
+    |---------------------------------------------------------------------|
+    |                  | 7|SOLE VOTING POWER                              |
+    |     NUMBER OF    |  |               0                               |
+    |      SHARES      |--|-----------------------------------------------|
+    |   BENEFICIALLY   | 8|SHARED VOTING POWER                            |
+    |      OWNED       |  |       8,499,857                               |
+    |     BY EACH      |--|-----------------------------------------------|
+    |    REPORTING     | 9|SOLE DISPOSITIVE POWER                         |
+    |     PERSON       |  |               0                               |
+    |      WITH        |--|-----------------------------------------------|
+    |                  |10|SHARED DISPOSITIVE POWER                       |
+    |                  |  |       8,499,857                               |
+    |---------------------------------------------------------------------|
+    |11|AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON      |
+    |  |                          8,499,857  - see Item 5                 |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    |12|CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN     |
+    |  |SHARES *                                                 [ ]      |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    |13|PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 11                  |
+    |  |                                                                  |
+    |  |                             17.46% - see Item 5                  |
+    |--|------------------------------------------------------------------|
+    |14|TYPE OF REPORTING PERSON *                                        |
+    |  | HC, CO                                                           |
+    |  |                                                                  |
+    |---------------------------------------------------------------------|
+                    * SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+                                       4
+<PAGE>
+
+
+    |--------------------|
+    |CUSIP NO. 361115504 |       SCHEDULE 13D
+    |--------------------|
+    |---------------------------------------------------------------------|
+    | 1|NAME OF REPORTING PERSON                                          |
+    |  |AXA                                                               |
+    |  |                                                                  |
+    |  |S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON                 |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 2|CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP *   (A) [ ]      |
+    |  |                                                     (B) [ ]      |
+    |--|------------------------------------------------------------------|
+    | 3|SEC USE ONLY                                                      |
+    |  |                                                                  |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 4|SOURCE OF FUNDS*                                                  |
+    |  |N/A                                                               |
+    |--|------------------------------------------------------------------|
+    | 5|CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED          |
+    |  |PURSUANT TO ITEMS 2(d) OR 2(e)                           [ ]      |
+    |--|------------------------------------------------------------------|
+    | 6|CITIZENSHIP OR PLACE OF ORGANIZATION                              |
+    |  |France                                                            |
+    |---------------------------------------------------------------------|
+    |                  | 7|SOLE VOTING POWER                              |
+    |     NUMBER OF    |  |       see Item 5                              |
+    |      SHARES      |--|-----------------------------------------------|
+    |   BENEFICIALLY   | 8|SHARED VOTING POWER                            |
+    |      OWNED       |  |       see Item 5                              |
+    |     BY EACH      |--|-----------------------------------------------|
+    |    REPORTING     | 9|SOLE DISPOSITIVE POWER                         |
+    |     PERSON       |  |       see Item 5                              |
+    |      WITH        |--|-----------------------------------------------|
+    |                  |10|SHARED DISPOSITIVE POWER                       |
+    |                  |  |       see Item 5                              |
+    |---------------------------------------------------------------------|
+    |11|AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON      |
+    |  |                          8,499,857                               |
+    |  |(Not to be construed as an admission of beneficial ownership) -   |
+    |  | see Item 5                                                       |
+    |--|------------------------------------------------------------------|
+    |12|CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN     |
+    |  |SHARES *                                                 [ ]      |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    |13|PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 11                  |
+    |  |                                                                  |
+    |  |                             17.46% - see Item 5                  |
+    |--|------------------------------------------------------------------|
+    |14|TYPE OF REPORTING PERSON *                                        |
+    |  |                                                                  |
+    |  |HC                                                                |
+    |---------------------------------------------------------------------|
+                    * SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+                                       5
+<PAGE>
+
+
+    |--------------------|
+    |CUSIP NO. 361115504 |       SCHEDULE 13D
+    |--------------------|
+    |---------------------------------------------------------------------|
+    | 1|NAME OF REPORTING PERSON                                          |
+    |  |Finaxa                                                            |
+    |  |                                                                  |
+    |  |S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON                 |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 2|CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP *   (A) [ ]      |
+    |  |                                                     (B) [ ]      |
+    |--|------------------------------------------------------------------|
+    | 3|SEC USE ONLY                                                      |
+    |  |                                                                  |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 4|SOURCE OF FUNDS*                                                  |
+    |  |N/A                                                               |
+    |--|------------------------------------------------------------------|
+    | 5|CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED          |
+    |  |PURSUANT TO ITEMS 2(d) OR 2(e)                           [ ]      |
+    |--|------------------------------------------------------------------|
+    | 6|CITIZENSHIP OR PLACE OF ORGANIZATION                              |
+    |  |France                                                            |
+    |---------------------------------------------------------------------|
+    |                  | 7|SOLE VOTING POWER                              |
+    |     NUMBER OF    |  |       see Item 5                              |
+    |      SHARES      |--|-----------------------------------------------|
+    |   BENEFICIALLY   | 8|SHARED VOTING POWER                            |
+    |      OWNED       |  |       see Item 5                              |
+    |     BY EACH      |--|-----------------------------------------------|
+    |    REPORTING     | 9|SOLE DISPOSITIVE POWER                         |
+    |     PERSON       |  |       see Item 5                              |
+    |      WITH        |--|-----------------------------------------------|
+    |                  |10|SHARED DISPOSITIVE POWER                       |
+    |                  |  |       see Item 5                              |
+    |---------------------------------------------------------------------|
+    |11|AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON      |
+    |  |                          8,499,857                               |
+    |  |(Not to be construed as an admission of beneficial ownership) -   |
+    |  | see Item 5                                                       |
+    |--|------------------------------------------------------------------|
+    |12|CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN     |
+    |  |SHARES *                                                 [ ]      |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    |13|PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 11                  |
+    |  |                                                                  |
+    |  |                             17.46% - see Item 5                  |
+    |--|------------------------------------------------------------------|
+    |14|TYPE OF REPORTING PERSON *                                        |
+    |  |HC                                                                |
+    |  |                                                                  |
+    |---------------------------------------------------------------------|
+                    * SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+                                       6
+<PAGE>
+
+
+    |--------------------|
+    |CUSIP NO. 361115504 |       SCHEDULE 13D
+    |--------------------|
+    |---------------------------------------------------------------------|
+    | 1|NAME OF REPORTING PERSON                                          |
+    |  |AXA Assurances I.A.R.D. Mutuelle                                  |
+    |  |                                                                  |
+    |  |S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON                 |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 2|CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP *   (A) [ ]      |
+    |  |                                                     (B) [X]      |
+    |--|------------------------------------------------------------------|
+    | 3|SEC USE ONLY                                                      |
+    |  |                                                                  |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 4|SOURCE OF FUNDS*                                                  |
+    |  |N/A                                                               |
+    |--|------------------------------------------------------------------|
+    | 5|CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED          |
+    |  |PURSUANT TO ITEMS 2(d) OR 2(e)                           [ ]      |
+    |--|------------------------------------------------------------------|
+    | 6|CITIZENSHIP OR PLACE OF ORGANIZATION                              |
+    |  |France                                                            |
+    |---------------------------------------------------------------------|
+    |                  | 7|SOLE VOTING POWER                              |
+    |     NUMBER OF    |  |       see Item 5                              |
+    |      SHARES      |--|-----------------------------------------------|
+    |   BENEFICIALLY   | 8|SHARED VOTING POWER                            |
+    |      OWNED       |  |       see Item 5                              |
+    |     BY EACH      |--|-----------------------------------------------|
+    |    REPORTING     | 9|SOLE DISPOSITIVE POWER                         |
+    |     PERSON       |  |       see Item 5                              |
+    |      WITH        |--|-----------------------------------------------|
+    |                  |10|SHARED DISPOSITIVE POWER                       |
+    |                  |  |       see Item 5                              |
+    |---------------------------------------------------------------------|
+    |11|AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON      |
+    |  |                          8,499,857                               |
+    |  |(Not to be construed as an admission of beneficial ownership) -   |
+    |  | see Item 5                                                       |
+    |--|------------------------------------------------------------------|
+    |12|CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN     |
+    |  |SHARES *                                                 [ ]      |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    |13|PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 11                  |
+    |  |                                                                  |
+    |  |                             17.46% - see Item 5                  |
+    |--|------------------------------------------------------------------|
+    |14|TYPE OF REPORTING PERSON *                                        |
+    |  | IC                                                               |
+    |  |                                                                  |
+    |---------------------------------------------------------------------|
+                    * SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+                                       7
+<PAGE>
+
+
+    |--------------------|
+    |CUSIP NO. 361115504 |       SCHEDULE 13D
+    |--------------------|
+    |---------------------------------------------------------------------|
+    | 1|NAME OF REPORTING PERSON                                          |
+    |  |AXA Assurances Vie Mutuelle                                       |
+    |  |                                                                  |
+    |  |S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON                 |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 2|CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP *   (A) [ ]      |
+    |  |                                                     (B) [X]      |
+    |--|------------------------------------------------------------------|
+    | 3|SEC USE ONLY                                                      |
+    |  |                                                                  |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 4|SOURCE OF FUNDS*                                                  |
+    |  |N/A                                                               |
+    |--|------------------------------------------------------------------|
+    | 5|CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED          |
+    |  |PURSUANT TO ITEMS 2(d) OR 2(e)                           [ ]      |
+    |--|------------------------------------------------------------------|
+    | 6|CITIZENSHIP OR PLACE OF ORGANIZATION                              |
+    |  |France                                                            |
+    |---------------------------------------------------------------------|
+    |                  | 7|SOLE VOTING POWER                              |
+    |     NUMBER OF    |  |       see Item 5                              |
+    |      SHARES      |--|-----------------------------------------------|
+    |   BENEFICIALLY   | 8|SHARED VOTING POWER                            |
+    |      OWNED       |  |       see Item 5                              |
+    |     BY EACH      |--|-----------------------------------------------|
+    |    REPORTING     | 9|SOLE DISPOSITIVE POWER                         |
+    |     PERSON       |  |       see Item 5                              |
+    |      WITH        |--|-----------------------------------------------|
+    |                  |10|SHARED DISPOSITIVE POWER                       |
+    |                  |  |       see Item 5                              |
+    |---------------------------------------------------------------------|
+    |11|AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON      |
+    |  |                          8,499,857                               |
+    |  |(Not to be construed as an admission of beneficial ownership) -   |
+    |  | see Item 5                                                       |
+    |--|------------------------------------------------------------------|
+    |12|CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN     |
+    |  |SHARES *                                                 [ ]      |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    |13|PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 11                  |
+    |  |                                                                  |
+    |  |                             17.46% - see Item 5                  |
+    |--|------------------------------------------------------------------|
+    |14|TYPE OF REPORTING PERSON *                                        |
+    |  |IC                                                                |
+    |  |                                                                  |
+    |---------------------------------------------------------------------|
+                    * SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+                                       8
+<PAGE>
+
+
+    |--------------------|
+    |CUSIP NO. 361115504 |       SCHEDULE 13D
+    |--------------------|
+    |---------------------------------------------------------------------|
+    | 1|NAME OF REPORTING PERSON                                          |
+    |  |Alpha Assurances I.A.R.D. Mutuelle                                |
+    |  |                                                                  |
+    |  |S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON                 |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 2|CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP *   (A) [ ]      |
+    |  |                                                     (B) [X]      |
+    |--|------------------------------------------------------------------|
+    | 3|SEC USE ONLY                                                      |
+    |  |                                                                  |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 4|SOURCE OF FUNDS*                                                  |
+    |  |N/A                                                               |
+    |--|------------------------------------------------------------------|
+    | 5|CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED          |
+    |  |PURSUANT TO ITEMS 2(d) OR 2(e)                           [ ]      |
+    |--|------------------------------------------------------------------|
+    | 6|CITIZENSHIP OR PLACE OF ORGANIZATION                              |
+    |  |France                                                            |
+    |---------------------------------------------------------------------|
+    |                  | 7|SOLE VOTING POWER                              |
+    |     NUMBER OF    |  |       see Item 5                              |
+    |      SHARES      |--|-----------------------------------------------|
+    |   BENEFICIALLY   | 8|SHARED VOTING POWER                            |
+    |      OWNED       |  |       see Item 5                              |
+    |     BY EACH      |--|-----------------------------------------------|
+    |    REPORTING     | 9|SOLE DISPOSITIVE POWER                         |
+    |     PERSON       |  |       see Item 5                              |
+    |      WITH        |--|-----------------------------------------------|
+    |                  |10|SHARED DISPOSITIVE POWER                       |
+    |                  |  |       see Item 5                              |
+    |---------------------------------------------------------------------|
+    |11|AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON      |
+    |  |                          8,499,857                               |
+    |  |(Not to be construed as an admission of beneficial ownership) -   |
+    |  | see Item 5                                                       |
+    |--|------------------------------------------------------------------|
+    |12|CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN     |
+    |  |SHARES *                                                 [ ]      |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    |13|PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 11                  |
+    |  |                                                                  |
+    |  |                             17.46% - see Item 5                  |
+    |--|------------------------------------------------------------------|
+    |14|TYPE OF REPORTING PERSON *                                        |
+    |  |IC                                                                |
+    |  |                                                                  |
+    |---------------------------------------------------------------------|
+                    * SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+                                       9
+<PAGE>
+
+
+    |--------------------|
+    |CUSIP NO. 361115504 |       SCHEDULE 13D
+    |--------------------|
+    |---------------------------------------------------------------------|
+    | 1|NAME OF REPORTING PERSON                                          |
+    |  |Alpha Assurances Vie Mutuelle                                     |
+    |  |                                                                  |
+    |  |S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON                 |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 2|CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP *   (A) [ ]      |
+    |  |                                                     (B) [X]      |
+    |--|------------------------------------------------------------------|
+    | 3|SEC USE ONLY                                                      |
+    |  |                                                                  |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 4|SOURCE OF FUNDS*                                                  |
+    |  |N/A                                                               |
+    |--|------------------------------------------------------------------|
+    | 5|CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED          |
+    |  |PURSUANT TO ITEMS 2(d) OR 2(e)                           [ ]      |
+    |--|------------------------------------------------------------------|
+    | 6|CITIZENSHIP OR PLACE OF ORGANIZATION                              |
+    |  |France                                                            |
+    |---------------------------------------------------------------------|
+    |                  | 7|SOLE VOTING POWER                              |
+    |     NUMBER OF    |  |       see Item 5                              |
+    |      SHARES      |--|-----------------------------------------------|
+    |   BENEFICIALLY   | 8|SHARED VOTING POWER                            |
+    |      OWNED       |  |       see Item 5                              |
+    |     BY EACH      |--|-----------------------------------------------|
+    |    REPORTING     | 9|SOLE DISPOSITIVE POWER                         |
+    |     PERSON       |  |       see Item 5                              |
+    |      WITH        |--|-----------------------------------------------|
+    |                  |10|SHARED DISPOSITIVE POWER                       |
+    |                  |  |       see Item 5                              |
+    |---------------------------------------------------------------------|
+    |11|AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON      |
+    |  |                          8,499,857                               |
+    |  |(Not to be construed as an admission of beneficial ownership) -   |
+    |  | see Item 5                                                       |
+    |--|------------------------------------------------------------------|
+    |12|CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN     |
+    |  |SHARES *                                                 [ ]      |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    |13|PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 11                  |
+    |  |                                                                  |
+    |  |                             17.46% - see Item 5                  |
+    |--|------------------------------------------------------------------|
+    |14|TYPE OF REPORTING PERSON *                                        |
+    |  |IC                                                                |
+    |  |                                                                  |
+    |---------------------------------------------------------------------|
+                    * SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+                                       10
+<PAGE>
+
+
+    |--------------------|
+    |CUSIP NO. 361115504 |       SCHEDULE 13D
+    |--------------------|
+    |---------------------------------------------------------------------|
+    | 1|NAME OF REPORTING PERSON                                          |
+    |  |Uni Europe Assurance Mutuelle                                     |
+    |  |                                                                  |
+    |  |S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON                 |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 2|CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP *   (A) [ ]      |
+    |  |                                                     (B) [X]      |
+    |--|------------------------------------------------------------------|
+    | 3|SEC USE ONLY                                                      |
+    |  |                                                                  |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 4|SOURCE OF FUNDS*                                                  |
+    |  |N/A                                                               |
+    |--|------------------------------------------------------------------|
+    | 5|CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED          |
+    |  |PURSUANT TO ITEMS 2(d) OR 2(e)                           [ ]      |
+    |--|------------------------------------------------------------------|
+    | 6|CITIZENSHIP OR PLACE OF ORGANIZATION                              |
+    |  |France                                                            |
+    |---------------------------------------------------------------------|
+    |                  | 7|SOLE VOTING POWER                              |
+    |     NUMBER OF    |  |       see Item 5                              |
+    |      SHARES      |--|-----------------------------------------------|
+    |   BENEFICIALLY   | 8|SHARED VOTING POWER                            |
+    |      OWNED       |  |       see Item 5                              |
+    |     BY EACH      |--|-----------------------------------------------|
+    |    REPORTING     | 9|SOLE DISPOSITIVE POWER                         |
+    |     PERSON       |  |       see Item 5                              |
+    |      WITH        |--|-----------------------------------------------|
+    |                  |10|SHARED DISPOSITIVE POWER                       |
+    |                  |  |       see Item 5                              |
+    |---------------------------------------------------------------------|
+    |11|AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON      |
+    |  |                          8,499,857                               |
+    |  |(Not to be construed as an admission of beneficial ownership) -   |
+    |  | see Item 5                                                       |
+    |--|------------------------------------------------------------------|
+    |12|CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN     |
+    |  |SHARES *                                                 [ ]      |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    |13|PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 11                  |
+    |  |                                                                  |
+    |  |                             17.46% - see Item 5                  |
+    |--|------------------------------------------------------------------|
+    |14|TYPE OF REPORTING PERSON *                                        |
+    |  |IC                                                                |
+    |  |                                                                  |
+    |---------------------------------------------------------------------|
+                    * SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+                                       11
+<PAGE>
+
+
+    |--------------------|
+    |CUSIP NO. 361115504 |       SCHEDULE 13D
+    |--------------------|
+    |---------------------------------------------------------------------|
+    | 1|NAME OF REPORTING PERSON                                          |
+    |  |Claude Bebear, as AXA Voting Trustee                              |
+    |  |                                                                  |
+    |  |S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON                 |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 2|CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP *   (A) [ ]      |
+    |  |                                                     (B) [ ]      |
+    |--|------------------------------------------------------------------|
+    | 3|SEC USE ONLY                                                      |
+    |  |                                                                  |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 4|SOURCE OF FUNDS*                                                  |
+    |  |N/A                                                               |
+    |--|------------------------------------------------------------------|
+    | 5|CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED          |
+    |  |PURSUANT TO ITEMS 2(d) OR 2(e)                           [ ]      |
+    |--|------------------------------------------------------------------|
+    | 6|CITIZENSHIP OR PLACE OF ORGANIZATION                              |
+    |  |Citizen of France                                                 |
+    |---------------------------------------------------------------------|
+    |                  | 7|SOLE VOTING POWER                              |
+    |     NUMBER OF    |  |       see Item 5                              |
+    |      SHARES      |--|-----------------------------------------------|
+    |   BENEFICIALLY   | 8|SHARED VOTING POWER                            |
+    |      OWNED       |  |       see Item 5                              |
+    |     BY EACH      |--|-----------------------------------------------|
+    |    REPORTING     | 9|SOLE DISPOSITIVE POWER                         |
+    |     PERSON       |  |       see Item 5                              |
+    |      WITH        |--|-----------------------------------------------|
+    |                  |10|SHARED DISPOSITIVE POWER                       |
+    |                  |  |       see Item 5                              |
+    |---------------------------------------------------------------------|
+    |11|AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON      |
+    |  |                          8,499,857                               |
+    |  |(Not to be construed as an admission of beneficial ownership) -   |
+    |  | see Item 5                                                       |
+    |--|------------------------------------------------------------------|
+    |12|CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN     |
+    |  |SHARES *                                                 [ ]      |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    |13|PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 11                  |
+    |  |                                                                  |
+    |  |                             17.46% - see Item 5                  |
+    |--|------------------------------------------------------------------|
+    |14|TYPE OF REPORTING PERSON *                                        |
+    |  |IN                                                                |
+    |  |                                                                  |
+    |---------------------------------------------------------------------|
+                    * SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+                                       12
+<PAGE>
+
+
+    |--------------------|
+    |CUSIP NO. 361115504 |       SCHEDULE 13D
+    |--------------------|
+    |---------------------------------------------------------------------|
+    | 1|NAME OF REPORTING PERSON                                          |
+    |  |Patrice Garnier, as AXA Voting Trustee                            |
+    |  |                                                                  |
+    |  |S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON                 |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 2|CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP *   (A) [ ]      |
+    |  |                                                     (B) [ ]      |
+    |--|------------------------------------------------------------------|
+    | 3|SEC USE ONLY                                                      |
+    |  |                                                                  |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 4|SOURCE OF FUNDS*                                                  |
+    |  |N/A                                                               |
+    |--|------------------------------------------------------------------|
+    | 5|CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED          |
+    |  |PURSUANT TO ITEMS 2(d) OR 2(e)                           [ ]      |
+    |--|------------------------------------------------------------------|
+    | 6|CITIZENSHIP OR PLACE OF ORGANIZATION                              |
+    |  |Citizen of France                                                 |
+    |---------------------------------------------------------------------|
+    |                  | 7|SOLE VOTING POWER                              |
+    |     NUMBER OF    |  |       see Item 5                              |
+    |      SHARES      |--|-----------------------------------------------|
+    |   BENEFICIALLY   | 8|SHARED VOTING POWER                            |
+    |      OWNED       |  |       see Item 5                              |
+    |     BY EACH      |--|-----------------------------------------------|
+    |    REPORTING     | 9|SOLE DISPOSITIVE POWER                         |
+    |     PERSON       |  |       see Item 5                              |
+    |      WITH        |--|-----------------------------------------------|
+    |                  |10|SHARED DISPOSITIVE POWER                       |
+    |                  |  |       see Item 5                              |
+    |---------------------------------------------------------------------|
+    |11|AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON      |
+    |  |                          8,499,857                               |
+    |  |(Not to be construed as an admission of beneficial ownership) -   |
+    |  | see Item 5                                                       |
+    |--|------------------------------------------------------------------|
+    |12|CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN     |
+    |  |SHARES *                                                 [ ]      |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    |13|PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 11                  |
+    |  |                                                                  |
+    |  |                             17.46% - see Item 5                  |
+    |--|------------------------------------------------------------------|
+    |14|TYPE OF REPORTING PERSON *                                        |
+    |  |IN                                                                |
+    |  |                                                                  |
+    |---------------------------------------------------------------------|
+                    * SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+                                       13
+<PAGE>
+
+
+    |--------------------|
+    |CUSIP NO. 361115504 |       SCHEDULE 13D
+    |--------------------|
+    |---------------------------------------------------------------------|
+    | 1|NAME OF REPORTING PERSON                                          |
+    |  |Henri de Clermont-Tonnerre, as AXA Voting Trustee                 |
+    |  |                                                                  |
+    |  |S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON                 |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 2|CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP *   (A) [ ]      |
+    |  |                                                     (B) [ ]      |
+    |--|------------------------------------------------------------------|
+    | 3|SEC USE ONLY                                                      |
+    |  |                                                                  |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    | 4|SOURCE OF FUNDS*                                                  |
+    |  |N/A                                                               |
+    |--|------------------------------------------------------------------|
+    | 5|CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED          |
+    |  |PURSUANT TO ITEMS 2(d) OR 2(e)                           [ ]      |
+    |--|------------------------------------------------------------------|
+    | 6|CITIZENSHIP OR PLACE OF ORGANIZATION                              |
+    |  |Citizen of France                                                 |
+    |---------------------------------------------------------------------|
+    |                  | 7|SOLE VOTING POWER                              |
+    |     NUMBER OF    |  |       see Item 5                              |
+    |      SHARES      |--|-----------------------------------------------|
+    |   BENEFICIALLY   | 8|SHARED VOTING POWER                            |
+    |      OWNED       |  |       see Item 5                              |
+    |     BY EACH      |--|-----------------------------------------------|
+    |    REPORTING     | 9|SOLE DISPOSITIVE POWER                         |
+    |     PERSON       |  |       see Item 5                              |
+    |      WITH        |--|-----------------------------------------------|
+    |                  |10|SHARED DISPOSITIVE POWER                       |
+    |                  |  |       see Item 5                              |
+    |---------------------------------------------------------------------|
+    |11|AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON      |
+    |  |                          8,499,857                               |
+    |  |(Not to be construed as an admission of beneficial ownership) -   |
+    |  | see Item 5                                                       |
+    |--|------------------------------------------------------------------|
+    |12|CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN     |
+    |  |SHARES *                                                 [ ]      |
+    |  |                                                                  |
+    |--|------------------------------------------------------------------|
+    |13|PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 11                  |
+    |  |                                                                  |
+    |  |                             17.46% - see Item 5                  |
+    |--|------------------------------------------------------------------|
+    |14|TYPE OF REPORTING PERSON *                                        |
+    |  |IN                                                                |
+    |  |                                                                  |
+    |---------------------------------------------------------------------|
+                    * SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+                                       14
+<PAGE>
+
+Item 1 - Security and Issuer
+
+This Schedule 13D relates to shares of common  stock,  par value $0.01 per share
+(the "Shares"),  of Furr's/Bishop's,  Incorporated,  a Delaware corporation (the
+"Issuer").  The address of the principal  executive office of the Issuer is 6901
+Quaker Avenue, Lubbock, Texas 79413.
+
+The  information  set  forth in the  Exhibits  to this  Schedule  13D is  hereby
+expressly  incorporated  herein by reference  and the  responses to each item of
+this  Schedule 13D are  qualified in their  entirety by the  provisions  of such
+Exhibits.
+
+Item 2 - Identity and Background
+
+This  Schedule  13D is being filed  jointly on behalf of the  following  persons
+(collectively,  the  "Reporting  Persons"):  (1) EQ Asset Trust 1993, a Delaware
+business trust ("EQAT"); (2) Alliance Capital Management L.P., a Delaware master
+limited partnership  ("Alliance");  (3) The Equitable Companies Incorporated,  a
+Delaware corporation  ("Equitable"),  (4) AXA, a societe anonyme organized under
+the laws of France,  (5) Finaxa,  a societe anonyme  organized under the laws of
+France,  (6) AXA  Assurances  I.A.R.D.  Mutuelle,  a  mutual  insurance  company
+organized  under the laws of France,  (7) AXA Assurances Vie Mutuelle,  a mutual
+insurance  company  organized  under the laws of  France,  (8) Alpha  Assurances
+I.A.R.D.  Mutuelle,  a mutual  insurance  company  organized  under  the laws of
+France, (9) Alpha Assurances Vie Mutuelle,  a mutual insurance company organized
+under the laws of France, (10) Uni Europe Assurance Mutuelle, a mutual insurance
+company  organized  under the laws of France,  and (11) Claude  Bebear,  Patrice
+Garnier and Henri de Clermont-Tonnerre,  trustees (the "AXA Voting Trustees") of
+a voting trust (the "AXA Voting Trust")  established  pursuant to a Voting Trust
+Agreement by and among AXA and the AXA Voting Trustees dated as of May 12, 1992.
+
+EQAT is a  limited-purpose  business trust organized under the laws of the state
+of Delaware by Equitable.
+
+Alliance is a Delaware master limited  partnership  and a registered  investment
+adviser.  Alliance  manages the  collateral  of EQAT  pursuant  to a  Collateral
+Management  Agreement,  dated  August 31,  1993 (the  "CMA"),  between  EQAT and
+Alliance.
+
+Equitable is a Delaware  corporation and is a holding company.  Equitable is the
+beneficiary  and  owner of EQAT.  In  addition,  a  wholly-owned  subsidiary  of
+Equitable,  Alliance Capital Management  Corporation,  is the general partner of
+Alliance. Through wholly-owned subsidiaries, Equitable owns approximately 60% of
+the publicly traded units of Alliance.
+
+AXA is a  societe  anonyme  organized  under  the laws of  France  and a holding
+company for an international  group of insurance and related financial  services
+companies.  As of July 1, 1996,  approximately  60.7% of the outstanding  common
+stock  as  well  as  certain  convertible   preferred  stock  of  Equitable  was
+beneficially  owned by AXA. For insurance  regulatory  purposes,  to insure that
+certain  indirect  minority  shareholders  of AXA will  not be able to  exercise
+control over  Equitable  and certain of its insurance  subsidiaries,  the voting
+shares of Equitable capital stock beneficially owned by AXA and its subsidiaries
+have been  deposited  into the AXA  Voting  Trust.  For  additional  information
+regarding the AXA Voting  Trust,  reference is made to the Schedule 13D filed by
+AXA with respect to Equitable.
+
+Finaxa is a societe anonyme  organized under the laws of France and is a holding
+company.  As of July 18,  1996,  Finaxa  controlled  approximately  30.4% of the
+issued shares (representing approximately 39.4% of the voting power) of AXA.
+
+Each of AXA Assurances  I.A.R.D.  Mutuelle,  AXA Assurances Vie Mutuelle,  Alpha
+Assurances  I.A.R.D.  Mutuelle,  Alpha  Assurances Vie Mutuelle,  and Uni Europe
+Assurance  Mutuelle  (collectively,  the "Mutuelles  AXA") is a mutual insurance
+company  organized  under the laws of  France.  The  Mutuelles  AXA are owned by
+approximately  1.5 million  policy  holders.  As of July 18, 1996, the Mutuelles
+AXA, as a group,  controlled,  directly  and  indirectly,  through  intermediate
+holding  companies,  approximately  38.1%  of the  issued  shares  (representing
+approximately 45.5% of the voting power) of AXA. AXA is indirectly controlled by
+the Mutuelles AXA, acting as a group.
+
+Claude Bebear,  Patrice Garnier and Henri de  Clermont-Tonnerre,  the AXA Voting
+Trustees,  exercise  all voting  rights with  respect to the shares of Equitable
+capital  stock  beneficially  owned by AXA and its  subsidiaries  that have been
+deposited in the AXA Voting Trust. The business address, citizenship and present
+principal  occupation  of each of the  AXA  Voting  Trustees  are set  forth  on
+Schedule C attached hereto.
+
+                                       15
+<PAGE>
+
+The  address  of the  principal  business  and  principal  office of EQAT is c/o
+Alliance Corporate Finance Group Incorporated, 1345 Avenue of the Americas, 39th
+Floor, New York, New York 10105 and c/o The Chase Manhattan Bank, N.A., 450 West
+33rd Street, 15th Floor, New York, New York 10001-2697.
+
+The address of the principal business and principal office of Alliance is 1345
+Avenue of the Americas, New York, New York 10105.
+
+The address of the principal  business and principal  office of Equitable is 787
+Seventh Avenue, New York, New York 10019.
+
+The  address of the  principal  business  and  principal  office of each of AXA,
+Finaxa and the AXA Voting Trustees is 23, avenue Matignon,  75008 Paris, France;
+of each of AXA Assurances  I.A.R.D.  Mutuelle and AXA Assurances Vie Mutuelle is
+21, rue de Chateaudun, 75009 Paris, France; of each of Alpha Assurances I.A.R.D.
+Mutuelle and Alpha  Assurances Vie Mutuelle is Tour Franklin,  100/101  Terrasse
+Boieldieu, Cedex 11, 92042 Paris La Defense, France; and of Uni Europe Assurance
+Mutuelle is 24, rue Drouot, 75009 Paris, France.
+
+The  name,  business  address,  citizenship,  present  principal  occupation  or
+employment and the name and business  address of any corporation or organization
+in which each such employment is conducted, of each executive officer or member,
+as applicable, of the Board of Directors or the Conseil d'Administration (French
+analogue of a Board of Directors) of Alliance,  Equitable,  AXA,  Finaxa and the
+Mutuelles  AXA are set forth on  Schedules A through I,  respectively,  attached
+hereto.
+
+During the past five (5) years, neither any of the Reporting Persons nor, to the
+best knowledge of any of the Reporting Persons,  any of the other persons listed
+on Schedules A through I attached  hereto,  has been (i) convicted in a criminal
+proceeding  (excluding  traffic  violations or similar  misdemeanors)  or (ii) a
+party to a civil  proceeding of a judicial or  administrative  body of competent
+jurisdiction and as a result of such proceeding was or is subject to a judgment,
+decree  or final  order  enjoining  future  violations  of,  or  prohibiting  or
+mandating  activities  subject to United States federal or state securities laws
+or finding any violation with respect to such laws.
+
+Item 3 - Source and Amount of Funds or Other Consideration
+
+EQAT, a Delaware  business trust wholly owned by Equitable,  acquired its Shares
+of the  Issuer  upon the  exercise  on March 12,  1996 of an option  granted  in
+connection  with  the  comprehensive  restructuring  of  the  Issuer's  and  its
+subsidiaries'  financial obligations.  The option was granted on January 2, 1996
+in consideration for the exchange on that date of $28,112,007  principal amount,
+plus accrued  interest,  of 11% notes of Cafeteria  Operators,  L.P., a Delaware
+limited   partnership   ("Cafeteria   Operators")   and  indirect   wholly-owned
+partnership  subsidiary  of the Issuer,  for a limited  partnership  interest in
+Cafeteria Operators. Pursuant to a Put Agreement, dated as of December 14, 1995,
+among the Issuer,  EQAT,  Equitable,  and other  investors  named therein,  this
+option was  exercisable by the holders (acting  independently)  of a majority of
+the Cafeteria Operators limited  partnership  interests received in exchange for
+the Cafeteria Operators notes. Pursuant to the terms of the Put Agreement,  upon
+exercise of the option by the  required  majority  (which  occurred on March 12,
+1996),  all investors  (including EQAT) that had exchanged  Cafeteria  Operators
+notes for Cafeteria Operators limited partnership  interests were deemed to have
+exercised such option as well.  Accordingly,  on March 12, 1996,  EQAT's limited
+partnership  interest in Cafeteria  Operators was  transferred  to the Issuer in
+exchange for the Shares.
+
+                                       16
+<PAGE>
+
+Item 4 - Purpose of Transaction
+
+EQAT acquired its Shares of the Issuer  reported in this Schedule 13D solely for
+investment  purposes in connection with the  comprehensive  restructuring of the
+Issuer's and its subsidiaries'  financial  obligations,  as further described in
+Item 3  above.  EQAT  currently  has no  contracts  or  arrangements  concerning
+disposition of the Shares.  However,  under the Exchange Agreement,  dated as of
+November 15, 1995, among the Issuer,  Cafeteria Operators,  EQAT, Equitable, and
+other investors named therein,  EQAT has the right to have its Shares registered
+for resale under the Securities Act of 1933, as amended (the "Securities  Act").
+On May 3, 1996, the Issuer filed a  Registration  Statement on Form S-1 pursuant
+to such  registration  rights on behalf of EQAT as well as other  holders of the
+Issuer's  common stock.  The Issuer filed  Amendment No. 1 to this  Registration
+Statement on June 27, 1996.
+
+Item 5 - Interest in Securities of the Issuer
+
+EQAT is holder of record of the 8,499,857  Shares reported in this Schedule 13D,
+or  approximately  17.46%  of  the  Shares  outstanding  as  of  June  21,  1996
+(percentage  of  outstanding  based on  information  provided  by the  Issuer in
+Amendment  No. 1, filed June 27,  1996,  to its  Registration  Statement on Form
+S-1).  Equitable is the  beneficiary  and owner of EQAT. The collateral of EQAT,
+which  includes  the  Shares,  is managed by Alliance  pursuant to a  Collateral
+Management  Agreement.  The Shares and such Collateral Management Agreement have
+been  pledged  to The Chase  Manhattan  Bank,  N.A.  as  directed  trustee  (the
+"Trustee")  for the  benefit and  security of holders of certain  notes of EQAT.
+Alliance and EQAT  (through the Trustee)  share the power to vote and to dispose
+of the 8,499,857 Shares reported in this Schedule 13D.
+
+Equitable, as beneficiary and owner of EQAT, may be deemed, for purposes of Rule
+13d-3 under the  Securities  Exchange  Act of 1934,  as amended  (the  "Exchange
+Act"), to beneficially own indirectly the Shares held of record by EQAT.
+
+Because of AXA's ownership  interest in Equitable,  and the AXA Voting Trustees'
+power to vote the Equitable  shares placed in the AXA Voting Trust,  each of AXA
+and the AXA Voting Trustees may be deemed,  for purposes of Rule 13d-3 under the
+Exchange Act, to  beneficially  own  indirectly the Shares that Equitable may be
+deemed to  beneficially  own  indirectly.  Because of the  direct  and  indirect
+ownership  interest in AXA of Finaxa and the  Mutuelles  AXA, each of Finaxa and
+the Mutuelles  AXA may be deemed,  for purposes of Rule 13d-3 under the Exchange
+Act,  to  beneficially  own  indirectly  the  Shares  that AXA may be  deemed to
+beneficially own indirectly.  AXA, Finaxa, the Mutuelles AXA, and the AXA Voting
+Trustees disclaim beneficial ownership of any Shares.
+
+The Reporting  Persons,  in the  aggregate,  may be deemed to  beneficially  own
+8,499,857 Shares, or approximately  17.46% of the Shares  outstanding as of June
+21, 1996. The percentage of Shares outstanding reported as beneficially owned by
+each  person  herein  on  the  date  hereof  is  based  upon  48,669,340  Shares
+outstanding  as of June 21, 1996,  as reported by the Issuer in Amendment No. 1,
+filed June 27, 1996, to its Registration Statement on Form S-1.
+
+Item 6 - Contracts,  Arrangements,  Understandings or Relationships With Respect
+to Securities of the Issuer.
+
+The Shares of the Issuer are pledged to the Trustee under that Indenture,  dated
+as of August 31, 1993 (the "Indenture"),  between EQAT (as issuer) and The Chase
+Manhattan Bank,  N.A. (as Trustee),  for the benefit and security of the holders
+of certain notes issued under the Indenture. EQAT is managed by Alliance under a
+Collateral Management Agreement, dated August 31, 1993 (the "CMA"), between EQAT
+and Alliance.  The CMA has been pledged to the Trustee,  and Alliance's power to
+vote the Shares is governed  by the terms of the  Indenture  and the CMA.  After
+payment in full of all notes issued under the Indenture and all related fees and
+expenses,  all collateral  pledged under the Indenture is paid to Equitable,  as
+Owner of EQAT.
+
+Item 7 - Material to be Filed as Exhibits
+
+1. Joint Filing Agreement among the Reporting Persons to file a joint statement
+   on Schedule 13D.
+
+2. Powers of Attorney
+
+
+                                       17
+<PAGE>
+
+                                   SIGNATURES
+
+         After  reasonable  inquiry and to the best  knowledge and belief of the
+undersigned,  the information set forth in this statement is true,  complete and
+correct.
+
+Dated: August 7, 1996
+
+                                             EQ Asset Trust 1993
+
+                                             BY: The Chase Manhattan Bank, N.A.,
+                                                 as Trustee
+
+                                             BY:  /s/ Kimberly Costa
+                                                  Account Officer
+
+
+                                       18
+<PAGE>
+
+                                   SIGNATURES
+
+         After  reasonable  inquiry and to the best  knowledge and belief of the
+undersigned,  the information set forth in this statement is true,  complete and
+correct.
+
+Dated: August 7, 1996
+
+                                             Alliance Capital Management L.P.
+
+                                             BY: Alliance Capital Management
+                                                 Corporation, as General Partner
+
+                                             BY: /s/ Mark R. Manley
+                                                 Vice President and Counsel
+
+
+
+                                       19
+<PAGE>
+
+                                   SIGNATURES
+
+         After  reasonable  inquiry and to the best  knowledge and belief of the
+undersigned,  the information set forth in this statement is true,  complete and
+correct.
+
+Dated: August 7, 1996
+
+                                           The Equitable Companies Incorporated
+
+                                           BY: /s/ Alvin H. Fenichel
+                                               Senior Vice President and
+                                               Controller
+
+
+
+                                       20
+<PAGE>
+
+                                   SIGNATURES
+
+         After  reasonable  inquiry and to the best  knowledge and belief of the
+undersigned,  the information set forth in this statement is true,  complete and
+correct.
+
+Dated: August 7, 1996
+
+                                          AXA
+                                          Finaxa
+                                          AXA Assurances I.A.R.D. Mutuelle
+                                          AXA Assurances Vie Mutuelle
+                                          Alpha Assurances I.A.R.D. Mutuelle
+                                          Alpha Assurances Vie Mutuelle
+                                          Uni Europe Assurance Mutuelle
+                                          Claude Bebear, as AXA Voting Trustee
+                                          Patrice Garnier, as AXA Voting Trustee
+                                          Henri de Clermont-Tonnerre,
+                                            as AXA Voting Trustee
+
+                                          Signed on behalf of each of the above
+
+                                         BY: /s/ Richard V. Silver
+                                             Attorney-in-fact
+
+
+
+                                       21
+<PAGE>
+                                                                      Schedule A
+                                                                      ----------
+
+                        Executive Officers and Directors
+                                       of
+                    Alliance Capital Management Corporation
+
+                  The names of the  Directors  and the  names and  titles of the
+Executive Officers of Alliance Capital Management Corporation ("ACMC"),  general
+partner of  Alliance  Capital  Management  L.P.  (the  "Partnership")  and their
+business  addresses  and  principal  occupations  are set  forth  below.  Unless
+otherwise  indicated,  each occupation set forth opposite an  individual's  name
+refers to ACMC and each individual is a United States citizen.
+
+<TABLE>
+<CAPTION>
+
+<S>                                           <C>
+   Name, Business Address                     Present Principal Occupation
+
+ * Dave H. Williams                           Chairman of the Board and Chief Executive
+   Alliance Capital Management Corporation    Officer
+   1345 Avenue of the Americas
+   New York, New York  10105
+
+ * Bruce W. Calvert                           Vice Chairman of the Board and Chief Investment
+   Alliance Capital Management Corporation    Officer
+   1345 Avenue of the Americas
+   New York, New York  10105
+
+ * John D. Carifa                             President and Chief Operating Officer
+   Alliance Capital Management Corporation
+   1345 Avenue of the Americas
+   New York, New York  10105
+
+ * Reba W. Williams                           Director of Special Projects
+   Alliance Capital Management Corporation
+   1345 Avenue of the Americas
+   New York, New York  10105
+
+ * Frank Savage                               Chairman of the Board, Alliance Corporate
+   Alliance Capital Management Corporation    Finance Group Incorporated, a subsidiary of the
+   1345 Avenue of the Americas                Partnership
+   New York, New York  10105
+</TABLE>
+
+
+
+                                       22
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+<S>                                            <C>
+   Name, Business Address                      Present Principal Occupation
+
+ * Alfred Harrison                             Vice Chairman of the Board
+   Alliance Capital Management Corporation
+   First Bank Place
+   601 2nd Avenue South - Suite 5000
+   Minneapolis, Minnesota  55402
+
+ * Benjamin D. Holloway                        Consultant, Continental Companies
+   Continental Companies - Suite 501
+   3250 Mary Street
+   Miami, Florida  33133
+
+ * Madelon DeVoe Talley                        Commissioner of the Port Authority of New York
+   876 Park Avenue                             State and New Jersey
+   New York, New York  10021
+
+ * Joseph J. Melone                            Chief Executive Officer and President, The
+   The Equitable Companies Incorporated        Equitable Companies Incorporated; Chairman of
+   787 7th Avenue                              the Board, The Equitable Life Assurance Society
+   New York, New York  10019                   of the United States
+
+ * Peter D. Noris                              Executive Vice President and Chief Investment
+   The Equitable Companies Incorporated        Officer, The Equitable Companies Incorporated
+   787 7th Avenue                              and The Equitable Life Assurance Society of the
+   New York, New York  10019                   United States
+
+ * James M. Benson                             Senior Executive Vice President and Chief
+   The Equitable Companies Incorporated        Operating Officer, The Equitable Companies
+   787 7th Avenue                              Incorporated; President and Chief Executive
+   New York, New York  10019                   Officer, The Equitable Life Assurance Society
+                                               of the United States
+
+ * Jerry M. de St. Paer                        Senior Executive Vice President and Chief
+   The Equitable Companies Incorporated        Financial Officer, The Equitable Companies
+   787 7th Avenue                              Incorporated; Executive Vice President, The
+   New York, New York  10019                   Equitable Life Assurance Society of the United
+                                               States
+
+ * Claude Bebear (1)                           Chairman of the Board, The Equitable Companies
+   AXA Group                                   Incorporated;
+   23 Avenue Matignon                          Chairman of the Board and Chief Executive
+   75008 Paris France                          Officer, AXA
+</TABLE>
+
+
+                                       23
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+<S>                                           <C>
+   Name, Business Address                     Present Principal Occupation
+
+ * Denis Deverne (1)                          Senior Vice President - International Life, AXA
+   AXA Group
+   23 Avenue Matignon
+   75008 Paris France
+
+ * Henri de Castries (1)                      Vice Chairman of the Board, The Equitable
+   AXA Group                                  Companies Incorporated; Executive Vice
+   23, avenue Matignon                        President, Financial Services and Life
+   75008 Paris France                         Insurance Activities (outside of France), AXA
+
+ * Jean-Pierre Hellebuyck (1)                 Chief Investment Officer, AXA
+   AXA
+   40, rue du Colisee
+   75008 Paris rance
+
+ * Kevin C. Dolan                             Senior Vice President, AXA
+   AXA Asset Management
+   16, avenue Matignon
+   75008 Paris France
+
+ * Luis Javier Bastida (2)                    Chief Financial Officer, Banco Bilbao
+   Banco Bilbao Vizcaya                       Vizcaya, S.A.
+   P. Castellana, 81, 25
+   28046 Madrid Spain
+
+   David R. Brewer, Jr.                       Senior Vice President, General Counsel and
+   Alliance Capital Management Corporation    Secretary
+   1345 Avenue of the Americas
+   New York, New York  10105
+
+   Robert H. Joseph, Jr.                      Senior Vice President and Chief Financial
+   Alliance Capital Management Corporation    Officer
+   1345 Avenue of the Americas
+   New York, New York  10105
+
+   *Director
+   (1) Citizen of the Republic of France
+   (2) Citizen of Spain
+</TABLE>
+
+
+
+                                       24
+<PAGE>
+
+                                                                      Schedule B
+                                                                      ----------
+                        Executive Officers and Directors
+                                       of
+                      The Equitable Companies Incorporated
+
+                  The names of the  Directors  and the  names and  titles of the
+Executive  Officers of The  Equitable  Companies  Incorporated  ("EQ") and their
+business addresses and principal  occupations are set forth below. If no address
+is given, the Director's or Executive  Officer's  business address is that of EQ
+at 787 Seventh Avenue,  New York, New York 10019.  Unless  otherwise  indicated,
+each  occupation set forth opposite an  individual's  name refers to EQ and each
+individual is a United States citizen.
+
+<TABLE>
+<CAPTION>
+
+<S>                                            <C>
+   Name, Business Address                      Present Principal Occupation
+
+ * Claude Bebear (1)                           Chairman of the Board; Chairman and Chief
+   AXA                                         Executive Officer, AXA
+   23, avenue Matignon
+   75008 Paris, France
+
+ * James M. Benson                             Senior Executive Vice President and Chief
+                                               Operating Officer; President and Chief
+                                               Executive Officer, The Equitable Life Assurance
+                                               Society of the United States
+
+ * Henri de Castries (1)                       Vice Chairman of the Board; Executive Vice
+   AXA                                         President, Financial Services and Life
+   23, avenue Matignon                         Insurance Activities outside France, AXA
+   75008 Paris, France
+
+ * John S. Chalsty                             Chairman and Chief Executive Officer,
+   Donaldson, Lufkin & Jenrette, Inc.          Donaldson, Lufkin & Jenrette, Inc.
+   277 Park Avenue
+   New York, NY  10172
+
+   Jerry M. de St. Paer                        Senior Executive Vice President and Chief
+                                               Financial Officer; Executive Vice President,
+                                               The Equitable Life Assurance Society of the
+                                               United States
+
+ * Joseph L. Dionne                            Chairman and Chief Executive Officer, The
+   The McGraw Hill Companies                   McGraw Hill Companies (publishing)
+   1221 Avenue of the Americas
+   New York, NY  10020
+
+ * William T. Esrey                            Chairman of the Board and Chief Executive
+   Sprint Corporation                          Officer, The Sprint Corporation
+   P.O. Box 11315                              (telecommunications)
+   Kansas City, MO  64112
+
+ * Jean-Rene Fourtou (1)                       Chairman and Chief Executive Officer,
+   Rhone-Poulenc S.A.                          Rhone-Poulenc S.A. (industry)
+   25 quai Paul Doumer
+   92408 Courbevoie,
+   France
+
+   Robert E. Garber                            Executive Vice President and General Counsel
+
+ * Donald J. Greene                            Partner, LeBoeuf,  Lamb, Greene & MacRae (law
+   LeBoeuf, Lamb, Greene & MacRae              firm)
+   125 West 55th Street
+   New York, NY 10019
+
+
+ * Anthony J. Hamilton (2)                     Group Chairman, Fox-Pitt, Kelton Limited
+   35 Wilson Street                            (Finance)
+   London, England  EC2M 2SJ
+
+
+ * John T. Hartley                             Retired Chairman and Chief Executive Officer,
+   Harris Corporation                          Harris Corporation (manufacturer of electronic,
+   1025 Nasa Boulevard                         telephone and copying systems)
+   Melbourne, FL  32919
+
+</TABLE>
+
+
+                                       25
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+<S>                                            <C>
+   Name, Business Address                      Present Principal Occupation
+
+ * John H. F. Haskell, Jr.                     Director and Managing Director, Dillon, Read &
+   Dillon, Read & Co., Inc.                    Co., Inc. (investment banking firm)
+   535 Madison Avenue
+   New York, NY  10028
+
+ * W. Edwin Jarmain (3)                        President, Jarmain Group Inc. (private
+   Jarmain Group Inc.                          investment holding company)
+   95 Wellington St. West
+   Suite 805
+   Toronto, Ontario M5J 2N7
+   Canada
+
+ * Winthrop Knowlton                           Chairman, Knowlton Brothers, Inc. (private
+   Knowlton Brothers, Inc.                     investment firm); President and Chief Executive
+   530 Fifth Avenue                            Officer, Knowlton Associates, Inc. (consulting
+   New York, NY  10036                         firm)
+
+ * Arthur L. Liman                             Partner, Paul, Weiss, Rifkind, Wharton &
+   Paul, Weiss, Rifkind, Wharton & Garrison    Garrison (law firm)
+   1285 Avenue of the Americas
+   New York, NY  10019
+
+   William T. McCaffrey                        Executive Vice President and Chief
+                                               Administrative Officer; Senior Executive Vice
+                                               President and Chief Operating Officer, The
+                                               Equitable Life Assurance Society of the United
+                                               States
+
+ * Joseph J. Melone                            Chief Executive Officer and President; Chairman
+                                               of the Board, The Equitable Life Assurance
+                                               Society of the United States
+
+   Peter D. Noris                              Executive Vice President and Chief Investment
+                                               Officer; Executive Vice President and Chief
+                                               Investment Officer, The Equitable Life
+                                               Assurance Society of the United States
+
+ * Didier Pineau-Valencienne                   Chairman and Chief Executive Officer, Schneider
+   64-70, avenue Jean Baptiste Clement         S.A. (electric equipment)
+   92646 Boulogne Cedex, France
+
+ * George J. Sella, Jr.                        Retired Chairman, President and Chief Executive
+   American Cyanamid Company                   Officer, American Cyanamid Company
+   P.O. Box 3017                               (manufacturer pharmaceutical products and
+   Newton, NJ  07860                           agricultural products)
+
+   Jose Suquet                                 Executive Vice President; Executive Vice
+                                               President and Chief Agency Officer; The
+                                               Equitable Life Assurance Society of the United
+                                               States
+
+   Stanley B. Tulin                            Executive Vice President; Senior Executive Vice
+                                               President and Chief Financial Officer, The
+                                               Equitable Life Assurance Society of the United
+                                               States
+
+ * Dave H. Williams                            Chairman and Chief Executive Officer, Alliance
+   Alliance Capital                            Capital Management Corp. (investment company)
+   Management Corporation
+   1345 Avenue of the Americas
+   New York, NY  10105
+
+ ------- -------------------------------------------------
+      *  Director
+    (1)  Citizen of the Republic of France
+    (2)  Citizen of United Kingdom
+    (3)  Citizen of Canada
+</TABLE>
+
+
+
+                                       26
+<PAGE>
+
+                                                                     Schedule C
+                                                                     ----------
+
+                             Executive Officers and
+                       Members of Conseil d'Administration
+                                       of
+                                       AXA
+
+                  The names of the Members of Conseil  d'Administration  and the
+names and titles of the Executive  Officers of AXA and their business  addresses
+and  principal  occupations  are set forth  below.  If no address is given,  the
+Member's or Executive  Officer's  business  address is that of AXA at 23, avenue
+Matignon,  75008 Paris, France. Unless otherwise indicated,  each occupation set
+forth  opposite  an  individual's  name refers to AXA and each  individual  is a
+citizen of the Republic of France.
+<TABLE>
+<CAPTION>
+
+<S>                                    <C>
+  Name, Business Address               Present Principal Occupation
+
+* Claude Bebear                        Chairman and Chief Executive Officer
+
+* Antoine Bernheim                     Chairman, Assicurazioni Generali S.p.A.
+  Piazza Duca Degli Abruzzi 2          (insurance)
+  34132 Trieste, Italy
+
+  Henri de Castries                    Executive Vice President, Financial Services
+                                       and Life Insurance Activities outside France
+
+  Francoise Colloc'h                   Executive Vice President, Human Resources and
+                                       Public Relations
+
+* Henri de Clermont-Tonnerre           Chairman, Societe d'Armement et de Navigation
+  90, rue de Miromesnil                Charles Schiaffino (transportation)
+  75008 Paris, France
+
+* David Dautresme                      General Partner, Lazard Freres et Cie
+  121, boulevard Haussman              (investment banking)
+  75008 Paris, France
+
+* Jean-Rene Fourtou                    Chairman and Chief Executive Officer,
+  25, quai Paul Doumer                 Rhone-Poulenc S.A. (industry)
+  92408 Courbevoie, France
+
+* Michel Francois-Poncet               Chairman of the Supervisory Board of Compagnie
+  3, rue d'Autin                       Financiere Paribas and Banque Paribas
+  75002 Paris, France                  (financial services and banking)
+
+* Patrice Garnier                      Retired
+
+* Gianfranco Gutty (1)                 Director and Executive Officer, Assicurazioni
+  Piazza Duca Degli Abruzzi 2          Generali S.p.A. (insurance)
+  34132 Trieste, Italy
+
+* Anthony J. Hamilton (2)              Group Chairman, Fox-Pitt, Kelton Limited
+  35 Wilson Street                     (Finance)
+  London, England  EC2M 2SJ
+
+* Henri Hottinguer (3)                 Chairman and Chief Executive Officer, Banque
+  38, rue de Provence                  Hottinguer (banking)
+  75009 Paris, France
+
+* Richard H. Jenrette (4)              Retired Chairman, The Equitable Companies
+  787 Seventh Avenue                   Incorporated
+  New York, New York  10019
+
+* Henri Lachmann                        Chairman and Chief Executive Officer, Strafor
+  56, rue Jean Giraudoux                Facom (office furniture)
+  67000 Strasbourg, France
+</TABLE>
+
+                                       27
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+<S>                                    <C>
+  Name, Business Address               Present Principal Occupation
+
+  Gerard de la Martiniere               Executive Vice President, Chief Financial Officer
+
+* Didier Pineau-Valencienne             Chairman and Chief Executive Officer, Schneider
+  64-70, avenue Jean Baptiste Clement   S.A. (electric equipment)
+  92646 Boulogne Cedex, France
+
+  Claude Tendil                         Executive Vice President, French Insurance
+                                        Activities and Non-Life and Composite Insurance
+                                        Activities outside France
+
+ ------- ------------------------------------------------------
+      *  Member, Conseil d'Administration
+    (1)  Citizen of Italy
+    (2)  Citizen of the United Kingdom
+    (3)  Citizen of Switzerland
+    (4)  Citizen of the United States of America
+</TABLE>
+
+
+                                       28
+<PAGE>
+
+                                                                     Schedule D
+                                                                     ----------
+
+                             Executive Officers and
+                       Members of Conseil d'Administration
+                                       of
+                                     FINAXA
+
+                  The names of the Members of Conseil  d'Administration  and the
+names and  titles  of the  Executive  Officers  of  Finaxa  and  their  business
+addresses and principal occupations are set forth below. If no address is given,
+the Member's or Executive  Officer's  business  address is that of Finaxa at 23,
+avenue  Matignon,   75008  Paris,  France.  Unless  otherwise  indicated,   each
+occupation  set forth  opposite an  individual's  name refers to Finaxa and each
+individual is a citizen of the Republic of France.
+<TABLE>
+<CAPTION>
+
+<S>                                       <C>
+ Name, Business Address                   Present Principal Occupation
+
+ * Claude Bebear                          Chairman and Chief Executive Officer; Chairman
+                                          and Chief Executive Officer, AXA
+
+ * Henri de Castries                      Executive Vice President, Financial Services
+                                          and Life Insurance Activities outside France,
+                                          AXA
+
+ * Henri de Clermont-Tonnerre             Chairman, Societe d'Armement et de Navigation
+   90, rue de Miromesnil                  Charles Schiaffino (transportation)
+   75008 Paris, France
+
+ * Jean-Rene Fourtou                      Chairman and Chief Executive Officer,
+   25, quai Paul Doumer                   Rhone-Poulenc S.A. (industry)
+   92408 Courbevoie, France
+
+ * Patrice Garnier                        Retired
+
+ * Henri Hottinguer (1)                   Chairman and Chief Executive Officer, Banque
+   38, rue de Provence                    Hottinguer (banking)
+   75009 Paris, France
+
+ * Paul Hottinguer (1)                    Assistant Chairman and Chief Executive Officer,
+   38, rue de Provence                    Banque Hottinguer (banking)
+   75009 Paris, France
+
+ * Henri Lachmann                         Chairman and Chief Executive Officer, Strafor
+   56, rue Jean Giraudoux                 Facom (office furniture)
+   67000 Strasbourg, France
+
+   Gerard de la Martiniere                Chief Executive Officer; Executive Vice
+                                          President, Chief Financial Officer, AXA
+
+ * Georges Rousseau                       Chairman, Apave Normandies (consulting)
+   2, rue des Mouettes
+   76130 Mont Saint Aignan, France
+
+ ------- -------------------------------------------------
+      *  Member, Conseil d'Administration
+    (1)  Citizen of Switzerland
+</TABLE>
+
+
+                                       29
+<PAGE>
+
+                                                                     Schedule E
+                                                                     ----------
+
+                             Executive Officers and
+                       Members of Conseil d'Administration
+                                       of
+                        AXA ASSURANCES I.A.R.D. MUTUELLE
+
+                  The names of the Members of Conseil  d'Administration  and the
+names and titles of the Executive Officers of AXA Assurances  I.A.R.D.  Mutuelle
+and their business  addresses and principal  occupations are set forth below. If
+no address is given,  the Member's or Executive  Officer's  business  address is
+that of AXA Assurances I.A.R.D. Mutuelle at 21, rue de Chateaudun,  75009 Paris,
+France.  Unless  otherwise  indicated,  each  occupation  set forth  opposite an
+individual's name refers to AXA Assurances I.A.R.D. Mutuelle and each individual
+is a citizen of the Republic of France.
+<TABLE>
+<CAPTION>
+
+<S>                                           <C>
+Name, Business Address                        Present Principal Occupation
+
+*  Claude Bebear                              Chairman and Chief Executive Officer; Chairman
+   23, avenue Matignon                        and Chief Executive Officer, AXA
+   75008 Paris, France
+
+   Jean-Luc Bertozzi                          Assistant Chief Executive Officer
+
+*  Henri de Castries                          Executive Vice President, Financial Services
+   23, avenue Matignon                        and Life Insurance Activities outside France,
+   75008 Paris, France                        AXA
+
+*  Jean-Pierre Chaffin                        Manager, Federation de la Metallurgie (industry)
+   5, rue la Bruyere
+   75009 Paris, France
+
+*  Gerard Coutelle                            Retired
+
+*  Jean-Rene Fourtou                          Chairman and Chief Executive Officer,
+   25, quai Paul Doumer                       Rhone-Poulenc S.A. (industry)
+   92408 Courbevoie, France
+
+*  Patrice Garnier                            Retired
+
+*  Henri Lachmann                             Chairman and Chief Executive Officer, Strafor
+   56, rue Jean Giraudoux                     Facom (office furniture)
+   67000 Strasbourg, France
+
+*  Francois Richer                            Retired
+
+*  Georges Rousseau                           Chairman, Apave Normandies (consulting)
+   2, rue des Mouettes
+   76130 Mont Saint Aignan, France
+
+*  Claude Tendil                              Chief Executive Officer; Executive Vice
+   21, rue de Chateaudun                      President, French Insurance Activities and
+   75009 Paris, France                        Non-Life and Composite Insurance Activities
+                                              outside France, AXA
+
+*  Nicolas Thiery                             Chairman and Chief Executive Officer,
+   6 Cite de la Chapelle                      Etablissements Jaillard (management consulting)
+   75018 Paris, France
+
+*  Francis Vaudour                            Chief Executive Officer, Segafredo Zanetti
+   14, boulevard Industriel                   France S.A. (coffee importing and processing)
+   76301 Sotteville les Rouen, France
+
+ ------- -------------------------------------------------
+      *  Member, Conseil d'Administration
+</TABLE>
+
+
+
+                                       30
+<PAGE>
+
+                                                                     Schedule F
+                                                                     ----------
+
+                             Executive Officers and
+                       Members of Conseil d'Administration
+                                       of
+                           AXA ASSURANCES VIE MUTUELLE
+
+                  The names of the Members of Conseil  d'Administration  and the
+names and titles of the Executive  Officers of AXA  Assurances  Vie Mutuelle and
+their business  addresses and principal  occupations  are set forth below. If no
+address is given, the Member's or Executive  Officer's  business address is that
+of AXA Assurances Vie Mutuelle at 21, rue de  Chateaudun,  75009 Paris,  France.
+Unless otherwise  indicated,  each occupation set forth opposite an individual's
+name refers to AXA Assurances  Vie Mutuelle and each  individual is a citizen of
+the Republic of France.
+<TABLE>
+<CAPTION>
+
+<S>                                           <C>
+ Name, Business Address                       Present Principal Occupation
+
+ *  Claude Bebear                             Chairman and Chief Executive Officer; Chairman
+    23, avenue Matignon                       and Chief Executive Officer, AXA
+    75008 Paris, France
+
+    Jean-Luc Bertozzi                         Assistant Chief Executive Officer
+
+ *  Henri de Castries                         Executive Vice President, Financial Services
+    23, avenue Matignon                       and Life Insurance Activities outside France,
+    75008 Paris, France                       AXA
+
+ *  Jean-Pierre Chaffin                       Manager, Federation de la Metallurgie (industry)
+    5, rue la Bruyere
+    75009 Paris, France
+
+ *  Henri de Clermont-Tonnerre                Chairman, Societe d'Armement et de Navigation
+    90, rue de Miromesnil                     Charles Schiaffino (transportation)
+    75008 Paris, France
+
+ *  Gerard Coutelle                           Retired
+
+ *  Jean-Rene Fourtou                         Chairman and Chief Executive Officer,
+    25, quai Paul Doumer                      Rhone-Poulenc S.A. (industry)
+    92408 Courbevoie, France
+
+ *  Henri Lachmann                            Chairman and Chief Executive Officer, Strafor
+    56, rue Jean Giraudoux                    Facom (office furniture)
+    67000 Strasbourg, France
+
+ *  Francois Richer                           Retired
+
+ *  Georges Rousseau                          Chairman, Apave Normandies (consulting)
+    2, rue des Mouettes
+    76130 Mont Saint Aignan, France
+
+ *  Claude Tendil                             Chief Executive Officer; Executive Vice
+    21, rue de Chateaudun                     President, French Insurance Activities and
+    75009 Paris, France                       Non-Life and Composite Insurance Activities
+                                              outside France, AXA
+
+ *  Nicolas Thiery                            Chairman and Chief Executive Officer,
+    6 Cite de la Chapelle                     Etablissements Jaillard (management consulting)
+    75018 Paris, France
+
+ *  Francis Vaudour                           Chief Executive Officer, Segafredo Zanetti
+    14, boulevard Industriel                  France S.A. (coffee importing and processing)
+    76301 Sotteville les Rouen, France
+
+ ------- -------------------------------------------------
+      *  Member, Conseil d'Administration
+</TABLE>
+
+
+                                       31
+<PAGE>
+
+                                                                     Schedule G
+                                                                     ----------
+
+                             Executive Officers and
+                       Members of Conseil d'Administration
+                                       of
+                       ALPHA ASSURANCES I.A.R.D. MUTUELLE
+
+                  The names of the Members of Conseil  d'Administration  and the
+names and titles of the Executive Officers of Alpha Assurances I.A.R.D. Mutuelle
+and their business  addresses and principal  occupations are set forth below. If
+no address is given,  the Member's or Executive  Officer's  business  address is
+that of Alpha Assurances  I.A.R.D.  Mutuelle at Tour Franklin,  100/101 Terrasse
+Boieldieu, Cedex 11, 92042 Paris La Defense, France. Unless otherwise indicated,
+each  occupation  set  forth  opposite  an  individual's  name  refers  to Alpha
+Assurances I.A.R.D. Mutuelle and each individual is a citizen of the Republic of
+France.
+<TABLE>
+<CAPTION>
+
+<S>                                           <C>
+Name, Business Address                        Present Principal Occupation
+
+*  Claude Bebear                              Chairman and Chief Executive Officer; Chairman
+   23, avenue Matignon                        and Chief Executive Officer, AXA
+   75008 Paris, France
+
+*  Henri Brischoux                            Manager, AXA Assurances
+   21, rue de Chateaudun
+   75009 Paris, France
+
+*  Henri de Castries                          Executive Vice President, Financial Services
+   23, avenue Matignon                        and Life Insurance Activities outside France,
+   75008 Paris, France                        AXA
+
+*  Henri de Clermont-Tonnerre                 Chairman, Societe d'Armement et de Navigation
+   90, rue de Miromesnil                      Charles Schiaffino (transportation)
+   75008 Paris, France
+
+*  Bernard Cornille                           Audit Manager, AXA Assurances
+   21, rue de Chateaudun
+   75009 Paris, France
+
+*  Claude Fath                                Manager
+
+*  Patrice Garnier                            Retired
+
+*  Henri Lachmann                             Chairman and Chief Executive Officer, Strafor
+   56, rue Jean Giraudoux                     Facom (office furniture)
+   67000 Strasbourg, France
+
+*  Claude Peter                               Retired
+
+*  Georges Rousseau                           Chairman, Apave Normandies (consulting)
+   2, rue des Mouettes
+   76130 Mont Saint Aignan, France
+
+*  Claude Tendil                              Chief Executive Officer; Executive Vice
+   21, rue de Chateaudun                      President, French Insurance Activities and
+   75009 Paris, France                        Non-Life and Composite Insurance Activities
+                                              outside France, AXA
+
+ ------- -------------------------------------------------
+      *  Member, Conseil d'Administration
+</TABLE>
+
+
+                                       32
+<PAGE>
+
+                                                                     Schedule H
+                                                                     ----------
+
+                             Executive Officers and
+                       Members of Conseil d'Administration
+                                       of
+                          ALPHA ASSURANCES VIE MUTUELLE
+
+
+                  The names of the Members of Conseil  d'Administration  and the
+names and titles of the Executive  Officers of Alpha Assurances Vie Mutuelle and
+their business  addresses and principal  occupations  are set forth below. If no
+address is given, the Member's or Executive  Officer's  business address is that
+of Alpha Assurances Vie Mutuelle at Tour Franklin,  100/101 Terrasse  Boieldieu,
+Cedex 11,  92042 Paris La Defense,  France.  Unless  otherwise  indicated,  each
+occupation set forth opposite an  individual's  name refers to Alpha  Assurances
+Vie Mutuelle and each individual is a citizen of the Republic of France.
+<TABLE>
+<CAPTION>
+
+<S>                                           <C>
+Name, Business Address                        Present Principal Occupation
+
+*  Claude Bebear                              Chairman and Chief Executive Officer; Chairman
+   23, avenue Matignon                        and Chief Executive Officer, AXA
+   75008 Paris, France
+
+*  Henri de Castries                          Executive Vice President, Financial Services
+   23, avenue Matignon                        and Life Insurance Activities outside France,
+   75008 Paris, France                        AXA
+
+*  Henri de Clermont-Tonnerre                 Chairman, Societe d'Armement et de Navigation
+   90, rue de Miromesnil                      Charles Schiaffino (transportation)
+   75008 Paris, France
+
+*  Claude Fath                                Manager
+
+*  Jean-Rene Fourtou                          Chairman and Chief Executive Officer,
+   25, quai Paul Doumer                       Rhone-Poulenc S.A. (industry)
+   92408 Courbevoie, France
+
+*  Patrice Garnier                            Retired
+
+*  Henri Lachmann                             Chairman and Chief Executive Officer, Strafor
+   56, rue Jean Giraudoux                     Facom (office furniture)
+   67000 Strasbourg, France
+
+*  Georges Rousseau                           Chairman, Apave Normandies (consulting)
+   2, rue des Mouettes
+   76130 Mont Saint Aignan, France
+
+*  Claude Tendil                              Chief Executive Officer; Executive Vice
+   21, rue de Chateaudun                      President, French Insurance Activities and
+   75009 Paris, France                        Non-Life and Composite Insurance Activities
+                                              outside France, AXA
+
+*  Francis Vaudour                            Chief Executive Officer, Segafredo Zanetti
+   14, boulevard Industriel                   France S.A. (coffee importing and processing)
+   76301 Sotteville les Rouen
+   France
+
+ ------- -------------------------------------------------
+      *  Member, Conseil d'Administration
+</TABLE>
+
+
+                                       33
+<PAGE>
+
+                                                                     Schedule I
+                                                                     ----------
+
+                             Executive Officers and
+                       Members of Conseil d'Administration
+                                       of
+                          UNI EUROPE ASSURANCE MUTUELLE
+
+                  The names of the Members of Conseil  d'Administration  and the
+names and titles of the Executive  Officers of Uni Europe Assurance Mutuelle and
+their business  addresses and principal  occupations  are set forth below. If no
+address is given, the Member's or Executive  Officer's  business address is that
+of Uni Europe Assurance Mutuelle at 24, rue Drouot, 75009 Paris, France.  Unless
+otherwise  indicated,  each occupation set forth opposite an  individual's  name
+refers to Uni Europe Assurance  Mutuelle and each individual is a citizen of the
+Republic of France.
+<TABLE>
+<CAPTION>
+
+<S>                                                  <C>
+Name, Business Address                               Present Principal Occupation
+
+*  Claude Bebear                                     Chairman and Chief Executive Officer; Chairman
+   23, avenue Matignon                               and Chief Executive Officer, AXA
+   75008 Paris, France
+
+*  Henri de Castries                                 Executive Vice President, Financial Services
+   23, avenue Matignon                               and Life Insurance Activities outside France,
+   75008 Paris, France                               AXA
+
+*  Francis Cordier                                   Chairman and Chief Executive Officer, Group
+   rue Nicephone Niepce BP 232 76304 Sotteville      Demay Lesieur (food industry)
+   Les Rouen, France
+
+*  Gerard Coutelle                                   Retired
+
+*  Jean-Rene Fourtou                                 Chairman and Chief Executive Officer,
+   25, quai Paul Doumer                              Rhone-Poulenc S.A. (industry)
+   92408 Courbevoie, France
+
+*  Patrice Garnier                                   Retired
+
+*  Henri Lachmann                                    Chairman and Chief Executive Officer, Strafor
+   56, rue Jean Giraudoux                            Facom (office furniture)
+   67000 Strasbourg, France
+
+*  Francis Magnan                                    Chairman and Chief Executive Officer, Groupe
+   50, boulevard des Dames                           Daher (air and sea transportation)
+   13002 Marseille, France
+
+*  Jean de Ribes                                     Chief Executive Officer, Banque Rivaud (banking)
+   13, rue Notre Dame des Victoires 75008 Paris,
+   France
+
+*  Georges Rousseau                                  Chairman, Apave Normandies (consulting)
+   2, rue des Mouettes
+   76130 Mont Saint Aignan, France
+
+*  Jean-Paul Saillard                                Corporate Secretary, AXA
+   23, avenue Matignon
+   75008 Paris, France
+
+*  Claude Tendil                                     Chief Executive Officer; Executive Vice
+   21, rue de Chateaudun                             President, French Insurance Activities and
+   75009 Paris, France                               Non-Life and Composite Insurance Activities
+                                                     outside France, AXA
+
+ ------- -------------------------------------------------
+      *  Member, Conseil d'Administration
+</TABLE>
+
+                                       34
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<DESCRIPTION>JOINT FILING AGREEMENT
+<TEXT>
+
+
+                                                                     Exhibit 1
+                                                                     ---------
+
+                             Joint Filing Agreement
+
+         In accordance  with Rule 13d-1(f) under the Securities  Exchange Act of
+1934, as amended,  each of the persons named below agrees to the joint filing of
+a Statement on Schedule 13D (including  amendments  thereto) with respect to the
+common stock,  par value $0.01 per share, of  Furr's/Bishop's,  Incorporated,  a
+Delaware  corporation,  and further  agrees that this Joint Filing  Agreement be
+included as an exhibit to such filings provided that, as contemplated by Section
+13d-1(f)(l)(ii), no person shall be responsible for the completeness or accuracy
+of the information  concerning the other persons making the filing,  unless such
+person knows or has reason to believe that such information is inaccurate.  This
+Joint  Filing  may be  executed  in any  number  of  counterparts,  all of which
+together shall constitute one and the same instrument.
+
+Dated:  August 7, 1996
+
+EQ Asset Trust 1993
+By:  The Chase Manhattan Bank, N.A., as Trustee
+
+
+By:  /s/ Kimberly Costa
+     Account Officer
+
+
+Alliance Capital Management L.P.
+By:  Alliance Capital Management Corporation,
+     as General Partner
+
+
+By:  /s/ Mark R. Manley
+     Vice President and Counsel
+
+The Equitable Companies Incorporated
+
+
+By:   /s/ Alvin H. Fenichel
+     Senior Vice President and Controller
+
+AXA
+Finaxa
+AXA Assurances I.A.R.D. Mutuelle
+AXA Assurances Vie Mutuelle
+Alpha Assurances I.A.R.D. Mutuelle
+Alpha Assurances Vie Mutuelle
+Uni Europe Assurance Mutuelle
+Claude Bebear, as AXA Voting Trustee
+Patrice Garnier, as AXA Voting Trustee
+Henri de Clermont-Tonnerre, as AXA Voting Trustee
+
+Signed on behalf of each of the above
+
+
+By:  /s/ Richard V. Silver
+     Attorney-in-fact
+
+
+                                       35
+<PAGE>
+
+                                                                       Exhibit 2
+                                                                       ---------
+                                Power of Attorney
+
+         AXA, a societe anonyme  organized under the laws of Republic of France,
+(the "Corporation"),  hereby constitutes and appoints each of Richard V. Silver,
+Henry Q. Conley,  Alvin H. Fenichel and Allen J. Zabusky,  acting singly, as the
+true and lawful  attorney-in-fact and agent, with full power of substitution and
+resubstitution,  for the  Corporation  and in the  name,  place and stead of the
+Corporation,  in any and all  capacities,  to  execute  for and on behalf of the
+Corporation,  all Schedules 13D and Schedules 13G as required by the  Securities
+Exchange Act of 1934, as amended,  and any and all  amendments  thereto,  and to
+file the same,  with all exhibits  thereto,  and other  documents in  connection
+therewith, with the Securities and Exchange Commission,  the issuer and relevant
+stock exchanges (individually,  each a "Filing"); provided, however, that unless
+specifically  instructed in writing by the  Corporation,  this Power of Attorney
+does not authorize any of the above-listed  attorneys-in-fact  and agents of the
+Corporation (or any person substituted or resubstituted  therefor) to execute or
+file for or on behalf of the  Corporation  any  Filing  with  respect to (i) the
+Common Stock, par value $.01 per share, of The Equitable Companies Incorporated,
+a Delaware corporation, or (ii) the Units Representing Assignments of Beneficial
+Ownership of Limited Partnership  Interests in Alliance Capital Management L.P.,
+a  Delaware  limited   partnership.   The  Corporation  hereby  grants  to  such
+attorneys-in-fact  and agents of the Corporation  full power and authority to do
+and perform each and every act and thing  requisite and necessary to be done, as
+fully to all intents and purposes as the Corporation  might or could, and hereby
+ratifies  and  confirms  all  that  said  attorneys-in-fact  and  agents  of the
+Corporation or their  substitute or  substitutes  may lawfully do or cause to be
+done by virtue hereof.
+
+         The undersigned  acknowledges that the foregoing  attorneys-in-fact and
+agents of the  Corporation,  in serving in such  capacity  at the request of the
+undersigned,  are not  assuming  any of the  undersigned's  responsibilities  to
+comply with Section 13(d) of the Securities Exchange Act of 1934.
+
+         The powers hereby conferred upon the said  attorneys-in-fact and agents
+shall continue in force until notice of the revocation of this Power of Attorney
+has been received by the said attorneys-in-fact and agents of the Corporation.
+
+         IN WITNESS WHEREOF, the undersigned has hereunto subscribed this Power
+of Attorney this 24 day of June,1996.
+
+                                                     AXA
+
+                                                     By:    /s/ Claude Bebear
+                                                            Chairman and CEO
+
+
+                                       36
+<PAGE>
+
+                               Power of Attorney
+
+         Finaxa,  a societe  anonyme  organized  under the laws of  Republic  of
+France (the  "Corporation"),  hereby constitutes and appoints each of Richard V.
+Silver, Henry Q. Conley, Alvin H. Fenichel and Allen J. Zabusky,  acting singly,
+as  the  true  and  lawful  attorney-in-fact  and  agent,  with  full  power  of
+substitution and resubstitution,  for the Corporation and in the name, place and
+stead of the  Corporation,  in any and all  capacities,  to  execute  for and on
+behalf of the  Corporation,  all  Schedules 13D and Schedules 13G as required by
+the  Securities  Exchange Act of 1934,  as amended,  and any and all  amendments
+thereto, and to file the same, with all exhibits thereto, and other documents in
+connection  therewith,  with the Securities and Exchange Commission,  the issuer
+and relevant stock exchanges (individually, each a "Filing"); provided, however,
+that unless specifically instructed in writing by the Corporation, this Power of
+Attorney does not authorize any of the above-listed attorneys-in-fact and agents
+of the  Corporation  (or any person  substituted or  resubstituted  therefor) to
+execute or file for or on behalf of the  Corporation  any Filing with respect to
+(i) the  Common  Stock,  par value $.01 per share,  of The  Equitable  Companies
+Incorporated, a Delaware corporation, or (ii) the Units Representing Assignments
+of Beneficial  Ownership of Limited  Partnership  Interests in Alliance  Capital
+Management L.P., a Delaware limited  partnership.  The Corporation hereby grants
+to such attorneys-in-fact and agents of the Corporation full power and authority
+to do and perform  each and every act and thing  requisite  and  necessary to be
+done,  as fully to all intents and purposes as the  Corporation  might or could,
+and hereby ratifies and confirms all that said  attorneys-in-fact  and agents of
+the  Corporation or their  substitute or substitutes may lawfully do or cause to
+be done by virtue hereof.
+
+         The undersigned  acknowledges that the foregoing  attorneys-in-fact and
+agents of the  Corporation,  in serving in such  capacity  at the request of the
+undersigned,  are not  assuming  any of the  undersigned's  responsibilities  to
+comply with Section 13(d) of the Securities Exchange Act of 1934.
+
+         The powers hereby conferred upon the said  attorneys-in-fact and agents
+shall continue in force until notice of the revocation of this Power of Attorney
+has been received by the said attorneys-in-fact and agents of the Corporation.
+
+         IN WITNESS WHEREOF, the undersigned has hereunto subscribed this Power
+of Attorney this 24 day of June,1996.
+
+                                                     FINAXA
+
+                                                     By:      /s/ Claude Bebear
+                                                              Chairman and CEO
+
+
+
+                                       37
+<PAGE>
+
+                                Power of Attorney
+
+         AXA Assurances Vie Mutuelle, a mutual insurance company organized under
+the laws of the Republic of France (the  "Corporation"),  hereby constitutes and
+appoints each of Richard V. Silver, Henry Q. Conley, Alvin H. Fenichel and Allen
+J. Zabusky,  acting singly, as the true and lawful  attorney-in-fact  and agent,
+with full power of substitution and  resubstitution,  for the Corporation and in
+the name,  place and stead of the  Corporation,  in any and all  capacities,  to
+execute for and on behalf of the  Corporation,  all  Schedules 13D and Schedules
+13G as required by the Securities Exchange Act of 1934, as amended,  and any and
+all amendments  thereto,  and to file the same, with all exhibits  thereto,  and
+other  documents  in  connection  therewith,  with the  Securities  and Exchange
+Commission,  the issuer  and  relevant  stock  exchanges  (individually,  each a
+"Filing");  provided, however, that unless specifically instructed in writing by
+the  Corporation,  this  Power  of  Attorney  does  not  authorize  any  of  the
+above-listed  attorneys-in-fact  and  agents of the  Corporation  (or any person
+substituted  or  resubstituted  therefor) to execute or file for or on behalf of
+the Corporation any Filing with respect to (i) the Common Stock,  par value $.01
+per share, of The Equitable Companies Incorporated,  a Delaware corporation,  or
+(ii) the Units  Representing  Assignments  of  Beneficial  Ownership  of Limited
+Partnership  Interests in Alliance  Capital  Management L.P., a Delaware limited
+partnership.  The Corporation hereby grants to such attorneys-in-fact and agents
+of the Corporation full power and authority to do and perform each and every act
+and thing  requisite  and  necessary  to be done,  as fully to all  intents  and
+purposes as the Corporation might or could, and hereby ratifies and confirms all
+that said attorneys-in-fact and agents of the Corporation or their substitute or
+substitutes may lawfully do or cause to be done by virtue hereof.
+
+         The undersigned  acknowledges that the foregoing  attorneys-in-fact and
+agents of the  Corporation,  in serving in such  capacity  at the request of the
+undersigned,  are not  assuming  any of the  undersigned's  responsibilities  to
+comply with Section 13(d) of the Securities Exchange Act of 1934.
+
+         The powers hereby conferred upon the said  attorneys-in-fact and agents
+shall continue in force until notice of the revocation of this Power of Attorney
+has been received by the said attorneys-in-fact and agents of the Corporation.
+
+         IN WITNESS WHEREOF, the undersigned has hereunto subscribed this Power
+of Attorney this 24 day of June,1996.
+
+                                                     AXA ASSURANCES VIE MUTUELLE
+
+                                                     By: /s/ Claude Tendil
+                                                         Chief Executive Officer
+
+
+                                       38
+<PAGE>
+
+                                Power of Attorney
+
+         Uni Europe Assurance  Mutuelle,  a mutual insurance  company  organized
+under the laws of the Republic of France (the "Corporation"), hereby constitutes
+and appoints each of Richard V. Silver,  Henry Q. Conley,  Alvin H. Fenichel and
+Allen J. Zabusky,  acting singly,  as the true and lawful  attorney-in-fact  and
+agent, with full power of substitution and  resubstitution,  for the Corporation
+and in the name, place and stead of the Corporation,  in any and all capacities,
+to execute for and on behalf of the Corporation, all Schedules 13D and Schedules
+13G as required by the Securities Exchange Act of 1934, as amended,  and any and
+all amendments  thereto,  and to file the same, with all exhibits  thereto,  and
+other  documents  in  connection  therewith,  with the  Securities  and Exchange
+Commission,  the issuer  and  relevant  stock  exchanges  (individually,  each a
+"Filing");  provided, however, that unless specifically instructed in writing by
+the  Corporation,  this  Power  of  Attorney  does  not  authorize  any  of  the
+above-listed  attorneys-in-fact  and  agents of the  Corporation  (or any person
+substituted  or  resubstituted  therefor) to execute or file for or on behalf of
+the Corporation any Filing with respect to (i) the Common Stock,  par value $.01
+per share, of The Equitable Companies Incorporated,  a Delaware corporation,  or
+(ii) the Units  Representing  Assignments  of  Beneficial  Ownership  of Limited
+Partnership  Interests in Alliance  Capital  Management L.P., a Delaware limited
+partnership.  The Corporation hereby grants to such attorneys-in-fact and agents
+of the Corporation full power and authority to do and perform each and every act
+and thing  requisite  and  necessary  to be done,  as fully to all  intents  and
+purposes as the Corporation might or could, and hereby ratifies and confirms all
+that said attorneys-in-fact and agents of the Corporation or their substitute or
+substitutes may lawfully do or cause to be done by virtue hereof.
+
+         The undersigned  acknowledges that the foregoing  attorneys-in-fact and
+agents of the  Corporation,  in serving in such  capacity  at the request of the
+undersigned,  are not  assuming  any of the  undersigned's  responsibilities  to
+comply with Section 13(d) of the Securities Exchange Act of 1934.
+
+         The powers hereby conferred upon the said  attorneys-in-fact and agents
+shall continue in force until notice of the revocation of this Power of Attorney
+has been received by the said attorneys-in-fact and agents of the Corporation.
+
+         IN WITNESS WHEREOF, the undersigned has hereunto subscribed this Power
+of Attorney this 24 day of June,1996.
+
+                                                  UNI EUROPE ASSURANCE MUTUELLE
+
+                                                  By:    /s/ Claude Tendil
+                                                         Chief Executive Officer
+
+
+
+                                       39
+<PAGE>
+
+                                Power of Attorney
+
+         Alpha  Assurances Vie Mutuelle,  a mutual insurance  company  organized
+under the laws of the Republic of France (the "Corporation"), hereby constitutes
+and appoints each of Richard V. Silver,  Henry Q. Conley,  Alvin H. Fenichel and
+Allen J. Zabusky,  acting singly,  as the true and lawful  attorney-in-fact  and
+agent, with full power of substitution and  resubstitution,  for the Corporation
+and in the name, place and stead of the Corporation,  in any and all capacities,
+to execute for and on behalf of the Corporation, all Schedules 13D and Schedules
+13G as required by the Securities Exchange Act of 1934, as amended,  and any and
+all amendments  thereto,  and to file the same, with all exhibits  thereto,  and
+other  documents  in  connection  therewith,  with the  Securities  and Exchange
+Commission,  the issuer  and  relevant  stock  exchanges  (individually,  each a
+"Filing");  provided, however, that unless specifically instructed in writing by
+the  Corporation,  this  Power  of  Attorney  does  not  authorize  any  of  the
+above-listed  attorneys-in-fact  and  agents of the  Corporation  (or any person
+substituted  or  resubstituted  therefor) to execute or file for or on behalf of
+the Corporation any Filing with respect to (i) the Common Stock,  par value $.01
+per share, of The Equitable Companies Incorporated,  a Delaware corporation,  or
+(ii) the Units  Representing  Assignments  of  Beneficial  Ownership  of Limited
+Partnership  Interests in Alliance  Capital  Management L.P., a Delaware limited
+partnership.  The Corporation hereby grants to such attorneys-in-fact and agents
+of the Corporation full power and authority to do and perform each and every act
+and thing  requisite  and  necessary  to be done,  as fully to all  intents  and
+purposes as the Corporation might or could, and hereby ratifies and confirms all
+that said attorneys-in-fact and agents of the Corporation or their substitute or
+substitutes may lawfully do or cause to be done by virtue hereof.
+
+         The undersigned  acknowledges that the foregoing  attorneys-in-fact and
+agents of the  Corporation,  in serving in such  capacity  at the request of the
+undersigned,  are not  assuming  any of the  undersigned's  responsibilities  to
+comply with Section 13(d) of the Securities Exchange Act of 1934.
+
+         The powers hereby conferred upon the said  attorneys-in-fact and agents
+shall continue in force until notice of the revocation of this Power of Attorney
+has been received by the said attorneys-in-fact and agents of the Corporation.
+
+         IN WITNESS WHEREOF, the undersigned has hereunto subscribed this Power
+of Attorney this 24 day of June,1996.
+
+                                                  ALPHA ASSURANCES VIE MUTUELLE
+
+                                                  By:   /s/ Claude Tendil
+                                                        Chief Executive Officer
+
+
+
+                                       40
+<PAGE>
+
+                                Power of Attorney
+
+         Alpha  Assurances  I.A.R.D.   Mutuelle,   a  mutual  insurance  company
+organized  under the laws of the Republic of France (the  "Corporation")  hereby
+constitutes  and appoints each of Richard V. Silver,  Henry Q. Conley,  Alvin H.
+Fenichel  and  Allen  J.  Zabusky,   acting  singly,  as  the  true  and  lawful
+attorney-in-fact  and agent, with full power of substitution and resubstitution,
+for the Corporation and in the name, place and stead of the Corporation,  in any
+and all  capacities,  to  execute  for and on  behalf  of the  Corporation,  all
+Schedules 13D and Schedules  13G as required by the  Securities  Exchange Act of
+1934, as amended, and any and all amendments thereto, and to file the same, with
+all exhibits  thereto,  and other  documents in connection  therewith,  with the
+Securities  and Exchange  Commission,  the issuer and relevant  stock  exchanges
+(individually,  each a "Filing");  provided,  however,  that unless specifically
+instructed  in  writing by the  Corporation,  this  Power of  Attorney  does not
+authorize  any  of  the  above-listed   attorneys-in-fact   and  agents  of  the
+Corporation (or any person substituted or resubstituted  therefor) to execute or
+file for or on behalf of the  Corporation  any  Filing  with  respect to (i) the
+Common Stock, par value $.01 per share, of The Equitable Companies Incorporated,
+a Delaware corporation, or (ii) the Units Representing Assignments of Beneficial
+Ownership of Limited Partnership  Interests in Alliance Capital Management L.P.,
+a  Delaware  limited   partnership.   The  Corporation  hereby  grants  to  such
+attorneys-in-fact  and agents of the Corporation  full power and authority to do
+and perform each and every act and thing  requisite and necessary to be done, as
+fully to all intents and purposes as the Corporation  might or could, and hereby
+ratifies  and  confirms  all  that  said  attorneys-in-fact  and  agents  of the
+Corporation or their  substitute or  substitutes  may lawfully do or cause to be
+done by virtue hereof.
+
+         The undersigned  acknowledges that the foregoing  attorneys-in-fact and
+agents of the  Corporation,  in serving in such  capacity  at the request of the
+undersigned,  are not  assuming  any of the  undersigned's  responsibilities  to
+comply with Section 13(d) of the Securities Exchange Act of 1934.
+
+         The powers hereby conferred upon the said  attorneys-in-fact and agents
+shall continue in force until notice of the revocation of this Power of Attorney
+has been received by the said attorneys-in-fact and agents of the Corporation.
+
+         IN WITNESS WHEREOF, the undersigned has hereunto subscribed this Power
+of Attorney this 24 day of June,1996.
+
+                                             ALPHA ASSURANCES I.A.R.D. MUTUELLE
+
+                                                  By:   /s/ Claude Tendil
+                                                        Chief Executive Officer
+
+
+                                       41
+<PAGE>
+
+                                Power of Attorney
+
+         AXA Assurances I.A.R.D.  Mutuelle, a mutual insurance company organized
+under the laws of the Republic of France (the "Corporation"), hereby constitutes
+and appoints each of Richard V. Silver,  Henry Q. Conley,  Alvin H. Fenichel and
+Allen J. Zabusky,  acting singly,  as the true and lawful  attorney-in-fact  and
+agent, with full power of substitution and  resubstitution,  for the Corporation
+and in the name, place and stead of the Corporation,  in any and all capacities,
+to execute for and on behalf of the Corporation, all Schedules 13D and Schedules
+13G as required by the Securities Exchange Act of 1934, as amended,  and any and
+all amendments  thereto,  and to file the same, with all exhibits  thereto,  and
+other  documents  in  connection  therewith,  with the  Securities  and Exchange
+Commission,  the issuer  and  relevant  stock  exchanges  (individually,  each a
+"Filing");  provided, however, that unless specifically instructed in writing by
+the  Corporation,  this  Power  of  Attorney  does  not  authorize  any  of  the
+above-listed  attorneys-in-fact  and  agents of the  Corporation  (or any person
+substituted  or  resubstituted  therefor) to execute or file for or on behalf of
+the Corporation any Filing with respect to (i) the Common Stock,  par value $.01
+per share, of The Equitable Companies Incorporated,  a Delaware corporation,  or
+(ii) the Units  Representing  Assignments  of  Beneficial  Ownership  of Limited
+Partnership  Interests in Alliance  Capital  Management L.P., a Delaware limited
+partnership.  The Corporation hereby grants to such attorneys-in-fact and agents
+of the Corporation full power and authority to do and perform each and every act
+and thing  requisite  and  necessary  to be done,  as fully to all  intents  and
+purposes as the Corporation might or could, and hereby ratifies and confirms all
+that said attorneys-in-fact and agents of the Corporation or their substitute or
+substitutes may lawfully do or cause to be done by virtue hereof.
+
+         The undersigned  acknowledges that the foregoing  attorneys-in-fact and
+agents of the  Corporation,  in serving in such  capacity  at the request of the
+undersigned,  are not  assuming  any of the  undersigned's  responsibilities  to
+comply with Section 13(d) of the Securities Exchange Act of 1934.
+
+         The powers hereby conferred upon the said  attorneys-in-fact and agents
+shall continue in force until notice of the revocation of this Power of Attorney
+has been received by the said attorneys-in-fact and agents of the Corporation.
+
+         IN WITNESS WHEREOF, the undersigned has hereunto subscribed this Power
+of Attorney this 24 day of June,1996.
+
+                                               AXA ASSURANCES I.A.R.D. MUTUELLE
+
+                                                   By:  /s/ Claude Tendil
+                                                        Chief Executive Officer
+
+
+                                       42
+<PAGE>
+
+                                Power of Attorney
+
+         Claude  Bebear,  as a Voting  Trustee  (the  "Trustee"),  pursuant to a
+Voting Trust  Agreement  dated as of May 12,  1992,  by and among AXA, a societe
+anonyme organized under the laws of Republic of France,  and the Voting Trustees
+identified  therein,  hereby constitutes and appoints each of Richard V. Silver,
+Henry Q. Conley,  Alvin H. Fenichel and Allen J. Zabusky,  acting singly, as the
+true and lawful  attorney-in-fact and agent, with full power of substitution and
+resubstitution, for the Trustee and in the name, place and stead of the Trustee,
+in any and all  capacities,  to execute  for and on behalf of the  Trustee,  all
+Schedules 13D and Schedules  13G as required by the  Securities  Exchange Act of
+1934, as amended, and any and all amendments thereto, and to file the same, with
+all exhibits  thereto,  and other  documents in connection  therewith,  with the
+Securities  and Exchange  Commission,  the issuer and relevant  stock  exchanges
+(individually,  each a "Filing");  provided,  however,  that unless specifically
+instructed in writing by the Trustee,  this Power of Attorney does not authorize
+any of the  above-listed  attorneys-in-fact  and agents of the  Trustee  (or any
+person  substituted  or  resubstituted  therefor)  to  execute or file for or on
+behalf of the Trustee any Filing with respect to (i) the Common Stock, par value
+$.01 per share, of The Equitable Companies Incorporated, a Delaware corporation,
+or (ii) the Units  Representing  Assignments of Beneficial  Ownership of Limited
+Partnership  Interests in Alliance  Capital  Management L.P., a Delaware limited
+partnership.  The Trustee hereby grants to such  attorneys-in-fact and agents of
+the Trustee  full power and  authority  to do and perform each and every act and
+thing  requisite  and necessary to be done, as fully to all intents and purposes
+as the Trustee  might or could,  and hereby  ratifies and confirms all that said
+attorneys-in-fact  and agents of the Trustee or their  substitute or substitutes
+may lawfully do or cause to be done by virtue hereof.
+
+         The undersigned  acknowledges that the foregoing  attorneys-in-fact and
+agents of the  Trustee,  in  serving  in such  capacity  at the  request  of the
+undersigned,  are not  assuming  any of the  undersigned's  responsibilities  to
+comply with Section 13(d) of the Securities Exchange Act of 1934.
+
+         The powers hereby conferred upon the said  attorneys-in-fact and agents
+shall continue in force until notice of the revocation of this Power of Attorney
+has been received by the said attorneys-in-fact and agents of the Trustee.
+
+         IN WITNESS WHEREOF, the undersigned has hereunto subscribed this Power
+of Attorney this 24 day of June,1996.
+
+                                                       By:   /s/ Claude Bebear
+                                                             Voting Trustee
+
+
+
+
+                                       43
+<PAGE>
+
+                                Power of Attorney
+
+         Henri  de  Clermont-Tonnerre,  as a  Voting  Trustee  (the  "Trustee"),
+pursuant to a Voting Trust Agreement dated as of May 12, 1992, by and among AXA,
+a societe anonyme organized under the laws of Republic of France, and the Voting
+Trustees identified therein,  hereby constitutes and appoints each of Richard V.
+Silver, Henry Q. Conley, Alvin H. Fenichel and Allen J. Zabusky,  acting singly,
+as  the  true  and  lawful  attorney-in-fact  and  agent,  with  full  power  of
+substitution  and  resubstitution,  for the Trustee  and in the name,  place and
+stead of the Trustee, in any and all capacities, to execute for and on behalf of
+the Trustee,  all Schedules 13D and Schedules 13G as required by the  Securities
+Exchange Act of 1934, as amended,  and any and all  amendments  thereto,  and to
+file the same,  with all exhibits  thereto,  and other  documents in  connection
+therewith, with the Securities and Exchange Commission,  the issuer and relevant
+stock exchanges (individually,  each a "Filing"); provided, however, that unless
+specifically  instructed in writing by the Trustee,  this Power of Attorney does
+not  authorize  any of the  above-listed  attorneys-in-fact  and  agents  of the
+Trustee (or any person substituted or resubstituted therefor) to execute or file
+for or on behalf of the Trustee any Filing with respect to (i) the Common Stock,
+par value $.01 per share, of The Equitable  Companies  Incorporated,  a Delaware
+corporation,  or (ii) the Units Representing Assignments of Beneficial Ownership
+of Limited Partnership Interests in Alliance Capital Management L.P., a Delaware
+limited  partnership.  The Trustee hereby grants to such  attorneys-in-fact  and
+agents of the Trustee full power and  authority to do and perform each and every
+act and thing  requisite  and  necessary to be done, as fully to all intents and
+purposes as the Trustee  might or could,  and hereby  ratifies  and confirms all
+that said  attorneys-in-fact  and agents of the Trustee or their  substitute  or
+substitutes may lawfully do or cause to be done by virtue hereof.
+
+         The undersigned  acknowledges that the foregoing  attorneys-in-fact and
+agents of the  Trustee,  in  serving  in such  capacity  at the  request  of the
+undersigned,  are not  assuming  any of the  undersigned's  responsibilities  to
+comply with Section 13(d) of the Securities Exchange Act of 1934.
+
+         The powers hereby conferred upon the said  attorneys-in-fact and agents
+shall continue in force until notice of the revocation of this Power of Attorney
+has been received by the said attorneys-in-fact and agents of the Trustee.
+
+         IN WITNESS WHEREOF, the undersigned has hereunto subscribed this Power
+of Attorney this 24 day of June,1996.
+
+                                             By: /s/ Henri de Clermont-Tonnerre
+                                                 Voting Trustee
+
+
+                                       44
+<PAGE>
+
+                                Power of Attorney
+
+         Patrice  Garnier,  as a Voting Trustee (the  "Trustee"),  pursuant to a
+Voting Trust  Agreement  dated as of May 12,  1992,  by and among AXA, a societe
+anonyme organized under the laws of Republic of France,  and the Voting Trustees
+identified  therein,  hereby constitutes and appoints each of Richard V. Silver,
+Henry Q. Conley,  Alvin H. Fenichel and Allen J. Zabusky,  acting singly, as the
+true and lawful  attorney-in-fact and agent, with full power of substitution and
+resubstitution, for the Trustee and in the name, place and stead of the Trustee,
+in any and all  capacities,  to execute  for and on behalf of the  Trustee,  all
+Schedules 13D and Schedules  13G as required by the  Securities  Exchange Act of
+1934, as amended, and any and all amendments thereto, and to file the same, with
+all exhibits  thereto,  and other  documents in connection  therewith,  with the
+Securities  and Exchange  Commission,  the issuer and relevant  stock  exchanges
+(individually,  each a "Filing");  provided,  however,  that unless specifically
+instructed in writing by the Trustee,  this Power of Attorney does not authorize
+any of the  above-listed  attorneys-in-fact  and agents of the  Trustee  (or any
+person  substituted  or  resubstituted  therefor)  to  execute or file for or on
+behalf of the Trustee any Filing with respect to (i) the Common Stock, par value
+$.01 per share, of The Equitable Companies Incorporated, a Delaware corporation,
+or (ii) the Units  Representing  Assignments of Beneficial  Ownership of Limited
+Partnership  Interests in Alliance  Capital  Management L.P., a Delaware limited
+partnership.  The Trustee hereby grants to such  attorneys-in-fact and agents of
+the Trustee  full power and  authority  to do and perform each and every act and
+thing  requisite  and necessary to be done, as fully to all intents and purposes
+as the Trustee  might or could,  and hereby  ratifies and confirms all that said
+attorneys-in-fact  and agents of the Trustee or their  substitute or substitutes
+may lawfully do or cause to be done by virtue hereof.
+
+         The undersigned  acknowledges that the foregoing  attorneys-in-fact and
+agents of the  Trustee,  in  serving  in such  capacity  at the  request  of the
+undersigned,  are not  assuming  any of the  undersigned's  responsibilities  to
+comply with Section 13(d) of the Securities Exchange Act of 1934.
+
+         The powers hereby conferred upon the said  attorneys-in-fact and agents
+shall continue in force until notice of the revocation of this Power of Attorney
+has been received by the said attorneys-in-fact and agents of the Trustee.
+
+         IN WITNESS WHEREOF, the undersigned has hereunto subscribed this Power
+of Attorney this 24 day of June,1996.
+
+                                                       By:  /s/ Patrice Garnier
+                                                            Voting Trustee
+
+
+                                       45
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

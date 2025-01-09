@@ -1,0 +1,534 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ WxBn1R1q6nqIgVQ/97x2fXKURuLlxKys1p91eWPDYUQqAm2f+8lHQKTf939/OlJz
+ QvcqMNRhxhCxYkbCOkn96A==
+
+<IMS-DOCUMENT>0000047217-95-000018.txt : 19950623
+<IMS-HEADER>0000047217-95-000018.hdr.sgml : 19950623
+ACCESSION NUMBER:		0000047217-95-000018
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19950622
+SROS:			NYSE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OCTEL COMMUNICATIONS CORP
+		CENTRAL INDEX KEY:			0000792723
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE & TELEGRAPH APPARATUS [3661]
+		IRS NUMBER:				770029449
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-39732
+		FILM NUMBER:		95548434
+
+	BUSINESS ADDRESS:	
+		STREET 1:		890 TASMAN DR
+		CITY:			MILPITAS
+		STATE:			CA
+		ZIP:			95035
+		BUSINESS PHONE:		4083212000
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HEWLETT PACKARD CO
+		CENTRAL INDEX KEY:			0000047217
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER & OFFICE EQUIPMENT [3570]
+		IRS NUMBER:				941081436
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3000 HANOVER ST
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+		BUSINESS PHONE:		4158571501
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D AMENDMENT NO. 4
+<TEXT>
+
+
+                    SECURITIES AND EXCHANGE COMMISSION
+                          Washington, D.C. 20549
+
+                               SCHEDULE 13D
+
+                 Under the Securities Exchange Act of 1934
+                             (Amendment No.4)*
+
+                         OCTEL COMMUNICATIONS CORPORATION                     
+- -------------------------------------------------------------------------------
+                               (Name of Issuer)
+
+                      Common Stock,  No par value 
+- -------------------------------------------------------------------------------
+                    (Title of Class of Securities)
+
+                               675724 10 8 
+- ------------------------------------------------------------------------------- 
+                             (CUSIP Number)
+
+         Ann O. Baskins, Assistant Secretary and Managing Counsel
+                          Hewlett-Packard Company
+                        Corporate Legal Department
+                       3000 Hanover Street, MS: 20BQ
+                       Palo Alto, California  94304
+                               (415) 857-3755
+- -------------------------------------------------------------------------------
+    (Name, Address and Telephone Number of Person Authorized to Receive
+                        Notices and Communications)
+
+                                June 7, 1995
+- -------------------------------------------------------------------------------
+          (Date of Event which Requires Filing of this Statement)
+
+
+If the filing person has previously filed a statement on Schedule 13G to
+report the acquisition which is the subject of this Schedule 13D, and is filing
+this schedule because of Rule 13d-1(b)(3) or (4), check the following box [].
+
+Check the following box if a fee is being paid with this statement [ ].  (A
+fee is not required only if the reporting person:  (1) has a previous statement
+on file reporting beneficial ownership of more than five percent of the class
+of securities described in Item 1; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of less than five percent of such class. 
+See Rule 13d-7.)
+
+Note:  Six copies of this statement, including all exhibits, should be filed
+with the Commission.  See Rule 13d-1(a) for other parties to whom copies
+are to be sent.
+
+*The remainder of this cover page shall be filled out for a reporting
+person's initial filing on this form with respect to the subject class of
+securities, and for any subsequent amendment containing information which
+would alter disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities
+Exchange Act of 1934 ("Act") or otherwise subject to the liabilities of that
+section of the Act but shall be subject to all other provisions of the Act
+(however, see the Notes).
+
+                                       1                                       
+CUSIP NO. 675724 10 8   SCHEDULE 13D
+
+                                                                               
+- ------------------------------------------------------------------------------- 
+1  Name of Reporting Persons S.S. or I.R.S. Identification Nos. of Above
+       Persons
+
+       Hewlett-Packard Company              I.R.S Identification No. 94-1081436
+- -------------------------------------------------------------------------------
+2    Check the Appropriate Box if a Member of a Group                          
+       Not applicable                                             (b) [   ]
+- ------------------------------------------------------------------------------- 
+     SEC Use Only
+
+                                                                                
+- -------------------------------------------------------------------------------
+4    Source of Funds
+
+       Not Applicable 
+- -------------------------------------------------------------------------------
+5    Check Box if Disclosure of Legal Proceedings Is Required Pursuant to Items
+       2(d) or 2(e)                                                   [   ]
+
+- -------------------------------------------------------------------------------
+6    Citizenship or Place of Organization
+
+       California
+- -------------------------------------------------------------------------------
+                                        7    Sole Voting Power
+     NUMBER OF                                 0
+     SHARES                            ----------------------------------------
+     BENEFICIALLY OWNED BY              8    Shared Voting Power
+     EACH REPORTING                            900,619
+     PERSON                             ---------------------------------------
+     WITH POWER                         9    Sole Dispositive Power 
+                                               900,619
+                                        ---------------------------------------
+                                        10   Shared Dispositive
+                                               0
+- -------------------------------------------------------------------------------
+11   Aggregate Amount Beneficially Owned by Each Reporting Person 
+
+       900,619                                                  
+- -------------------------------------------------------------------------------
+12   Check Box if the Aggregate Amount in Row (11) Excludes Certain Shares
+                                                                      [   ]
+
+- -------------------------------------------------------------------------------
+13   Percent of Class Represented by Amount in Row (11)
+
+       3.8%*
+- -------------------------------------------------------------------------------
+14   Type of Reporting Person
+
+       CO
+_______________________________________________________________________________
+All calculations are based on an aggregate of approximately 23,641,875
+shares of Octel Communications Corporation ( Octel ) Common Stock
+outstanding as of April 30, 1995, the most recent date on which Octel
+reported its outstanding shares.
+
+                                       2
+
+
+CUSIP NO. 675724 10 8   SCHEDULE 13D
+                         
+
+
+                            SCHEDULE 13D
+
+                           AMENDMENT NO. 4
+                        
+    Hewlett-Packard Company, a California corporation ( Hewlett-
+Packard ), previously filed in paper format a Schedule 13D, dated August
+30, 1988 (the  Original Schedule 13D ), Amendment No. 1, dated
+November 21, 1988 ( Amendment No. 1"), Amendment No. 2, dated
+November 3, 1989 ( Amendment No. 3"), in each case relating to its
+purchase of shares of Common Stock, no par value ( Octel Common
+Stock ), issued by Octel Communications Corporation, a California
+corporation ( Octel ).  According to the Securities and Exchange
+Commission (the  Commission ), Octel was phased into Operational
+EDGAR on December 6, 1993.  This Amendment No. 4 to the Original
+Schedule 13D further amends certain Items to the Original Schedule 13D
+and, pursuant to Rule 101(a)(2)(ii) of Regulation S-T, restates the entire
+Schedule as of the date of this filing.
+
+Item 1.  Security and Issuer.
+
+    As stated in the Original Schedule 13D, the title of the class of
+equity securities to which this Amendment No. 4 relates is Octel Common
+Stock.  Octel s principal executive offices are located at 890 Tasman Drive,
+Milpitas, California 95035.
+
+Item 2.  Identity and Background.
+
+    As stated in the Original Schedule 13D, this Amendment No. 4 is
+being filed by Hewlett-Packard, the address of whose principal executive
+offices is 3000 Hanover Street, Palo Alto, California 94304.  Hewlett-
+Packard, together with its consolidated subsidiaries, is engaged worldwide in
+the design, manufacture and service of electronic equipment and systems for
+measurement, computation and communications.  Hewlett-Packard offers a
+wide variety of systems and standalone products, including electronic test
+equipment, computer systems and peripheral products, medical electronic
+equipment, calculators and other personal information products, solid state
+components and instrumentation for chemical analysis.  These products are
+used in industry, business, engineering, science, education and medicine.
+
+    Hewlett-Packard has never been convicted in any criminal
+proceeding, and is not and has not been subject to any judgment, decree or
+final order enjoining future violations of, or prohibiting or mandating
+activities subject to, federal or state securities laws or finding any
+violation with respect to such laws.
+
+Item 3.  Source and Amount of Funds or Other Consideration.
+
+    The funds used to purchase the 1,564,119 shares of Octel
+Common Stock owned by Hewlett-Packard immediately prior to the sales
+described in Item 5 below, in the aggregate amount of $32,590,767, were
+derived from Hewlett-Packard s working capital and cash reserves.
+
+Item 4.  Purpose of Transaction.
+
+    As restated and amended in full in Amendment No. 3, Hewlett-
+Packard s purpose in acquiring Octel Common Stock was to develop and
+maintain a strategic partnership in which each company remained
+independent while working together to market and sell their products.  The
+strategic partnership was terminated.  Hewlett-Packard does not intend to
+obtain or affect control of Octel.
+
+    The terms and conditions of Hewlett-Packard s purchase of Octel
+Common Stock and Hewlett-Packard s rights to acquire additional shares of
+Octel Common Stock (or other Octel voting securities) were established in
+the Common Stock Purchase Agreement, dated August 10, 1988, between
+Hewlett-Packard and Octel (the  Stock Purchase Agreement ), which was
+attached to the Original Schedule 13D as Exhibit A and which is not being
+refiled with this Amendment No. 4.  The Stock Purchase Agreement was
+amended effective October 1, 1990 (the Stock Purchase Agreement, as
+amended, the  Amended Stock Purchase Agreement ), to extend the period
+of time until March 1, 1994 that certain restrictions applied to Hewlett-
+Packard s sale of shares.  The amendment to the Stock Purchase Agreement
+was not filed with the Commission and is not being filed with this
+Amendment No. 4.
+
+    The following summary of Hewlett-Packard s rights to purchase
+Octel Common Stock (or other Octel voting securities) is qualified in its
+entirety by reference to the terms of the Amended Stock Purchase
+Agreement.
+
+    Under the Amended Stock Purchase Agreement, Hewlett-Packard
+agreed to purchase, 730,070 shares (approximately 5%) in a private
+placement directly from Octel, the purchase of which was described in the
+Original Schedule 13D, and an additional 730,070 shares (approximately
+5%) of Octel Common Stock on the open market within 18 months of
+August 10, 1988.  Hewlett-Packard also purchased 193,979 shares of Octel
+Common Stock pursuant to the exercise of its right to maintain its
+percentage ownership interest in Octel(as described below).  Hewlett-
+Packard s purchase of certain of the shares of Octel Common  Stock on the
+open market and pursuant to its right to maintain was described in
+Amendment No. 1, Amendment No. 2 and Amendment No. 3.
+
+                                       3
+
+CUSIP NO. 675724 10 8   SCHEDULE 13D
+
+
+    Hewlett-Packard had certain rights under the Amended Stock
+Purchase Agreement.  Hewlett-Packard had an option, exercisable for a two-
+year period beginning August 10, 1989, to acquire an additional 10% of
+Octel s Common Stock, of which, at Octel s discretion, 5% could be sold
+directly to Hewlett-Packard by Octel.  Hewlett-Packard did not exercise this
+option.  Hewlett-Packard also had rights, under certain circumstances and
+subject to certain restrictions, to acquire additional shares of Octel Common
+Stock (or other Octel voting securities) in the open market, and in certain
+circumstances, from Octel (a) in order to maintain its percentage interest in
+Octel in the event that additional shares are issued by Octel, and (b) in the
+event that a third party acquires a percentage interest in Octel which exceeds
+that held by Hewlett-Packard (in which case Hewlett-Packard generally has
+a right to increase its percentage interest in Octel up to the level of the
+percentage interest held by the third party).
+
+    No contract, understanding or arrangement between Hewlett-
+Packard and Octel requires changes in Octel s charter, bylaws or related
+instruments which would impede the acquisition of control of Octel by any
+person, although Hewlett-Packard s ownership of Octel Common Stock and
+its rights, described above, to acquire additional Octel Common Stock (or
+other Octel voting securities) may impede the acquisition of control of Octel
+by other persons.
+
+    The restrictions on Hewlett-Packard s ability to sell shares of Octel
+Common Stock, as described in Item 5, all of which is incorporated in this
+Item 4 by this reference, have terminated.  Hewlett-Packard has the right to
+sell 824,049 shares on the open market, subject to Octel s right of first
+refusal as described below in Item 6, all of which is incorporated in this
+Item 4 by this reference, and 830,070 shares pursuant to Rule 144(k).  As
+further described in Item 6 below, Hewlett-Packard has informed Octel of
+Hewlett-Packard s intention to begin selling all of such shares, as market
+conditions permit.
+
+Item 5.  Interest in Securities of Issuer.
+
+    (a)  See rows 7, 11 and 13 of the cover page hereto, which are
+         incorporated herein by this reference.
+
+    (b)  Prior to May 17, 1995, Hewlett-Packard held 1,564,119 shares
+of Octel Common Stock (approximately 6.6%) of Octel Common Stock. 
+Hewlett-Packard has sole dispositive power with respect to these shares,
+subject to certain restrictions on transfer and a right of first refusal in
+favor of Octel, as described in Item 6 of this Statement, all of which is
+incorporated in this Item 5 by this reference.  Hewlett-Packard s right to
+vote the Octel Common Stock (or other Octel voting securities) is subject
+to certain restrictions, as described in Item 6 of this Statement, and, as a
+result of such restrictions, Hewlett-Packard shares the power to direct the
+vote of its Octel Common Stock (or other Octel voting securities) with Octel.
+
+    (c)  On the following dates, Merrill Lynch, Pierce, Fenner & Smith,
+Inc., on behalf of Hewlett-Packard sold, on the National Market System of
+the National Association of Securities Dealers, Inc. Automated Quotation
+System, the following numbers of shares of Octel Common Stock owned by
+Hewlett-Packard at the following average prices:
+
+    Date of Transaction           Number of Shares          Average Price
+
+    05/17/95                      10,000                    $ 23.19
+    05/18/95                      10,000                    $ 23.44
+    05/19/95                      10,000                    $ 23.06
+    05/22/95                      10,000                    $ 23.19
+    05/23/95                      10,000                    $ 23.19
+    05/24/95                      10,000                    $ 23.56
+    05/25/95                      10,000                    $ 23.75
+    05/26/95                      10,000                    $ 23.69
+    05/30/95                      10,000                    $ 23.25
+    05/31/95                      10,000                    $ 23.19
+    06/01/95                      10,000                    $ 23.44
+    06/02/95                      10,000                    $ 23.50
+    06/05/95                      40,000                    $ 24.63
+    06/06/95                      30,000                    $ 25.56
+    06/07/95                      53,500                    $ 25.30
+    06/08/95                      50,000                    $ 25.21
+    06/09/95                      60,000                    $ 25.44
+    06/12/95                      60,000                    $ 26.31
+    06/13/95                      60,000                    $ 27.77
+    06/14/95                      50,000                    $ 27.53
+    06/15/95                      60,000                    $ 27.81
+    06/16/95                      80,000                    $ 28.31
+
+
+                                       4
+
+
+CUSIP NO. 675724 10 8   SCHEDULE 13D
+
+
+
+    Except as described in this Amendment No. 4, Hewlett-Packard
+has not effected any transactions in Octel Common Stock during the last 60
+days.
+
+Item 6.  Contracts, Arrangements, Understandings or Relationships
+With Respect to Securities of the Issuer.
+
+    As stated in the Original Schedule 13D, the Stock Purchase
+Agreement imposes upon Hewlett-Packard certain restrictions related to
+voting the Octel Common Stock (or other Octel voting securities).  The
+Stock Purchase Agreement also establishes a number of restrictions on
+Hewlett-Packard s right to transfer Octel Common Stock (or other Octel
+voting securities), and provides that Octel has a right of first refusal on
+transfers by Hewlett-Packard of Octel Common Stock (or other Octel voting
+securities).  The following summary of such restrictions and rights of first
+refusal is qualified in its entirety by reference to the terms of the Amended
+Stock Purchase Agreement.
+
+    The Stock Purchase Agreement provides that Hewlett-Packard will
+vote its shares of Octel Common Stock (a) in an election of Octel directors,
+in favor of electing nominees to Octel's Board of Directors in accordance
+with the recommendation of Octel s Board of Directors, subject to Hewlett-
+Packard s right to select and vote for such nominee or nominees as it would
+be able to elect based on its ownership of Octel Common Stock, and (b) in
+deciding other matters, in accordance with the recommendations of Octel's
+Board of Directors, in not less than the same proportion as votes cast by the
+other shareholders, subject to Hewlett-Packard s right to vote the shares in
+its own discretion with respect to certain significant events (including
+amendment of Octel s Articles of Incorporation or By-laws; disposition,
+recapitalization or liquidation of Octel; approval of a business combination
+with a third party who has acquired a certain percentage of Octel s shares;
+approval of a grant of voting rights or waiver or adoption of provisions
+requiring a vote to approve a business combination with a third party who
+has acquired a certain percentage of Octel s shares; and any action which
+Hewlett-Packard determines would be materially adverse to its interest in
+Octel).   Hewlett-Packard has also agreed that it will not solicit proxies or
+become a participant in an election contest without Octel s consent, and that
+it will not place its shares of Octel Common Stock (or other Octel voting
+securities).  The restrictions related to Hewlett-Packard s ability to vote its
+shares of Octel Common Stock (or other Octel voting securities) expire upon
+termination of the Amended Stock Purchase Agreement, which will occur no
+later than August 10, 1995.
+
+    The Amended Stock Purchase Agreement also provided that, until
+March 1, 1994, Hewlett-Packard could not sell its shares of Octel Common
+Stock (or other Octel voting securities) except in accordance with clauses
+(2), (5), (6), (7) or (8) below; provided, however, that in the event Octel
+entered into an agreement with another person or group which would result
+in such person or group holding more than 25% of Octel s Common Stock
+(or other Octel voting securities), Hewlett-Packard could transfer its shares
+of Octel Common Stock (or other Octel voting securities) as follows:
+
+    (1)  to Octel or a person or group approved by Octel;
+
+    (2)  to a corporation in which Hewlett-Packard owns at least   
+         an 80% interest;
+
+    (3)  pursuant to a bona fide public offering structured to
+         prevent any single person or group from acquiring 5% or
+         more of Octel's Common Stock (or other Octel voting
+         securities);
+
+    (4)  pursuant to Rule 144 under the Securities Exchange Act
+         of 1934, as amended;
+
+    (5)  in response to an offer to purchase or exchange Octel's
+         Common Stock (or other Octel voting securities) made
+         by or on behalf of Octel, or made by a third party but
+         not opposed by Octel; 
+
+    (6)  in response to an offer to purchase or exchange Octel
+         Common Stock (or other Octel voting securities) which,
+         if successful, would result in the offeror's holding more
+         than 40% of Octel s Common Stock (or other Octel
+         voting securities);
+
+    (7)  pursuant to a bona fide pledge by Hewlett-Packard to an
+         institutional lender; or 
+
+    (8)  in the event of a merger or consolidation in which the
+         holders of Octel's Common Stock (or other Octel voting
+         securities) prior to the merger or consolidation cease to
+         hold at least 51% of Octel's Common Stock (or other
+         Octel voting securities), or pursuant to a plan of
+         liquidation of Octel.
+
+                                       5
+
+
+CUSIP NO. 675724 10 8   SCHEDULE 13D
+
+
+    In addition, Hewlett-Packard may transfer its shares of Octel
+Common Stock (or other Octel voting securities), subject to Octel's right of
+first refusal, in transactions not otherwise described in (1) through (8) above
+which do not result in any single person or group owning or having the right
+to acquire 5% or more of Octel's Common Stock (or other Octel voting
+securities).
+
+    On March 7, 1994, Hewlett-Packard notified Octel that Hewlett-
+Packard intended, as market conditions permit, to begin selling on March
+21, 1994, on the open market, up to 824,049 shares of Octel Common
+Stock which were subject to Octel's right of first refusal.  In the same
+notice, Hewlett-Packard also informed Octel that Hewlett-Packard intended,
+as market conditions permit, to sell immediately, pursuant to Rule 144(k),
+up to 830,070 shares of Octel Common Stock, which were not subject to
+Octel's right of first refusal.  Hewlett-Packard later waived Octel's
+obligation to exercise the right of first refusal by March 21, 1993 and
+agreed that Octel would have until the earlier of first day after the merger of
+Octel and VMX, Inc. and April 1, 1994 to exercise such right.  Octel did
+not exercise such right by such date.
+
+Item 7.  Material to be Filed as Exhibits.
+
+    As stated in the Original Schedule 13D, the Stock Purchase Agreement as
+filed as Exhibit A to the Original Schedule 13D.  It is not being refiled
+electronically with this Amendment No. 4.
+   
+                        
+                        
+                        
+Signature.
+
+    After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete
+and correct.
+
+                             June 19, 1994       
+                             -----------------------
+                             Date
+
+                             Ann O. Baskins
+                             -----------------------
+                             Signature
+
+                             Ann O. Baskins
+                             Assistant Secretary and
+                               Managing Counsel
+                             -----------------------
+                             Name/Title
+
+            Attention:  Intentional misstatements or omissions
+              of fact constitute Federal criminal violations
+                           (See 18 U.S.C. 1001).
+
+                                       6                                 
+        
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

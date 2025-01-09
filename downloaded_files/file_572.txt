@@ -1,0 +1,909 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ C4HEfqmXaWi2D0BGfSxF1WahfbueTOe0h2i5cQYOHLiNXsYCLYxLC/Mrw+c1d3wS
+ jZ8xKsaTRPIdNoF8UZslhg==
+
+<SEC-DOCUMENT>0000895345-97-000249.txt : 19970807
+<SEC-HEADER>0000895345-97-000249.hdr.sgml : 19970807
+ACCESSION NUMBER:		0000895345-97-000249
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970806
+SROS:			NONE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALPINE GROUP INC /DE/
+		CENTRAL INDEX KEY:			0000004164
+		STANDARD INDUSTRIAL CLASSIFICATION:	DRAWING AND INSULATING NONFERROUS WIRE [3357]
+		IRS NUMBER:				221620387
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-31325
+		FILM NUMBER:		97652527
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1790 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		2127573333
+
+	MAIL ADDRESS:	
+		STREET 1:		1790 BROADWAY
+		STREET 2:		15TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALPINE GEOPHYSICAL CORP
+		DATE OF NAME CHANGE:	19841202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALPINE GEOPHYSICAL ASSOCIATES INC
+		DATE OF NAME CHANGE:	19810120
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALEXANDRA INVESTMENT MANAGEMENT LTD
+		CENTRAL INDEX KEY:			0001026736
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		237 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2128083780
+
+	MAIL ADDRESS:	
+		STREET 1:		237 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<TEXT>
+
+                          UNITED STATES
+               SECURITIES AND EXCHANGE COMMISSION
+                     WASHINGTON D.C.  20549
+                                
+                                
+                          SCHEDULE 13D
+                                
+                                
+            UNDER THE SECURITIES EXCHANGE ACT OF 1934
+                    (AMENDMENT NO.        )*
+                                   -------
+
+                     THE ALPINE GROUP, INC.
+                        (Name of Issuer)
+                                
+             COMMON STOCK, PAR VALUE $.01 PER SHARE
+                 (Title of Class of Securities)
+                                
+                            020825105
+                       ------------------
+                         (CUSIP Number)
+                                
+              Alexandra Investment Management, Ltd.
+                      Mikhail A. Filimonov
+                        Dimitri Sogoloff
+                         237 Park Avenue
+                    New York, New York  10017
+                         (212) 808-3780
+     (Name, Address and Telephone Number of Person Authorized to
+Receive Notices and Communications)
+
+                          May 28, 1997
+                       ------------------
+     (Date of Event which Requires Filing of this Statement)
+                                
+               If the filing person has previously filed a
+statement on Schedule 13G to report the acquisition which is the
+subject of this Schedule 13D, and is filing this Schedule because
+of Rule 13d-1(b)(3) or (4), check the following box [ ].
+
+
+               
+               
+               
+                                               Page 1 of 10 pages
+                                         Exhibit Index on page 9
+
+                                 SCHEDULE 13D                       
+  CUSIP No.     020825105                          Page 2 of 10 Pages
+             ------------                               --   --
+                                                                           
+    1  NAME OF REPORTING PERSON
+       S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+         ALEXANDRA INVESTMENT MANAGEMENT, LTD.
+
+   2   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*           (a)  [ ]
+                                                                   (b)  [ ]
+   3   SEC USE ONLY
+
+   4   SOURCE OF FUNDS*
+         AF, OO
+
+   5   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED         [ ]
+       PURSUANT TO ITEMS 2(d) OR 2(e)
+         
+   6   CITIZENSHIP OR PLACE OF ORGANIZATION
+         NEW YORK
+
+  NUMBER OF      7  SOLE VOTING POWER
+    SHARES            1,097,391 SHARES**
+
+  BENEFICIALLY   8  SHARED VOTING POWER
+   OWNED BY           -0-
+
+     EACH        9  SOLE DISPOSITIVE POWER
+  REPORTING
+    PERSON            1,097,391 SHARES**
+
+     WITH       10  SHARED DISPOSITIVE POWER
+                      -0-
+
+  11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+          1,097,391 SHARES**
+
+  12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN   [ ]
+       SHARES
+         
+  13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+         6.50%
+
+  14   TYPE OF REPORTING PERSON *
+         IA,CO
+
+                   *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+**   Shares reported herein are also beneficially owned by other reporting
+     persons.  See Item 5.
+     
+
+
+                                 SCHEDULE 13D                       
+  CUSIP No.     020825105                          Page 3 of 10 Pages
+             ------------                               --      --
+                                                                 
+   1   NAME OF REPORTING PERSON
+       S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+         MIKHAIL A. FILIMONOV
+
+   2   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*           (a)  [ ]
+                                                                   (b)  [ ]
+         
+   3   SEC USE ONLY
+
+   4   SOURCE OF FUNDS*
+         AF, OO
+
+   5   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED         [ ]
+       PURSUANT TO ITEMS 2(d) OR 2(e) 
+         
+   6   CITIZENSHIP OR PLACE OF ORGANIZATION 
+         U.S.
+              
+  NUMBER OF      7  SOLE VOTING POWER 
+    SHARES             -0-
+              
+  BENEFICIALLY   8  SHARED VOTING POWER 
+   OWNED BY            1,097,391 SHARES**
+            
+     EACH        9  SOLE DISPOSITIVE POWER 
+  REPORTING            -0-
+    PERSON
+
+     WITH       10  SHARED DISPOSITIVE POWER 
+                       1,097,391 SHARES**
+                                                                 
+  11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON 
+         1,097,391 SHARES**
+
+  12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN   [ ]
+       SHARES*
+         
+  13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+         6.50%
+
+  14   TYPE OF REPORTING PERSON*
+         IN
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+                                                                 
+                                                                 
+ **   Shares reported herein are also beneficially owned by other
+      reporting persons.  See Item 5.
+
+
+                                 SCHEDULE 13D                       
+  CUSIP No.     020825105                          Page   4  of  10 Pages
+             ------------                                --      --
+                                                                 
+   1   NAME OF REPORTING PERSON
+       S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+         DIMITRI SOGOLOFF
+
+   2   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*           (a)  [ ]
+                                                                   (b)  [ ]
+         
+   3   SEC USE ONLY
+
+   4   SOURCE OF FUNDS*
+         AF, OO
+
+   5   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED         [ ]
+       PURSUANT TO ITEMS 2(d) OR 2(e) 
+         
+   6   CITIZENSHIP OR PLACE OF ORGANIZATION 
+         U.S.
+              
+  NUMBER OF      7  SOLE VOTING POWER 
+    SHARES             -0-
+
+  BENEFICIALLY   8  SHARED VOTING POWER 
+   OWNED BY            1,097,391 SHARES**
+            
+     EACH        9  SOLE DISPOSITIVE POWER 
+  REPORTING            -0-
+    PERSON
+
+     WITH       10  SHARED DISPOSITIVE POWER 
+                    1,097,391 SHARES**
+                                                                 
+  11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+         1,097,391 SHARES**
+
+  12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN   [ ]
+       SHARES*
+         
+  13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+         6.50%
+
+  14   TYPE OF REPORTING PERSON*
+         IN
+                    *SEE INSTRUCTIONS BEFORE FILLING OUT!
+                                                                 
+                                                                 
+**   Shares reported herein are also beneficially owned by other
+     reporting persons.  See Item 5.
+
+
+
+                                                   Page 5 of 10 Pages
+ITEM 1.   SECURITY AND ISSUER.
+          -------------------
+
+          This Schedule relates to the shares of Common Stock,
+
+$.10 par value per share (the "Common Stock"), of The Alpine
+
+Group, Inc., a Delaware corporation (the "Company").  The
+
+principal executive office of the Company is located at 1790
+
+Broadway, New York, New York 10019.
+
+          This Schedule is being filed pursuant to Section 13(d)
+
+of the Securities Exchange Act of 1934, as amended, and the rules
+
+and regulations promulgated thereunder (the "Exchange Act").
+
+
+ITEM 2.   IDENTITY AND BACKGROUND.
+          -----------------------
+
+          (a) The persons filing this Schedule are (i) Alexandra
+
+Investment Management, Ltd., a New York corporation (the
+
+"Adviser"); (ii) Mr. Mikhail A. Filimonov, the Chairman, Chief
+
+Executive Officer and Chief Investment Officer of the Adviser
+
+and (iii) Mr. Dimitri Sogoloff, Chief Operations Officer of the
+
+Adviser (the Adviser and Messrs. Filimonov and Sogoloff sometimes
+
+being referred to herein collectively as the "Reporting Persons").
+
+          This Schedule reports the ownership of shares of Common
+
+Stock that may be deemed to be beneficially owned by the Adviser
+
+and, indirectly, by Messrs. Filimonov and Sogoloff, as principals
+
+of the Adviser, by reason of their power to direct the voting and
+
+disposition of such shares.
+
+          (b) The principal business of the Adviser is investment
+
+management. The principal place of business of the Adviser is 237
+
+Park Avenue, New York, New York 10017. Mr. Filimonov is the
+
+Chairman, Chief Executive Officer and Chief Investment Officer of
+
+the Adviser. Mr. Sogoloff is the Chief Operations Officer of the
+
+Adviser.
+
+          The principal business of Mr. Filimonov is to act as
+
+Chairman, Chief Executive Officer and Chief Investment Officer of
+
+the Adviser. The principal business of Mr. Sogoloff is to act as
+
+the Chief Operations Officer of the Adviser. The business
+
+address of both Messrs. Sogoloff and Filimonov is c/o the Adviser
+
+at 237 Park Avenue, New York, New York 10017.
+
+          (c) During the last five years, none of the Reporting
+
+Persons has been convicted in a criminal proceeding (excluding
+
+traffic violations or similar misdemeanors).
+
+          (d) During the last five years, none of the Reporting
+
+Persons has been a party to a civil proceeding of a judicial or
+
+administrative body of competent jurisdiction and as a result of
+
+such proceeding was or is subject to a judgment, decree or final
+
+order enjoining future violations of, or prohibiting or mandating
+
+activities subject to, federal or state securities laws or
+
+finding any violation with respect to such laws.
+
+          (e)  Messrs. Filimonov and Sogoloff is each a United States
+citizen.
+
+
+ITEM 3.   SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION.
+          -------------------------------------------------
+          The Adviser currently may be deemed to beneficially own
+
+1,097,391 shares of Common Stock. Of such shares, 302,800 shares
+
+were acquired for approximately $3,072,253.08 in cash. Of such
+
+amount, approximately one-quarter was provided by margin borrowings
+
+from one or more broker-dealers and the balance from working
+
+capital of one of the Adviser's clients. Information concerning the
+
+source and amount of funds with respect to the remaining 794,591
+
+shares of Common Stock is set forth in Item 3 of a Schedule 13D
+
+previously filed by the Reporting Persons with respect to the
+
+Common Stock of the Company, dated April 28, 1993, and certain
+
+amendments thereto, which hereby are incorporated by reference
+
+in this Item 3. The relevant text of such Schedule 13D and
+
+amendments are attached hereto as Exhibits 2 through 8.
+
+Capitalized terms used in such exhibits have the meanings
+
+ascribed to such terms therein.
+
+
+ITEM 4.   PURPOSE OF TRANSACTION.
+          ----------------------
+          The Adviser has acquired the shares of Common Stock in
+
+the ordinary course of business for investment. The Reporting
+
+Persons may acquire additional shares of Common Stock from time
+
+to time, in open market purchases, negotiated transactions or
+
+otherwise, and may sell any or all of such shares of Common Stock
+
+at any time.
+
+          None of the Reporting Persons presently has any plans
+
+or proposals which relate to or would result in any of the
+
+matters enumerated in clauses (a) through (j), inclusive, of Item
+
+4 of Schedule 13D, namely: (a) the acquisition by any person of
+
+additional securities of the Company or the disposition of
+
+securities of the Company; (b) an extraordinary corporate
+
+transaction, such as a merger, reorganization or liquidation,
+
+involving the Company or any of its subsidiaries; (c) a sale or
+
+transfer of a material amount of assets of the Company or any of
+
+its subsidiaries; (d) any change in the present Board of
+
+Directors or management of the Company, including any plans or
+
+proposals to change the number or term of directors or to fill
+
+any existing vacancies on the Board; (e) any material change in
+
+the present capitalization or dividend policy of the Company; (f)
+
+any other material change in the Company's business or corporate
+
+structure; (g) changes in the Company's charter, bylaws or
+
+instruments corresponding thereto or other actions which may
+
+impede the acquisition of control of the Company by any person;
+
+(h) causing a class of securities of the Company to be delisted
+
+from a national securities exchange or to cease to be authorized
+
+to be quoted in an inter-dealer quotation system of a registered
+
+national securities association; (i) a class of equity securities
+
+of the Company becoming eligible for termination of registration
+
+pursuant to Section 12(g)(4) of the Exchange Act; or (j) any
+
+action similar to any of those enumerated above.
+
+
+ITEM 5.   INTEREST IN SECURITIES OF THE ISSUER.
+          ------------------------------------
+          (a) As of the date hereof, the Adviser may be deemed to
+
+beneficially own 1,097,391 shares of Common Stock, comprising
+
+approximately 6.50% of the approximately 16,889,781 shares of
+
+Common Stock outstanding. In their capacities as principals of
+
+the Adviser, such shares also may be deemed to be beneficially
+
+owned indirectly by Messrs. Filimonov and Sogoloff.
+
+          (b) The Adviser, in its capacity as investment adviser,
+
+may be deemed to have the power to vote or to dispose of the
+
+1,097,391 shares of Common Stock. In their capacities as
+
+principals of the Adviser, Messrs. Filimonov and
+
+Sogoloff have the shared power to direct the vote and disposition
+
+of such shares within the meaning of Rule 13d-3 under the
+
+Exchange Act.
+
+          (c)  Set forth on Schedule A hereto is a description of
+
+all other transactions in the Common Stock effected by any of the
+
+Reporting Persons between March 19, 1997 and July 30, 1997.  All
+
+such transactions consisted of open market purchases.
+
+          (d) No person is known to have the right to receive or
+
+the power to direct the receipt of dividends from, or the
+
+proceeds from the sale of, the shares of Common Stock, other than
+
+such parties.
+
+          (e)  Not applicable.
+
+ITEM 6.   CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR
+          RELATIONSHIPS WITH RESPECT TO SECURITIES OF THE ISSUER.
+          -------------------------------------------------------
+          
+          None.
+
+                                                   Page 9 of 10 Pages
+
+ITEM 7.   MATERIAL TO BE FILED AS EXHIBITS.
+          --------------------------------
+          
+          Exhibit 1 -  Joint Filing agreement dated August 6, 1997
+          
+          Exhibit 2 -  Text of Item 3 of Schedule 13D, dated
+                       April 28, 1993.
+          
+          Exhibit 3 -  Text of Item 3 of Amendment No. 2, dated
+                       February 1, 1994, to Schedule 13D, dated April
+                       28, 1993.
+          
+          Exhibit 4 -  Text of Amendment No. 3, dated March 31,
+                       1994, to Schedule 13D, dated April 28, 1993.
+          
+          Exhibit 5 -  Text of Item 3 of Amendment No. 4, dated
+                       June 13, 1994, to Schedule 13D, dated April
+                       28, 1993.
+          
+          Exhibit 6 -  Text of Item 3 of Amendment No. 5, dated
+                       January 6, 1995, to Schedule 13D, dated April
+                       28, 1993.
+          
+          Exhibit 7 -  Text of Item 3 of Amendment No. 6, dated
+                       July 15, 1995, to Schedule 13D, dated April
+                       28, 1993.
+          
+          Exhibit 8 -  Text of Item 3 of Amendment No.8, dated
+                       March 20, 1997, to Schedule 13D, dated April
+                       28, 1993.
+          
+                                                   Page 10 of 10 Pages
+
+          
+                           Signatures
+                           ----------
+                                
+          After reasonable inquiry and to the best of my
+
+knowledge and belief, I certify that the information set forth in
+
+this statement is true, complete and correct.
+
+
+
+Date:   August   6 , 1997
+               
+                              ALEXANDRA INVESTMENT MANAGEMENT, LTD.
+                              
+                              
+                              By:/s/ Mikhail A. Filmonov
+                                  ------------------------------
+                                  Mikhail A. Filimonov, Chairman
+                                  Chief Executive Officer
+                                  Chief Investment Officer
+
+                                 
+                                 
+                                 /s/ Mikhail A. Filimonov
+                               ---------------------------------
+                                     MIKHAIL A. FILIMONOV
+
+                                
+                                
+                                 /s/ Dimitri Sogoloff
+                               ---------------------------------
+                                       DIMITRI SOGOLOFF
+                                
+
+                                
+                                
+                           SCHEDULE A
+                                
+     TRANSACTIONS IN COMMON STOCK OF THE ALPINE GROUP, INC.
+                                
+          The Adviser effected the following purchases of Common
+Stock of the Company on the dates listed. All transactions were
+open market purchases executed on an agency basis on the American
+Stock Exchange through various broker-dealers. Prices listed are
+exclusive of commissions.
+
+Date                    Number of Shares       Price per Share
+- ----                    ----------------       ---------------
+                                                      
+March 19, 1997                3,000                9.0000
+April 30, 1997               10,000                9.2750
+May 6, 1997                  50,000                9.5000
+May 28, 1997                 45,000                9.1569
+May 30, 1997                  3,000                9.3750
+June 2, 1997                  5,000                9.5000
+June 3, 1997                 20,000                9.7500
+June 6, 1997                 25,000               10.1250
+June 11, 1997                15,000                9.7083
+June 25, 1997                10,000               10.5000
+June 25, 1997                10,000               10.3125
+June 25, 1997                30,700               10.4320
+June 30, 1997                39,100               11.0708
+July 21, 1997                15,000               11.9125
+July 22, 1997                 7,000               11.7857
+July 23, 1997                10,000               11.6125
+July 30, 1997                 5,000               11.5000
+   Total                    302,800                   
+          
+          
+                            EXHIBIT 1
+                                
+    AGREEMENT WITH RESPECT TO THE FILING OF JOINT ACQUISITION
+             STATEMENTS UNDER RULE 13d-1(f) UNDER THE
+                 SECURITIES EXCHANGE ACT OF 1934
+          
+          Each of the undersigned hereby agrees, with respect to
+the filing of a statement on Schedule 13D, dated the date hereof,
+relating to the Common Stock of The Alpine Group, Inc., and any
+and all amendments relating thereto, that such statement (and any
+and all amendments thereto) is or will be filed on behalf of each
+of them, it being understood and agreed, as provided in the
+aforesaid Rule 13d-1(f)(1), that each such person is responsible
+for the completeness and accuracy of the information concerning
+such person contained therein, but is not responsible for other
+persons making the filing unless such person knows or has reason
+to believe that such information is inaccurate.
+
+Date:   August  6 , 1997
+
+                              ALEXANDRA INVESTMENT MANAGEMENT, LTD.
+                              
+                              
+                              By:/s/ Mikhail A. Filimonov
+                                 ------------------------------
+                                 Mikhail Filimonov, Chairman
+                                 Chief Executive Officer
+                                 Chief Investment Officer
+
+                                 
+                                 
+                                   /s/ Mikhail A. Filimonov
+                              ----------------------------------
+                                     MIKHAIL A. FILIMONOV
+
+
+
+                                     /s/ Dimitri Sogoloff
+                              ----------------------------------
+                                       DIMITRI SOGOLOFF
+
+                                
+                                
+          
+          
+                            EXHIBIT 2
+
+               SCHEDULE 13D, DATED APRIL 28, 1993
+
+                           *    *    *
+
+ITEM 3.   SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION.
+          -------------------------------------------------
+
+          The Partnership currently owns beneficially 803,202
+
+shares of Common Stock.  Of such shares, 564,700 shares were
+
+acquired for approximately $6,743,000 in cash.  Of such amount
+
+approximately one-half was provided by margin borrowings from one
+
+or more broker-dealers and the balance from working capital of
+
+the Partnership.  The remaining 238,502 shares of the Common
+
+Stock were acquired from the Company in exchange for 2,000 shares
+
+of the 9% Cumulative Convertible Senior Preferred Stock, par
+
+value $1.00 per share, of the Company (the "Preferred Shares").
+
+
+                            EXHIBIT 3
+
+            AMENDMENT NO. 2, DATED FEBRUARY 1, 1994,
+              TO SCHEDULE 13D, DATED APRIL 28, 1993
+                                
+                           *    *    *
+
+ITEM 3.   SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION.
+          -------------------------------------------------
+          On November 10, 1993, the Partnership purchased
+
+$1,500,000 (1,500 shares) of the Company's 8 1/2 Cumulative
+
+Convertible Senior Preferred Stock, $1.00 par value per share
+
+("Senior Preferred Stock") in connection with the financing of
+
+the Merger.  The funds for the purchase of the shares of Senior
+
+Preferred Stock were provided by the working capital of the
+
+Partnership.  The shares of Senior Preferred Stock are presently
+
+convertible into 148,368 shares of Common Stock at the conversion
+
+price of $10.11 per share.
+
+          During the period from December 7, 1993 to February 7,
+
+1994, the Partnership purchased 292,000 shares of Common Stock.
+
+Such shares were purchased for approximately $2,225,500 in cash.
+
+Of such amount approximately one-half was provided by margin
+
+borrowings from one or more broker-dealers and the balance from
+
+the working capital of the Partnership.
+
+
+                            EXHIBIT 4
+
+             AMENDMENT NO. 3, DATED MARCH 31, 1994,
+              TO SCHEDULE 13D, DATED APRIL 28, 1993
+                                
+                           *    *    *
+
+ITEM 3.   SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION.
+          -------------------------------------------------
+          During the period from February 16, 1994 through April
+
+20, 1994, the Partnership purchased 310,800 shares of Common
+
+Stock.  Such shares were purchased for approximately $2,121,930
+
+in cash (exclusive of brokerage commissions).  Of such amount
+
+approximately one-half was provided by margin borrowings from one
+
+or more broker-dealers and the balance from the working capital
+
+of the Partnership.
+
+
+                            EXHIBIT 5
+
+              AMENDMENT NO. 4, DATED JUNE 13, 1994,
+              TO SCHEDULE 13D, DATED APRIL 28, 1993
+                                
+                           *    *    *
+
+ITEM 3.   SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION.
+          -------------------------------------------------
+          During the period from May 18, 1994 through August 3,
+
+1994, the Partnership purchased 210,100 shares of Common Stock.
+
+Such shares were purchased for $1,178,128.06 in cash (exclusive
+
+of brokerage commissions).  Of such amount approximately one-half
+
+was provided by margin borrowings from one or more broker-dealers
+
+and the balance from the working capital of the partnership.
+
+          On or about April 22, 1994, Alexandra Global Fund
+
+acquired 315,789 shares of Common Stock in exchange for 1,500
+
+shares of 8 1/2% Cumulative Convertible Senior Preferred Stock
+
+("Senior Preferred Stock") of the Company held by Alexandra
+
+Global Fund pursuant to a letter agreement dated April 22, 1994
+
+between the Partnership and the Adviser ("Exchange Agreement").
+
+
+                            EXHIBIT 6
+
+             AMENDMENT NO. 5, DATED JANUARY 6, 1995,
+              TO SCHEDULE 13D, DATED APRIL 28, 1993
+                                
+                           *    *    *
+
+ITEM 3.   SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION.
+          -------------------------------------------------
+          On January 6, 1995, the Adviser, on behalf of the
+
+Partnership and a managed account of a foreign financial
+
+institution (collectively, "the Investors"), entered into an
+
+agreement with the Company (the "Exchange Agreement") pursuant to
+
+which the Investors exchanged 1,000,000 shares of Common Stock
+
+for 160,000 shares of the Company's 8% Cumulative Convertible
+
+Senior Preferred Stock, $1.00 par value per share ("8% Preferred
+
+Stock"), having a liquidation preference of $50 per share, or an
+
+aggregate liquidation preference of $8,000,000, or an exchange
+
+ratio of 6.250 shares of Common Stock for each share of 8%
+
+Preferred Stock.  The shares of 8% Preferred Stock have the
+
+rights, preferences and limitations set forth in the Certificate
+
+of Designations with respect thereto, which is attached as
+
+Exhibit B to the Exchange Agreement (the "Preferred
+
+Certificate").  A copy of the Exchange Agreement is filed
+
+herewith as Exhibit 1.
+
+
+                            EXHIBIT 7
+
+              AMENDMENT NO. 6, DATED JULY 15, 1995,
+              TO SCHEDULE 13D, DATED APRIL 28, 1993
+                                
+                           *    *    *
+
+ITEM 3.   SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION.
+          -------------------------------------------------
+          During the period from March 30, 1995 through and
+
+including June 30, 1995 (the "Period"), the Adviser, on behalf of
+
+a managed account, purchased 452,000 shares ("Period Shares") of
+
+Common Stock.  The Period Shares were purchased by the Adviser
+
+with investment capital of the managed account and margin
+
+borrowings.
+
+          In addition, pursuant to the Exchange Agreement and the
+
+8% Preferred Certificate, commencing July 15, 1995 the Adviser
+
+has the right to exchange 160,000 shares of 8% Preferred Stock
+
+for 1,032,240 shares of Common Stock, at the exchange ratio
+
+("Exchange Ratio") of one share of 8% Preferred Stock ($50
+
+liquidation preference) for 6.45 shares of Common Stock.
+
+
+                            EXHIBIT 8
+
+             AMENDMENT NO. 8, DATED MARCH 20, 1997,
+              TO SCHEDULE 13D, DATED APRIL 28, 1993
+                                
+                           *    *    *
+
+ITEM 3.   SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION.
+          -------------------------------------------------
+          The funds required for the purchases of shares were
+
+obtained from cash in the account managed by the Adviser.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

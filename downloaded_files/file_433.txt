@@ -1,0 +1,310 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RNubrs1+qgymy2pFUTfe+nDg81yi8GLZryRpdny8GxWGkeDgBEGsCyjQH4ffc2gh
+ 5X6Eg8WCbrvRhDfwAoHBgA==
+
+<SEC-DOCUMENT>0000928121-97-000006.txt : 19970724
+<SEC-HEADER>0000928121-97-000006.hdr.sgml : 19970724
+ACCESSION NUMBER:		0000928121-97-000006
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970723
+SROS:			NYSE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PREMIUMWEAR INC
+		CENTRAL INDEX KEY:			0000069067
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEN'S & BOYS' FURNISHINGS, WORK CLOTHING, AND ALLIED GARMENTS [2320]
+		IRS NUMBER:				410429620
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0104
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-20258
+		FILM NUMBER:		97644264
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7566 MARKET PLACE DRIVE
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55344-3629
+		BUSINESS PHONE:		6129435000
+
+	MAIL ADDRESS:	
+		STREET 1:		7566 MARKET PLACE DRIVE
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55344-3629
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MUNSINGWEAR INC
+		DATE OF NAME CHANGE:	19920703
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PACHOLDER ASSOCIATES INC
+		CENTRAL INDEX KEY:			0000928121
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				311089398
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8044 MONTGOMERY RD STE 382
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45236
+		BUSINESS PHONE:		5139853200
+
+	MAIL ADDRESS:	
+		STREET 1:		8044 MONTGOMERY RD STE 382
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45236
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<TEXT>
+
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C.  20549
+
+___________________
+
+SCHEDULE 13D
+
+UNDER THE SECURITIES EXCHANGE ACT OF 1934
+
+(Amendment No. 3)
+
+PremiumWear, Inc.
+- ----------------------------------
+(NAME OF ISSUER)
+
+
+Common Stock,  $0.01 Par Value
+- ----------------------------------
+(TITLE OF CLASS OF SECURITIES)
+
+
+626320204
+- ----------------------------------
+(CUSIP NUMBER)
+
+
+Thomas M. Barnhart, II
+Pacholder Associates, Inc.
+8044 Montgomery Road, Suite 382
+Cincinnati, OH  45236
+(513) 985-3200
+- ----------------------------------
+(NAME, ADDRESS AND TELEPHONE NUMBER OF PERSON
+AUTHORIZED TO RECEIVE NOTICES AND COMMUNICATIONS)
+
+June 30, 1997
+
+(DATE OF EVENT WHICH REQUIRES FILING OF THIS STATEMENT)
+
+
+If the filing person has previously filed a statement on Schedule 13G to report 
+the acquisition which is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4), check the following box [ X ] .
+
+Check the following box if a fee is being paid with this statement [  ] .
+
+
+
+ 1.   NAME OF REPORTING PERSONS
+      S.S. OR I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS
+
+        Pacholder Associates, Inc.  31-1089398
+
+ 2.   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP           (a)    [  ]
+                                                                 (b)    [  ]
+
+ 3.   SEC USE ONLY
+
+ 4.   SOURCE OF FUNDS*
+
+        Inapplicable - Investment Advisor
+
+ 5.   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+      PURSUANT TO ITEM 2(d) OR 2(e)                                     [  ]
+
+ 6.   CITIZENSHIP OR PLACE OF ORGANIZATION
+
+        State of Ohio
+
+ 7.   SOLE VOTING POWER
+
+        250,000
+
+ 8.   SHARED VOTING POWER
+
+        - 0 -
+
+ 9.   SOLE DISPOSITIVE POWER
+
+        250,000
+
+10.   SHARED DISPOSITIVE POWER
+
+        - 0 -
+
+11.   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+        250,000
+
+12.   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+      CERTAIN SHARES*                                                   [  ]
+
+13.   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+        12.10%
+
+14.   TYPE OF REPORTING PERSON*
+
+        IA, CO
+
+
+
+	This Amendment No. 3 to Schedule 13-D is filed by Pacholder Associates, Inc. 
+("PAI") to amend and update its Schedule 13-D dated January 10, 1996 (as 
+amended March 28,l996 and September 27, 1996) relative to the Common Stock 
+$0.01 par value of PremiumWear, Inc. (fka Munsingwear, Inc.).  Items not 
+included in this Amendment are either not amended or not applicable.
+
+Item 4.    Purpose of Transaction
+
+     Since April 1, 1994, PAI has acted as financial advisor to the PBGC in the 
+voting, acquisition or sale of securities of the Company.  The PBGC obtained 
+250,000 shares of the Company in exchange for pre-petition claims held by the 
+PBGC in the Company, pursuant to the Plan of Reorganization filed by the 
+Company and approved by the Bankruptcy Court in September, 1991.
+
+     As financial advisor to the PBGC, PAI is considering various methods by 
+which the value of the shares it manages could be enhanced.  PAI will meet with 
+management of the Company or other significant shareholders concerning such 
+matters.  Any determination by PAI to take any of the actions listed in sub 
+(a) - (j) below will be based on various factors, including but not limited to, 
+the Company's financial condition, business and prospects, other developments 
+concerning the Company, price levels of the Company's common stock, other 
+opportunities available to the PBGC, general economic, monetary and stock 
+market conditions, and other applicable business and legal considerations.
+
+     William J. Morgan, the President and a Director of PAI resigned from the 
+Company's Board of Directors effective June 30, 1997.
+
+     Except as set forth above, PAI has no plans or proposals which relate to 
+or would result in any of the following:
+
+     (a)    The acquisition of securities or the disposition of securities of 
+     the Company;
+
+     (b)    An extraordinary corporate transaction, such as a merger, 
+     reorganization or liquidation, involving the Company or any of its 
+     subsidiaries;
+
+     (c)    A sale or transfer of a material amount of assets of the Company 
+     or any of its subsidiaries;
+
+     (d)    Any change in the present board of directors or management of the 
+     Company, including any plans or proposals to change the number or term of 
+     directors or to fill any existing vacancies on the Board;
+
+     (e)    Any material change in the present capitalization or dividend 
+     policy of the Company;
+
+     (f)    Any other material change in the Company's business or corporate 
+     structure;
+
+     (g)    Changes in the Company's charter, bylaws or instruments 
+     corresponding thereto or other actions which may impede the acquisition 
+     or control of the issuer by any person;
+
+     (h)    Causing a class of securities to be delisted from a national 
+     securities exchange or to cease to be authorized to be quoted in an 
+     interdealer quotation system of a registered national securities 
+     association;
+
+     (i)    A class of equity securities of the Company becoming eligible for 
+     termination of registration pursuant to Section 12(g)(4) of the Act; or
+
+     (j)    Any action similar to any of those enumerated above.
+
+
+
+
+
+SIGNATURE
+	
+	
+         After reasonable inquiry and to the best of my knowledge and belief, 
+I certify that the information set forth in this statement is true, complete 
+and correct.
+	
+	
+                                 Pacholder Associates, Inc.
+	
+	
+                                 July 23, 1997			
+                                 Date
+	
+	
+                                 /s/ Thomas M. Barnhart, II	
+                                 Signature
+	
+	
+                                 Senior Vice President
+                                 and Associate General Counsel
+                                 Title
+	
+
+
+
+SIGNATURE
+
+
+        After reasonable inquiry and to the best of my knowledge and belief, 
+I certify that the information set forth in this statement is true, complete 
+and correct.
+
+
+                                      Pacholder Associates, Inc.
+
+
+                                      July 23, 1997			
+                                      Date
+
+
+                                      					
+                                      Signature
+
+
+                                      Senior Vice President
+                                      and Assoc.Gen. Counsel	
+                                      Title
+
+5
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

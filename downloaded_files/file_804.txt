@@ -1,0 +1,1160 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Pyx8UmZYx2qVG9RoFZCXOc68brTAeFUET5H5roQVPH3fWOsU3IPxxxWqTrgB6i2+
+ /PSPq3VXEYGjmWCMYKzypw==
+
+<SEC-DOCUMENT>0001047469-97-008743.txt : 19971224
+<SEC-HEADER>0001047469-97-008743.hdr.sgml : 19971224
+ACCESSION NUMBER:		0001047469-97-008743
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		19971223
+SROS:			NYSE
+GROUP MEMBERS:		R-H CAPITAL PARTNERS, L.P.
+GROUP MEMBERS:		R-H CAPITAL, INC.
+GROUP MEMBERS:		R-H/TRAVELERS, L.P.
+GROUP MEMBERS:		SALOMON SMITH BARNEY HOLDINGS INC.
+GROUP MEMBERS:		TRAVELERS GROUP INC
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SEARCH FINANCIAL SERVICES INC
+		CENTRAL INDEX KEY:			0000318672
+		STANDARD INDUSTRIAL CLASSIFICATION:	SHORT-TERM BUSINESS CREDIT INSTITUTIONS [6153]
+		IRS NUMBER:				411356819
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		
+		SEC FILE NUMBER:	005-32463
+		FILM NUMBER:		97743704
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 N PEARL ST
+		STREET 2:		STE 2500
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201-2899
+		BUSINESS PHONE:		2149656000
+
+	MAIL ADDRESS:	
+		STREET 1:		600 N PEARL STREET
+		STREET 2:		SUITE 2500
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201-2899
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SEARCH CAPITAL GROUP INC
+		DATE OF NAME CHANGE:	19930910
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SEARCH NATURAL RESOURCES INC
+		DATE OF NAME CHANGE:	19920703
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRAVELERS GROUP INC
+		CENTRAL INDEX KEY:			0000831001
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		IRS NUMBER:				521568099
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		388 GREENWICH ST
+		STREET 2:		LEGAL DEPT 20TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10013
+		BUSINESS PHONE:		2128168000
+
+	MAIL ADDRESS:	
+		STREET 1:		388 GREENWICH ST
+		STREET 2:		LEGAL DEPT 20TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10013
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TRAVELERS INC
+		DATE OF NAME CHANGE:	19940103
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRIMERICA CORP /NEW/
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COMMERCIAL CREDIT GROUP INC
+		DATE OF NAME CHANGE:	19890102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+
+<PAGE>
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C. 20549
+
+                                 SCHEDULE 13D
+
+                 Under the Securities Exchange Act of 1934
+                            (Amendment No.          )*
+                                          ---------
+
+                        SEARCH FINANCIAL SERVICES, INC.
+                        -------------------------------
+                                (Name of Issuer)
+
+          9%/7% Convertible Preferred Stock, Par Value $.01 Per Share
+          -----------------------------------------------------------
+                          (Title of Class of Securities)
+
+                                   812209203
+                                 -------------
+                                 (CUSIP Number)
+
+                             Mr. Arthur C. Roselle
+                           R-H Capital Partners, L.P.
+                           3333 Peachtree Road, N.E.
+                    Atlanta, Georgia 30326   (404) 266-6943
+                    ---------------------------------------
+           (Name, Address and Telephone Number of Person Authorized
+                     to Receive Notices and Communications)
+
+                               November 25, 1996
+                               -----------------
+            (Date of Event which Requires Filing of this Statement)
+
+   If the  filing  person has  previously filed a  statement on Schedule 13G to
+report the  acquisition  which  is the  subject  of this  Schedule 13D,  and is
+filing this  schedule  because of Rule 13d-1(b)(3) or (4),  check the following
+box / /.
+
+   NOTE:  Six copies of this statement, including all exhibits, should be filed
+with the Commission.  See Rule 13d-1(a) for other parties to whom copies are to
+be sent.
+
+
+
+                        (Continued on Following Pages)
+
+
+                             (Page 1 of 22 Pages)
+<PAGE>
+
+- -------------------                                          ------------------
+CUSIP No. 812209203                  13D                     Page 2 of 22 Pages
+- -------------------                                          ------------------
+
+- -------------------------------------------------------------------------------
+ (1) NAMES OF REPORTING PERSONS. I.R.S. IDENTIFICATION NOS. OF ABOVE
+     PERSONS (ENTITIES ONLY)
+     R-H Capital Partners, L.P.
+- -------------------------------------------------------------------------------
+ (2) CHECK THE APPROPRIATE BOX IF A MEMBER     (a)  / /
+     OF A GROUP*                               (b)  / /
+- -------------------------------------------------------------------------------
+ (3) SEC USE ONLY
+
+- -------------------------------------------------------------------------------
+ (4) SOURCE OF FUNDS           SC
+
+- -------------------------------------------------------------------------------
+ (5) CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO
+     ITEMS 2(d) OR 2(e)                                                   /X/
+- -------------------------------------------------------------------------------
+ (6) CITIZENSHIP OR PLACE OF ORGANIZATION            Delaware
+
+- -------------------------------------------------------------------------------
+                             (7) SOLE VOTING POWER         0
+                                    
+  NUMBER OF                  --------------------------------------------------
+   SHARES                    (8) SHARED VOTING POWER     153,642
+BENEFICIALLY                        
+  OWNED BY                   --------------------------------------------------
+   EACH                       (9) SOLE DISPOSITIVE POWER    0
+ REPORTING                           
+PERSON WITH                  --------------------------------------------------
+                             (10) SHARED DISPOSITIVE POWER    153,642
+                                    
+- -------------------------------------------------------------------------------
+(11) AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON   153,642
+
+- -------------------------------------------------------------------------------
+(12) CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+
+- -------------------------------------------------------------------------------
+(13) PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+     6.3%
+- -------------------------------------------------------------------------------
+(14) TYPE OF REPORTING PERSON*         PN
+
+- -------------------------------------------------------------------------------
+                    *SEE INSTRUCTION BEFORE FILLING OUT!
+
+
+                             (Page 2 of 22 Pages)
+<PAGE>
+- -------------------                                          ------------------
+CUSIP No. 812209203                  13D                     Page 3 of 22 Pages
+- -------------------                                          ------------------
+
+- -------------------------------------------------------------------------------
+ (1) NAMES OF REPORTING PERSONS. I.R.S. IDENTIFICATION NOS. OF ABOVE
+     PERSONS (ENTITIES ONLY)
+     R-H/Travelers, L.P.
+- -------------------------------------------------------------------------------
+ (2) CHECK THE APPROPRIATE BOX IF A MEMBER     (a)  / /
+     OF A GROUP*                               (b)  / /
+- -------------------------------------------------------------------------------
+ (3) SEC USE ONLY
+
+- -------------------------------------------------------------------------------
+ (4) SOURCE OF FUNDS              OO
+
+- -------------------------------------------------------------------------------
+ (5) CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO
+     ITEMS 2(d) OR 2(e)                                                 /X/
+- -------------------------------------------------------------------------------
+ (6) CITIZENSHIP OR PLACE OF ORGANIZATION            Delaware
+
+- -------------------------------------------------------------------------------
+                             (7) SOLE VOTING POWER        0
+                                    
+ NUMBER OF                   --------------------------------------------------
+  SHARES                     (8) SHARED VOTING POWER     153,642
+BENEFICIALLY                        
+ OWNED BY                    --------------------------------------------------
+   EACH                      (9) SOLE DISPOSITIVE POWER    0
+ REPORTING                          
+PERSON WITH                  --------------------------------------------------
+                             (10) SHARED DISPOSITIVE POWER    153,642
+                                    
+- -------------------------------------------------------------------------------
+(11) AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON     153,642
+
+- -------------------------------------------------------------------------------
+(12) CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+
+- -------------------------------------------------------------------------------
+(13) PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+     6.3%
+- -------------------------------------------------------------------------------
+(14) TYPE OF REPORTING PERSON*          PN
+
+- -------------------------------------------------------------------------------
+                    *SEE INSTRUCTION BEFORE FILLING OUT!
+
+
+                             (Page 3 of 22 Pages)
+<PAGE>
+- -------------------                                          ------------------
+CUSIP No. 812209203                  13D                     Page 4 of 22 Pages
+- -------------------                                          ------------------
+
+- -------------------------------------------------------------------------------
+ (1) NAMES OF REPORTING PERSONS. I.R.S. IDENTIFICATION NOS. OF ABOVE
+     PERSONS (ENTITIES ONLY)
+     R-H Capital, Inc., 58-2179723
+- -------------------------------------------------------------------------------
+ (2) CHECK THE APPROPRIATE BOX IF A MEMBER     (a)  / /
+     OF A GROUP*                               (b)  / /
+- -------------------------------------------------------------------------------
+ (3) SEC USE ONLY
+
+- -------------------------------------------------------------------------------
+ (4) SOURCE OF FUNDS                  OO
+
+- -------------------------------------------------------------------------------
+ (5) CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO
+     ITEMS 2(d) OR 2(e)                                                 /X/
+- -------------------------------------------------------------------------------
+ (6) CITIZENSHIP OR PLACE OF ORGANIZATION           Delaware
+
+- -------------------------------------------------------------------------------
+                             (7) SOLE VOTING POWER          0
+                                    
+ NUMBER OF                   --------------------------------------------------
+  SHARES                     (8) SHARED VOTING POWER      153,642
+BENEFICIALLY                        
+ OWNED BY                    --------------------------------------------------
+   EACH                       (9) SOLE DISPOSITIVE POWER     0
+ REPORTING                           
+PERSON WITH                  --------------------------------------------------
+                             (10) SHARED DISPOSITIVE POWER      153,642
+                                    
+- -------------------------------------------------------------------------------
+(11) AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON   153,642
+
+- -------------------------------------------------------------------------------
+(12) CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+
+- -------------------------------------------------------------------------------
+(13) PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+     6.3%
+- -------------------------------------------------------------------------------
+(14) TYPE OF REPORTING PERSON*              CO
+
+- -------------------------------------------------------------------------------
+                    *SEE INSTRUCTION BEFORE FILLING OUT!
+
+
+                             (Page 4 of 22 Pages)
+<PAGE>
+- -------------------                                          ------------------
+CUSIP No. 812209203                  13D                     Page 5 of 22 Pages
+- -------------------                                          ------------------
+
+- -------------------------------------------------------------------------------
+ (1) NAMES OF REPORTING PERSONS. I.R.S. IDENTIFICATION NOS. OF ABOVE
+     PERSONS (ENTITIES ONLY)
+     Salomon Smith Barney Holdings Inc., 22-1660266
+- -------------------------------------------------------------------------------
+ (2) CHECK THE APPROPRIATE BOX IF A MEMBER     (a)  / /
+     OF A GROUP*                               (b)  / /
+- -------------------------------------------------------------------------------
+ (3) SEC USE ONLY
+
+- -------------------------------------------------------------------------------
+ (4) SOURCE OF FUNDS               OO
+
+- -------------------------------------------------------------------------------
+ (5) CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO
+     ITEMS 2(d) OR 2(e)                                                  /X/
+- -------------------------------------------------------------------------------
+ (6) CITIZENSHIP OR PLACE OF ORGANIZATION           Delaware
+
+- -------------------------------------------------------------------------------
+                             (7) SOLE VOTING POWER       0
+                                    
+ NUMBER OF                   --------------------------------------------------
+  SHARES                     (8) SHARED VOTING POWER     153,681
+BENEFICIALLY                        
+ OWNED BY                    --------------------------------------------------
+   EACH                       (9) SOLE DISPOSITIVE POWER   0
+ REPORTING                           
+PERSON WITH                  --------------------------------------------------
+                             (10) SHARED DISPOSITIVE POWER     153,681
+                                    
+- -------------------------------------------------------------------------------
+(11) AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON  153,681
+
+- -------------------------------------------------------------------------------
+(12) CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+                                                                           [ ]
+- -------------------------------------------------------------------------------
+(13) PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+     6.3%
+- -------------------------------------------------------------------------------
+(14) TYPE OF REPORTING PERSON*            CO
+
+- -------------------------------------------------------------------------------
+                    *SEE INSTRUCTION BEFORE FILLING OUT!
+
+
+                             (Page 5 of 22 Pages)
+<PAGE>
+- -------------------                                          ------------------
+CUSIP No. 812209203                  13D                     Page 6 of 22 Pages
+- -------------------                                          ------------------
+
+- -------------------------------------------------------------------------------
+ (1) NAMES OF REPORTING PERSONS. I.R.S. IDENTIFICATION NOS. OF ABOVE
+     PERSONS (ENTITIES ONLY)
+     Travelers Group Inc., 52-1568099
+- -------------------------------------------------------------------------------
+ (2) CHECK THE APPROPRIATE BOX IF A MEMBER     (a)  / /
+     OF A GROUP*                               (b)  / /
+- -------------------------------------------------------------------------------
+ (3) SEC USE ONLY
+
+- -------------------------------------------------------------------------------
+ (4) SOURCE OF FUNDS                 OO
+
+- -------------------------------------------------------------------------------
+ (5) CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO
+     ITEMS 2(d) OR 2(e)                                                  /X/
+- -------------------------------------------------------------------------------
+ (6) CITIZENSHIP OR PLACE OF ORGANIZATION           Delaware
+
+- -------------------------------------------------------------------------------
+                             (7) SOLE VOTING POWER       0
+                                    
+ NUMBER OF                   --------------------------------------------------
+   SHARES                    (8) SHARED VOTING POWER      153,681
+BENEFICIALLY                        
+  OWNED BY                   --------------------------------------------------
+  EACH                       (9) SOLE DISPOSITIVE POWER      0
+REPORTING                           
+PERSON WITH                  --------------------------------------------------
+                             (10) SHARED DISPOSITIVE POWER   153,681
+                                    
+- -------------------------------------------------------------------------------
+(11) AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON   153,681
+
+- -------------------------------------------------------------------------------
+(12) CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+                                                                           [ ]
+- -------------------------------------------------------------------------------
+(13) PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+     6.3%
+- -------------------------------------------------------------------------------
+(14) TYPE OF REPORTING PERSON*           CO   HC
+
+- -------------------------------------------------------------------------------
+                    *SEE INSTRUCTION BEFORE FILLING OUT!
+
+
+                             (Page 6 of 22 Pages)
+<PAGE>
+
+ITEM 1.  SECURITY AND ISSUER
+
+    The class of equity securities to which this statement relates is the 9%/7%
+convertible preferred stock, par value $.01 per share (the "Preferred Stock"),
+of Search Financial Services, Inc. (formerly known as Search Capital Group,
+Inc.), a Delaware corporation (the "Issuer").  The principal executive offices
+of the Issuer are located at 700 North Pearl Street, Suite 400, Dallas, Texas 
+75201.
+
+
+ITEM 2.  IDENTITY AND BACKGROUND
+
+    (a), (b), (c) and (f)  This Statement on Schedule 13D is being filed by R-H
+Capital Partners, L.P., a Delaware limited partnership ("R-H Partners"),
+R-H/Travelers, L.P., a Delaware limited partnership ("R-H/Travelers"), R-H
+Capital, Inc., a Delaware corporation ("R-H Inc."), Salomon Smith Barney
+Holdings Inc. (formerly known as Salomon Inc), a Delaware corporation ("SSB
+Holdings"), and  Travelers Group Inc., a Delaware corporation ("Travelers"). All
+of the Preferred Stock reported herein is directly beneficially owned by R-H
+Capital or in an account managed by Smith Barney Inc., a Delaware corporation
+and a wholly owned subsidiary of SSB Holdings.  
+
+    The general partner of R-H Partners is R-H/Travelers.  The general partner
+of R-H/Travelers is R-H Inc.  R-H Inc. is a wholly owned subsidiary of SSB
+Holdings, which is a wholly owned subsidiary of Travelers.  The principal
+business of R-H Partners is acquiring, holding and disposing of securities and
+engaging in such activities in connection therewith as R-H/Travelers, as general
+partner, deems necessary, advisable or incidental to the foregoing.  The
+principal business of R-H/Travelers is to act as a general partner of R-H
+Partners, and to engage in such activities in connection therewith as R-H Inc.,
+as general partner, deems necessary, advisable or incidental to the foregoing.
+The principal business of R-H Inc. is to serve as general partner of
+R-H/Travelers and to engage in any lawful act or activity for which corporations
+may be organized under the General Corporation Law of Delaware.  The principal
+business of SSB Holdings is the ownership of subsidiaries in the investment and
+asset management services and commodities businesses. Travelers is a diversified
+financial services company engaged, through its subsidiaries, in investment and
+asset management services, consumer finance services and life and
+property-casualty insurance services.   
+
+    The principal executive offices of R-H Partners, R-H/Travelers and R-H Inc.
+are located, and the principal business of each is conducted, at 3333 Peachtree
+Road, NE, Atlanta, Georgia 30326.  The principal executive offices of SSB
+Holdings and Travelers are located, and the principal business of each is
+conducted, at 388 Greenwich Street, New York, New York  10013.
+
+    R-H Partners, R-H/Travelers,  R-H Inc., SSB Holdings and Travelers are
+referred to herein collectively as the "Reporting Persons."
+
+
+                             (Page 7 of 22 Pages)
+<PAGE>
+
+    Certain information with respect to the directors and executive officers 
+of R-H Inc. and Travelers is set forth on Exhibit 99.1 attached hereto, 
+including each director's and executive officer's business address, present 
+principal occupation or employment, citizenship and other information, which 
+information is incorporated herein by reference.
+
+    (d) and (e)  On May 20, 1992, Salomon Brothers Inc ("SBI") and SSB
+Holdings, (together with SBI, "Salomon") consented, without admitting or denying
+any of the allegations of the concurrently filed complaint, to the entry of a
+Final Judgment of Permanent Injunction and Other Relief (the "Final Judgment")
+in settlement of an action arising out of alleged misconduct in auctions of U.S.
+Treasury securities and government securities trading, brought by the Securities
+and Exchange Commission (the "SEC") in the United States District Court for the
+Southern District of New York, entitled SECURITIES AND EXCHANGE COMMISSION V.
+SALOMON INC. AND SALOMON BROTHERS INC (92 Civ. 3691 and Securities and Exchange
+Act Release No. 30721 (May 20, 1992)) (the "Treasury Matter").  Among other
+things, the Final Judgment enjoins Salomon from violations of Section 17(a) of
+the Securities Act of 1933 (the "1933 Act"), Sections 10(b), 15(c)(1) and 17(a)
+of the Securities Exchange Act of 1934 (the "1934 Act"), and rules 10b-5,
+15c1-2, 17a-3 and 17a-4 promulgated thereunder.  Pursuant to the settlement,
+Salomon was required to pay a total amount of $290,000,000, with $100,000,000
+going to a fund for the payment of private claims for compensatory damages
+arising out of the U.S. Treasury auction and related matters and $190,000,000 to
+the United States in payment of civil penalties under the Securities Enforcement
+Remedies and Penny Stock Reform Act of 1990 and a forfeiture of assets to and
+settlement of claims with the Department of Justice against SBI.  On the same
+day, in other related actions solely involving SBI, the SEC instituted and
+settled an administrative proceeding relating to a failure to supervise the
+persons responsible for the alleged misconduct, the Federal Reserve Bank of New
+York announced the continuation of SBI's primary dealer designation but a
+cessation of its trading activity until August 3, 1992, and the Department of
+Treasury announced that SBI would be permitted to resume bidding for customers
+on August 3, 1992, having restricted SBI to purchasing securities for its own
+account in U.S. Treasury auctions since August 18, 1991.
+
+    In January and February 1993, SBI, without admitting or denying any
+allegations, entered into consent agreements and, in some states, consent orders
+with 41 state securities regulators in settlement of certain claims in respect
+of SBI's state broker-dealer registrations arising out of SBI's activities
+described in the Treasury Matter.  Pursuant to the settlement with the states,
+SBI agreed, among other things, to (i) comply with those provisions of the order
+issued by the SEC in the Treasury Matter that imposed remedial sanctions with
+respect to alleged violations of securities laws by former personnel of SBI in
+auctions for United States Treasury Securities during 1990 and 1991; (ii) pay
+$50,000 to each state participant in the settlement as reimbursement for costs
+of investigation related to the Treasury Matter; and (iii) 
+
+
+                                 (Page 8 of 22 Pages)
+<PAGE>
+
+with respect to some states, contribute $2,000,000 to a multi-state investor
+protection trust fund to be created for the purpose of providing funds for
+projects promoting the cause of investor protection.
+
+    On July 17, 1996, the Department of Justice filed a civil complaint in the
+Southern District of New York alleging that SBI, Smith Barney Inc. and 22 other
+broker/dealers, as well as unnamed co-conspirators, violated section 1 of the
+Sherman Act in conjunction with the trading of Nasdaq securities.  A proposed
+settlement with all 24 defendants was filed concurrently.  The proposed
+settlement did not contain any admission of liability; it also did not include
+any fine, penalty or injunction.  Under the proposed settlement, the defendants
+agreed, among other things, to institute specified antitrust compliance
+procedures on their over-the-counter desks, with the court retaining
+jurisdiction for enforcement of the settlement agreement, including punishment
+by contempt.  In April 1997, the U.S. District Court for the Southern District
+of New York approved the settlement.  In May 1997, the plaintiffs in a related
+civil class action challenged certain provisions of the settlement.
+
+    On August 26, 1996, the SEC simultaneously instituted a cease-and-desist
+proceeding pursuant to Section 21C of the 1934 Act against SSB Holdings and
+accepted SSB Holdings's Offer of Settlement.  SSB Holdings, by its Offer of
+Settlement, consented to the imposition of a cease-and-desist order and the
+entry of the findings therein without admitting or denying such findings.  The
+SEC found that SSB Holdings had violated Section 13(b)(2) of the 1934 Act. 
+Specifically, the SEC determined that SSB Holdings had failed to perform
+thorough and timely reconciliations of its balance sheet accounts to supporting
+documentation, and thus failed to identify on a timely basis erroneous entries
+made by its staff.  Moreover, SSB Holdings had failed to ensure that correction
+procedures were properly implemented in London, in part by failing to train
+adequately its staff to use a new automated system.  These failures resulted in
+the overstatement of assets and income on the books, records, and accounts of
+SSB Holdings and its subsidiaries.  In determining to accept SSB Holdings's
+Offer of Settlement, the SEC considered remedial acts promptly undertaken by SSB
+Holdings and cooperation afforded the SEC staff.
+
+    Except as set forth or incorporated by reference herein, during the last
+five years, none of Travelers, SSB Holdings, R-H Inc., R-H/Travelers, R-H
+Partners or, to the best knowledge of Travelers, any of the persons listed in
+Exhibit 99.1 hereto, has been convicted in a criminal proceeding (excluding
+traffic violations or similar misdemeanors) or has been a party to a civil
+proceeding of a judicial or administrative body of competent jurisdiction and as
+a result of such proceeding was or is subject to any material judgment, decree
+or final order 
+
+
+                                 (Page 9 of 22 Pages)
+<PAGE>
+
+enjoining future violations of, or prohibiting or mandating activities subject
+to, federal or state securities laws or finding any violation with respect to
+such laws.
+
+
+ITEM 3.  SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION
+
+    R-H Partners purchased an aggregate of $2,750,000 principal amount of the
+10.0% senior subordinated notes due October 16, 2000 of Dealers Alliance Credit
+Corp. (the "Notes") and warrants to purchase an aggregate of 12,369 shares of
+common stock of Dealers Alliance Credit Corp. (the "Warrants") on October 16,
+1995 and December 21, 1995, for aggregate consideration of $2,750,000.  On
+August 2, 1996, Dealers Alliance Credit Corp. entered into an Asset Acquisition
+Agreement (the "Asset Acquisition Agreement") with the Issuer and Search Funding
+IV, Inc. pursuant to which Dealers Alliance Credit Corp. sold substantially all
+of its assets to Search Funding IV, Inc., a wholly-owned subsidiary of the
+Issuer.  In connection with the Asset Acquisition Agreement, R-H Partners
+entered into a Sub-Debt Acquisition Agreement, dated August 2, 1996, by and
+among the Issuer, R-H Partners, Kellett Investment Corporation and Search
+Funding IV, Inc. pursuant to which Search Funding IV, Inc. purchased the Notes
+and Warrants from R-H Partners.  The aggregate purchase price paid to R-H
+Partners for the Notes and the Warrants was 1,229,141 shares of series B 9%/7%
+convertible preferred stock, of the issuer.  Effective November 25, 1996, all
+outstanding shares of such B Series 9%/7% convertible preferred stock were
+converted into shares of Preferred Stock on a one-for-on basis.  On November 21,
+1996, the Issuer effected a one-for-eight reverse stock split of the Preferred
+Stock which had the effect of decreasing the number of shares owned by R-H
+Partners to 153,642 shares.
+
+
+ITEM 4.  PURPOSE OF TRANSACTION
+
+    The acquisition of the shares of Preferred Stock by R-H Capital occurred in
+connection with the sale of the assets of Dealers Alliance Credit Corp.
+
+    Each of the Reporting Persons reviews its holdings with respect to the 
+Issuer on a continuing basis.  Depending on such evaluations of the Issuer's 
+business and prospects, and upon future developments (including, but not 
+limited to, market prices of the Preferred Stock and availability and 
+alternative uses of funds, as well as conditions in the securities markets 
+and general economic and industry conditions), each such Reporting Person 
+may acquire other securities of the Issuer or sell all or a portion of its 
+Preferred Stock or other securities of the issuer, now owned or hereafter 
+acquired.  Except as otherwise described herein, none of the Reporting 
+Persons has any plans or proposals relating to or which would result in any 
+of the transactions described in Items 4 (a)-(j) of Schedule 13D.
+
+                                (Page 10 of 22 Pages)
+
+<PAGE>
+
+ITEM 5.  INTEREST IN SECURITIES OF THE ISSUER
+
+    (a) and (b)    By reason of their relationship, R-H/Travelers, R-H Inc.,
+SSB Holding and Travelers may be deemed to share voting and dispositive power
+with respect to shares of Preferred Stock directly owned by R-H Partners.  SSB
+Holdings and Travelers may be deemed to have an indirect beneficial interest in
+the shares of Preferred Stock held in an account managed by Smith Barney Inc.
+
+    As of November 28, 1997, R-H Partners, R-H Travelers and R-H Inc. may be
+deemed to beneficially own 153,642 shares of Preferred Stock, which represents
+6.3% of the outstanding shares of Preferred Stock (based on 2,456,000 shares of
+Preferred Stock outstanding as of November 11, 1997, as reported by the Issuer).
+As of November 28, 1997, TRV and SSB Holdings may be deemed to beneficially own
+153,681 shares of Preferred Stock, which represents 6.3% of the outstanding
+shares of Preferred Stock (based on 2,456,000 shares of Preferred Stock
+outstanding as of November 11, 1997, as reported by the Issuer).  
+
+    Except as set forth or incorporated by reference herein, none of Travelers,
+SSB Holdings, R-H Partners, R-H Travelers, R-H Inc. or, to the best knowledge of
+Travelers, the persons listed in Exhibit 99.1 hereto beneficially owned any
+Preferred Stock on November 28, 1997.
+
+         (c)  None of the Reporting Persons or, to the best knowledge of
+Travelers, the persons listed in Exhibit 99.1 hereto has effected a transaction
+other than as described herein in the Preferred Stock during the 60 days
+preceding November 28, 1997.
+
+
+ITEM 6.  CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS 
+         WITH RESPECT TO SECURITIES OF THE ISSUER
+
+    In connection with the acquisition by R-H Partners of the shares of
+Preferred Stock, R-H Partners entered into the following agreements:  (i)
+Sub-Debt Acquisition Agreement by and among the Issuer, Search Funding IV, Inc.
+and Kellett Investment Corporation dated as of August 2, 1996; (ii) Sub-Debt
+Shareholders Agreement by and between the Issuer, and Kellett Investment
+Corporation dated August, 1996; and (iii) Escrow Agreement by and among the
+Issuer, Dealers Alliance Credit Corp, Search Funding IV, Inc., Kellett
+Investment Corporation and U.S. Trust Company of Texas, N.A., as escrow agent. 
+As of the date hereof, there are no outstanding rights or obligations under such
+agreements.
+
+    Except as described in the preceding paragraph, none of the Reporting
+Persons is a party to any contract, arrangement, understanding or relationship
+with any person with respect to any securities of the Issuer, including but not
+limited to the transfer or voting of any shares of Preferred Stock, finders
+fees, joint ventures, option arrangements, puts or calls, guarantees of profits,
+division of profits or loss, or the giving or withholding of proxies.
+
+
+
+                                (Page 11 of 22 Pages)
+<PAGE>
+
+ITEM 7.  MATERIAL TO BE FILED AS EXHIBITS
+
+         THE FOLLOWING DOCUMENTS ARE ATTACHED AS EXHIBITS:
+
+    Exhibit        Description
+    -------        -----------
+
+    99.1           DIRECTORS AND EXECUTIVE OFFICERS
+
+    99.2           JOINT FILING AGREEMENT (PURSUANT TO RULE 13D-1(F))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                (Page 12 of 22 Pages)
+<PAGE>
+
+                                      SIGNATURES
+
+
+After reasonable inquiry and to the best of my knowledge and belief, the
+undersigned certify that the information set forth in this statement is true,
+complete and correct.
+
+                                       R-H CAPITAL PARTNERS, L.P.
+                                       By:  R-H/TRAVELERS, L.P.
+                                            its general partner
+                                       By:  R-H CAPITAL, INC.
+                                            its general partner
+
+
+
+DATED:  December 22, 1997              By: /s/ Kenneth T. Millar
+                                          ----------------------------
+                                          Kenneth T. Millar
+                                          Executive Vice President and
+                                          Managing Director
+
+
+                                       R-H/TRAVELERS, L.P.
+                                       By:  R-H CAPITAL, INC.
+                                            its general partner
+
+
+
+DATED:  December 22, 1997              By: /s/ Kenneth T. Millar
+                                          ----------------------------
+                                          Kenneth T. Millar
+                                          Executive Vice President and
+                                          Managing Director
+
+
+                                       R-H CAPITAL, INC.
+
+
+
+DATED:  December 22, 1997              By: /s/ Kenneth T. Millar
+                                          ----------------------------
+                                          Kenneth T. Millar
+                                          Executive Vice President and
+                                          Managing Director
+
+
+
+
+                                (Page 13 of 22 Pages)
+<PAGE>
+
+DATED:  December 22, 1997              SALOMON SMITH BARNEY HOLDINGS INC.
+
+
+                                       By:  /s/ Howard M. Darmstadter
+                                          --------------------------------
+                                          Name:  Howard M. Darmstadter
+                                          Title: Assistant Secretary
+
+
+
+
+DATED:  December 22, 1997              TRAVELERS GROUP INC.
+
+
+                                       By: /s/ Stephanie B. Mudick
+                                          --------------------------------
+                                          Name:  Stephanie B. Mudick
+                                          Title: Assistant Secretary
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                (Page 14 of 22 Pages)
+<PAGE>
+
+                                    EXHIBIT INDEX
+                                    -------------
+
+
+         Exhibit                  Description                             Page
+         -------                  -----------                             ----
+
+         99.1                     Directors and Executive Officers
+
+
+         99.2                     Joint Filing Agreement (Pursuant 
+                                  to Rule 13d-1(f))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                (Page 15 of 22 Pages)
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<DESCRIPTION>DIRECTORS AND EXECUTIVE OFFICERS
+<TEXT>
+
+<PAGE>
+
+                                     EXHIBIT 99.1
+
+                           DIRECTORS AND EXECUTIVE OFFICERS
+
+    Set forth below is the name, business address and present occupation or
+employment of each director and executive officer of the R-H Capital Inc. and
+Travelers Group Inc.
+
+                EXECUTIVE OFFICERS AND DIRECTORS OF R-H CAPITAL, INC. 
+                ------------------------------------------------------
+
+
+NAME, TITLE AND CITIZENSHIP          PRINCIPAL OCCUPATION AND BUSINESS ADDRESS
+- ---------------------------          -----------------------------------------
+
+Jerome D. Sands                      Chairman
+Director (USA)                       The Robinson-Humphrey Company, Inc.
+                                     3333 Peachtree Rd., N.E.
+                                     Atlanta, GA 30326
+
+Roderick A. Dowling                  Managing Director
+Director and President (USA)         The Robinson-Humphrey Company, Inc.
+                                     3333 Peachtree Rd., N.E.
+                                     Atlanta, GA 30326
+
+Kenneth T. Millar                    Managing Director
+Director, Executive Vice President   The Robinson-Humphrey Company, Inc.
+and Managing Director (USA)          3333 Peachtree Rd., N.E.
+                                     Atlanta, GA 30326
+
+Arthur C. Roselle                    Vice President
+Vice President (USA)                 The Robinson-Humphrey Company, Inc.
+                                     3333 Peachtree Rd., N.E.
+                                     Atlanta, GA 30326
+
+David Prince                         General Counsel
+Secretary & Treasurer (USA)          The Robinson-Humphrey Company, Inc.
+                                     3333 Peachtree Rd., N.E.
+                                     Atlanta, GA 30326
+
+
+                           (Page 16 of 22 Pages)
+<PAGE>
+
+                    EXECUTIVE OFFICERS AND DIRECTORS OF
+                          TRAVELERS GROUP INC.
+
+NAME, TITLE AND CITIZENSHIP          PRINCIPAL OCCUPATION AND BUSINESS ADDRESS
+- ---------------------------          -----------------------------------------
+
+C. Michael Armstrong                 Chairman & Chief Executive Officer
+Director (USA)                       AT&T Corp.
+                                     295 North Maple Avenue
+                                     Basking Ridge, New Jersey 07920
+
+Judith Arron                         Executive Director
+Director (USA)                       Carnegie Hall Corporation
+                                     8811 Seventh Avenue
+                                     New York, New York  10019
+
+Kenneth J. Bialkin                   Partner
+Director (USA)                       Skadden, Arps, Slate, Meagher & Flom LLP
+                                     919 Third Avenue
+                                     New York, New York  10022
+
+Edward H. Budd                       Retired Chairman
+Director (USA)                       Travelers Insurance Companies
+                                     One Tower Square
+                                     Hartford, Connecticut  06183
+
+Joseph A. Califano, Jr.              Chairman & Chief Executive Officer
+Director (USA)                       The Center on Addiction & Substance Abuse
+                                     at Columbia University
+                                     152 West 57th Street
+                                     New York, New York  10019
+
+Douglas D. Danforth                  Executive Associates
+Director (USA)                       One PPG Place
+                                     Suite 2210
+                                     Pittsburgh, Pennsylvania  15222
+
+
+                           (Page 17 of 22 Pages)
+<PAGE>
+
+
+James Dimon                          President & Chief Operating Officer
+Director & Executive Officer (USA)   Travelers Group Inc.
+                                     388 Greenwich Street
+                                     New York, New York  10013
+
+Leslie B. Disharoon                  Former Chairman, President & Chief
+Director (USA)                       Executive Officer
+                                     Monumental Corporation
+                                     2 Chittenden Lane
+                                     Owings Mills, Maryland   21117
+
+The Honorable Gerald R. Ford         Former President of the United States
+Director (USA)                       Post Office Box 927
+                                     Rancho Mirage, California  92270
+
+Thomas W. Jones                      Vice Chairman
+Director & Executive Officer (USA)   Travelers Group Inc.
+                                     388 Greenwich Street
+                                     New York, New York  10013
+
+Ann Dibble Jordan                    Consultant
+Director (USA)                       Former Director of Social Services, 
+                                     University of Chicago Medical Center
+                                     4610 Kenmore Drive, N.W.
+                                     Washington, DC  20007
+
+Robert I. Lipp                       Vice Chairman
+Director & Executive Officer (USA)   Travelers Group Inc.
+                                     388 Greenwich Street
+                                     New York, New York  10013
+
+Michael T. Masin                     Vice Chairman & President - International
+Director (USA)                       GTE Corporation
+                                     One Stamford Forum
+                                     Stamford, Connecticut  06904
+
+
+
+                          (Page 18 of 22 Pages)
+<PAGE>
+
+Deryck C. Maughan                    Vice Chairman
+Director (Great Britain)             Travelers Group Inc.
+                                     388 Greenwich Street
+                                     New York, New York  10013
+
+Dudley C. Mecum                      Managing Director
+Director (USA)                       Capricorn Management
+                                     30 East Elm Street
+                                     Greenwich, Connecticut  06830
+
+Andrall E. Pearson                   Chairman & Chief Executive Officer
+Director (USA)                       Tricon Global Restaurants, Inc.
+                                     660 Steamboat Road
+                                     Greenwich, Connecticut 06830
+
+Frank J. Tasco                       Retired Chairman
+Director (USA)                       Marsh & McLennan Companies, Inc.
+                                     1166 Avenue of the Americas
+                                     New York, New York  10036
+
+Linda J. Wachner                     Chairman, President & Chief 
+Director (USA)                       Executive Officer
+                                     Warnaco Group Inc.
+                                     90 Park Avenue
+                                     New York, New York  10016
+
+Sanford I. Weill                     Chairman & Chief Executive Officer
+Director & Executive Officer (USA)   Travelers Group Inc.
+                                     388 Greenwich Street
+                                     New York, New York  10013
+
+Joseph R. Wright, Jr.                Chairman & Chief Executive Officer
+Director (USA)                       AMTEC, Inc.
+                                     599 Lexington Avenue
+                                     New York, New York 10022-6030
+
+
+
+                           (Page 19 of 22 Pages)
+<PAGE>
+
+Arthur Zankel                        Co-Managing Partner
+Director (USA)                       First Manhattan Company
+                                     437 Madison Avenue
+                                     New York, New York  10022
+
+Steven D. Black                      Vice Chairman & Chief Operating Officer
+Executive Officer (USA)              Smith Barney Inc.
+                                     388 Greenwich Street
+                                     New York, New York  10013
+
+Michael A. Carpenter                 Executive Vice President
+Executive Officer (USA)              Travelers Group Inc.
+                                     One Tower Square
+                                     Hartford, Connecticut  06183
+
+Charles J. Clarke                    Chairman & Chief Executive Officer - 
+Executive Officer (USA)              Commercial Lines
+                                     Travelers Property Casualty Corp.
+                                     One Tower Square
+                                     Hartford, Connecticut  06183
+
+
+
+
+
+
+
+
+
+
+
+
+                                (Pages 20 of 22 Pages)
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<DESCRIPTION>JOINT FILING AGREEMENT
+<TEXT>
+
+<PAGE>
+
+                                                           EXHIBIT 99.2
+
+
+                                Joint Filing Agreement
+                             (Pursuant to Rule 13d-1(f))
+
+
+    In accordance with Rule 13d-1(f) promulgated under the Securities Exchange
+Act of 1934, as amended, the persons named below agree to the joint filing on
+behalf of each of them of a Statement on Schedule 13D (including amendments
+thereto) with respect to the 9%/7% convertible preferred stock, par value $.01
+per share, of Search Financial Services, Inc. and further agree that this Joint
+Filing Agreement be included as an exhibit to such joint filing.  Each party to
+this Joint Filing Agreement expressly authorizes Arthur C. Roselle, Vice
+President of R-H Capital Inc. to file on such party's behalf any and all
+amendments to such statement.  Each such party undertakes to notify Arthur C.
+Roselle, Vice President of R-H Capital Inc. of any changes giving rise to an
+obligation to file an amendment to Schedule 13D and it is understood that in
+connection with this Statement and all amendments thereto each such party shall
+be responsible only for information supplied by such party.
+
+    In evidence thereof, the undersigned, being duly authorized, hereby execute
+this Agreement this       day of December, 1997.
+
+
+                                  R-H CAPITAL PARTNERS, L.P.
+                                  By:  R-H/TRAVELERS, L.P.
+                                       its general partner
+                                  By:  R-H CAPITAL, INC.
+                                       its general partner
+
+DATED:  December 22, 1997         By: /s/ Kenneth T. Millar
+                                     ---------------------------------
+                                     Kenneth T. Millar
+                                     Executive Vice President and
+                                     Managing Director
+
+                                  R-H/TRAVELERS, L.P.
+                                  By:  R-H CAPITAL, INC.
+                                       its general partner
+
+DATED:  December 22, 1997         By: /s/ Kenneth T. Millar
+                                     ---------------------------------
+                                     Kenneth T. Millar
+                                     Executive Vice President and
+                                     Managing Director
+
+
+
+
+
+
+                                (Page 21 of 22 Pages)
+<PAGE>
+
+                                  R-H CAPITAL, INC.   
+
+DATED:  December 22, 1997         By:  /s/ Kenneth T. Millar
+                                     ---------------------------------
+                                     Kenneth T. Millar
+                                     Executive Vice President and
+                                     Managing Director
+
+                                  SALOMON SMITH BARNEY HOLDINGS INC.
+
+
+DATED:  December 22, 1997         By:  /s/ Howard M. Darmstadter
+                                     ---------------------------------
+                                     Name:  Howard M. Darmstadter
+                                     Title: Assistant Secretary
+
+
+
+
+                                  TRAVELERS GROUP INC.
+
+
+DATED:  December 22, 1997         By: /s/ Stephanie B. Mudick
+                                     ---------------------------------
+                                     Name:  Stephanie B. Mudick
+                                     Title: Assistant Secretary
+
+
+
+
+
+
+
+
+
+                           (Pages 22 of 22 Pages)
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

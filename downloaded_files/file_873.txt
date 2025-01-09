@@ -1,0 +1,1150 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TT1h7ZFTH0OIWEd1iwGIrvICxFiyo9ZT7CMwEY+3NdEkaVhkM8Vv41JSCmvc9Pk6
+ Busum1Gapwc3ZoLeThmCtw==
+
+<SEC-DOCUMENT>0000004962-95-000045.txt : 19951218
+<SEC-HEADER>0000004962-95-000045.hdr.sgml : 19951218
+ACCESSION NUMBER:		0000004962-95-000045
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19951215
+SROS:			NYSE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MIDAMERICAN ENERGY CO
+		CENTRAL INDEX KEY:			0000928576
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				421425214
+		STATE OF INCORPORATION:			IA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-44589
+		FILM NUMBER:		95601976
+
+	BUSINESS ADDRESS:	
+		STREET 1:		666 GRAND AVENUE
+		STREET 2:		POST OFFICE BOX 9244
+		CITY:			DES MOINES
+		STATE:			IA
+		ZIP:			50306-9244
+		BUSINESS PHONE:		5152424099
+
+	MAIL ADDRESS:	
+		STREET 1:		666 GRAND AVENUE POST OFFICE BOX 9244
+		STREET 2:		666 GRAND AVENUE POST OFFICE BOX 9244
+		CITY:			DES MOINES
+		STATE:			IA
+		ZIP:			50306-9244
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICAN EXPRESS CO
+		CENTRAL INDEX KEY:			0000004962
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY BROKERS, DEALERS & FLOTATION COMPANIES [6211]
+		IRS NUMBER:				134922250
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		AMERICAN EXPRESS TWR
+		STREET 2:		200 VESEY ST   49TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10285
+		BUSINESS PHONE:		2126402000
+
+	MAIL ADDRESS:	
+		STREET 1:		AMERICAN EXPRESS TOWER
+		STREET 2:		200 VESEY ST   49TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10285
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>SCH 13D MIDAMERICAN ENERGY CO
+<TEXT>
+
+
+
+
+               SECURITIES AND EXCHANGE COMMISSION
+                     Washington, D.C.  20549
+
+
+                          SCHEDULE 13D
+
+
+            Under the Securities Exchange Act of 1934
+
+                        (Amendment No. 1)
+
+                   MidAmerican Energy Company
+       (formerly Iowa-Illinois Gas and Electric Company)
+                        (Name of issuer)
+
+
+            Non-Voting Preferred Stock, no par value
+  (formerly Cumulative Preference Stock, voting, no par value)
+                 (Title of class of securities)
+
+
+                                
+                          595620-20-4
+                         (CUSIP number)
+
+
+                     Louise M. Parent, Esq.
+                    American Express Company
+                     American Express Tower
+                     World Financial Center
+                    New York, New York  10285
+                         (212) 640-2000                     
+    (Name, address and telephone number of person authorized
+             to receive notices and communications)
+
+                      February 10, 1995          
+                  (Date of event which requires
+                    filing of this statement)
+
+       If the filing person has previously filed a statement on
+       Schedule 13G to report the acquisition which is the
+       subject of this Schedule 13D, and is filing this Schedule
+       because of Rule 13d-1(b)(3) or (4), check the following
+       line
+                                                             ____
+
+       Check the following line if a fee is being paid with this
+       statement
+                                                             ____
+
+
+
+
+
+
+                                       -1-
+<PAGE>
+                          SCHEDULE 13D
+
+CUSIP NO.   595620-20-4                           
+
+1)     NAME OF REPORTING PERSONS
+       S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSONS
+                 American Express Financial Corporation 
+                 (formerly IDS Financial Corporation)
+                 13-3180631
+
+2)     CHECK THE APPROPRIATE LINE IF A MEMBER OF A GROUP
+                 (A) ____         (B)   X  
+
+3)     SEC USE ONLY
+
+4)     SOURCE OF FUNDS
+                        Not applicable.
+
+5)     CHECK LINE IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+       PURSUANT TO ITEMS 2(d) OR 2(e)
+                                                  ____
+
+6)     CITIZENSHIP OR PLACE OF ORGANIZATION
+                 Delaware
+
+7)     NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING
+       PERSON WITH SOLE VOTING POWER    - 0 -
+
+8)     NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING
+       PERSON WITH SHARED VOTING POWER  - 0 -
+                 
+9)     NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING
+       PERSON WITH SOLE DISPOSITIVE POWER    - 0 -
+                 
+10)    NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING
+       PERSON WITH SHARED DISPOSITIVE POWER  - 0 -
+                 
+
+11)    AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+       PERSON
+                  - 0 -                 
+ 
+12)    CHECK LINE IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+       CERTAIN SHARES
+                                                  ____
+
+13)    PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+              0.0%
+
+14)    TYPE OF REPORTING PERSON
+              CO, IA
+
+
+
+
+
+
+                                       -2-
+<PAGE>
+                          SCHEDULE 13D
+
+CUSIP NO.   595620-20-4                           
+
+1)     NAME OF REPORTING PERSONS
+       S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSONS
+                 American Express Travel Related Services
+                 Company, Inc. 
+                 13-3133497
+
+2)     CHECK THE APPROPRIATE LINE IF A MEMBER OF A GROUP
+                 (A) ____         (B)   X  
+
+3)     SEC USE ONLY
+
+4)     SOURCE OF FUNDS
+                       Not applicable.
+
+5)     CHECK LINE IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+       PURSUANT TO ITEMS 2(d) OR 2(e)
+                                                  ____
+
+6)     CITIZENSHIP OR PLACE OF ORGANIZATION
+                 New York
+
+7)     NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING
+       PERSON WITH SOLE VOTING POWER       - 0 -  
+                 
+8)     NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING
+       PERSON WITH SHARED VOTING POWER     - 0 -
+                 
+9)     NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING
+       PERSON WITH SOLE DISPOSITIVE POWER  - 0 -   
+                 
+10)    NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING
+       PERSON WITH SHARED DISPOSITIVE POWER    - 0 -   
+                 
+
+11)    AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+       PERSON
+                 - 0 -
+
+12)    CHECK LINE IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+       CERTAIN SHARES
+                                                  ____
+
+13)    PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+              0.0%
+                 
+14)    TYPE OF REPORTING PERSON   
+              CO
+
+
+
+
+
+
+                                       -3-
+<PAGE>
+Item 1. Security and Issuer.
+
+       This statement relates to the Preferred Stock, non-voting,
+no par value (the "Non-Voting Preferred Stock") of MidAmerican
+Energy Company, an Iowa corporation (the "Issuer").  The
+principal executive offices of the Issuer are located at 666
+Grand Ave., Des Moines, Iowa 50303.
+
+       Effective July 1, 1995, Iowa-Illinois Gas and Electric
+Company ("Iowa-Illinois"), Midwest Resources Inc. and Midwest
+Power Systems Inc. merged with and into MidAmerican Energy
+Company.  On the effective date all Iowa-Illinois Cumulative
+Preference Stock, voting, no par value, was converted on a one-
+for-one basis into Non-Voting Preferred Stock of MidAmerican
+Energy Company.
+ 
+                  
+Item 2. Identity and Background.
+
+            (a)-(c), (f)  This Statement is filed by American
+Express Financial Corporation ("AEFC"), a Delaware corporation
+and a wholly-owned subsidiary of American Express Company, a New
+York corporation ("American Express"), and American Express
+Travel Related Services Company, Inc. ("TRS"), a New York
+corporation and a wholly-owned subsidiary of American Express. 
+The principal business of American Express is providing travel
+related services, financial advisory services and international
+banking services throughout the world.  The principal business of
+TRS is providing travel related services.  The principal business
+of AEFC is providing financial advisory services.  The address of
+the principal business and principal office for both American
+Express and TRS is American Express Tower, World Financial
+Center, New York, New York 10285.  The address of the principal
+business and principal office of AEFC is IDS Tower 10,
+Minneapolis, Minnesota 55440.
+
+       The name, residence or business address, present principal
+occupation or employment, and the name, principal business and
+address of any corporation or other organization in which such
+employment is conducted, and citizenship, of each executive
+officer and director of American Express, TRS and AEFC are set
+forth in Exhibits 1, 2 and 3, respectively, and are incorporated
+herein by reference.
+
+            (d), (e)  Neither American Express, TRS or AEFC,
+nor, to the best of their knowledge, any of the current directors
+or executive officers of American Express, TRS or AEFC have
+during the last five years, (i) been convicted in a criminal
+proceeding (excluding traffic violations or similar misdemeanors)
+or (ii) been a party to a civil proceeding of a judicial or
+administrative body of competent jurisdiction and as a result of
+such proceeding was or is subject to a judgment, decree or final
+
+
+
+
+
+                                       -4-
+<PAGE>
+order enjoining future violations of, or prohibiting or mandating
+activities subject to, Federal or State securities laws or
+finding any violation with respect to such laws.  
+
+Item 3. Source and Amount of Funds or Other Consideration.
+
+       The events requiring this filing were the purchase of
+10,000 shares of Iowa-Illinois Cumulative Preference Stock,
+voting, no par value, on February 10, 1995 beneficially owned by
+AEFC and the conversion on July 1, 1995 of the Iowa-Illinois
+Preference Stock beneficially owned by AEFC and TRS into shares of
+MidAmerican Energy Company Non-Voting Preferred Stock.
+
+Item 4. Purpose of Transaction.
+
+       On February 10, 1995, 10,000 shares of Iowa-Illinois
+Cumulative Preference Stock, voting, no par value, were purchased
+by AEFC in the over-the-counter market at a price of $105.39 per
+share.  The funds used for this purchase were general corporate
+funds.  The purchase was made in the ordinary course of the
+management of AEFC's investment portfolio.
+
+       Effective July 1, 1995, Iowa-Illinois, Midwest Resources
+Inc. and Midwest Power Systems Inc. merged with and into
+MidAmerican Energy Company.  On the effective date all Iowa-
+Illinois Cumulative Preference Stock, voting, no par value, was
+converted on a one-for-one basis into Non-Voting Preferred Stock
+of MidAmerican Energy Company.
+       
+  
+Item 5. Interest in Securities of the Issuer.
+
+       (a)  As of the date hereof, TRS and AEFC beneficially own
+an aggregate of 108,300 shares of the Non-Voting Preferred Stock
+representing approximately 3.36% of the outstanding shares of the
+Non-Voting Preferred Stock (based on 3,217,789 shares outstanding
+according to information provided by the Issuer to American
+Express).  As described in Item 5(b), TRS shares with AEFC
+investment power with respect to 35,000 shares of the Non-Voting
+Preferred Stock.  American Express disclaims beneficial ownership
+of all of the foregoing shares.  As of the date hereof, to the
+best knowledge of American Express, AEFC and TRS, respectively,
+none of the executive officers or directors of American Express,
+AEFC or TRS beneficially owned any shares of the Non-Voting
+Preferred Stock.
+
+       (b) TRS shares with AEFC the power to dispose or direct
+the disposition of 35,000 shares of Non-Voting Preferred Stock
+reported in response to Item 5(a) above.  The Non-Voting
+Preferred Stock presently has no voting rights.
+
+
+
+
+
+
+
+                                       -5-
+<PAGE>
+       (c)  Except as described in Items 3 and 4, none of
+American Express, AEFC, TRS or, to the best knowledge of American
+Express, AEFC or TRS, respectively, any director or executive
+officer of American Express, AEFC or TRS has effected any
+transaction in the shares of the Non-Voting Preferred Stock
+during the past 60 days.
+
+       (d)  No other person is known to have the right to receive
+or the power to direct the receipt of dividends from the shares
+of Non-Voting Preferred Stock.
+
+       (e)  On July 1, 1995, AEFC and TRS ceased to be the
+beneficial owners of more than five percent of this class of
+securities.
+             
+Item 6. Contracts, Arrangements, Understandings or Relationships
+with Respect to Securities of the Issuer.
+
+       AEFC provides investment management and accounting
+services for TRS in connection with certain securities owned by
+TRS in a proprietary capacity, including the Preferred Stock
+reported in response to Item 5(a) above.  Except as described in
+Item 5(b) above, and the preceding sentence, none of American
+Express, TRS and AEFC, or, to the best knowledge of American
+Express, TRS and AEFC, any of the executive officers or directors
+of American Express, TRS and AEFC, has any contracts,
+arrangements, understandings or relationships (legal or
+otherwise) with each other or with any other person with respect
+to any securities of the Issuer, including but not limited to the
+transfer or voting of any of the shares of the Preferred Stock,
+finder's fees, joint ventures, loan or option arrangement, puts
+or calls, guarantees of profits, division of profits or loss, or
+the giving or withholding of proxies.  
+
+Item 7. Material to be Filed as Exhibits.
+
+            1.   Information with respect to executive officers
+                 and directors of American Express.
+
+            2.   Information with respect to executive officers
+                 and directors of TRS.
+
+            3.   Information with respect to executive officers
+                 and directors of AEFC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       -6-
+<PAGE>
+                            SIGNATURE
+
+
+
+            After reasonable inquiry and to the best of my
+knowledge and belief, I certify that the information set forth in
+this statement is true, complete and correct.
+
+
+Dated: December 15, 1995
+
+
+                                  AMERICAN EXPRESS TRAVEL RELATED
+                                  SERVICES COMPANY, INC.
+
+
+
+
+                                  By: /s/ Stephen P. Norman 
+                                  Name:  Stephen P. Norman
+                                  Title: Secretary 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       -7-
+<PAGE>
+                            SIGNATURE
+
+
+
+            After reasonable inquiry and to the best of my
+knowledge and belief, I certify that the information set forth in
+this statement is true, complete and correct.
+
+
+Dated: December 15, 1995
+
+
+                                  AMERICAN EXPRESS FINANCIAL
+                                  CORPORATION
+
+
+
+
+                                  By: /s/ Robert F. Erdman 
+                                  Name:  Robert F. Erdman
+                                  Title: Assistant Treasurer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       -8-
+<PAGE>
+EXHIBIT INDEX
+
+
+EXHIBIT     
+
+  1.             Information with respect to 
+                 executive officers and directors of 
+                 American Express.
+
+  2.             Information with respect to executive
+                 officers and directors of TRS.
+
+  3.             Information with respect to executive
+                 officers and directors of AEFC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       -9-
+<PAGE>
+                            EXHIBIT 1
+
+         INFORMATION WITH RESPECT TO EXECUTIVE OFFICERS
+                AND DIRECTORS OF AMERICAN EXPRESS      
+
+
+            The following information sets forth the name,
+business address and present principal occupation of each of the
+directors and executive officers of American Express.  Except as
+indicated below, the business address of each director and
+executive officer of American Express is American Express Tower,
+World Financial Center, New York, New York 10285.  Each of the
+directors and executive officers of American Express, with the
+exception of David M. Culver and F. Ross Johnson who are citizens
+of Canada, is a citizen of the United States.  
+
+                         BUSINESS ADDRESS AND PRESENT
+NAME                     PRINCIPAL OCCUPATION        
+
+
+Daniel F. Akerson        Chairman and Chief Executive Officer
+                         General Instrument Corporation
+                         181 W. Madison Street
+                         49th Floor
+                         Chicago, Illinois  60602
+
+Anne L. Armstrong        Chairman of the Board of Trustees
+                         Center for Strategic and International  
+                           Studies
+                         P.O. Box 1358
+                         Kingsville, Texas  78364
+
+Edwin L. Artzt           Chairman of the Executive Committee
+                         The Procter & Gamble Company
+                         One Procter & Gamble Plaza
+                         Cincinnati, Ohio 45202-3315
+
+William G. Bowen         President
+                         The Andrew W. Mellon Foundation
+                         140 East 62nd Street
+                         New York, New York 10021
+
+David M. Culver          Chairman
+                         CAI Capital Corporation
+                         3429 Drummond Street
+                         Suite 200
+                         Montreal, Canada H3G 1X6
+
+
+
+
+
+
+
+
+
+
+                                       -10-
+<PAGE>
+Charles W. Duncan Jr.    Duncan Interests
+                         600 Travis
+                         Suite 6100
+                         Houston, Texas  77002-3007
+
+Harvey Golub             Chairman of the Board and Chief
+                           Executive Officer
+                         American Express Company
+
+Beverly Sills Greenough  Chairman
+                         Lincoln Center for the Performing Arts
+                         165 West 65th Street
+                         9th Floor
+                         New York, New York 10023
+
+F. Ross Johnson          Chairman and Chief Executive Officer
+                         RJM Group
+                         200 Galleria Parkway, N.W.
+                         Suite 970
+                         Atlanta, Georgia  30339
+
+Vernon E. Jordan Jr.     Senior Partner
+                         Akin, Gump, Strauss, Hauer & Feld,      
+                           L.L.P.
+                         1333 New Hampshire Avenue, N.W.
+                         Suite 400
+                         Washington, D.C.  20036
+
+Henry A. Kissinger       Chairman
+                         Kissinger Associates, Inc.
+                         350 Park Avenue
+                         26th Floor
+                         New York, New York  10022
+
+Drew Lewis               Chairman and Chief Executive Officer
+                         Union Pacific Corporation
+                         Martin Tower
+                         1170 Eighth Avenue
+                         16th Floor
+                         Bethlehem, Pennsylvania  18018
+
+Aldo Papone              Senior Advisor
+                         American Express Company
+       
+Frank P. Popoff          Chairman of the Board
+                         The Dow Chemical Company
+                         2030 Dow Center
+                         Midland, Michigan  48674
+
+
+
+
+
+
+
+
+
+                                       -11-
+<PAGE>
+  EXECUTIVE OFFICERS OF AMERICAN EXPRESS WHO ARE NOT DIRECTORS
+
+                         BUSINESS ADDRESS AND PRESENT
+NAME                     PRINCIPAL OCCUPATION        
+
+
+Anne M. Busquet          President
+                         American Express Relationship Services
+                         American Express Travel Related
+                           Services Company, Inc.
+
+Kenneth I. Chenault      Vice Chairman, American Express         
+                           Company;
+                         President, U.S.A., American Express
+                           Travel Related Services Company, Inc.
+
+George L. Farr           Vice Chairman
+                         American Express Company
+
+Steven D. Goldstein      Chairman and Chief Executive Officer
+                         American Express Bank Ltd. 
+
+John D. Hayes            Executive Vice President
+                         Global Advertising
+                         American Express Company
+
+William J. Heron, Jr.    President
+                         American Express Financial Services
+                           Direct
+                         American Express Travel Related 
+                           Services Company, Inc.
+
+David House              President
+                         Establishment Services Worldwide
+                         American Express Travel Related
+                           Services Company, Inc.
+                         
+David R. Hubers          President and Chief Executive Officer
+                         American Express Financial Corporation
+                         IDS Tower 10
+                         Minneapolis, Minnesota  55440
+
+Joseph W. Keilty         Executive Vice President
+                         Human Resources and Quality
+                         American Express Company
+
+Carl B. Lehmann, III     President
+                         Stored Value Group
+                         American Express Travel Related
+                           Services Company, Inc.
+
+
+
+
+
+
+
+                                       -12-
+<PAGE>
+Jonathan S. Linen        Vice Chairman
+                         American Express Company
+
+Allan Z. Loren           Executive Vice President and Chief
+                           Information Officer
+                         American Express Company
+
+Michael P. Monaco        Executive Vice President and Chief
+                           Financial Officer
+                         American Express Company
+
+Louise M. Parent         Executive Vice President and 
+                           General Counsel
+                         American Express Company
+
+Phillip J. Riese         President
+                         U.S. Consumer Card Services Group
+                         American Express Travel Related
+                           Services Company, Inc.
+
+Thomas O. Ryder          President, TRS International, Inc.
+                         American Express Travel Related
+                           Services Company, Inc.
+
+Thomas Schick            Executive Vice President 
+                         Corporate Affairs and Communications
+                         American Express Company
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       -13-
+<PAGE>
+                            EXHIBIT 2
+
+         INFORMATION WITH RESPECT TO EXECUTIVE OFFICERS
+                       AND DIRECTORS OF TRS             
+
+
+     The following information sets forth the name, business
+address and present principal occupation of each of the directors
+and executive officers of TRS.  The business address of each
+director and executive officer of TRS is American Express Tower,
+World Financial Center, New York, New York 10285.  Each of the
+directors and executive officers of TRS is a citizen of the
+United States.  
+
+                         BUSINESS ADDRESS AND PRESENT
+NAME                     PRINCIPAL OCCUPATION        
+
+Harvey Golub             Chairman and Chief Executive Officer
+                         American Express Travel Related   
+                           Services Company, Inc.
+
+Walter S. Berman         Executive Vice President and Chief 
+                           Financial Officer
+                         American Express Travel Related
+                           Services Company, Inc.
+
+Kenneth I. Chenault      Vice Chairman, American Express   
+                           Company;
+                         President, U.S.A., American Express
+                           Travel Related Services Company, Inc.
+
+Louise M. Parent         Executive Vice President and General
+                           Counsel
+                         American Express Company
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       -14-
+<PAGE>
+EXECUTIVE OFFICERS OF TRS WHO ARE NOT DIRECTORS
+
+
+                         BUSINESS ADDRESS AND PRESENT
+NAME                     PRINCIPAL OCCUPATION        
+
+Anne M. Busquet          President
+                         American Express Relationship Services
+                         American Express Travel Related 
+                           Services Company, Inc.
+
+William J. Heron, Jr.    President
+                         American Express Financial Services
+                           Direct
+                         American Express Travel Related
+                           Services Company, Inc.
+
+David House              President
+                         Establishment Services Worldwide
+                         American Express Travel Related
+                           Services Company, Inc.
+
+Carl B. Lehmann, III     President
+                         Stored Value Group
+                         American Express Travel Related
+                           Services Company, Inc.
+
+Phillip J. Riese         President
+                         Consumer Card Services Group
+                         American Express Travel Related
+                           Services Company, Inc.
+
+Thomas O. Ryder          President
+                         TRS International, Inc.
+                         American Express Travel Related
+                           Services Company, Inc.
+
+Bonnie J. Stedt          Executive Vice President, Human      
+                           Resources
+                         American Express Travel Related
+                           Services Company, Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       -15-
+<PAGE>
+                            EXHIBIT 3
+
+         INFORMATION WITH RESPECT TO EXECUTIVE OFFICERS
+                      AND DIRECTORS OF AEFC      
+
+
+       The following information sets forth the name, business
+address and present principal occupation of each of the directors
+and executive officers of AEFC.  Except as indicated below, the
+business address of each director and executive officer of AEFC
+is IDS Tower 10, Minneapolis, Minnesota 55440.  Each of the
+directors and executive officers of AEFC is a citizen of the
+United States.  
+
+                         BUSINESS ADDRESS AND PRESENT
+NAME                     PRINCIPAL OCCUPATION        
+                                
+
+William H. Dudley        Executive Vice President, Investment
+                           Operations
+                         American Express Financial Corporation
+
+Harvey Golub             Chairman and Chief Executive Officer
+                         American Express Company
+                         American Express Tower
+                         World Financial Center
+                         New York, New York  10285
+                         
+Peter J. Anderson        Senior Vice President, Investments
+                         American Express Financial Corporation
+
+Karl J. Breyer           Senior Vice President, Corporate
+                           Affairs and General Counsel
+                         American Express Financial Corporation
+
+James E. Choat           Senior Vice President, Field Management
+                         American Express Financial Corporation
+
+Roger S. Edgar           Senior Vice President and
+                           Technology Advisor
+                         American Express Financial Corporation
+
+Gordon L. Eid            Senior Vice President and Deputy
+                           General Counsel
+                         American Express Financial Corporation
+
+
+
+
+
+
+
+
+
+
+
+
+                                       -16-
+<PAGE>
+David R. Hubers          President and Chief Executive Officer
+                         American Express Financial Corporation
+
+Marietta L. Johns        Senior Vice President, Field Management
+                         American Express Financial Corporation
+
+Susan D. Kinder          Senior Vice President, Human Resources
+                         American Express Financial Corporation
+
+Richard W. Kling         Senior Vice President, Risk Management
+                           Products
+                         American Express Financial Corporation
+
+Steven C. Kumagai        Senior Vice President, Field Management
+                           and Business Systems
+                         American Express Financial Corporation
+
+Peter A. Lefferts        Senior Vice President, Corporate
+                           Strategy and Development
+                         American Express Financial Corporation
+
+Douglas A. Lennick       Executive Vice President, Private
+                           Client Group
+                         American Express Financial Corporation
+
+Jonathan S. Linen        Vice Chairman
+                         American Express Company
+                         American Express Tower
+                         World Financial Center
+                         New York, New York  10285
+                         
+James A. Mitchell        Executive Vice President, Marketing
+                           and Products
+                         American Express Financial Corporation
+
+Barry J. Murphy          Senior Vice President, Client Service
+                         American Express Financial Corporation
+
+Erven A. Samsel          Senior Vice President, Field Management
+                         American Express Financial Corporation
+
+John R. Thomas           Senior Vice President, Information and 
+                           Technology
+                         American Express Financial Corporation
+
+Norman Weaver Jr.        Senior Vice President, Field Management
+                         American Express Financial Corporation
+
+William N. Westhoff      Senior Vice President and Global Chief
+                           Investment Officer
+                         American Express Financial Corporation
+
+
+
+
+
+
+                                       -17-
+<PAGE>
+Michael R. Woodward      Senior Vice President, Field Management
+                         American Express Financial Corporation
+
+Melinda S. Urion         Senior Vice President, and Chief
+                           Financial Officer
+                         American Express Financial Corporation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       -18-
+<PAGE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

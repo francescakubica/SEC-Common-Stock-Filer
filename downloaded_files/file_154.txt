@@ -1,0 +1,1516 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MbIFGV0Um0r/IH1U3trgbpcwjeZl/q39K4VlLkk6co8D2WpSOXecdIj25tAOX0X0
+ xNFA9DUML+ffw5LZtCv/uQ==
+
+<SEC-DOCUMENT>0000950150-99-000954.txt : 19990812
+<SEC-HEADER>0000950150-99-000954.hdr.sgml : 19990812
+ACCESSION NUMBER:		0000950150-99-000954
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		6
+FILED AS OF DATE:		19990811
+GROUP MEMBERS:		AEW L P
+GROUP MEMBERS:		AEW PARTNERS, L.P.
+GROUP MEMBERS:		AEW, INC.
+GROUP MEMBERS:		BED PREFFERED NO.1 LIMITED PARTNERSHIP
+GROUP MEMBERS:		BED PREFFERED NO.2 LIMITED PARTNERSHIP
+GROUP MEMBERS:		EASTRICH NO. 165 CORPORATION
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BEDFORD PROPERTY INVESTORS INC/
+		CENTRAL INDEX KEY:			0000757448
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				133242887
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		
+		SEC FILE NUMBER:	005-37301
+		FILM NUMBER:		99683795
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3658 MT DIABLO BLVD
+		CITY:			LAFAYETTE
+		STATE:			CA
+		ZIP:			94549
+		BUSINESS PHONE:		5102838910
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ICM PROPERTY INVESTORS INC /DE/
+		DATE OF NAME CHANGE:	19931108
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ICM PROPERTY INVESTORS INC
+		DATE OF NAME CHANGE:	19920703
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AEW L P
+		CENTRAL INDEX KEY:			0001009014
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		225 FRANKLIN STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02110
+		BUSINESS PHONE:		6172619384
+
+	MAIL ADDRESS:	
+		STREET 1:		225 FRANKLIN STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02110
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+
+<PAGE>   1
+
+                                                     ---------------------------
+                                                            OMB APPROVAL
+                                                     ---------------------------
+                                                     OMB Number: 3235-0145
+                                                     Expires: August 31, 1999
+                                                     Estimated average burden
+                                                     hours per response...14.90
+                                                     ---------------------------
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+                                  SCHEDULE 13D
+                    Under the Securities Exchange Act of 1934
+                               (Amendment No. __)*
+
+
+                        Bedford Property Investors, Inc.
+
+                                (Name of Issuer)
+
+
+                                  Common Stock
+
+                         (Title of Class of Securities)
+
+
+                                    076446301
+
+                                 (CUSIP Number)
+
+                             James J. Finnegan, Esq.
+                     Bed Preferred No. 1 Limited Partnership
+                         225 Franklin Street, Suite 2500
+                           Boston, Massachusetts 02110
+                                 (617) 261-9000
+
+       (Name, Address and Telephone Number of Person Authorized to Receive
+                           Notices and Communications)
+
+                                  July 21, 1997
+                  --------------------------------------------
+             (Date of Event which Requires Filing of this Statement)
+
+If the person has  previously  filed a statement  on Schedule  13G to report the
+acquisition  which is the  subject  of this  Schedule  13D,  and is filing  this
+schedule because of Sections 240.13d-1(e),  240.13d-1(f) or 240.13d-1(g),  check
+the  following  box [ ].
+Note: Schedules filed in paper format shall include a signed original and five
+copies of the schedule, including all exhibits. See Section 240.13d-7 for other
+parties to whom copies are to be sent.
+
+
+
+<PAGE>   2
+
+(Continued on following pages) (Page 1 of 16 Pages)
+
+- -------------------------
+*The  remainder of this cover page shall be filled out for a reporting  person's
+initial filing on this form with respect to the subject class of securities, and
+for  any  subsequent   amendment   containing   information  which  would  alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the  Securities  Exchange  Act of
+1934 ("Act") or otherwise  subject to the liabilities of that section of the Act
+but  shall be  subject  to all other  provisions  of the Act  (however,  see the
+Notes).
+
+
+
+                                                                 SEC 1746 (2-98)
+<PAGE>   3
+
+                                  SCHEDULE 13D
+- -------------------                                           ------------------
+CUSIP NO. 076446301                                           Page 2 of 16 Pages
+- -------------------                                           ------------------
+
+
+- ----------- --------------------------------------------------------------------
+1.          NAME OF REPORTING PERSON
+            S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+            Bed Preferred No. 1 Limited Partnership
+
+- ----------- --------------------------------------------------------------------
+2.          CHECK THE APPROPRIATE BOX OF A MEMBER OF A GROUP*             (a)[X]
+                                                                          (b)[ ]
+
+- ----------- --------------------------------------------------------------------
+3.          SEC USE ONLY
+
+- ----------- --------------------------------------------------------------------
+4.          SOURCE OF FUNDS*
+            PF
+
+- ----------- --------------------------------------------------------------------
+5.          CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+            PURSUANT TO ITEMS 2(d) OR 2(e)
+
+- ----------- --------------------------------------------------------------------
+6.          CITIZENSHIP OR PLACE OF ORGANIZATION
+            Delaware
+
+- ----------- --------------------------------------------------------------------
+                               7.     SHARED VOTING POWER
+          NUMBER OF                   None
+           SHARES              ------ ------------------------------------------
+        BENEFICIALLY           8.     SOLE VOTING POWER
+          OWNED BY                    4,276,667 Shares of Common Stock
+            EACH               ------ ------------------------------------------
+          REPORTING            9.     SHARED DISPOSITIVE POWER
+           PERSON                     None
+            WITH               ------ ------------------------------------------
+                               10.    SOLE DISPOSITIVE POWER
+                                      4,276,667
+- ----------- --------------------------------------------------------------------
+11.         AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+            4,276,667
+
+- ----------- --------------------------------------------------------------------
+12.         CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN   [ ]
+            SHARES*
+
+- ----------- --------------------------------------------------------------------
+13.         PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+            19.62%
+
+- ----------- --------------------------------------------------------------------
+14.         TYPE OF REPORTING PERSON*
+            PN
+- ----------- --------------------------------------------------------------------
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+           INCLUDE BOTH SIDES OF THE COVER PAGE RESPONSES TO ITEMS 1-7
+      (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+
+<PAGE>   4
+
+                                  SCHEDULE 13D
+- -------------------                                         ------------------
+CUSIP NO. 076446301                                         Page 3 of 16 Pages
+- -------------------                                         ------------------
+
+
+- ----------- --------------------------------------------------------------------
+1.          NAME OF REPORTING PERSON
+            S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+            Bed Preferred No. 2 Limited Partnership
+
+- ----------- --------------------------------------------------------------------
+2.          CHECK THE APPROPRIATE BOX OF A MEMBER OF A GROUP*             (a)[X]
+                                                                          (b)[ ]
+
+- ----------- --------------------------------------------------------------------
+3.          SEC USE ONLY
+
+- ----------- --------------------------------------------------------------------
+4.          SOURCE OF FUNDS*
+            PF
+
+- ----------- --------------------------------------------------------------------
+5.          CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+            PURSUANT TO ITEMS 2(d) OR 2(e)
+
+- ----------- --------------------------------------------------------------------
+6.          CITIZENSHIP OR PLACE OF ORGANIZATION
+            Delaware
+
+- ----------- --------------------------------------------------------------------
+                               7.     SHARED VOTING POWER
+          NUMBER OF                   None
+           SHARES              ------ ------------------------------------------
+        BENEFICIALLY           8.     SOLE VOTING POWER
+          OWNED BY                    4,276,667 Shares of Common Stock
+            EACH               ------ ------------------------------------------
+          REPORTING            9.     SHARED DISPOSITIVE POWER
+           PERSON                     None
+            WITH               ------ ------------------------------------------
+                               10.    SOLE DISPOSITIVE POWER
+                                      4,276,667
+- ----------- --------------------------------------------------------------------
+11.         AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+            4,276,667
+
+- ----------- --------------------------------------------------------------------
+12.         CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN   [ ]
+            SHARES*
+
+- ----------- --------------------------------------------------------------------
+13.         PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+            19.62%
+
+- ----------- --------------------------------------------------------------------
+14.         TYPE OF REPORTING PERSON*
+            PN
+- ----------- --------------------------------------------------------------------
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+           INCLUDE BOTH SIDES OF THE COVER PAGE RESPONSES TO ITEMS 1-7
+      (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+
+<PAGE>   5
+
+                                  SCHEDULE 13D
+
+- -------------------                                         ------------------
+CUSIP NO. 076446301                                         Page 4 of 16 Pages
+- -------------------                                         ------------------
+
+
+- ----------- --------------------------------------------------------------------
+1.          NAME OF REPORTING PERSON
+            S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+            Eastrich No. 165 Corporation
+
+- ----------- --------------------------------------------------------------------
+2.          CHECK THE APPROPRIATE BOX OF A MEMBER OF A GROUP*             (a)[X]
+                                                                          (b)[ ]
+
+- ----------- --------------------------------------------------------------------
+3.          SEC USE ONLY
+
+- ----------- --------------------------------------------------------------------
+4.          SOURCE OF FUNDS*
+            PF
+
+- ----------- --------------------------------------------------------------------
+5.          CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+            PURSUANT TO ITEMS 2(d) OR 2(e)
+
+- ----------- --------------------------------------------------------------------
+6.          CITIZENSHIP OR PLACE OF ORGANIZATION
+            Delaware
+
+- ----------- --------------------------------------------------------------------
+                               7.     SHARED VOTING POWER
+          NUMBER OF                   None
+           SHARES              ------ ------------------------------------------
+        BENEFICIALLY           8.     SOLE VOTING POWER
+          OWNED BY                    4,276,667 Shares of Common Stock
+            EACH               ------ ------------------------------------------
+          REPORTING            9.     SHARED DISPOSITIVE POWER
+           PERSON                     None
+            WITH               ------ ------------------------------------------
+                               10.    SOLE DISPOSITIVE POWER
+                                      4,276,667 Shares of Common Stock
+- ----------- --------------------------------------------------------------------
+11.         AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+            4,276,667 Shares of Common Stock
+
+- ----------- --------------------------------------------------------------------
+12.         CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN   [ ]
+            SHARES*
+
+- ----------- --------------------------------------------------------------------
+13.         PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+            19.62%
+
+- ----------- --------------------------------------------------------------------
+14.         TYPE OF REPORTING PERSON*
+            CO
+
+- ----------- --------------------------------------------------------------------
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+           INCLUDE BOTH SIDES OF THE COVER PAGE RESPONSES TO ITEMS 1-7
+      (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+
+
+<PAGE>   6
+
+                                  SCHEDULE 13D
+
+- -------------------                                         ------------------
+CUSIP NO. 076446301                                         Page 5 of 16 Pages
+- -------------------                                         ------------------
+
+- ----------- --------------------------------------------------------------------
+1.          NAME OF REPORTING PERSON
+            S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+            AEW Partners, L.P.
+
+- ----------- --------------------------------------------------------------------
+2.          CHECK THE APPROPRIATE BOX OF A MEMBER OF A GROUP*             (a)[X]
+                                                                          (b)[ ]
+
+- ----------- --------------------------------------------------------------------
+3.          SEC USE ONLY
+
+- ----------- --------------------------------------------------------------------
+4.          SOURCE OF FUNDS*
+            PF
+
+- ----------- --------------------------------------------------------------------
+5.          CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+            PURSUANT TO ITEMS 2(d) OR 2(e)
+
+- ----------- --------------------------------------------------------------------
+6.          CITIZENSHIP OR PLACE OF ORGANIZATION
+            Delaware
+
+- ----------- --------------------------------------------------------------------
+                               7.     SHARED VOTING POWER
+                                      None
+           NUMBER OF           ------ ------------------------------------------
+            SHARES             8.     SOLE VOTING POWER
+         BENEFICIALLY                 4,276,667
+           OWNED BY            ------ ------------------------------------------
+             EACH              9.     SHARED DISPOSITIVE POWER
+           REPORTING                  None
+            PERSON             ------ ------------------------------------------
+             WITH              10.    SOLE DISPOSITIVE POWER
+                                      4,276,667
+- ----------- --------------------------------------------------------------------
+11.         AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+            4,276,667 Shares of Common Stock
+
+- ----------- --------------------------------------------------------------------
+12.         CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+            SHARES*
+
+- ----------- --------------------------------------------------------------------
+13.         PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+            19.62%
+
+- ----------- --------------------------------------------------------------------
+14.         TYPE OF REPORTING PERSON*
+            PN
+
+- ----------- --------------------------------------------------------------------
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+           INCLUDE BOTH SIDES OF THE COVER PAGE RESPONSES TO ITEMS 1-7
+      (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+
+
+<PAGE>   7
+
+                                  SCHEDULE 13D
+
+- -------------------                                         ------------------
+CUSIP NO. 076446301                                         Page 6 of 16 Pages
+- -------------------                                         ------------------
+
+
+- ----------- --------------------------------------------------------------------
+1.          NAME OF REPORTING PERSON
+            S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+            AEW/L.P.
+
+- ----------- --------------------------------------------------------------------
+2.          CHECK THE APPROPRIATE BOX OF A MEMBER OF A GROUP*            (a) [X]
+                                                                         (b) [ ]
+
+- ----------- --------------------------------------------------------------------
+3.          SEC USE ONLY
+
+- ----------- --------------------------------------------------------------------
+4.          SOURCE OF FUNDS*
+            PF
+
+- ----------- --------------------------------------------------------------------
+5.          CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+            PURSUANT TO ITEMS 2(d) OR 2(e)
+
+- ----------- --------------------------------------------------------------------
+6.          CITIZENSHIP OR PLACE OF ORGANIZATION
+            Delaware
+
+- ----------- --------------------------------------------------------------------
+                               7.     SHARED VOTING POWER
+                                      None
+          NUMBER OF            ------ ------------------------------------------
+           SHARES              8.     SOLE VOTING POWER
+        BENEFICIALLY                  4,276,667
+          OWNED BY             ------ ------------------------------------------
+            EACH               9.     SHARED DISPOSITIVE POWER
+          REPORTING                   None
+           PERSON              ------ ------------------------------------------
+            WITH               10.    SOLE DISPOSITIVE POWER
+                                      4,276,667
+- ----------- --------------------------------------------------------------------
+11.         AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+            4,276,667 Shares of Common Stock
+
+- ----------- --------------------------------------------------------------------
+12.         CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+            SHARES*
+
+- ----------- --------------------------------------------------------------------
+13.         PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+            19.62%
+
+- ----------- --------------------------------------------------------------------
+14.         TYPE OF REPORTING PERSON*
+            PN
+
+- ----------- --------------------------------------------------------------------
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+           INCLUDE BOTH SIDES OF THE COVER PAGE RESPONSES TO ITEMS 1-7
+      (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+
+
+<PAGE>   8
+
+                                  SCHEDULE 13D
+- -------------------                                         ------------------
+CUSIP NO. 076446301                                         Page 7 of 16 Pages
+- -------------------                                         ------------------
+
+
+- ----------- --------------------------------------------------------------------
+1.          NAME OF REPORTING PERSON
+            S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+            AEW, Inc.
+
+- ----------- --------------------------------------------------------------------
+2.          CHECK THE APPROPRIATE BOX OF A MEMBER OF A GROUP*             (a)[X]
+                                                                          (b)[ ]
+
+- ----------- --------------------------------------------------------------------
+3.          SEC USE ONLY
+
+- ----------- --------------------------------------------------------------------
+4.          SOURCE OF FUNDS*
+            PF
+
+- ----------- --------------------------------------------------------------------
+5.          CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+            PURSUANT TO ITEMS 2(d) OR 2(e)
+
+- ----------- --------------------------------------------------------------------
+6.          CITIZENSHIP OR PLACE OF ORGANIZATION
+            Massachusetts
+
+- ----------- --------------------------------------------------------------------
+                               7.     SHARED VOTING POWER
+          NUMBER OF                   None
+           SHARES              ------ ------------------------------------------
+        BENEFICIALLY           8.     SOLE VOTING POWER
+          OWNED BY                    4,276,667
+            EACH               ------ ------------------------------------------
+          REPORTING            9.     SHARED DISPOSITIVE POWER
+           PERSON                     None
+            WITH               ------ ------------------------------------------
+                               10.    SOLE DISPOSITIVE POWER
+                                      4,276,667 Shares of Common Stock
+- ----------- --------------------------------------------------------------------
+11.         AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+            4,276,667 Shares of Common Stock
+
+- ----------- --------------------------------------------------------------------
+12.         CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN   [ ]
+            SHARES*
+
+- ----------- --------------------------------------------------------------------
+13.         PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+            19.62%
+
+- ----------- --------------------------------------------------------------------
+14.         TYPE OF REPORTING PERSON*
+            CO
+
+- ----------- --------------------------------------------------------------------
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+           INCLUDE BOTH SIDES OF THE COVER PAGE RESPONSES TO ITEMS 1-7
+         (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+
+
+<PAGE>   9
+
+Item 1.  Security and Issuer.
+
+        The class of equity securities to which this statement relates is the
+common stock (the "Common Stock" or the "Securities") of Bedford Property
+Investors, Inc. (the "Issuer"), whose principal executive offices are located at
+270 Lafayette Circle, Lafayette, California 94549.
+
+Item 2. Identity and Background.
+
+        (a), (b), (c) and (f). Bed Preferred No. 1 Limited Partnership, a
+Delaware limited partnership ("Bed Preferred No. 1"), is the record owner of the
+Securities that are the subject of this Schedule 13D. Bed Preferred No. 1 was
+formed for the purpose of acquiring, holding, disposing of, managing, selling,
+exchanging and otherwise dealing in interests in operating companies (including
+real estate operating companies) and real estate and other assets. This
+statement is being filed by the Reporting Persons (as such term is defined
+below) relating to the Securities.
+
+        Bed Preferred No. 2 Limited Partnership, a Delaware Limited Partnership
+("Bed Preferred No. 2"), is the general partner of Bed Preferred No. 1 and was
+formed for, among other things, the purpose of acting as general partner of Bed
+Preferred No. 1. Eastrich No. 165 Corporation, a Delaware corporation ("Eastrich
+No. 165"), is the general partner of Bed Preferred No. 2 and was formed for,
+among other things, the purpose of acting as general partner of Bed Preferred
+No. 2. The stockholder of Eastrich No. 165 is AEW Partners, L.P., a Delaware
+limited partnership ("AEW Partners"), which was formed for the purpose of
+acquiring, holding, disposing of, managing, selling, exchanging and otherwise
+dealing in investments and real estate and other assets. The general partner of
+AEW Partners is AEW/L.P., a Delaware limited partnership ("AEW/LP"), which was
+formed for, among other things, acting as general partner of AEW Partners. The
+general partner of AEW/LP is AEW, Inc., a Massachusetts corporation ("AEW
+Inc."), which was formed for, among other things, acting as general partner of
+AEW/LP. Bed Preferred No. 1, Bed Preferred No. 2, Eastrich No. 165, AEW
+Partners, AEW/LP and AEW Inc. are herein referred to as the "Reporting Persons."
+
+        The principal office and principal business address of each of the
+Reporting Persons is c/o AEW Capital Management, 225 Franklin Street, Boston, MA
+02110.
+
+        AEW Inc. has no controlling shareholder. The business of AEW Inc. is
+managed by its Board of Directors. The name, residence or business address,
+principal occupation or employment and citizenship of each of the executive
+officers and directors of Eastrich No. 165 and AEW Inc. are set forth on
+Schedule A to this Schedule 13D.
+
+        (d) and (e). To the Reporting Persons' knowledge, none of the Reporting
+Persons nor any of the persons listed on Schedule A to this Schedule 13D, has,
+during the last five years, been convicted in a criminal proceeding (excluding
+traffic violations or similar misdemeanors) or been a party to a civil
+proceeding of a judicial or administrative body of competent jurisdiction and as
+a result of such proceeding was or is subject to a judgment,
+
+
+
+                                  Page 8 of 16
+<PAGE>   10
+
+decree or final order enjoining future violations of, or prohibiting or
+mandating activities subject to, federal or state securities laws or finding any
+violation with respect to such laws.
+
+Item 3. Source and Amount of Funds or Other Consideration.
+
+        On September 18, 1995, Bed Preferred No. 1 acquired 8,333,334 shares of
+the Issuer's Series A Convertible Preferred Stock (the "Series A Preferred
+Stock") for cash in the amount of $50,000,000 pursuant to that certain Series A
+Convertible Preferred Stock Purchase Agreement dated as of May 18, 1995 by and
+among the Issuer, AEW Partners, and Peter B. Bedford (the "Stock Purchase
+Agreement"). AEW Partners assigned to Bed Preferred No. 1 its rights under the
+Stock Purchase Agreement. Bed Preferred No. 1 used funds invested by its limited
+partner in order to purchase the Series A Preferred Stock.
+
+        On September 19, 1997, the Series A Preferred Stock owned of record by
+Bed Preferred No. 1 became convertible into 4,166,667 shares of the Issuer's
+Common Stock in accordance with the terms of the Preferred Stock set forth in
+the Issuer's Charter. On October 14, 1997, the Series A Preferred Stock was
+converted into 4,166,667 shares of the Issuer's Common Stock. No additional
+consideration was required or paid in connection with the conversion of the
+Series A Preferred Stock of the Issuer into Common Stock of the Issuer.
+
+Item 4. Purpose of Transaction.
+
+        The purpose of the Reporting Persons in purchasing the Series A
+Preferred Stock and converting the Series A Preferred Stock into Common Stock
+was to acquire an equity interest in the Issuer in pursuit of the investment
+objectives of Bed Preferred No. 1. Bed Preferred No. 1 holds the Securities for
+investment purposes.
+
+        The Reporting Persons intend to review continuously the equity position
+of Bed Preferred No. 1 in the Issuer. Depending upon future evaluations of the
+business prospects of the Issuer and upon other developments, including, but not
+limited to, general economic and business conditions and money market and stock
+market conditions, the Reporting Persons may determine from time to time to
+increase or decrease the equity interest of Bed Preferred No. 1 in the Issuer by
+acquiring additional shares of Common Stock, or by disposing of all or a portion
+of the shares of Common Stock.
+
+        Except as described in this Schedule 13D, none of the Reporting Persons
+has any present plan or proposal which relates to or would result in:
+
+        (a)     the acquisition of additional securities of the Issuer, or the
+                disposition of securities of the Issuer;
+
+        (b)     an extraordinary corporate transaction, such as a merger,
+                reorganization or liquidation involving the Issuer or any of its
+                subsidiaries;
+
+
+
+                                  Page 9 of 16
+<PAGE>   11
+
+        (c)     a sale or transfer of a material amount of assets of the Issuer
+                or any of its subsidiaries;
+
+        (d)     any change in the present Board of Directors or management of
+                the Issuer, including any plans or proposals to change the
+                number or term of directors or to fill any existing vacancies on
+                the board;
+
+        (e)     any material change in the present capitalization or dividend
+                policy of the Issuer;
+
+        (f)     any other material change in the Issuer's business or corporate
+                structure;
+
+        (g)     changes in the Issuer's charter, bylaws or instruments
+                corresponding thereto or other actions which may impede the
+                acquisition of control of the Issuer by any person;
+
+        (h)     a class of securities of the Issuer to be delisted from a
+                national securities exchange or to cease to be authorized to be
+                quoted in the inter-dealer quotation system of a registered
+                national securities association;
+
+        (i)     a class of equity securities of the Issuer becoming eligible for
+                termination of registration pursuant to Section 12(g)(4) of the
+                Securities Exchange Act of 1934, as amended (the "Exchange
+                Act"); or
+
+        (j)     any action similar to any of those enumerated above.
+
+Item 5. Interest in Securities of the Issuer.
+
+        (a) As of August 10, 1999, the Reporting Persons beneficially owned an
+aggregate of 4,276,667 shares of the Issuer's Common Stock. These shares include
+(i) 4,166,667 shares held directly by Bed Preferred No. 1, (ii) 55,000 shares
+that may be purchased by Thomas G. Eastman upon the exercise of options, and
+(iii) 55,000 shares that may be purchased by Thomas H. Nolan, Jr. upon the
+exercise of options (the shares that may be purchased pursuant to options held
+by Messrs. Eastman and Nolan are hereinafter referred to as the "Director Option
+Shares").
+
+        Messrs. Eastman and Nolan were initially designated by Bed Preferred No.
+1 to serve on the Board of Directors of the Issuer as the "Series A Directors"
+(see discussion in Item 6 below). Although both Mr. Eastman and Mr. Nolan
+continue to sit on the Board, neither is considered to be a designee of Bed
+Preferred No. 1 since the contractual rights of Bed Preferred No. 1 to designate
+two Board members terminated when the Series A Preferred Stock was converted
+into the Issuer's Common Stock. Each has, however, assigned to Bed Preferred No.
+1 all of his rights to purchase the Director Option Shares. Such assignments are
+discussed further in Item 6. Mr. Eastman and Mr. Nolan have each assigned to Bed
+Preferred No. 1 options to purchase an additional 10,000 shares of the Issuer's
+Common Stock, which options will not be exercisable until November 13, 1999.
+
+
+
+                                 Page 10 of 16
+<PAGE>   12
+
+        To the best knowledge of the Reporting Persons, as of August 10, 1999,
+none of the Reporting Persons, nor any officer or director of Eastrich No. 165
+Corporation or AEW Inc. beneficially owned any other shares of Common Stock of
+the Issuer with the exception of the Director Option Shares.
+
+        (b) The Reporting Persons have the sole power to direct the voting and
+disposition of the 4,166,677 shares of Common Stock held by it and the 110,000
+Director Option Shares.
+
+        (c) To the best knowledge of the Reporting Persons, none of the
+Reporting Persons nor any officer or director of Eastrich No. 165 Corporation or
+AEW Inc. has effected any transactions in the Common Stock during the past 60
+days.
+
+        (d) Not applicable.
+
+        (e) Not applicable.
+
+Item 6. Contracts, Arrangements, Understanding or Relationships With Respect
+        to Securities of the Issuer.
+
+        The Issuer is a real estate investment trust and the amount of its
+shares that can be owned by a person are limited, pursuant to the Issuer's
+Charter, to 5% of the outstanding shares of the Issuer's Capital Stock subject
+to adjustment and certain exceptions. The Board of Directors of the Issuer
+approved an exception for Bed Preferred No. 1 and has permitted Bed Preferred
+No. 1 to own (i) 58% of the lesser of the number or value of the outstanding
+shares of the Issuer's Common Stock and (ii) prior to the conversion of the
+Series A Preferred Stock into shares of the Issuer's Common stock, 100% of the
+outstanding shares of the Series A Preferred Stock, subject to certain
+adjustments. Accordingly, if Bed Preferred No. 1 desired to acquire any
+additional stock of the Issuer such that its ownership of the Issuer's Common
+Stock would exceed 58%, such entity would need to obtain the approval of the
+Issuer's Board of Directors.
+
+        The Charter of the Issuer gave Bed Preferred No. 1 as the holder of the
+Issuer's Series A Preferred Stock the right to elect two members of the Issuer's
+Board of Directors. That right terminated at the time of the conversion of the
+Series A Preferred Stock into shares of the Issuer's Common Stock.
+
+        Thomas G. Eastman and Thomas H. Nolan, Jr. were initially designated by
+Bed Preferred No. 1 to serve on the Board of Directors of the Issuer as the
+Series A Directors. Messrs. Eastman and Nolan each entered into a Bedford
+Directorship Agreement dated as of September 18, 1995 with AEW Partners. Under
+the terms of the respective Bedford Directorship Agreements, all options granted
+to Messrs. Eastman and Nolan under to Issuer's Director Stock Option Plan, and
+the securities of the Issuer underlying the options, are to be held for the
+benefit of Bed Preferred No. 1, as the assignee of AEW Partners.
+
+
+
+                                 Page 11 of 16
+<PAGE>   13
+
+Item 7. Material to be Filed as Exhibits.
+
+        (a) Exhibit A -- Series A Convertible Preferred Stock Purchase Agreement
+dated as of May 18, 1995 by and among the Issuer, Bed Preferred No. 1 and Peter
+B. Bedford.*
+
+        (b) Exhibit B -- Amendment No. 1 dated as of September 11, 1995 to the
+Series A Convertible Preferred Stock Purchase Agreement.
+
+        (c) Exhibit C -- Assignment of Series A Convertible Preferred Stock
+Purchase Agreement dated September 18, 1995.*
+
+        (d) Exhibit D -- The Charter of the Issuer.**
+
+        (e) Exhibit E -- Bedford Directorship Agreement dated as of September
+18, 1995 by AEW Partners and Thomas G. Eastman.
+
+        (f) Exhibit F -- Bedford Directorship Agreement dated as of September
+18, 1995 executed by AEW Partners and Thomas H. Nolan, Jr.
+
+        (g) Exhibit G -- Joint Filing Agreement.
+
+*Previously filed by the Issuer with the Securities and Exchange Commission on
+August 14, 1995 as Exhibit 10.15 to Form 10-Q, File No. 001--12222, and
+incorporated herein by reference.
+
+**Previously filed by the Issuer with the Securities and Exchange Commission on
+February 14, 1996 as Exhibit 4.2 to Form S-1, File No. 333-00921, and
+incorporated herein by reference.
+
+
+
+                                 Page 12 of 16
+<PAGE>   14
+
+                                    SIGNATURE
+
+        After due inquiry, to the best of our knowledge and belief, we certify
+that the information set forth in this statement is true, complete and correct.
+
+                                  BED PREFERRED NO. 1 LIMITED PARTNERSHIP,
+                                  By: BED PREFERRED NO. 2 LIMITED
+                                      PARTNERSHIP, its general partner
+
+                                      By: EASTRICH NO. 165 CORPORATION,
+                                          its general partner
+
+                                          By: /s/ JEANNE M. CALDWELL
+                                             -----------------------------
+                                             Name: Jeanne M. Caldwell
+Dated:  August 10, 1999                      Title: Treasurer
+
+                                  BED PREFERRED NO. 2 LIMITED PARTNERSHIP,
+
+                                  By: EASTRICH NO. 165 CORPORATION,
+                                      its general partner
+
+                                      By:  /s/ JEANNE M. CALDWELL
+                                         ---------------------------------
+Dated:  August 10, 1999                  Name: Jeanne M. Caldwell
+                                         Title:  Treasurer
+
+
+                                  EASTRICH NO. 165 CORPORATION
+
+
+                                  By:  /s/ JEANNE M. CALDWELL
+                                     -------------------------------------
+                                     Name: Jeanne M. Caldwell
+Dated:  August 10, 1999              Title: Treasurer
+
+                                  AEW PARTNERS, L.P.
+
+                                  By: AEW/LP its general partner
+
+                                      By: AEW, Inc., its general partner
+
+                                          By: /s/ JEANNE M. CALDWELL
+                                             ---------------------------
+Dated:  August 10, 1999                      Name: Jeanne M. Caldwell
+                                             Title: Treasurer
+
+                                                          [Signatures Continued]
+
+
+
+                                 Page 13 of 16
+<PAGE>   15
+
+[Signatures Continued]            AEW/L.P.
+
+                                  By: AEW, Inc. its general partner
+
+
+                                      By: /s/ JEANNE M. CALDWELL
+                                         ---------------------------------
+Dated:  August 10, 1999                  Name:  Jeanne M. Caldwell
+                                         Title:   Treasurer
+
+
+
+                                  AEW, INC.
+
+
+Dated:  August 10, 1999           By: /s/ JEANNE M. CALDWELL
+                                     -------------------------------------
+                                      Name: Jeanne M. Caldwell
+                                      Title: Treasurer
+
+
+
+                                 Page 14 of 16
+
+<PAGE>   16
+
+                                  EXHIBIT INDEX
+
+Exhibit A   --  Series A Convertible Preferred Stock Purchase Agreement dated as
+                of May 18, 1995 by and among the Issuer, Bed Preferred No. 1 and
+                Peter B. Bedford.*
+
+Exhibit B   --  Amendment No. 1 dated as of September 11, 1995 to the Series A
+                Convertible Preferred Stock Purchase Agreement.
+
+Exhibit C   --  Assignment of Series A Convertible Preferred Stock Purchase
+                Agreement dated September 18, 1995.
+
+Exhibit D   --  The Charter of the Issuer.**
+
+Exhibit E   --  Bedford Directorship Agreement dated as of September 18, 1995 by
+                AEW Partners and Thomas G. Eastman.
+
+Exhibit F   --  Bedford Directorship Agreement dated as of September 18, 1995
+                executed by AEW Partners and Thomas H. Nolan, Jr.
+
+Exhibit G   --  Joint Filing Agreement.
+
+
+
+
+
+
+
+
+
+
+
+*Previously filed by the Issuer with the Securities and Exchange Commission on
+August 14, 1995 as Exhibit 10.15 to Form 10-Q, File No. 001--12222, and
+incorporated herein by reference.
+
+**Previously filed by the Issuer with the Securities and Exchange Commission on
+February 14, 1996 as Exhibit 4.2 to From S-2, File No. 333-00921, and
+incorporated herein by reference.
+
+
+
+                                 Page 15 of 16
+<PAGE>   17
+
+                                   Schedule A
+
+
+        The following is a list of all persons who serve as an officer or
+director of Eastrich No. 165 Corporation ("Eastrich No. 165") or AEW, Inc. Each
+of such persons is a U.S. citizen.
+
+<TABLE>
+<CAPTION>
+Name                              Occupation                    Business Address
+- ----                              ----------                    ----------------
+<S>                               <C>                           <C>
+Joseph F. Azrack,                 Investment advisor            225 Franklin Street
+President and Director for                                      Boston, Massachusetts  02110
+Eastrich No. 165 and
+AEW, Inc.
+
+J. Grant Monahon,                 Attorney                      225 Franklin Street
+Vice President, Secretary and                                   Boston, Massachusetts  02110
+Director for Eastrich No. 165
+and AEW, Inc.
+
+Thomas H. Nolan, Jr.,             Investment Advisor            225 Franklin Street
+Vice President and Director for                                 Boston, Massachusetts  02110
+Eastrich No. 165 and AEW, Inc.
+
+Thomas G. Eastman,                Investment Advisor            31 Milk Street
+Director for AEW, Inc.                                          Boston, Massachusetts  02110
+
+Peter C. Aldrich,                 Investment Manager            31 Milk Street
+Director for AEW, Inc.                                          Boston, Massachusetts  02110
+
+James J. Finnegan,                Attorney                      225 Franklin Street
+Vice President for                                              Boston, Massachusetts 02110
+Eastrich No. 165 and AEW, Inc.
+
+Marc L. Davidson,                 Investment Advisor            225 Franklin Street
+Vice President for Eastrich No.                                 Boston, Massachusetts 02110
+165
+
+Jeanne M. Caldwell,               Accountant                    225 Franklin Street
+Treasurer for Eastrich No. 165                                  Boston, Massachusetts  02110
+and AEW, Inc.
+
+Henry G. Vickers,                 Investment Manager            225 Franklin Street
+Vice President for AEW, Inc.                                    Boston, Massachusetts  02110
+</TABLE>
+
+
+
+                                 Page 16 of 16
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.B
+<SEQUENCE>2
+<DESCRIPTION>AMENDMENT NO.1 DATED AS OF SEPTEMBER 11,1995
+<TEXT>
+
+<PAGE>   1
+
+                                   EXHIBIT B
+
+                                 AMENDMENT NO. 1
+                                       TO
+                         SERIES A CONVERTIBLE PREFERRED
+                            STOCK PURCHASE AGREEMENT
+
+
+
+        This Amendment No. 1 (the "Amendment") to the Series A Convertible
+Preferred Stock Purchase Agreement (the "Agreement") among AEW Partners, L.P.,
+Bedford Property Investors, Inc. and Peter B. Bedford, originally dated as of
+May 18, 1995, is entered into this 11th day of September, 1995.
+
+        The parties hereto wish to amend the Agreement.
+
+        The parties hereto hereby agree as follows:
+
+                                    AGREEMENT
+
+        1. The second sentence of Section 4.6 of the Agreement is hereby deleted
+in its entirety.
+
+        2. Section 6 of the Agreement is hereby amended by adding thereto, as
+Section 6.9, the following:
+
+                6.9 REIT OWNERSHIP. During the period that AEW or its Preclosing
+        Affiliate continues to own Shares representing more than 5% of the value
+        of the outstanding shares of the Company, applying the stock ownership
+        rules of Code Section 856(h) AEW or its Preclosing Affiliate shall
+        continue to be treated as a partnership and no partner of AEW or member
+        of its Preclosing Affiliate (other than AEW) will be treated as the
+        owner of more than 8.2% of the Outstanding Shares of the Company;
+        provided, however, that this percentage will be reduced in proportion to
+        the reduction in the Outstanding Shares resulting from any redemption of
+        the Shares.
+
+        3. Section 10.1 of the Agreement is hereby amended by replacing the date
+"September 15, 1995" in each place where it appears with the date "September 30,
+1995".
+
+
+
+<PAGE>   2
+
+        The parties hereto have executed this Amendment as of the date first
+written above.
+
+                                            AEW PARTNERS, L.P, a Delaware
+                                            limited partnership
+
+                                            By:  AEW/L.P., a Delaware limited
+                                                 partnership
+                                            Its: General Partner
+
+                                                 By:  AEW, INC., a Delaware
+                                                      corporation
+                                                 Its: General Partner
+
+                                                      By:/s/ Patrick J. Sullivan
+                                                         -----------------------
+                                                         Patrick J. Sullivan
+                                                           Vice President
+
+                                            BEDFORD PROPERTY INVESTORS
+
+
+                                            By:  /s/ Peter B. Bedford
+                                               ---------------------------------
+                                               Peter B. Bedford
+                                            Its: Chief Executive Officer
+
+
+
+                                       2
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.C
+<SEQUENCE>3
+<DESCRIPTION>ASSIGNMENT OF SERIES A CONVERTIBLE PREFERRED STOCK
+<TEXT>
+
+<PAGE>   1
+                                   EXHIBIT C
+
+      ASSIGNMENT OF SERIES A CONVERTIBLE PREFERRED STOCK PURCHASE AGREEMENT
+
+
+
+        This Assignment of Series A Convertible Preferred Stock Purchase
+Agreement ("Assignment") is made by and between AEW PARTNERS, L.P., a Delaware
+limited partnership ("AEW") and BED PREFERRED NO. 1 LIMITED PARTNERSHIP, a
+Delaware limited partnership ("Assignee").
+
+        Reference is made to that certain Series A Convertible Preferred Stock
+Purchase Agreement, dated as of May 18th, 1995, by and between AEW, BEDFORD
+PROPERTY INVESTORS, INC. a Maryland corporation (the "Company"), and PETER B.
+BEDFORD, as heretofore amended (as amended, the "Agreement"). All capitalized
+terms referred to herein but not otherwise defined shall have the meanings given
+to them in the Agreement.
+
+        FOR GOOD AND VALUABLE CONSIDERATION, the receipt of which is hereby
+acknowledged, AEW hereby assigns to Assignee all of AEW's right, title, interest
+and claim in and to the Agreement. Assignee hereby assumes all of AEW's
+covenants, liabilities and obligations under the Agreement.
+
+        In connection with this Assignment and as required by Section 11.4 of
+the Agreement as a condition to the release of AEW of all liabilities and
+obligations under the Agreement, Assignee does hereby make, in it's own name and
+on its own behalf, all of the representation and warranties made by AEW under
+Section 4 of the Agreement with the exception of that portion of the
+representation and warranty set forth in section 4.5(c) of the Agreement to the
+effect that the purchasing entity was not formed or capitalized for the purpose
+of investing in the Shares. Notwithstanding the foregoing, AEW hereby agrees
+that the representations made by it in Section 4.5(c) of the Agreement are true
+and correct as of the date hereof, and that the release provided for in the
+foregoing sentence shall not apply with respect to such representation.
+
+        This Assignment shall be binding on and inure to the benefit of the
+parties hereto, their respective heirs, executors, administrators,
+successors-in-interest and assigns.
+
+
+
+<PAGE>   2
+
+        This Assignment shall be deemed to be made and effective upon the
+Closing Date. Prior to such Closing Date, this Assignment shall be of no force
+or effect.
+
+DATE:   September 18, 1995
+
+AEW:                  AEW PARTNERS L.P., A DELAWARE LIMITED PARTNERSHIP
+
+                             By: AEW/L.P., a Delaware limited partnership,
+                                 its General Partner
+
+                                 By:  AEW, Inc., a Delaware corporation, its
+                                      General Partner
+
+                                      By:       /s/ Joseph F. Azrack
+                                            ------------------------------------
+                                      Name:  Joseph F. Azrack
+                                            ------------------------------------
+                                      Its:        President
+                                            ------------------------------------
+
+ASSIGNEE:             BED PREFERRED NO. 1 LIMITED PARTNERSHIP, A DELAWARE
+                      LIMITED PARTNERSHIP
+
+                             By: Bed Preferred No. 2 Limited Partnership, a
+                                 Delaware limited partnership, its General
+                                 Partner
+
+                                 By: Eastrich No. 165 Corporation, a
+                                     Delaware corporation,
+                                     its General Partner
+
+                                     By:       /s/ Joseph F. Azrack
+                                            ------------------------------------
+                                     Name:  Joseph F. Azrack
+                                            ------------------------------------
+                                     Its:        President
+                                            ------------------------------------
+
+
+
+
+                                       2
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.E
+<SEQUENCE>4
+<DESCRIPTION>BEDFORD PROPERTY AGREEMENT DATED 9/18/95
+<TEXT>
+
+<PAGE>   1
+
+                                   EXHIBIT E
+
+                         BEDFORD DIRECTORSHIP AGREEMENT
+
+        THIS BEDFORD DIRECTORSHIP AGREEMENT (the "Agreement") is made and
+entered into as of this 18th day of September, 1995 by and between Thomas G.
+Eastman (the "Director") and AEW Partners, L.P. ("AEW").
+
+                                 R E C I T A L S
+
+        a. AEW has executed a Series A Preferred Stock Purchase Agreement with
+Bedford Properties, Inc. ("Bedford") pursuant to which AEW will acquire
+8,333,334 shares of Series A Preferred Stock of Bedford.
+
+        b. In turn, the shares of Series A Preferred Stock of Bedford will allow
+AEW to appoint two directors to the Bedford Board of Directors.
+
+        c. The Director has been appointed by AEW to serve as a Director of
+Bedford and has agreed to do so, subject to the terms and conditions of this
+Agreement.
+
+        THE PARTIES AGREE AS FOLLOWS:
+
+        1. Bedford Stock Options. Pursuant to the terms of the Bedford
+Nonemployee Director Stock Option Plan, the Director will receive options to
+purchase 50,000 shares of Common Stock of Bedford (the "Options"). The parties
+agree that to the extent permitted by applicable law, the Options and the Shares
+underlying the Options (the "Shares") will be held for the benefit of AEW. Upon
+written request by AEW, the Director shall exercise the Options and transfer the
+underlying Shares to AEW. AEW shall provide the Director with all necessary
+consideration required to exercise the Options.
+
+
+
+<PAGE>   2
+
+        2. Tax Indemnification; Indemnification For Breach. AEW hereby
+indemnifies and holds Director harmless from and against any federal or state
+tax liability which Director or his legal representatives may now, or hereafter,
+be held liable for, or be claimed to be liable for, in any way relating to (i)
+Director receiving or holding the Options, (ii) Director holding the Shares
+after exercise, or (iii) Director's transfer of the Shares to AEW, including,
+without limitation, any legal or other costs incurred by Director in connection
+with any claim made by federal or state tax authorities relating to any such tax
+liability or claim of tax liability. For this purpose, a tax liability shall
+include taxes and interest and penalties related thereto. The parties recognize
+the possibility that payments made by AEW to Director hereunder may themselves
+be subject to tax and intend this indemnification to apply also to any such
+payment with the objective that Director shall receive sufficient payments from
+AEW to cover fully Director's net tax liability on all payments so received
+(after giving effect to any refunds of tax or interest), and any costs,
+including without limitation, legal costs associated with any claim of tax
+liability, and that Director shall not incur any out-of-pocket expense after
+receipt of AEW's full indemnification.
+
+        AEW hereby also indemnifies and holds Director harmless from and against
+any claims, suits, actions, judgments, damages, or other liability now or
+hereafter incurred by Director or his representatives as a result of any direct
+or indirect claim by Bedford or any representative thereof, that Director's
+holding of the Options and the Shares for the
+
+
+
+                                       2
+<PAGE>   3
+
+benefit of AEW was in breach or violation of the Stock Option Agreement under
+which the Options were provided to Director.
+
+        3. Payments.
+
+        All payments pursuant to this Agreement shall be made within 10 days of
+AEW's receipt of a written notice from Director indicating the reasonable basis
+for an indemnification payment such as a notice of deficiency or an opinion of
+counsel to the effect that income related to the Options or the Shares should be
+included in Director's tax return. In case of any "gross-up" payment as to which
+the amount of the tax liability cannot then be reasonably determined, Director
+shall receive additional indemnification at the time of the "gross-up" payment
+on the assumption that Director is subject to the highest rate of federal and
+state taxation. Any such payment shall be subject to adjustment when its amount
+is determined as by the filing of a return.
+
+        IN WITNESS WHEREOF, the parties have executed this Agreement as of the
+date first above written.
+
+                                          AEW PARTNERS, L.P.
+                                          By: AEW/L.P., its General Partner
+
+/s/ Thomas G. Eastman                         By: AEW, Inc., its General Partner
+- ----------------------------------
+Thomas G. Eastman
+Director                                         By  /s/ J. Grant Monahan
+                                                     -------------------------
+                                                  J. Grant Monahan
+                                                  Vice President
+
+
+
+                                       2
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.F
+<SEQUENCE>5
+<DESCRIPTION>BEDFORD PROPERTY AGREEMENT DATED 9/18/95
+<TEXT>
+
+<PAGE>   1
+
+                                   EXHIBIT F
+
+                         BEDFORD DIRECTORSHIP AGREEMENT
+
+
+
+        THIS BEDFORD DIRECTORSHIP AGREEMENT (the "Agreement") is made and
+entered into as of this 18th day of September, 1995 by and between Thomas H.
+Nolan (the "Director") and AEW Partners, L.P. ("AEW").
+
+                                 R E C I T A L S
+
+        a. AEW has executed a Series A Preferred Stock Purchase Agreement with
+Bedford Properties, Inc. ("Bedford") pursuant to which AEW will acquire
+8,333,334 shares of Series A Preferred Stock of Bedford.
+
+        b. In turn, the shares of Series A Preferred Stock of Bedford will allow
+AEW to appoint two directors to the Bedford Board of Directors.
+
+        c. The Director has been appointed by AEW to serve as a Director of
+Bedford and has agreed to do so, subject to the terms and conditions of this
+Agreement.
+
+        THE PARTIES AGREE AS FOLLOWS:
+
+        1. Bedford Stock Options. Pursuant to the terms of the Bedford
+Nonemployee Director Stock Option Plan, the Director will receive options to
+purchase 50,000 shares of Common Stock of Bedford (the "Options"). The parties
+agree that to the extent permitted by applicable law, the Options and the Shares
+underlying the Options (the "Shares") will be held for the benefit of AEW. Upon
+written request by AEW, the Director shall exercise the Options and transfer the
+underlying Shares to AEW.
+
+        AEW shall provide the Director with all necessary consideration required
+to exercise the Options.
+
+
+
+<PAGE>   2
+
+        2. Tax Indemnification; Indemnification For Breach. AEW hereby
+indemnifies and holds Director harmless from and against any federal or state
+tax liability which Director or his legal representatives may now, or hereafter,
+be held liable for, or be claimed to be liable for, in any way relating to (i)
+Director receiving or holding the Options, (ii) Director holding the Shares
+after exercise, or (iii) Director's transfer of the Shares to AEW, including,
+without limitation, any legal or other costs incurred by Director in connection
+with any claim made by federal or state tax authorities relating to any such tax
+liability or claim of tax liability. For this purpose, a tax liability shall
+include taxes and interest and penalties related thereto. The parties recognize
+the possibility that payments made by AEW to Director hereunder may themselves
+be subject to tax and intend this indemnification to apply also to any such
+payment with the objective that Director shall receive sufficient payments from
+AEW to cover fully Director's net tax liability on all payments so received
+(after giving effect to any refunds of tax or interest), and any costs,
+including without limitation, legal costs associated with any claim of tax
+liability, and that Director shall not incur any out-of-pocket expense after
+receipt of AEW's full indemnification.
+
+        AEW hereby also indemnifies and holds Director harmless from and against
+any claims, suits, actions, judgments, damages, or other liability now or
+hereafter incurred by Director or his representatives as a result of any direct
+or indirect claim by Bedford or any representative thereof, that Director's
+holding of the Options and the Shares for the
+
+
+                                       2
+<PAGE>   3
+
+benefit of AEW was in breach or violation of the Stock Option Agreement under
+which the Options were provided to Director.
+
+        3. Payments.
+
+        All payments pursuant to this Agreement shall be made within 10 days of
+AEW's receipt of a written notice from Director indicating the reasonable basis
+for an indemnification payment such as a notice of deficiency or an opinion of
+counsel to the effect that income related to the Options or the Shares should be
+included in Director's tax return. In case of any "gross-up" payment as to which
+the amount of the tax liability cannot then be reasonably determined, Director
+shall receive additional indemnification at the time of the "gross-up" payment
+on the assumption that Director is subject to the highest rate of federal and
+state taxation. Any such payment shall be subject to adjustment when its amount
+is determined as by the filing of a return.
+
+        IN WITNESS WHEREOF, the parties have executed this Agreement as of the
+date first above written.
+
+
+                                          AEW PARTNERS, L.P.
+                                          By: AEW/L.P., its General Partner
+
+/s/ Thomas H. Nolan                           By: AEW, Inc., its General Partner
+- ----------------------------------
+Thomas H. Nolan
+Director                                          By /s/ J. Grant Monahan
+                                                    ----------------------------
+                                                    J. Grant Monahan
+                                                    Vice President
+
+
+
+                                       3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.G
+<SEQUENCE>6
+<DESCRIPTION>JOINT FILING AGREEMENT
+<TEXT>
+
+<PAGE>   1
+
+                                    EXHIBIT G
+
+                             JOINT FILING AGREEMENT
+
+        In accordance with Rule 13d-1(f) under the Securities Exchange Act of
+1934, as amended, the undersigned agree to the joint filing on behalf of each of
+them of a statement on Schedule 13D (including amendments thereto) with respect
+to the Common Stock of Bedford Property Investors, Inc. and further agree that
+this agreement be included as an exhibit to such filing. Each party to the
+agreement expressly authorizes each other party to file on its behalf any and
+all amendments to such statement. Each party to this agreement agrees that this
+joint filing agreement may be signed in counterparts.
+
+        In evidence whereof, the undersigned have caused this Joint Filing
+Agreement to be executed on their behalf as of August 10, 1999.
+
+                                    SIGNATURE
+
+        After due inquiry, to the best of our knowledge and belief, we certify
+that the information set forth in this statement is true, complete and correct.
+
+                             BED PREFERRED NO. 1 LIMITED PARTNERSHIP,
+                             By: BED PREFERRED NO. 2 LIMITED
+                                 PARTNERSHIP, its general partner
+
+                                By: EASTRICH NO. 165 CORPORATION,
+                                    its general partner
+
+                                     By: /s/ JEANNE M. CALDWELL
+                                        ---------------------------------
+                                        Name: Jeanne M. Caldwell
+Dated:  August 10, 1999                 Title: Treasurer
+
+                             BED PREFERRED NO. 2 LIMITED PARTNERSHIP,
+
+                             By: EASTRICH NO. 165 CORPORATION,
+                                 its general partner
+
+                                     By: /s/ JEANNE M. CALDWELL
+                                        ---------------------------------
+Dated:  August 10, 1999                 Name: Jeanne M. Caldwell
+                                        Title: Treasurer
+
+                                                          [Signatures Continued]
+
+
+
+<PAGE>   2
+
+                             EASTRICH NO. 165 CORPORATION
+[Signatures Continued]
+
+                             By: /s/ JEANNE M. CALDWELL
+                                 ---------------------------------
+Dated: August 10, 1999          Name:  Jeanne M. Caldwell
+                                Title: Treasurer
+
+                             AEW PARTNERS, L.P.
+
+                             By: AEW/LP its general partner
+
+                                 By: AEW, Inc., its general partner
+
+                                     By: /s/ JEANNE M. CALDWELL
+                                       ---------------------------
+Dated:  August 10, 1999                 Name: Jeanne M. Caldwell
+                                        Title: Treasurer
+
+
+                             AEW/L.P.
+
+                             By: AEW, Inc. its general partner
+
+
+                                 By: /s/ JEANNE M. CALDWELL
+                                    ------------------------------
+Dated:  August 10, 1999             Name:  Jeanne M. Caldwell
+                                    Title:   Treasurer
+
+
+
+                             AEW, INC.
+
+
+Dated:  August 10, 1999      By: /s/ JEANNE M. CALDWELL
+                                 ---------------------------------
+                                 Name: Jeanne M. Caldwell
+                                 Title: Treasurer
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

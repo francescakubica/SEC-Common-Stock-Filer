@@ -1,0 +1,1413 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Wf24SNclU3bxbdKZMb/yR0Pt8vMpSU8XoYf5UvR0+3+dLP8D6puJm9tLDqTP2hqy
+ If+PT5j0M8zWqdp5G0yH0A==
+
+<SEC-DOCUMENT>0000912057-96-003809.txt : 19960305
+<SEC-HEADER>0000912057-96-003809.hdr.sgml : 19960305
+ACCESSION NUMBER:		0000912057-96-003809
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		19960304
+SROS:			NASD
+GROUP MEMBERS:		OAKTREE CAPITAL MANAGEMENT, LLC
+GROUP MEMBERS:		TCW GROUP INC
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRIANGLE PACIFIC CORP
+		CENTRAL INDEX KEY:			0000230602
+		STANDARD INDUSTRIAL CLASSIFICATION:	LUMBER & WOOD PRODUCTS (NO FURNITURE) [2400]
+		IRS NUMBER:				942998971
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-07633
+		FILM NUMBER:		96530889
+
+	BUSINESS ADDRESS:	
+		STREET 1:		16803 DALLAS PKWY
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75266-0100
+		BUSINESS PHONE:		2149313000
+
+	MAIL ADDRESS:	
+		STREET 1:		16803 DALLAS PKWY
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75266-0100
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TCW GROUP INC
+		CENTRAL INDEX KEY:			0000850401
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		865 SOUTH FIGUEROA ST
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90017
+
+	MAIL ADDRESS:	
+		STREET 2:		865 SOUTH FIGUEROA STREET
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>SC 13D/A
+<TEXT>
+
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C.  20549
+
+                                  SCHEDULE 13D
+
+
+                    UNDER THE SECURITIES EXCHANGE ACT OF 1934
+
+                               (AMENDMENT NO. 9 )*
+
+
+                          TRIANGLE PACIFIC CORPORATION
+- -------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+
+                    Common Stock,  par value $0.01 per share
+- -------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+
+                                   895912 10 3
+                                 ---------------
+                                  (CUSIP Number)
+
+
+ Michael E. Cahill, Esq.                  (213) 244-0000
+ Managing Director & General Counsel      865 South Figueroa Street, Suite 1800
+ The TCW Group, Inc.                      Los Angeles, California  90017
+- -------------------------------------------------------------------------------
+            (Name, Address and Telephone Number of Person Authorized
+                     to Receive Notices and Communications)
+
+
+                                February 15, 1996
+- -------------------------------------------------------------------------------
+             (Date of Event which Requires Filing of this Statement)
+
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4), check the following box /X/.
+
+Check the following box if a fee is being paid with the statement / /.  (A fee
+is not required only if the reporting person:  (1) has a previous statement on
+file reporting beneficial ownership of more than five percent of the class of
+securities described in Item 1; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of such class.)
+(See Rule 13d-7.)
+
+NOTE:  Six copies of this statement, including all exhibits, should be filed
+with the Commission.  See Rule 13d-1(a) for other parties to whom copies are to
+be sent.
+
+*The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act (however, see the
+Notes).
+
+
+
+<PAGE>
+
+
+CUSIP No. 895912 10 3            SCHEDULE 13D             Page 2   of 23  Pages
+          -----------                                         ---     ---
+
+
+- -------------------------------------------------------------------------------
+ (1) Name of Reporting Person.  S.S. or I.R.S. Identification No. of Above
+     Person
+
+     THE TCW GROUP, INC.
+- -------------------------------------------------------------------------------
+ (2) Check the Appropriate Box if a Member     (a)  / /
+     of a Group*                               (b)  /X/
+- -------------------------------------------------------------------------------
+ (3) SEC Use Only
+
+- -------------------------------------------------------------------------------
+ (4) Source of Funds*
+     Not applicable
+- -------------------------------------------------------------------------------
+ (5) Check box if Disclosure of Legal Proceedings is Required Pursuant to
+     Items 2(d) or 2(e)
+
+- -------------------------------------------------------------------------------
+ (6) Citizenship or Place of Organization
+     Nevada
+- -------------------------------------------------------------------------------
+Number of Shares              (7) Sole Voting Power
+ Beneficially Owned                1,659,099
+ by Each Reporting           --------------------------------------------------
+ Person With                  (8) Shared Voting Power
+                                   3,564,854
+                             --------------------------------------------------
+                              (9) Sole Dispositive Power
+                                   1,659,099
+                             --------------------------------------------------
+                             (10) Shared Dispositive Power
+                                   3,564,854
+- -------------------------------------------------------------------------------
+(11) Aggregate Amount Beneficially Owned by Each Reporting Person
+     5,223,953
+- -------------------------------------------------------------------------------
+(12) Check box if the Aggregate Amount in Row (11) Excludes Certain Shares*
+
+- -------------------------------------------------------------------------------
+(13) Percent of Class Represented by Amount in Row (11)
+     35.62%
+- -------------------------------------------------------------------------------
+(14) Type of Reporting Person*
+     HC, CO
+- -------------------------------------------------------------------------------
+                    *SEE INSTRUCTIONS BEFORE FILLING OUT!
+        INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+    (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+
+<PAGE>
+
+
+CUSIP No. 895912 10 3            SCHEDULE 13D             Page 3   of 23  Pages
+          -----------                                         ---     ---
+
+
+- -------------------------------------------------------------------------------
+ (1) Name of Reporting Person.  S.S. or I.R.S. Identification No. of Above
+     Person
+
+     TRUST COMPANY OF THE WEST
+- -------------------------------------------------------------------------------
+ (2) Check the Appropriate Box if a Member     (a)  / /
+     of a Group*                               (b)  /X/
+- -------------------------------------------------------------------------------
+ (3) SEC Use Only
+
+- -------------------------------------------------------------------------------
+ (4) Source of Funds*
+     Not applicable.
+- -------------------------------------------------------------------------------
+ (5) Check box if Disclosure of Legal Proceedings is Required Pursuant to
+     Items 2(d) or 2(e)
+
+- -------------------------------------------------------------------------------
+ (6) Citizenship or Place of Organization
+     California
+- -------------------------------------------------------------------------------
+Number of Shares              (7) Sole Voting Power
+ Beneficially Owned                482,532
+ by Each Reporting           --------------------------------------------------
+ Person With                  (8) Shared Voting Power
+                                   -0-
+                             --------------------------------------------------
+                              (9) Sole Dispositive Power
+                                   482,532
+                             --------------------------------------------------
+                             (10) Shared Dispositive Power
+                                   -0-
+- -------------------------------------------------------------------------------
+(11) Aggregate Amount Beneficially Owned by Each Reporting Person
+     482,532
+- -------------------------------------------------------------------------------
+(12) Check box if the Aggregate Amount in Row (11) Excludes Certain Shares*
+
+- -------------------------------------------------------------------------------
+(13) Percent of Class Represented by Amount in Row (11)
+     3.29%
+- -------------------------------------------------------------------------------
+(14) Type of Reporting Person*
+     CO
+- -------------------------------------------------------------------------------
+                    *SEE INSTRUCTIONS BEFORE FILLING OUT!
+        INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+    (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+
+
+<PAGE>
+
+CUSIP No. 895912 10 3            SCHEDULE 13D             Page 4   of 23  Pages
+          -----------                                         ---     ---
+
+
+- -------------------------------------------------------------------------------
+ (1) Name of Reporting Person.  S.S. or I.R.S. Identification No. of Above
+     Person
+
+     TCW ASSET MANAGEMENT COMPANY
+- -------------------------------------------------------------------------------
+ (2) Check the Appropriate Box if a Member     (a)  / /
+     of a Group*                               (b)  /X/
+- -------------------------------------------------------------------------------
+ (3) SEC Use Only
+
+- -------------------------------------------------------------------------------
+ (4) Source of Funds*
+     Not applicable.
+- -------------------------------------------------------------------------------
+ (5) Check box if Disclosure of Legal Proceedings is Required Pursuant to
+     Items 2(d) or 2(e)
+
+- -------------------------------------------------------------------------------
+ (6) Citizenship or Place of Organization
+     California
+- -------------------------------------------------------------------------------
+Number of Shares              (7) Sole Voting Power
+ Beneficially Owned               1,176,567
+ by Each Reporting           --------------------------------------------------
+ Person With                  (8) Shared Voting Power
+                                   3,564,854
+                             --------------------------------------------------
+                              (9) Sole Dispositive Power
+                                   1,176,567
+                             --------------------------------------------------
+                             (10) Shared Dispositive Power
+                                   3,564,854
+- -------------------------------------------------------------------------------
+(11) Aggregate Amount Beneficially Owned by Each Reporting Person
+     4,741,421
+- -------------------------------------------------------------------------------
+(12) Check box if the Aggregate Amount in Row (11) Excludes Certain Shares*
+
+- -------------------------------------------------------------------------------
+(13) Percent of Class Represented by Amount in Row (11)
+     32.33%
+- -------------------------------------------------------------------------------
+(14) Type of Reporting Person*
+     CO, IA
+- -------------------------------------------------------------------------------
+                    *SEE INSTRUCTIONS BEFORE FILLING OUT!
+        INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+    (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+
+<PAGE>
+
+CUSIP No. 895912 10 3            SCHEDULE 13D             Page 5   of 23  Pages
+          -----------                                         ---     ---
+
+
+- -------------------------------------------------------------------------------
+ (1) Name of Reporting Person.  S.S. or I.R.S. Identification No. of Above
+     Person
+
+     TCW SPECIAL CREDITS
+- -------------------------------------------------------------------------------
+ (2) Check the Appropriate Box if a Member     (a)  / /
+     of a Group*                               (b)  /X/
+- -------------------------------------------------------------------------------
+ (3) SEC Use Only
+
+- -------------------------------------------------------------------------------
+ (4) Source of Funds*
+     Not applicable.
+- -------------------------------------------------------------------------------
+ (5) Check box if Disclosure of Legal Proceedings is Required Pursuant to
+     Items 2(d) or 2(e)
+
+- -------------------------------------------------------------------------------
+ (6) Citizenship or Place of Organization
+     California
+- -------------------------------------------------------------------------------
+Number of Shares              (7) Sole Voting Power
+ Beneficially Owned                  991,743
+ by Each Reporting           --------------------------------------------------
+ Person With                  (8) Shared Voting Power
+                                   -0-
+                             --------------------------------------------------
+                              (9) Sole Dispositive Power
+                                     991,743
+                             --------------------------------------------------
+                             (10) Shared Dispositive Power
+                                   -0-
+- -------------------------------------------------------------------------------
+(11) Aggregate Amount Beneficially Owned by Each Reporting Person
+       991,743
+- -------------------------------------------------------------------------------
+(12) Check box if the Aggregate Amount in Row (11) Excludes Certain Shares*
+
+- -------------------------------------------------------------------------------
+(13) Percent of Class Represented by Amount in Row (11)
+     6.76%
+- -------------------------------------------------------------------------------
+(14) Type of Reporting Person*
+     PN, IA
+- -------------------------------------------------------------------------------
+                    *SEE INSTRUCTIONS BEFORE FILLING OUT!
+        INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+    (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+<PAGE>
+
+CUSIP No. 895912 10 3            SCHEDULE 13D             Page 6   of 23  Pages
+          -----------                                         ---     ---
+
+
+- -------------------------------------------------------------------------------
+ (1) Name of Reporting Person.  S.S. or I.R.S. Identification No. of Above
+     Person
+
+     OAKTREE CAPITAL MANAGEMENT LLC
+- -------------------------------------------------------------------------------
+ (2) Check the Appropriate Box if a Member     (a)  / /
+     of a Group*                               (b)  /X/
+- -------------------------------------------------------------------------------
+ (3) SEC Use Only
+
+- -------------------------------------------------------------------------------
+ (4) Source of Funds*
+     Not applicable
+- -------------------------------------------------------------------------------
+ (5) Check box if Disclosure of Legal Proceedings is Required Pursuant to
+     Items 2(d) or 2(e)
+
+- -------------------------------------------------------------------------------
+ (6) Citizenship or Place of Organization
+     California
+- -------------------------------------------------------------------------------
+Number of Shares              (7) Sole Voting Power
+ Beneficially Owned                203,271
+ by Each Reporting           --------------------------------------------------
+ Person With                  (8) Shared Voting Power
+                                   3,564,854
+                             --------------------------------------------------
+                              (9) Sole Dispositive Power
+                                   203,271
+                             --------------------------------------------------
+                             (10) Shared Dispositive Power
+                                   3,564,854
+- -------------------------------------------------------------------------------
+(11) Aggregate Amount Beneficially Owned by Each Reporting Person
+     3,683,613
+- -------------------------------------------------------------------------------
+(12) Check box if the Aggregate Amount in Row (11) Excludes Certain Shares*
+
+- -------------------------------------------------------------------------------
+(13) Percent of Class Represented by Amount in Row (11)
+     25.12%
+- -------------------------------------------------------------------------------
+(14) Type of Reporting Person*
+     IA
+- -------------------------------------------------------------------------------
+                    *SEE INSTRUCTIONS BEFORE FILLING OUT!
+        INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+    (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+
+<PAGE>
+
+CUSIP No. 895912 10 3            SCHEDULE 13D             Page 7   of 23  Pages
+          -----------                                         ---     ---
+
+
+- -------------------------------------------------------------------------------
+ (1) Name of Reporting Person.  S.S. or I.R.S. Identification No. of Above
+     Person
+
+     TCW SPECIAL CREDITS FUND III b
+- -------------------------------------------------------------------------------
+ (2) Check the Appropriate Box if a Member     (a)  / /
+     of a Group*                               (b)  /X/
+- -------------------------------------------------------------------------------
+ (3) SEC Use Only
+
+- -------------------------------------------------------------------------------
+ (4) Source of Funds*
+     Not applicable
+- -------------------------------------------------------------------------------
+ (5) Check box if Disclosure of Legal Proceedings is Required Pursuant to
+     Items 2(d) or 2(e)
+
+- -------------------------------------------------------------------------------
+ (6) Citizenship or Place of Organization
+     California
+- -------------------------------------------------------------------------------
+Number of Shares              (7) Sole Voting Power
+ Beneficially Owned                339,709
+ by Each Reporting           --------------------------------------------------
+ Person With                  (8) Shared Voting Power
+                                   -0-
+                             --------------------------------------------------
+                              (9) Sole Dispositive Power
+                                   339,709
+                             --------------------------------------------------
+                             (10) Shared Dispositive Power
+                                   -0-
+- -------------------------------------------------------------------------------
+(11) Aggregate Amount Beneficially Owned by Each Reporting Person
+     339,709
+- -------------------------------------------------------------------------------
+(12) Check box if the Aggregate Amount in Row (11) Excludes Certain Shares*
+
+- -------------------------------------------------------------------------------
+(13) Percent of Class Represented by Amount in Row (11)
+     2.31%
+- -------------------------------------------------------------------------------
+(14) Type of Reporting Person*
+     PN
+- -------------------------------------------------------------------------------
+                    *SEE INSTRUCTIONS BEFORE FILLING OUT!
+        INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+    (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+<PAGE>
+
+CUSIP No. 895912 10 3            SCHEDULE 13D             Page 8   of 23  Pages
+          -----------                                         ---     ---
+
+
+- -------------------------------------------------------------------------------
+ (1) Name of Reporting Person.  S.S. or I.R.S. Identification No. of Above
+     Person
+
+     TCW SPECIAL CREDITS FUND V - THE PRINCIPAL FUND
+- -------------------------------------------------------------------------------
+ (2) Check the Appropriate Box if a Member     (a)  / /
+     of a Group*                               (b)  /X/
+- -------------------------------------------------------------------------------
+ (3) SEC Use Only
+
+- -------------------------------------------------------------------------------
+ (4) Source of Funds*
+     WC
+- -------------------------------------------------------------------------------
+ (5) Check box if Disclosure of Legal Proceedings is Required Pursuant to
+     Items 2(d) or 2(e)
+
+- -------------------------------------------------------------------------------
+ (6) Citizenship or Place of Organization
+     California
+- -------------------------------------------------------------------------------
+Number of Shares              (7) Sole Voting Power
+ Beneficially Owned                -0-
+ by Each Reporting           --------------------------------------------------
+ Person With                  (8) Shared Voting Power
+                                   3,564,854
+                             --------------------------------------------------
+                              (9) Sole Dispositive Power
+                                   -0-
+                             --------------------------------------------------
+                             (10) Shared Dispositive Power
+                                   3,564,854
+- -------------------------------------------------------------------------------
+(11) Aggregate Amount Beneficially Owned by Each Reporting Person
+     3,564,854
+- -------------------------------------------------------------------------------
+(12) Check box if the Aggregate Amount in Row (11) Excludes Certain Shares*
+
+- -------------------------------------------------------------------------------
+(13) Percent of Class Represented by Amount in Row (11)
+     24.31%
+- -------------------------------------------------------------------------------
+(14) Type of Reporting Person*
+     PN
+- -------------------------------------------------------------------------------
+                    *SEE INSTRUCTIONS BEFORE FILLING OUT!
+        INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+    (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+
+<PAGE>
+
+CUSIP No. 895912 10 3            SCHEDULE 13D             Page 9   of 23  Pages
+          -----------                                         ---     ---
+
+
+- -------------------------------------------------------------------------------
+ (1) Name of Reporting Person.  S.S. or I.R.S. Identification No. of Above
+     Person
+
+     TCW SPECIAL CREDITS TRUST
+- -------------------------------------------------------------------------------
+ (2) Check the Appropriate Box if a Member     (a)  / /
+     of a Group*                               (b)  /X/
+- -------------------------------------------------------------------------------
+ (3) SEC Use Only
+
+- -------------------------------------------------------------------------------
+ (4) Source of Funds*
+     Not applicable
+- -------------------------------------------------------------------------------
+ (5) Check box if Disclosure of Legal Proceedings is Required Pursuant to
+     Items 2(d) or 2(e)
+
+- -------------------------------------------------------------------------------
+ (6) Citizenship or Place of Organization
+     California
+- -------------------------------------------------------------------------------
+Number of Shares              (7) Sole Voting Power
+ Beneficially Owned                337,717
+ by Each Reporting           --------------------------------------------------
+ Person With                  (8) Shared Voting Power
+                                   -0-
+                             --------------------------------------------------
+                              (9) Sole Dispositive Power
+                                   337,717
+                             --------------------------------------------------
+                             (10) Shared Dispositive Power
+                                   -0-
+- -------------------------------------------------------------------------------
+(11) Aggregate Amount Beneficially Owned by Each Reporting Person
+     337,717
+- -------------------------------------------------------------------------------
+(12) Check box if the Aggregate Amount in Row (11) Excludes Certain Shares*
+
+- -------------------------------------------------------------------------------
+(13) Percent of Class Represented by Amount in Row (11)
+     2.30%
+- -------------------------------------------------------------------------------
+(14) Type of Reporting Person*
+     CO
+- -------------------------------------------------------------------------------
+                    *SEE INSTRUCTIONS BEFORE FILLING OUT!
+        INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+    (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+<PAGE>
+
+CUSIP No. 895912 10 3            SCHEDULE 13D             Page 10   of 23  Pages
+          -----------                                         ---     ---
+
+
+- -------------------------------------------------------------------------------
+ (1) Name of Reporting Person.  S.S. or I.R.S. Identification No. of Above
+     Person
+
+     TCW SPECIAL CREDITS TRUST III b
+- -------------------------------------------------------------------------------
+ (2) Check the Appropriate Box if a Member     (a)  / /
+     of a Group*                               (b)  /X/
+- -------------------------------------------------------------------------------
+ (3) SEC Use Only
+
+- -------------------------------------------------------------------------------
+ (4) Source of Funds*
+     Not applicable
+- -------------------------------------------------------------------------------
+ (5) Check box if Disclosure of Legal Proceedings is Required Pursuant to
+     Items 2(d) or 2(e)
+
+- -------------------------------------------------------------------------------
+ (6) Citizenship or Place of Organization
+     California
+- -------------------------------------------------------------------------------
+Number of Shares              (7) Sole Voting Power
+ Beneficially Owned                144,815
+ by Each Reporting           --------------------------------------------------
+ Person With                  (8) Shared Voting Power
+                                   -0-
+                             --------------------------------------------------
+                              (9) Sole Dispositive Power
+                                   144,815
+                             --------------------------------------------------
+                             (10) Shared Dispositive Power
+                                   -0-
+- -------------------------------------------------------------------------------
+(11) Aggregate Amount Beneficially Owned by Each Reporting Person
+     114,815
+- -------------------------------------------------------------------------------
+(12) Check box if the Aggregate Amount in Row (11) Excludes Certain Shares*
+
+- -------------------------------------------------------------------------------
+(13) Percent of Class Represented by Amount in Row (11)
+     0.99%
+- -------------------------------------------------------------------------------
+(14) Type of Reporting Person*
+     CO
+- -------------------------------------------------------------------------------
+                    *SEE INSTRUCTIONS BEFORE FILLING OUT!
+        INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+    (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+<PAGE>
+
+ITEM 1. SECURITY AND ISSUER
+
+This Statement relates to the Common Stock, par value $0.01 per share
+("Common Stock"), of Triangle Pacific Corporation, a Delaware corporation
+(the "Issuer"). The address of the principal executive office of the Issuer
+is 16803 Dallas Parkway, Dallas, Texas 75248.
+
+ITEM 2. IDENTITY AND BACKGROUND
+
+This Statement is filed on behalf of
+
+   (1)  The TCW Group, Inc., a Nevada corporation ("TCWG");
+
+   (2)  Trust Company of the West, a California corporation and wholly-owned
+        subsidiary of TCWG ("TCW");
+
+   (3)  TCW Asset Management Company, a California corporation and wholly-owned
+        subsidiary of TCWG ("TAMCO");
+
+   (4)  TCW Special Credits, a California general partnership of which TAMCO is
+        the managing general partner ("Special Credits");
+
+   (5)  TCW Special Credits Fund IIIb ("Fund IIIb"), of which Special Credits
+        is the general partner;
+
+   (6)  TCW Special Credits Fund V - The Principal Fund, a California limited
+        partnership of which TAMCO is the general partner ("Principal Fund");
+
+   (7)  Two California collective investment trusts, TCW Special Credits Trust
+        and TCW Special Credits Trust IIIb (hereinafter referred to as the
+        "Special Credits Trusts") of which TCW is the trustee; and
+
+   (8)  Oaktree Capital Management, LLC, a California limited liability company
+        ("Oaktree"), manager of the Principal Fund pursuant to a subadvisory
+        agreement between TAMCO and Oaktree.
+
+Special Credits, Special Credits Trusts and Fund IIIb are hereinafter
+collectively referred to as the "Special Credits Entities."  TCWG, TCW,
+TAMCO, the Special Credits Entities and the Principal Fund are hereinafter
+collectively referred to as the "TCW Related Entities."  Special Credits is
+also the investment manager of third party accounts which invest in similar
+securities as the Special Credit Entities (the "Special Credits Accounts"),
+and Oaktree is also the investment manager of other third party accounts
+which hold shares of the Issuer's Common Stock (the "Oaktree Accounts").
+
+TCWG is a holding company of entities involved in the principal business of
+providing investment advice and management services.  TCW is a trust company
+which provides investment management services, including to the Special
+Credits Trusts.  TAMCO is an investment adviser and provides investment
+advice and management services to institutional and individual investors,
+including the Principal Fund.  Special Credits provides investment advice and
+management services to Fund IIIb and Special Credits Accounts.  Fund IIIb is
+an investment partnership which invests in financially distressed entities.
+The Special Credits Trusts are collective investment trusts which invest in
+financially distressed entities.  The Principal Fund is a limited partnership
+which invests in entities in which there is a potential for the Principal
+Fund to exercise significant influence over such entities.  The address of
+the principal business and principal office for the TCW Related Entities is
+865 South Figueroa Street, Suite 1800, Los Angeles, California 90017.  The
+Special Credits Entities and the Special Credits Accounts continue to be
+managed by Special Credits whose general partners include TAMCO and four of
+the Principals of Oaktree.  Pursuant to a subadvisory agreement between TAMCO
+and Oaktree Capital Management, LLC, a California limited liability company
+("Oaktree"), the Principal Fund is managed by Oaktree, whose business address
+is 550 South Hope Street, Suite 2200, Los Angeles, California 90071.  The
+principal business of Oaktree is to provide investment advice and management
+services to institutional and individual investors.
+
+
+                                   11
+
+
+<PAGE>
+
+(a)-(c) & (f)
+(i) The executive officers of TCWG are listed below.  The principal business
+address for each executive officer is 865 South Figueroa Street, Suite 1800,
+Los Angeles, California, 90017.  Each executive officer is a citizen of the
+United States of America unless otherwise specified below:
+
+Executive Officers
+- ------------------
+Robert A. Day            Chairman of the Board & Chief Executive Officer
+Ernest O. Ellison        Vice Chairman of the Board
+Marc I. Stern            President
+Alvin R. Albe, Jr.       Executive Vice President, Finance & Administration
+Thomas E. Larkin, Jr.    Executive Vice President
+Michael E. Cahill        Managing Director, General Counsel & Secretary
+David K. Sandie          Managing Director, Chief Financial Officer & Assistant
+                         Secretary
+
+Schedule I attached hereto and incorporated herein sets forth with respect to
+each director of TCWG his or her name, residence or business address,
+citizenship, present principal occupation or employment and the name,
+principal business and address of any corporation or other organization in
+which such employment is conducted.
+
+  (ii) The executive officers and directors of TCW are listed below.  The
+principal business address for each executive officer and director is 865
+South Figueroa Street, Suite 1800, Los Angeles, California  90017.  Each
+executive officer is a citizen of the United States of America unless
+otherwise specified below:
+
+Executive Officers & Directors
+- ------------------------------
+Robert A. Day            Chairman of the Board & Chief Executive Officer
+Ernest O. Ellison        Director & Vice Chairman
+Thomas E. Larkin, Jr.    Director & President
+Alvin R. Albe, Jr.       Director & Executive Vice President, Finance &
+                         Administration
+Marc I. Stern            Director, Executive Vice President, Managing Director
+                         & Chief Investment Officer - International
+Michael E. Cahill        Managing Director, General Counsel & Secretary
+David K. Sandie          Managing Director, Chief Financial Officer & Assistant
+                         Secretary
+
+  (iii) The executive officers and directors of TAMCO are listed below.  The
+principal business address for each executive officer, director and portfolio
+manager is 865 South Figueroa Street, Suite 1800, Los Angeles, California,
+90017.  Each executive officer and director is a citizen of the United States
+of America unless otherwise specified below:
+
+Executive Officers & Directors
+- ------------------------------
+Robert A. Day            Chairman of the Board & Chief Executive Officer
+Thomas E. Larkin, Jr.    Director & Vice Chairman of the Board
+Marc I. Stern            Director, Vice Chairman of the Board & Chief
+                         Investment Officer - International
+Ernest O. Ellison        Chief Investment Officer - Domestic Fixed Income
+Alvin R. Albe, Jr.       Director, Executive Vice President, Finance &
+                         Administration
+Michael E. Cahill        Managing Director, General Counsel & Secretary
+David K. Sandie          Managing Director, Chief Financial Officer & Assistant
+                         Secretary
+Hilary G.D. Lord         Senior Vice President, Chief Compliance Officer &
+                         Assistant Secretary
+
+  (iv) The following sets forth with respect to each general partner of
+Special Credits his name, residence or business address, present principal
+occupation or employment and the name, principal business and address of any
+corporation or other organization in which such employment is conducted for.
+Each general partner who is a natural person is a citizen of the United
+States of America unless otherwise specified below.
+
+                                   12
+<PAGE>
+
+TAMCO is the Managing General Partner.  See information in paragraph (iii)
+above.
+
+Bruce A. Karsh
+President and Principal
+Oaktree Capital Management, LLC
+550 South Hope Street
+Suite 2200
+Los Angeles, California 90071
+
+Howard S. Marks
+Chairman and Principal
+Oaktree Capital Management, LLC
+550 South Hope Street
+Suite 2200
+Los Angeles, California 90071
+
+Sheldon M. Stone
+Principal
+Oaktree Capital Management, LLC
+550 South Hope Street
+Suite 2200
+Los Angeles, California 90071
+
+David Richard Masson
+Principal
+Oaktree Capital Management, LLC
+550 South Hope Street
+Suite 2200
+Los Angeles, California 90071
+
+    (v)  Special Credits is the sole general partner of Fund IIIb.  See
+information in paragraph (iv) above regarding Special Credits and its general
+partners.
+
+   (vi)  TAMCO is the sole general partner of the Principal Fund.  See
+information in paragraph (iii) above regarding TAMCO and its executive
+officers and directors.
+
+  (vii)  The members and executive officers of Oaktree and the portfolio
+managers of Fund IIIb, the Special Credits Accounts and the Principal Fund
+are listed below.  The principal address for each member and executive
+officer of Oaktree and each Portfolio Manager of the Fund is 550 S. Hope
+Street, Los Angeles, California 90071.  All individuals listed below are
+citizens of the United States of America.
+
+Executive Officers and Members
+- ------------------------------
+Howard S. Marks          Chairman and Principal
+Bruce A. Karsh           President and Principal
+Sheldon M. Stone         Principal
+David Richard Masson     Principal
+Larry Keele              Principal
+David Kirchheimer        Managing Director and Chief Financial and
+                         Administrative Officer
+Kenneth Liang            Managing Director and General Counsel
+
+Portfolio Managers
+- ------------------
+Stephen A. Kaplan        Senior Managing Director
+Bruce A. Karsh           President and Principal
+
+
+                                   13
+<PAGE>
+
+(d)-(e)
+During the last five years, neither TCWG, TCW, TAMCO, the Special
+Credits Entities, the Principal Fund, Oaktree, nor, to the best of their
+knowledge, any of their respective executive officers, directors and general
+partners (i) has been convicted in a criminal proceeding (excluding traffic
+violations or similar misdemeanors); or (ii) has been a party to a civil
+proceeding of a judicial or administrative body of competent jurisdiction and
+as a result of such proceedings was or is subject to a judgment, decree or
+final order enjoining future violations of, or prohibiting or mandating
+activities subject to, federal or state securities laws or finding any
+violation with respect to such laws.
+
+ITEM 3.  SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION
+
+The Principal Fund acquired 25,068,  350,951 and 8,022 shares of the Issuer's
+Common Stock on February 13, February 15 and, February 23, respectively.
+Approximately $413,622, $5,790,691 and $131,987 respectively, from the
+working capital of the Principal Fund were used by the Principal Fund to
+acquire such shares of Common Stock.
+
+Special Credits distributed to its general partners and certain officers of
+the TCW Related Entities and of Oaktree, effective February 9, 1996, (i) a
+total of 2,961 shares of the Issuer's Common Stock that were distributed
+in-kind to Special Credits on February 9, 1996 on a pro rata basis pursuant
+to the terms of the Limited Partnership Agreement of TCW Special Credits Fund
+III ("Fund III"), and (ii) a total of 370,085 shares of the Issuer's Common
+Stock distributed in-kind to Special Credits on February 9, 1996 as an
+incentive payment for managing the assets of Fund III.  Of the total of
+373,046 shares of the Issuer's Common Stock distributed by Special Credits,
+174,937,  67,131, 41,077,  41,617 and 22,378 shares were distributed in-kind
+to TAMCO, Bruce A. Karsh, David Richard Masson, Howard S. Marks and Sheldon
+M. Stone, respectively.
+
+Special Credits distributed in-kind 84,512 shares of the Issuer's Common
+Stock to a separate account client of Special Credits, effective March 1,
+1996, in liquidation of the client's separate account.  In addition, Special
+Credits distributed to its general partners and to certain officers of the
+TCW Related Entities and of Oaktree, effective March 1, 1996, a total of
+21,128 shares of the Issuer's Common Stock distributed in-kind to Special
+Credits effective March 1, 1996 as an incentive payment for managing assets
+of a third party separate account.  Of the total of 21,128 shares distributed
+by Special Credits, 9,887, 3,802, 2,327, 2,366 and 1,267 shares were
+distributed in-kind to TAMCO, Bruce A. Karsh, David Richard Masson, Howard S.
+Marks and Sheldon M. Stone, respectively.
+
+ITEM 4. PURPOSE OF TRANSACTION
+
+The Principal Fund acquired the shares of the Issuer's Common Stock for
+investment purposes.  Based on continuing evaluation of the Issuer's business
+and prospects, alternative investment opportunities and all other factors
+deemed relevant, additional shares of the Issuer's Common Stock may be
+acquired in the open market or in privately negotiated transactions, or some
+or all of the shares of the Issuer's Common Stock may be sold.  Oaktree,
+Special Credits and the other TCW Related Entities have indicated to the
+Issuer that they may purchase more shares, but have made no formal proposals
+which relate to or would result in any of the matters described in Items 4
+(a)-(j) of Schedule 13D; however, as part of their ongoing review of
+investment alternatives, Oaktree, Special Credits and the other TCW Related
+Entities have not excluded the possibility of considering such matters in the
+future or formulating a plan with respect to such matters subject to
+applicable law, and, from time to time, Oaktree, Special Credits or such
+other TCW Related Entities may hold discussions with or make formal proposals
+to management or the Board of Directors of the Issuer, other stockholders of
+the Issuer or other third parties regarding such matters.
+
+ITEM 5. INTEREST AND SECURITIES OF THE ISSUER
+
+  (a) As of the date of this Amendment No. 9 to Schedule 13D, Fund IIIb
+beneficially owns 339,709 shares of the Issuer's Common Stock which is
+approximately 2.31% of the outstanding shares of the Issuer's Common Stock;
+Special Credits, as the general partner of Fund IIIb and the investment
+manager of the Special Credits Accounts may be deemed to beneficially own
+837,514 shares of the Issuer's Common Stock which is approximately 5.71% of
+the outstanding shares of the Issuer's Common Stock and Special Credits for
+its own account beneficially owns 154,229 shares of the Issuer's Common Stock
+(the "Special Credits Shares") which is approximately 1.05% of the
+outstanding shares of the Issuer's Common Stock.
+
+As of the date of this Amendment No. 9 to Schedule 13D, TCW Special Credits
+Trust beneficially owns 337,717 shares of the Issuer's Common Stock which is
+approximately 2.30% of the outstanding shares of the Issuer's Common Stock;
+and TCW Special Credit Trust IIIb beneficially owns 144,815 shares of the
+Issuer's Common Stock which is approximately 0.99% of the outstanding shares
+of the Issuer's Common Stock.  TCW, as the trustee of the Special Credits
+Trusts may be deemed to beneficially own 482,532 shares of the Issuer's
+Common Stock which is approximately 3.29% of the outstanding shares of the
+Issuer's Common Stock.
+
+As of the date of this Amendment No. 9 to Schedule 13D, the Principal Fund
+beneficially owns 3,564,854 shares of the Issuer's Common Stock, which is
+approximately 24.31% of the outstanding shares of the Issuer's Common Stock.
+
+
+                                   14
+<PAGE>
+
+TAMCO, as the managing partner of Special Credits and the general partner of
+the Principal Fund may be deemed to beneficially own shares of the Issuer's
+Common Stock held by the Special Credit Entities, Special Credit Accounts,
+and the Principal Fund, all of which constitutes 4,741,421  shares or
+approximately 32.33% of the outstanding shares of the Issuer's Common Stock.
+
+TCWG, as the parent corporation of TCW and TAMCO, may be deemed to
+beneficially own shares of the Issuer's Common Stock deemed to be owned by
+the other TCW Related Entities, all of which constitutes 5,223,953 shares of
+the Issuer's Common Stock (approximately 35.62% of the outstanding shares of
+the Issuer's Common Stock).  TCWG, TCW, TAMCO and Special Credits (except for
+the 154,229 Special Credits Shares beneficially owned by Special Credits for
+its own account) each disclaims beneficial ownership of the shares of the
+Issuer's Common Stock reported herein and the filing of this Statement shall
+not be construed as an admission that any such person or entity is the
+beneficial owner of any securities covered by this Statement.
+
+Oaktree, pursuant to the subadvisory agreement with TAMCO, may be deemed to
+beneficially own shares of the Issuer's Common Stock held by the Principal
+Fund, all of which constitutes 3,564,854 shares or approximately 24.31% of
+the outstanding shares of the Issuer's Common Stock.  Bruce A. Karsh, David
+Richard Masson, Howard S. Marks and Sheldon M. Stone individually own
+124,356, 75,997, 61,894 and 41,401 shares of the Issuer's Common Stock,
+respectively.  Oaktree and each of the foregoing individuals disclaims
+ownership of the shares of the Issuer's Common Stock reported herein (except
+for the shares owned directly by such individuals) and the filing of this
+Statement shall not be construed as an admission that any such person or
+entity is the beneficial owner of any securities covered by this statement.
+
+  (b)  Special Credits, as the sole general partner of Fund IIIb, has
+discretionary authority and control over all of the assets of Fund IIIb
+pursuant to the limited partnership agreement for such limited partnership
+including the power to vote and dispose of the Issuer's Common Stock held by
+Fund IIIb.  In addition, Special Credits, as the investment manager of the
+Special Credits Accounts has the discretionary authority and control over all
+of the assets of such accounts pursuant to the investment management
+agreement relating to such accounts including the power to vote and dispose
+of 497,805 shares of the Issuer's Common Stock held in the name of the
+Special Credits Accounts.  In addition, Special Credits has the sole
+authority to vote and dispose of the 154,229 Special Credit Shares
+beneficially owned by Special Credits for its own account.  Therefore,
+Special Credits has the power to vote and dispose of 991,743 shares of the
+Issuer's Common Stock.
+
+TAMCO, as the managing general partner of Special Credits also has the power
+to vote and dispose  the shares of Issuer's Common Stock held by Special
+Credits referenced above. In addition, TAMCO, as general partner of the
+Principal Fund has discretionary authority and control over all of the assets
+of the Principal Fund pursuant to the limited partnership agreement for such
+limited partnership. Therefore, TAMCO has the power to vote and dispose of
+4,741,421 shares of the Issuer's Common Stock.
+
+TCW, as the trustee of the Special Credits Trusts, has discretionary
+authority and control over all the assets of the Special Credits Trusts
+pursuant to the trust agreement for such trust including the power to vote
+and dispose of the Issuer's Common Stock held by the Special Credits Trusts.
+Therefore, TCW has the power to vote and dispose of 482,532 shares of the
+Issuer's Common Stock.
+
+TCWG, as the parent of TCW and TAMCO, may be deemed to have the power to vote
+and dispose of the shares of the Issuer's Common Stock that the other TCW
+Related Entities have power to vote and dispose, all of which constitutes
+5,223,953 shares of the Issuer's Common Stock.
+
+Oaktree, as the fund manager of the Principal Fund pursuant to the
+subadvisory agreement between TAMCO and Oaktree, may be deemed to have the
+power to vote and dispose of certain of the shares of the Issuer's Common
+Stock that the Principal Fund has power to vote and dispose.  In addition,
+Oaktree, as the investment manager of the Oaktree Accounts, has the
+discretionary authority and control over all of the assets of the Oaktree
+Accounts  pursuant to the investment management agreements relating to such
+accounts, including the power to vote and to dispose of 203,271 shares of the
+Issuer's Common Stock held in the name of the Oaktree Accounts.  Therefore,
+Oaktree has the power to vote and dispose of 3,683,613 shares of the Issuer's
+Common Stock.
+
+  (c) Except for the transactions by the Principal Fund, Special Credits and
+TAMCO described herein, neither Oaktree nor any of the TCW Related Entities,
+and to the best of their knowledge, none of their respective executive
+officers, directors or general partners has effected transactions involving
+the Issuer's Common Stock during the period since the filing of Amendment No.
+8 to Schedule 13D filed on behalf of the TCW Related Entities and Oaktree.
+
+  (d) None
+
+
+                                   15
+
+<PAGE>
+
+  (e) Not applicable
+
+ITEM 6.     CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH
+            RESPECT TO SECURITIES OF THE ISSUER
+
+Special Credits, as general partner of Fund IIIb, receives a fee for managing
+all the assets of Fund IIIb.  In addition, Special Credits, as investment
+manager of the Special Credits Accounts, receives a management fee for
+managing the assets of each Special Credits Account.  Fund IIIb and the
+Special Credits Accounts have similar investment strategies of investing in
+financially distressed entities; however, the implementation of these
+strategies may differ from partnership to partnership and account to account.
+Certain of the Oaktree Accounts have similar investment strategies of
+investing in financially distressed entities, while one of the Oaktree
+Accounts has an investment strategy of investing in high-yield debt
+instruments but also contributed shares of the Issuer's Common Stock to the
+account at the inception of its management by Oaktree.
+
+TAMCO, as general partner of the Principal Fund, receives a management fee
+for its management of the Principal Fund.  Pursuant to a subadvisory
+agreement between TAMCO and Oaktree, the Principal Fund is managed by
+Oaktree, who receives a portion of the management fee received by TAMCO.  The
+Principal Fund's investment strategy is to invest in entities in which there
+is a potential for the Principal Fund to exercise significant influence over
+management.  In addition, Oaktree, as investment manager of the Oaktree
+Accounts, receives management fees or incentive fees for managing the assets
+of each Oaktree Account.
+
+TCW, as trustee of Special Credits Trusts, receives a management fee for
+managing all the assets of Special Credits Trusts.  The Special Credits
+Trusts each have an investment strategy similar to Fund IIIb and Special
+Credits Accounts in investing in financially distressed entities.  However,
+the implementation of this strategy may differ from entity to entity and
+account to account.
+
+Except to the extent the securities referred to in this Statement constitute
+assets of the Special Credits Entities and Special Credits Accounts, and the
+Principal Fund, there are no contracts, understandings or relationships
+(legal or otherwise) among or between any member of the TCW Related Entities
+or, to the best of their knowledge, their respective executive officers,
+directors or general partners or between or among any of such persons and
+with respect to any securities of the Issuer.
+
+ITEM 7. MATERIAL TO BE FILED AS EXHIBITS
+
+The following are filed herewith as Exhibits to this Schedule 13D:
+
+Exhibit 1.1-   Agreement of TCW Related Entities regarding a joint Schedule 13D
+               (and such amendments as may become necessary) with respect to the
+               Common Stock of Triangle Pacific Corporation dated as of July 19,
+               1995.
+
+                                   16
+<PAGE>
+
+                                    SIGNATURE
+
+After reasonable inquiry and to the best of its or his knowledge and belief,
+the undersigned certify that the information set forth in this Statement is
+true, complete and correct.
+
+Dated as of the 1st day of  March, 1996.
+
+THE TCW GROUP, INC.
+
+
+_______________________________________
+Michael E. Cahill
+Managing Director and General Counsel
+
+TRUST COMPANY OF THE WEST
+
+
+_______________________________________
+Kenneth Liang, Authorized Signatory
+
+TCW ASSET MANAGEMENT COMPANY
+
+
+_______________________________________
+Kenneth Liang, Authorized Signatory
+
+TCW SPECIAL CREDITS
+
+
+________________________________________
+Kenneth Liang, Authorized Signatory of
+TCW Asset Management Company, the
+Managing General Partner of TCW
+Special Credits
+
+TCW SPECIAL CREDITS FUND IIIb
+
+
+_________________________________________
+Kenneth Liang, Authorized Signatory of
+TCW Asset Management Company,
+the Managing General Partner of TCW
+Special Credits, the General
+Partner of TCW Special Credits Fund IIIb
+
+TCW SPECIAL CREDITS FUND V - THE PRINCIPAL FUND
+
+
+_________________________________________
+Kenneth Liang, Authorized Signatory of
+TCW Asset Management Company, the
+Managing General Partner of TCW Special
+Credits Fund V - The Principal Fund
+
+                                   17
+<PAGE>
+
+TCW SPECIAL CREDITS TRUST
+
+
+_________________________________________
+Kenneth Liang, Authorized Signatory of
+Trust Company of the West, the trustee
+of TCW Special Credits Trust
+
+TCW SPECIAL CREDITS TRUST IIIb
+
+
+_________________________________________
+Kenneth Liang, Authorized Signatory of
+Trust Company of the West, the trustee
+of TCW Special Credits Trust IIIb
+
+OAKTREE CAPITAL MANAGEMENT, LLC
+
+
+_________________________________________
+Kenneth Liang, Managing Director and
+General Counsel
+
+                                   18
+<PAGE>
+                                   SCHEDULE I
+                               BOARD OF DIRECTORS
+                                       OF
+                                 TCW GROUP, INC.
+
+
+All of the following individuals are directors of TCW Group, Inc.  Each director
+is a citizen of the United States of America unless otherwise specified below:
+
+HOWARD P. ALLEN                                  HAROLD R. FRANK
+Former Chairman & CEO                            Chairman of the Board
+Southern California Edison                       Applied Magnetics Corporation
+2244 Walnut Grove Blvd.                          75 Robin Hill Rd.
+Rosemead, CA  91770                              Goleta, CA  93017
+
+JOHN M. BRYAN                                    CARLA A. HILLS
+Partner                                          1200 19th Street, N.W.
+Bryan & Edwards                                  5th Floor
+600 Montgomery St., 35th Floor                   Washington, DC  20036
+San Francisco,  CA 94111
+
+ROBERT A. DAY                                    DR. HENRY A. KISSINGER
+Chairman of the Board,                           Chairman
+Chairman and Chief Executive Officer             Kissinger Associates, Inc.
+Trust Company of the West                        350 Park Ave., 26th Floor
+200 Park Avenue, Suite 2200                      New York, NY  10022
+New York, New York  10166
+
+DAMON P. DE LASZLO, ESQ.                         KENNETH L. LAY
+Managing Director of Harwin                      Enron Corp.
+Engineers S.A., Chairman & D.P.                  1400 Smith Street
+Advisers Holdings Limited                        Houston, TX  77002-7369
+Byron's Chambers
+A2 Albany, Piccadilly                            MICHAEL T. MASIN, ESQ.
+London W1V 9RD - England                         Vice Chairman
+(Citizen of United Kingdom)                      GTE Corporation
+                                                 One Stamford Forum
+                                                 Stamford, CT  06904
+
+WILLIAM C. EDWARDS                               EDFRED L. SHANNON, JR.
+Partner - Bryan & Edwards                        Investor/Rancher
+3000 Sand Hill Road, Suite 190                   1000 S. Fremont Ave.
+Menlo Park, CA  94025                            Alhambra, CA  91802
+
+ERNEST O. ELLISON                                ROBERT G. SIMS
+Vice Chairman                                    Private Investor
+Trust Company of the West                        11828 Rancho Bernardo, Box 1236
+865 South Figueroa St., Suite 1800               San Diego, CA  92128
+Los Angeles, California 90017
+
+                                   19
+
+<PAGE>
+                                  EXHIBIT INDEX
+
+
+                                                                    Sequential
+Exhibit                                                                Page
+Number                             Description                        Number
+- -------                            -----------                      ----------
+1.1        Agreement of TCW Related Entities regarding a joint
+           Schedule 13D (and such amendments as may become
+           necessary) with respect to the Common Stock of
+           Triangle Pacific Corporation dated as of July 19, 1995.
+
+
+                                   20
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 99.1.1
+<TEXT>
+
+<PAGE>
+                                   EXHIBIT 1
+
+                                   AGREEMENT
+
+     WHEREAS, The TCW Group, Inc. ("TCWG"), Trust Company of the West
+("TCW"), TCW Asset Management Company ("TAMCO"), TCW Special Credits
+("Special Credits"), and TCW Special Credits Fund III and TCW Special Credits
+Fund IIIb (collectively, the "Special Credits Limited Partnerships"), and TCW
+Special Credits Fund V - The Principal Fund ("The Principal Fund"), and TCW
+Special Credits Trust and TCW Special Credits Trust IIIb (collectively,
+Special Credits Trusts"), and Oaktree Capital Management, LLC ("Oaktree"),
+individually or collectively, may be deemed to be a beneficial owner within
+the meaning of the Securities Exchange Act of 1934, as amended (the "Exchange
+Act"), for purposes of Section 13(d) of the Exchange Act of the Common Stock,
+$0.01 par value per share, of Triangle Pacific Corporation, a Delaware
+corporation; and
+
+     WHEREAS, TCWG, TCW, TAMCO, Special Credits, Special Credits Limited
+Partnerships, Special Credits Trusts, The Principal Fund, and Oaktree each
+desires to satisfy any filing obligation each may have under Section 13(d) of
+the Exchange Act by filing a single Schedule 13D pursuant to such Section
+with respect to each class of securities.
+
+     NOW THEREFORE, TCWG, TCW, TAMCO, Special Credits, Special Credits
+Limited Partnerships, Special Credits Trusts, The Principal Fund, and Oaktree
+agree to file a Schedule 13D under the Exchange Act relating to the Common
+Stock of Triangle Pacific Corporation and agree further to file any such
+amendments thereto as may become necessary unless and until such time as one
+of the parties shall give written notice to the other parties of this
+Agreement that it wishes to file a separate Schedule 13D relating to the
+Common Stock of Triangle Pacific, provided that each person on whose behalf
+the Schedule 13D or any amendment is filed is responsible for the timely
+filing of such Schedule 13D and any amendments thereto necessitated by the
+actions or intentions of such person and for the completeness and accuracy of
+the information pertaining to it and its actions and intentions.
+
+     The Agreement may be executed in two or more counterparts, each of which
+shall constitute but one instrument.
+
+
+                                   21
+<PAGE>
+
+Dated as of 19th day of July, 1995.
+
+THE TCW GROUP, INC.
+
+
+_______________________________________
+Michael E. Cahill
+Managing Director and General Counsel
+
+TRUST COMPANY OF THE WEST
+
+
+_______________________________________
+Kenneth Liang, Authorized Signatory
+
+
+TCW ASSET MANAGEMENT COMPANY
+
+
+_______________________________________
+Kenneth Liang, Authorized Signatory
+
+TCW SPECIAL CREDITS
+
+
+________________________________________
+Kenneth Liang, Authorized Signatory of
+TCW Asset Management Company,
+the Managing General Partner of
+TCW Special Credits
+
+TCW SPECIAL CREDITS FUND III
+
+
+_________________________________________
+Kenneth Liang, Authorized Signatory of
+TCW Asset Management Company,
+the Managing General Partner of
+TCW Special Credits, the General
+Partner of TCW Special Credits Fund III
+
+
+TCW SPECIAL CREDITS FUND IIIb
+
+
+_________________________________________
+Kenneth Liang, Authorized Signatory of
+TCW Asset Management Company,
+the Managing General Partner of
+TCW Special Credits, the General
+Partner of TCW Special Credits Fund IIIb
+
+
+                                   22
+<PAGE>
+
+TCW SPECIAL CREDITS FUND V - THE PRINCIPAL FUND
+
+
+_________________________________________
+Kenneth Liang, Authorized Signatory of
+TCW Asset Management Company, the
+General Partner of TCW Special Credits
+Fund V - The Principal Fund
+
+TCW SPECIAL CREDITS TRUST
+
+
+_________________________________________
+Kenneth Liang, Authorized Signatory of
+Trust Company of the West, the trustee of
+TCW Special Credits Trust
+
+TCW SPECIAL CREDITS TRUST IIIb
+
+
+_________________________________________
+Kenneth Liang, Authorized Signatory of
+Trust Company of the West, the trustee of
+TCW Special Credits Trust IIIb
+
+OAKTREE CAPITAL MANAGEMENT, LLC
+
+
+_________________________________________
+Kenneth Liang, Managing Director and
+General Counsel
+
+
+                                   23
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

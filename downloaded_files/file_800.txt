@@ -1,0 +1,1304 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QiDJpg/vAeX8hfr+15Noc4rFK46+EMe0b2OVkgN0CBPef1NR1T3rNu2p5Bq7TfQk
+ 9w/q3iApAi87UtPHqjb34Q==
+
+<SEC-DOCUMENT>0000807249-98-000050.txt : 19980205
+<SEC-HEADER>0000807249-98-000050.hdr.sgml : 19980205
+ACCESSION NUMBER:		0000807249-98-000050
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		19980204
+SROS:			NYSE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STANDARD MOTOR PRODUCTS INC
+		CENTRAL INDEX KEY:			0000093389
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES [3690]
+		IRS NUMBER:				111362020
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		
+		SEC FILE NUMBER:	005-31214
+		FILM NUMBER:		98521368
+
+	BUSINESS ADDRESS:	
+		STREET 1:		37 18 NORTHERN BLVD
+		CITY:			LONG ISLAND CITY
+		STATE:			NY
+		ZIP:			11101
+		BUSINESS PHONE:		7183920200
+
+	MAIL ADDRESS:	
+		STREET 1:		3718 NORTHERN BLVD
+		CITY:			LONG ISLAND CITY
+		STATE:			NY
+		ZIP:			11101
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GABELLI FUNDS INC ET AL
+		CENTRAL INDEX KEY:			0000807249
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				133056041
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE CORPORATE CENTER
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580-1434
+		BUSINESS PHONE:		9149215128
+
+	MAIL ADDRESS:	
+		STREET 1:		GABELLI FUNDS
+		STREET 2:		ONE CORPORATE CENTER
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>AMENDMENT TO SCHEDULE 13D
+<TEXT>
+
+
+
+               SECURITIES AND EXCHANGE COMMISSION
+                     Washington, D.C.  20549
+                                
+                                                
+                          SCHEDULE 13D
+                                
+     Under the Securities Exchange Act of 1934 (Amendment No. 3) 
+                                 
+                  Standard Motor Products, Inc.          
+                        (Name of Issuer)
+                                
+                        
+             Common Stock Par Value $2.00 Per Share     
+                 (Title of Class of Securities) 
+                                
+                                                
+                           853666105                  
+                         (CUSIP Number)
+                                                
+                                                
+                                                
+                James E. McKee, Gabelli Funds, Inc.
+     One Corporate Center, Rye, NY 10580-1434 (914) 921-5294
+    (Name, Address and Telephone Number of Person Authorized
+             to Receive Notices and Communications)
+                                
+                                                
+                          February 2, 1997                   
+     (Date of Event Which Requires Filing of this Statement)
+                                
+
+If the filing person has previously filed a statement on Schedule
+13G to report the acquisition which is the subject of this 
+Schedule 13D, and is filing this schedule because of Rule 
+13d-1(b)(3) or (4), check the following box:                      
+                                                        ____     
+                                                       /___/ 
+
+<PAGE>
+_________________________________________________________________
+
+CUSIP No. 853666105                                        13D
+_________________________________________________________________
+(1)  NAMES OF REPORTING PERSONS 
+      I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+      Gabelli Funds, Inc.            I.D. No. 13-3056041
+_________________________________________________________________
+(2)  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP:
+                                                       ____
+                                                  (a) /___/
+                                                       ____
+                                                  (b) /___/
+_________________________________________________________________
+(3)  SEC USE ONLY
+_________________________________________________________________
+(4)  SOURCE OF FUNDS*
+      OO-Funds of investment company clients
+_________________________________________________________________
+(5)  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS
+     REQUIRED PURSUANT TO ITEMS 2(d) or 2(e)          _____
+                                                     /    /
+_________________________________________________________________
+(6)  CITIZENSHIP OR PLACE OF ORGANIZATION
+      New York
+_________________________________________________________________ 
+                                        : (7) SOLE VOTING POWER
+                                        :     395,000 (Item 5)
+                                        :________________________
+                                        : (8) SHARED VOTING POWER
+ NUMBER OF SHARES BENEFICIALLY          :     None  (Item 5) 
+ OWNED BY EACH REPORTING                :________________________
+ PERSON WITH                            : (9) SOLE DISPOSITIVE 
+                                        :     POWER
+                                        :     395,000 (Item 5)
+                                        :________________________
+                                        :(10) SHARED DISPOSITIVE 
+                                        :     POWER
+                                        :     None  (Item 5)  
+_________________________________________________________________
+(11) AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+      395,000 (Item 5)
+_________________________________________________________________
+(12) CHECK BOX IF THE AGGREGATE AMOUNT IN ROW 11
+     EXCLUDES CERTAIN SHARES*                         _____
+                                                     /  x /
+_________________________________________________________________
+(13) PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 11
+      3.01%
+_________________________________________________________________
+(14) TYPE OF REPORTING PERSON*
+      HC, IA, CO
+_________________________________________________________________
+              *SEE INSTRUCTIONS BEFORE FILLING OUT!  <PAGE>
+________________________________________________________________
+
+CUSIP No. 853666105                                        13D
+_________________________________________________________________
+(1)  NAMES OF REPORTING PERSONS 
+     I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+      GAMCO Investors, Inc.              I.D. No. 13-2951242
+_________________________________________________________________
+(2)  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP:
+                                                       ____
+                                                  (a) /___/
+                                                       ____
+                                                  (b) /___/
+_________________________________________________________________
+(3)  SEC USE ONLY
+_________________________________________________________________
+(4)  SOURCE OF FUNDS*
+      OO-Funds of investment advisory clients
+_________________________________________________________________
+(5)  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS
+     REQUIRED PURSUANT TO ITEMS 2(d) or 2(e)          _____
+                                                     /  x /
+_________________________________________________________________
+(6)  CITIZENSHIP OR PLACE OF ORGANIZATION
+      New York
+_________________________________________________________________ 
+                                        : (7) SOLE VOTING POWER
+                                        :     816,700 (Item 5)
+                                        :________________________
+                                        : (8) SHARED VOTING POWER
+ NUMBER OF SHARES BENEFICIALLY          :     None 
+ OWNED BY EACH REPORTING                :________________________ 
+ PERSON WITH                            : (9) SOLE DISPOSITIVE 
+                                        :     POWER
+                                        :     836,700 (Item 5)
+                                        :________________________ 
+                                        :(10) SHARED DISPOSITIVE 
+                                        :     POWER
+                                        :     None  
+_________________________________________________________________
+(11) AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+      836,700 (Item 5)
+_________________________________________________________________
+
+(12) CHECK BOX IF THE AGGREGATE AMOUNT IN ROW 11
+     EXCLUDES CERTAIN SHARES*                         ____
+                                                     /___/
+_________________________________________________________________
+(13) PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 11
+      6.37%
+_________________________________________________________________
+(14) TYPE OF REPORTING PERSON*
+      IA, CO
+_________________________________________________________________
+              *SEE INSTRUCTIONS BEFORE FILLING OUT!   <PAGE>
+________________________________________________________________
+
+CUSIP No. 853666105                                        13D
+_________________________________________________________________
+(1)  NAMES OF REPORTING PERSONS 
+     I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+      Gabelli Performance Partnership L.P.   I.D. No. 13-3396569
+_________________________________________________________________
+(2)  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP:
+                                                       ____
+                                                  (a) /___/
+                                                       ____
+                                                  (b) /___/
+_________________________________________________________________
+(3)  SEC USE ONLY
+_________________________________________________________________
+(4)  SOURCE OF FUNDS*
+     WC     
+_________________________________________________________________
+(5)  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS
+     REQUIRED PURSUANT TO ITEMS 2(d) or 2(e)          ____
+                                                     /___/
+_________________________________________________________________
+(6)  CITIZENSHIP OR PLACE OF ORGANIZATION
+      New York 
+_________________________________________________________________ 
+                                        : (7) SOLE VOTING POWER
+                                        :     24,000 (Item 5)
+                                        :________________________
+                                        : (8) SHARED VOTING POWER
+ NUMBER OF SHARES BENEFICIALLY          :     None  
+ OWNED BY EACH REPORTING                :________________________ 
+ PERSON WITH                            : (9) SOLE DISPOSITIVE 
+                                        :     POWER
+                                        :     24,000 (Item 5)
+                                        :________________________ 
+                                        :(10) SHARED DISPOSITIVE 
+                                        :     POWER
+                                        :     None  
+_________________________________________________________________
+(11) AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+      24,000 (Item 5)
+_________________________________________________________________
+(12) CHECK BOX IF THE AGGREGATE AMOUNT IN ROW 11
+     EXCLUDES CERTAIN SHARES*                         ____
+                                                     /___/
+_________________________________________________________________
+(13) PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 11
+      0.18%
+_________________________________________________________________
+(14) TYPE OF REPORTING PERSON*
+      PN
+_________________________________________________________________
+
+              *SEE INSTRUCTIONS BEFORE FILLING OUT!<PAGE>
+_________________________________________________________________
+
+CUSIP No. 853666105                                        13D
+_________________________________________________________________
+(1)  NAMES OF REPORTING PERSONS 
+     I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+     Mario J. Gabelli                  
+_________________________________________________________________ 
+(2)  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP:
+                                                       ____
+                                                  (a) /___/
+                                                       ____
+                                                  (b) /___/
+_________________________________________________________________
+(3)  SEC USE ONLY
+_________________________________________________________________
+(4)  SOURCE OF FUNDS*
+      None 
+_________________________________________________________________
+(5)  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS
+     REQUIRED PURSUANT TO ITEMS 2(d) or 2(e)          ____
+                                                     /    /
+_________________________________________________________________
+(6)  CITIZENSHIP OR PLACE OF ORGANIZATION
+      USA 
+_________________________________________________________________ 
+                                        : (7) SOLE VOTING POWER
+                                        :     None   (Item 5)
+                                        :________________________
+                                        : (8) SHARED VOTING POWER
+ NUMBER OF SHARES BENEFICIALLY          :     None  
+ OWNED BY EACH REPORTING                :________________________ 
+ PERSON WITH                            : (9) SOLE DISPOSITIVE 
+                                        :     POWER
+                                        :     None   (Item 5)
+                                        :________________________ 
+                                        :(10) SHARED DISPOSITIVE 
+                                        :     POWER
+                                        :     None  
+_________________________________________________________________
+(11) AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+     None   (Item 5)
+_________________________________________________________________
+(12) CHECK BOX IF THE AGGREGATE AMOUNT IN ROW 11
+     EXCLUDES CERTAIN SHARES*                         _____
+                                                     /  x /
+_________________________________________________________________
+(13) PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 11
+      0.00%
+_________________________________________________________________
+(14) TYPE OF REPORTING PERSON*
+      IN
+_________________________________________________________________
+
+              *SEE INSTRUCTIONS BEFORE FILLING OUT!<PAGE>
+Item 1.   Security and Issuer
+          This Amendment No. 3 to Schedule 13D on the Common
+Stock of Standard Motor Products, Inc. (the "Issuer") is being
+filed on behalf of the undersigned to amend the Schedule 13D, as
+amended (the "Schedule 13D") which was originally filed on June
+7, 1994.  Unless otherwise indicated, all capitalized terms used
+herein but not defined herein shall have the same meaning as set
+forth in the Schedule 13D. 
+
+Item 2.   Identity and Background
+          This statement is being filed by Mario J. Gabelli ("Mr.
+Gabelli") and various entities which he directly or indirectly
+controls or for which he acts as chief investment officer.  These
+entities, except for Lynch Corporation ("Lynch"), Spinnaker
+Industries, Incorporated ("Spinnaker"), Western New Mexico
+Telephone Company ("Western New Mexico"), Entoleter, Inc. ("Ento-
+leter"),  Lynch Telecommunications Corporation ("Lynch Telecom"),
+Lynch Telephone Corporation ("Lynch Telephone") and Inter-Commu-
+nity Telephone Company ("Inter-Community") (collectively, "Lynch
+and its affiliates"), engage in various aspects of the securities
+business, primarily as investment adviser to various institution-
+al and individual clients, including registered investment
+companies and pension plans, as broker/dealer and as general
+partner of various private investment partnerships.  Certain of
+these entities may also make investments for their own accounts. 
+          The foregoing persons in the aggregate often own
+beneficially more than 5% of a class of equity securities of a
+particular issuer.  Although several of the foregoing persons are
+treated as institutional investors for purposes of reporting
+their beneficial ownership on the short-form Schedule 13G, the
+holdings of those who do not qualify as institutional investors
+may exceed the 1% threshold presented for filing on Schedule 13G
+or implementation of their investment philosophy may from time to
+time require action which could be viewed as not completely
+passive.  In order to avoid any question as to whether their
+beneficial ownership is being reported on the proper form and in
+order to provide greater investment flexibility and administra-
+tive uniformity, these persons have decided to file their benefi-
+cial ownership reports on the more detailed Schedule 13D form
+rather than on the short-form Schedule 13G and thereby to provide
+more expansive disclosure than may be necessary. 
+     (a), (b) and (c) - This statement is being filed by one or
+more of the following persons: Gabelli Funds, Inc. ("GFI"), GAMCO
+Investors, Inc. ("GAMCO"), Gabelli Securities, Inc. ("GSI"),
+Gabelli & Company, Inc. ("Gabelli & Company"), Gabelli Perfor-
+mance Partnership L.P. ("GPP"), GLI, Inc. ("GLI"), Gabelli
+Associates Fund ("Gabelli Associates"), Gabelli Associates
+Limited ("GAL"), Gabelli & Company, Inc. Profit Sharing Plan (the
+"Plan"), Gabelli International Limited ("GIL"), Gabelli Interna-
+tional II Limited ("GIL II"), Gabelli International Gold Fund
+Limited ("GIGFL"), ALCE Partners, L.P. ("ALCE"), Gabelli Multime-
+dia Partners, L.P. ("Multimedia Partners"), Gemini Capital
+Management Ltd. ("Gemini"), Gabelli Foundation, Inc. ("Founda-
+tion"), Mr. Gabelli, Lynch, Spinnaker, Western New Mexico,
+Entoleter, Lynch Telecom, Lynch Telephone and Inter-Community.
+Those of the foregoing persons signing this Schedule 13D are
+hereafter referred to as the "Reporting Persons". 
+          GAMCO, a wholly-owned subsidiary of GFI, is an invest-
+ment adviser registered under the Investment Advisers Act of
+1940, as amended ("Advisers Act").  GAMCO is an investment
+manager providing discretionary managed account services in the
+equity area for employee benefit plans, private investors,
+endowments and foundations. 
+          Gabelli & Company, a wholly-owned subsidiary of GSI, is
+a broker-dealer registered under the Securities Exchange Act of
+1934, as amended ("l934 Act"), which as a part of its business
+regularly purchases and sells securities for its own account.  
+          GLI, a wholly-owned subsidiary of GSI, is the trustee
+for the Gabelli-Rosenthal & Partners, L.P. Liquidating Trust.
+          Gabelli Associates is a New York limited partnership
+whose primary business purpose is risk arbitrage investments. 
+GSI and Mr. Gabelli are the general partners of Gabelli Associ-
+ates. 
+          GAL is a corporation whose primary business purpose is 
+risk arbitrage investments.  Shares of GAL's Common Stock will be
+offered to persons who are neither citizens nor residents of the 
+United States and may be offered to a limited number of U.S.
+investors.  GSI is the investment manager of GAL.
+          GSI, a majority-owned subsidiary of GFI, is a Delaware 
+corporation which as a part of its business regularly purchases
+and sells securities for its own account.  It is the immediate
+parent of Gabelli & Company.  
+          GFI is the ultimate parent company for a variety of
+companies engaged in the securities business, each of which is
+named above.  In addition, GFI is an investment adviser regis-
+tered under the Advisers Act.  GFI is an investment adviser which
+presently provides discretionary managed account services for The
+Gabelli Equity Trust Inc., The Gabelli Asset Fund, The Gabelli
+Growth Fund, The Gabelli Convertible Securities Fund, Inc., The
+Gabelli Value Fund Inc., The Gabelli Small Cap Growth Fund, The
+Gabelli Equity Income Fund, The Gabelli ABC Fund, The Gabelli
+Global Telecommunications Fund, Gabelli Gold Fund, Inc., The
+Gabelli Global Multimedia Trust Inc., The Gabelli Global Convert-
+ible Securities Fund, Gabelli Capital Asset Fund, Gabelli Inter-
+national Growth Fund, Inc. and The Gabelli Global Interactive
+Couch Potato Fund (collectively, the "Funds"), which are regis-
+tered investment companies.
+          The Plan, a qualified employee profit sharing plan,
+covers substantially all employees of GFI and its affiliates. 
+          GPP, a New York limited partnership, is a limited
+partnership whose primary business purpose is investing in
+securities.  Mr. Gabelli is the general partner and chief invest-
+ment officer of GPP. 
+          GIL is a corporation whose primary business purpose is 
+investing in a portfolio of equity securities and securities
+convertible into, or exchangeable for, equity securities in order
+to achieve its investment objective of significant long-term
+growth of capital.  Shares of GIL's common stock are offered to
+persons who are neither citizens nor residents of the United
+States and may be offered to a limited number of U.S. investors. 
+The investments of GIL are managed by Mr. Gabelli who is also a
+director and Chairman of the Board of Directors of GIL.
+          GIL II is a corporation whose business purpose is
+investing primarily in a portfolio of equity securities and
+securities convertible into, or exchangeable for, equity securit-
+ies in order to achieve its investment objective of significant
+long-term growth of capital.  Shares of GIL II's common stock are
+offered to persons who are neither citizens nor residents of the 
+United States and may be offered to a limited number of U.S.
+investors.  The investments of GIL II are managed by Mr. Gabelli 
+who is also a director and Chairman of the Board of Directors of 
+GIL II.
+       ALCE is a Delaware investment limited partnership that
+seeks long-term capital appreciation primarily through invest-
+ments in public and private equity securities.  GSI is a general
+partner of ALCE.
+       Multimedia Partners is a Delaware investment limited
+partnership whose objective is to provide long-term capital
+appreciation by investing primarily in public and private multi-
+media communications companies.  GSI is a general partner of
+Multimedia Partners.
+       Gemini is a corporation whose primary business purpose is
+to provide advisory services to offshore funds.
+       The Foundation is a private foundation. Mr. Gabelli is the
+President, a Trustee and the Investment Manager of the Founda-
+tion.
+       Lynch, an Indiana corporation, is a diversified public
+company traded on the American Stock Exchange.  Its subsidiaries 
+are engaged in communications, services, and manufactured pro-
+ducts.  Spinnaker, a Delaware subsidiary of Lynch, is also a
+public company and its stock is traded through the NASDAQ System. 
+Spinnaker is a diversified manufacturing firm with major subsid-
+iaries in specialty adhesive-backed materials business.  Another
+of Lynch's subsidiaries, Western New Mexico, provides telephone
+services in a service area in Southwestern New Mexico.  Inter-
+Community, which is also a subsidiary of Lynch, provides local
+telephone services in an area 40 miles west of Fargo, North
+Dakota.   Lynch and Spinnaker actively pursue new business ven-
+tures and acquisitions.  Lynch and its affiliates make invest-
+ments in marketable securities to preserve capital and maintain
+liquidity for financing their business activities and acquisi-
+tions (not in the case of Western New Mexico) and are not engaged
+in the business of investing, reinvesting, or trading in securi-
+ties.  Mr. Gabelli is Chairman of Lynch and owns beneficially
+23.52% of the shares of common stock of Lynch. 
+          Mr. Gabelli is the majority stockholder and Chairman of
+the Board of Directors and Chief Executive Officer of GFI and the
+Chief Investment Officer for each of the Reporting Persons other
+than Gemini.  GFI, in turn, is the sole stockholder of GAMCO. 
+GFI is also the majority stockholder of GSI.  Gabelli & Company
+is a wholly-owned subsidiary of GSI.  GLI is a wholly-owned
+subsidiary of GSI.  Mr. Marc J. Gabelli is the majority stock-
+holder of Gemini.
+          The Reporting Persons do not admit that they constitute
+a group. 
+          GFI, GAMCO, Gabelli & Company and GLI are New York
+corporations and GSI is a Delaware corporation, each having its
+principal business office at One Corporate Center, Rye, New York 
+10580-1434. GPP is a Delaware limited partnership having its
+principal business office at 8 Sound Shore Drive, Greenwich,
+Connecticut 06830.  Gabelli Associates is a New York limited
+partnership having its principal business office at One Corporate
+Center, Rye, New York 10580-1434. GAL and GIL are corporations
+organized under the laws of the British Virgin Islands having
+their principal business office at c/o MeesPierson (Cayman)
+Limited, British American Centre, Dr. Roy's Drive-Phase 3, George
+Town, Grand Cayman, British West Indies.  GIL II is a corporation
+organized under the laws of the British Virgin Islands having
+their principal business office at c/o Coutts & Company (Cayman)
+Limited, West Bay Road, Grand Cayman, British West Indies. 
+Gemini is a Bermuda corporation with its principal business
+office at c/o Appleby, Spurling & Kempe, Cedar House, 41 Cedar
+Avenue, Hamilton HM12, Bermuda.  The Foundation is a private
+foundation having its principal offices at 165 West Liberty
+Street, Reno, Nevada 89501. Lynch is an Indiana corporation
+having its principal business office at 8 Sound Shore Drive,
+Greenwich, CT 06830.  Spinnaker is a Delaware corporation having
+its principal business office at 251 Welton Street, Hamden, CT
+06511. 
+          For information required by instruction C to Schedule
+13D with respect to the executive officers and directors of the
+foregoing entities and other related persons (collectively,
+"Covered Persons"), reference is made to Schedule I annexed
+hereto and incorporated herein by reference. 
+          (d) and (e) -  On December 8, 1994, the SEC instituted 
+and simultaneously accepted offers for the settlement of an
+administrative proceeding against Gabelli & Company and GAMCO. 
+The order instituting the proceeding included a finding, which
+Gabelli & Company and GAMCO neither admitted nor denied, that
+they failed to implement and maintain policies and procedures
+reasonably designed to prevent the misuse of material, nonpublic
+information by not specifically addressing the special circum-
+stances that arose from their affiliation with Lynch Corporation,
+a public company.  To resolve this matter, Gabelli & Company and
+GAMCO agreed to cease and desist from violating Section 15(f) of
+the 1934 Act and Section 204A of the Advisers Act, respectively. 
+They further agreed to each pay a civil penalty in the amount of
+$50,000, and to retain, and adopt the recommendations of, an
+independant consultant regarding their Section 15(f) and Section
+204A policies and procedures.  
+     (f) - Reference is made to Schedule I hereto.  
+
+Item 3.   Source and Amount of Funds or Other Consideration
+          Item 3 to Schedule 13D is amended, in pertinent part,
+as follows:
+          All Reporting Persons used an aggregate of approximate-
+ly $4,799,908 to purchase the additional Securities requiring
+this Amendment to Schedule 13D.  GAMCO and GFI used approximately
+$3,902,062 and $897,846, respectively, of funds that were provid-
+ed through the accounts of certain of their investment advisory
+clients (and, in the case of some of such accounts at GAMCO, may
+be through borrowings from client margin accounts) in order to
+purchase the additional Securities for such clients.  
+
+Item 5.   Interest In Securities Of The Issuer
+          Item 5 to Schedule 13D is amended, in pertinent part,
+as follows:
+          (a)  The aggregate number and percentage of Securities
+to which this Schedule 13D relates is 1,255,700 shares, repre-
+senting 9.57% of the 13,125,195 shares outstanding as reported in
+the Issuer's most recently filed Form 10-Q for the quarter ended
+September 30, 1997.  The Reporting Persons beneficially own those
+Securities as follows: 
+
+                              Shares of           % of
+                              Common              Class of
+Name                          Stock               Common  
+                                      
+GFI:
+  As Principal                       0                0.00%
+  As Agent                     395,000                3.01%
+
+
+GAMCO:
+  As Principal                       0                0.00%
+  As Agent                     836,700                6.37%
+ 
+
+GPP                             24,000                0.18%
+
+Mr. Gabelli                          0                0.00%
+
+
+          Mr. Gabelli is deemed to have beneficial ownership of the
+Securities owned beneficially by each of the foregoing persons and
+GFI is deemed to have beneficial ownership of the securities owned
+beneficially by each of the foregoing persons other than Mr.
+Gabelli. 
+          (b) Each of the Reporting Persons and Covered Persons has
+the sole power to vote or direct the vote and sole power to dispose
+or to direct the disposition of the Securities reported for it,
+either for its own benefit or for the benefit of its investment
+clients or its partners, as the case may be, except that GAMCO
+Investors, Inc. does not have authority to vote 20,000 of the
+reported shares, and except that GFI has sole dispositive and
+voting power with respect to the 395,000 shares of the Issuer held
+by the the Funds, so long as the aggregate voting interest of all
+joint filers does not exceed 25% of their total voting interest in
+the Issuer and in that event, the Proxy Voting Committee of each of
+the Funds shall respectively vote that Fund's shares, and except
+that, at any time, the Proxy Voting Committee of each such Fund may
+take and exercise in its sole discretion the entire voting power
+with respect to the shares held by such Fund under special
+circumstances such as regulatory considerations, and except that
+the power of Mr. Gabelli and GFI is indirect with respect to
+Securities beneficially owned directly by other Reporting Persons. 
+          (c) Information with respect to all transactions in the
+Securities which were effected during the past sixty days or since
+the most recent filing on Schedule 13D, whichever is less, by each
+of the Reporting Persons and Covered Persons is set forth on
+Schedule II annexed hereto and incorporated herein by reference. 
+<PAGE>
+Signature     
+After reasonable inquiry and to the best of my knowledge and
+belief, I certify that the information set forth in this statement
+is true, complete and correct. 
+Dated:    February 4, 1998
+                                   MARIO J. GABELLI
+
+
+                                  By:_____________________________
+                                     James E. McKee              
+                                     Attorney-in-Fact             
+                                                        
+
+
+                                   GABELLI FUNDS, INC. 
+                                
+
+
+                                   By:_________________________
+                                      James E. McKee
+                                      General Counsel 
+
+
+
+                                   GAMCO INVESTORS, INC.  
+                                   
+
+                                   By:_________________________
+                                      Douglas R. Jamieson  
+                                      Chief Operating Officer
+                                      and Executive Vice President
+
+                                  
+                                   
+                                   GABELLI PERFORMANCE
+                                   PARTNERSHIP, L.P.
+
+
+                                   By:____________________________
+                                      Mario J. Gabelli
+                                      General Partner
+                                      by: James E. McKee
+                                          Attorney-in-Fact
+
+
+
+
+                                                                 
+Schedule I
+
+
+              Information with Respect to Executive
+            Officers and Directors of the Undersigned 
+
+          Schedule I to Schedule 13D is amended, in pertinent part, as
+follows:
+          The following sets forth as to each of the executive offi-
+cers and directors of the undersigned: his name; his business address;
+and his present principal occupation or employment and the name,
+principal business and address of any corporation or other organiza-
+tion in which such employment is conducted.  Unless otherwise speci-
+fied, the principal employer of each such individual is Gabelli Funds,
+Inc., Gabelli & Company, Inc., or GAMCO Investors, Inc., the business
+address of each of which is One Corporate Center, Rye, New York 10580,
+and each such individual identified below is a citizen of the United
+States.  To the knowledge of the undersigned, during the last five
+years, no such person has been convicted in a criminal proceeding
+(excluding traffic violations or similar misdemeanors), and no such
+person was a party to a civil proceeding of a judicial or administra-
+tive body of competent jurisdiction as a result of which he was or is
+subject to a judgment, decree or final order enjoining future viola-
+tions of, or prohibiting or mandating activities subject to, federal
+or state securities law or finding any violation with respect to such
+laws except as reported in Item 2(d) of this Schedule 13D. 
+
+<PAGE>
+Gabelli Funds, Inc. 
+
+Directors: 
+
+     Mario J. Gabelli*
+
+     Richard B. Black              Chairman of Raster Image
+                                   Processing Systems; Chairman
+                                   ECRM; Director of Archetype
+                                   and Oak Technology; Director
+                                   of The Morgan Group, Inc.;
+                                   General Partner of KBA Part-  
+                                   ners, Parker Plaza
+                                   400 Kelby Street,
+                                   Fort Lee, NJ 07029
+
+     Charles C. Baum               Chairman, Director and Chief Execu-
+                                   tive Officer of The Morgan Group,
+                                   Inc.;
+                                   Secretary & Treasurer
+                                   United Holdings              
+                                   2545 Wilkens Avenue
+                                   Baltimore, MD  21223
+
+     Dr. Eamon M. Kelly            President
+                                   Tulane University
+                                   218 Gibson Hall
+                                   6823 St. Charles Avenue
+                                   New Orleans, LA  70118
+
+     Marc J. Gabelli               Vice President
+
+
+Officers:
+
+     Mario J. Gabelli              Chairman, Chief Executive
+                                   Officer and Chief Investment
+                                   Officer
+     
+     Stephen G. Bondi              Executive Vice President,
+                                   Chief Financial and Admin-         
+                                   istrative Officer                  
+                         
+     James E. McKee                Vice President, General 
+                                   Counsel and Secretary
+
+_____________________
+
+     *    Mr. Gabelli is the Chairman, Chief Executive Officer and Chief
+Investment Officer of Gabelli Funds, Inc. and of GAMCO Investors, Inc.;
+Director/Trustee of all registered investment companies advised by
+Gabelli Funds, Inc.; Chairman and Chief Executive Officer of Lynch
+Corporation. 
+<PAGE>
+GAMCO Investors, Inc.
+
+Directors:
+     
+     Mario J. Gabelli
+     Douglas R. Jamieson
+     Joseph R. Rindler, Jr.
+     Regina M. Pitaro
+     F. William Scholz, II
+
+Officers:
+     
+     Mario J. Gabelli              Chief Executive Officer 
+                                   and Chief Investment Officer
+
+     Joseph R. Rindler, Jr.        Chairman
+
+     Douglas R. Jamieson           Executive Vice President 
+
+     Stephen G. Bondi              Vice President
+
+     James E. McKee                Vice President, General Counsel
+                                   and Secretary
+
+
+Gabelli Securities, Inc.
+
+Directors:
+
+     Robert W. Blake               President of W.R. Blake
+                                   & Sons, Inc.
+                                   196-20 Northern Boulevard
+                                   Flushing, NY  11358
+
+     Douglas G. DeVivo             General Partner of ALCE
+                                   Partners, L.P.
+                                   One First Street, Suite 16
+                                   Los Altos, CA  94022
+
+     Ronald L. Gallatin            Consultant
+                                   Gabelli Securities, Inc.
+                                   One Corporate Center
+                                   Rye, NY  10580
+
+     Gary P. Watson                See below
+
+     Joseph R. Rindler, Jr.        See above
+
+
+
+
+
+
+
+
+
+
+
+
+
+Officers:
+     
+     Gary P. Watson                Executive Vice President,
+                                   Chief Financial and Admin-
+                                   istrative Officer
+
+
+     Stephen G. Bondi              Vice President
+
+     James E. McKee                Secretary
+
+
+Gabelli & Company, Inc.
+
+Directors:
+
+     James G. Webster, III         Chairman 
+     
+     Stephen G. Bondi              See above
+
+     Donald C. Jenkins             Director of Research
+
+Officers:
+
+     James G. Webster, III         Chairman 
+
+     Stephen G. Bondi              Vice President 
+
+     Bruce N. Alpert               Vice President-Mutual Funds
+
+     Walter K. Walsh               Compliance Officer
+
+     James E. McKee                Secretary
+
+
+GLI, Inc.
+Directors:
+
+     Mario J. Gabelli              See above-Gabelli Funds, Inc.
+
+
+Officers:
+
+     Mario J. Gabelli              Chairman and Chief Investment
+                                   Officer
+
+     Stephen G. Bondi              Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gabelli Associates Limited
+
+Directors:
+
+     Mario J. Gabelli              See above-Gabelli Funds, Inc.
+     
+     MeesPierson  (Cayman)         British American Centre   
+     Limited                       Dr. Roy's Drive- Phase 3
+                                   Georgetown, Grand Cayman   
+                                   Cayman Islands, British             
+                                   WestIndies
+
+Officers:
+
+     Mario J. Gabelli              Chief Investment Officer
+
+     Kevin Bromley                 Vice President, Treasurer and
+                                   Assistant Secretary
+
+     Sandra Wight                  Secretary and Assistant Treasurer
+
+
+Gabelli International Limited
+
+Directors:
+
+     Mario J. Gabelli              See above-Gabelli Funds, Inc.
+   
+     MeesPierson  (Cayman)         British American Centre   
+     Limited                       Dr. Roy's Drive- Phase 3
+                                   Georgetown, Grand Cayman   
+                                   Cayman Islands, British West Indies
+
+Officers:
+
+     Kevin Bromley                 Vice President, Treasurer, and 
+                                   Assistant Secretary 
+                                   MeesPierson (Cayman) Limited
+                                   British American Centre  
+                                   Dr. Roy's Drive- Phase 3   
+                                   Georgetown, Grand Cayman    
+                                   Cayman Islands, British West Indies
+
+     Sandra Wight                  Secretary and Assistant Treasurer
+                                   Assistant Secretary
+                                   MeesPierson (Cayman) Limited
+                                   British American Centre  
+                                   Dr. Roy's Drive- Phase 3   
+                                   Georgetown, Grand Cayman    
+                                   Cayman Islands, British West Indies
+
+
+
+
+
+
+
+
+
+Gemini Capitial Management Ltd.
+
+Directors:
+
+     Marc J. Gabelli               See above-Gabelli Funds, Inc.
+
+     Stephen G. Bondi              See Above-Gabelli Funds, Inc.
+
+     Michael A. Salatto            Controller
+
+     Michael J. Burns              Appleby, Spurling & Kempe
+                                   Cedar House
+                                   41 Cedar Avenue
+                                   Hamilton, HM12
+                                   Bermuda             
+
+
+
+
+     Douglas Molyneux              Appleby, Spurling & Kempe
+                                   Cedar House
+                                   41 Cedar Avenue
+                                   Hamilton, HM12
+                                   Bermuda        
+
+
+Lynch Corporation
+8 Sound Shore Drive
+Greenwich, CT  06830
+
+Directors:
+
+     Paul J. Evanson               President               
+                                   Florida Light & Power Co.
+                                   P.O Box 14000
+                                   700 Universe Blvd.
+                                   Juno Beach, Fl 33408
+
+     Mario J. Gabelli              See above-Gabelli Funds, Inc.
+
+
+     E. Val Cerutti                Business Consultant          
+                                   Cerutti Consultants 
+                                   227 McLain Street
+                                   Mount Kisco, NY   10540
+
+     Ralph R. Papitto              Chairman of the Board
+                                   AFC Cable Systems, Inc.
+                                   50 Kennedy Plaza
+                                   Suite 1250
+                                   Providence, RI  02903
+
+     Salvatore Muoio               Principal
+                                   S. Muoio & Co., LLC
+                                   655 Third Avenue
+                                   New York, NY 10017       
+
+     John C. Ferrara               Business Consultant
+                                   110 Edward Place
+                                   Stamford, CT  06905
+
+Officers:
+
+     Mario J. Gabelli              Chairman and Chief Executive Officer
+
+     Robert E. Dolan               Chief Financial Officer 
+
+     Carmine Ceraolo               Assistant Controller
+
+     Robert A. Hurwich             Vice President-Administration,
+                                   Secretary and General Counsel
+
+Spinnaker Industries, Inc.
+600 N. Pearl Street 
+Suite 2160
+Dallas, TX  75201
+
+Directors:
+
+     Joseph P. Rhein               5003 Central Avenue     
+                                   Ocean City, NJ  08226
+                                   
+     Richard J. Boyle              The Boyle Group, Inc.             
+                                   6110 Blue Circle Drive
+                                   Suite 250           
+                                   Minnetonka, MN  55343
+
+     Ned N. Fleming, III           Boyle, Fleming, 
+                                   & Co., Inc.              
+                                   600 N. Pearl Street
+                                   Suite 2160
+                                   Dallas, TX  75201
+
+
+     Robert E. Dolan               See above Lynch Corporation
+
+     Anthonie C. van Ekris         Chairman and Chief 
+                                   Executive Officer
+                                   Balmac International, Inc.
+                                   61 Broadway
+                                   Suite 1900
+                                   New York, NY  10006
+
+     Frank E. Grzelecki            President
+                                   Handy & Harman
+                                   One Corporate Center
+                                   Rye, New York 10580
+
+
+
+     Philip W. Colburn             Chairman of the Board
+                                   Allen Telecom, Inc.
+                                   11611 San Vincente Blvd.
+                                   Suite 505
+                                   Los Angeles, CA 90049
+Officers:
+
+     Ned N. Fleming, III           President
+
+     Richard J. Boyle              Chairman and Chief Executive Officer
+
+     Robert A. Hurwich             Secretary
+
+     Mark A. Matteson              Vice President, Corporate
+                                   Development
+
+     Craig Jennings                Controller
+
+
+Entoleter, Inc.
+251 Welton Street
+Hamden, CT  06517
+
+Directors:
+
+     Ned N. Fleming, III           See above-Spinnaker
+
+     Mark A. Matteson              See above-Spinnaker
+
+     Robert Hladick                See above Entoleter   
+
+     Robert P. Wentzel             See above Entoleter
+
+
+     James Fleming                 230 Saugatuck Avenue, Unit 8
+                                   Westport, CT  06880
+
+Officers:
+
+     Robert P. Wentzel             President
+
+     Mark R. Matteson              Vice President
+
+     Robert Hladick                Controller & Secretary
+
+
+Western New Mexico Telephone Company
+314 Yankee Street
+Silver City, NM  88062
+
+Directors:
+
+     Jack C. Keen                  Chairman and President
+
+     Dr. Brian E. Gordon           Vice President
+
+     Mary Beth Baxter              Secretary & Treasurer
+
+
+     John Clay Keen                Route 6
+                                   Box 270
+                                   Greenville, TX 75401
+
+     Robert E. Dolan               See above-Lynch Corporation
+
+     Robert A. Hurwich             See above-Lynch Corporation
+
+     Carmine Ceraolo               See above-Lynch Corporation
+
+     Mary J. Carroll               See above-Lynch Corporation
+
+     Eugene P. Connell             See above-Lynch Corporation
+
+Officers:
+
+     Jack C. Keen                  Chairman and President
+
+     Jack L. Bentley               Executive Vice President
+
+     Dr. Brian E. Gordon           Vice President
+
+     Charles M. Baxter             Sr. Vice President-Operations
+     
+     Mary Beth Baxter              Secretary & Treasurer
+
+     Robert A. Hurwich             Assistant Treasurer
+
+
+
+Inter-Community Telephone Company
+P.O. Box A
+Nome, ND  58062
+
+Directors:
+
+     Mary J. Carroll               See above-Lynch Corporation
+
+     Robert E. Dolan               See above-Lynch Corporation
+
+     Joseph H. Epel                See above-Lynch Corporation
+
+     Robert A. Hurwich             See above-Lynch Corporation
+
+     Eugene P. Connell             See above-Lynch Corporation
+
+     Harry B. Snyder               P.O. Box 131
+                                   Buffalo, ND  58011
+                                   
+     Robert Snyder                 200 Broadway South
+                                   Buffalo, ND  58011
+
+     Keith S. Anderson             See above-Inter-Community Telephone
+                                   Company
+
+     Robert Reff                   See above-Inter-Community Telephone
+                                   Company
+
+
+
+
+
+Officers:
+
+     Leone A. Nilsen               President
+     
+     Robert Snyder                 President 
+
+     Robert  Reff                  Vice President
+     
+     Keith S. Anderson             Secretary
+     
+     Harry B. Snyder               Treasurer
+
+     Joseph H. Epel                Assistant Treasurer
+
+     Robert A. Hurwich             Assistant Secretary
+
+
+Lynch Telecommunications Corporation
+8 Sound Shore Drive
+Greenwich, CT  06830
+
+Directors:
+
+     Richard A. Kiesling           2801 International Lane
+                                   Suite 207
+                                   Madison, WI  53740           
+
+     Robert E. Dolan               See above-Lynch Corporation
+
+     Robert A. Snyder              See above-Inter-Community
+                                   Telephone Company
+
+     Eugene P. Connell             See above-Lynch Corporation
+
+Officers:
+
+     Robert A. Hurwich             Secretary
+
+     Joseph H. Epel                Treasurer and 
+                                   Assistant Secretary
+
+     Robert E. Dolan               President, Controller, Assistant
+                                   Treasurer, and Assistant Secretary
+
+
+Lynch Telephone Corporation
+8 Sound Shore Drive
+Greenwich, CT  06830
+
+Directors:
+
+     Robert E. Dolan               Controller
+
+     Jack W. Keen                  President
+
+     Robert A. Hurwich             See above-Lynch Corporation
+
+     Eugene P. Connell             See above-Lynch Corporation
+
+Officers:
+
+     Jack C. Keen                  Chairman
+
+     Jack W. Keen                  President
+
+     Robert A. Hurwich             Secretary
+
+     Mary Beth Baxter              Treasurer and 
+                                   Assistant Secretary
+
+     Robert E. Dolan               Controller
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<TEXT>
+
+                     
+                                                                      
+                                              SCHEDULE II     
+                                                                                
+                                      INFORMATION WITH RESPECT TO               
+                           TRANSACTIONS EFFECTED DURING THE PAST SIXTY DAYS OR  
+                           SINCE THE MOST RECENT FILING ON SCHEDULE 13D (1)     
+                                                                                
+                                             SHARES PURCHASED        AVERAGE    
+                                  DATE            SOLD(-)             PRICE(2)  
+                                                                                
+           COMMON STOCK-STANDARD MOTOR PRDCT                                    
+                                                                                
+          GABELLI FUNDS, INC.                                                   
+               THE GABELLI SMALL CAP GROWTH FUND                                
+                                 1/27/98            5,000            16.9688    
+               THE GABELLI EQUITY TRUST,INC.                                    
+                                12/02/97           10,000            20.0500    
+               THE GABELLI ASSET FUND                                           
+                                 2/02/98           30,000            16.9958    
+                                 1/28/98            5,000            17.0500    
+          GAMCO INVESTORS, INC.                                                 
+                                 1/27/98            9,500            16.6316    
+                                 2/02/98            1,500            16.3750    
+                                 1/30/98            5,000            17.0000    
+                                 1/30/98            5,000            16.6250    
+                                 1/30/98            5,000-           18.0000    
+                                 1/29/98            2,000            16.6875    
+                                 1/28/98            5,000            18.0000    
+                                 1/27/98            5,000            16.5625    
+                                 1/22/98              500-           19.5000    
+                                 1/22/98            3,000-           19.2500    
+                                 1/20/98            2,000-           19.8438    
+                                 1/12/98              500-           20.5625    
+                                 1/05/98            8,500-           23.3309    
+                                 1/02/98            3,000-           22.6250    
+                                12/31/97            4,000-           22.5313    
+                                12/26/97            8,000-           22.0156    
+                                12/18/97              500-           22.2500    
+                                12/15/97            2,000            21.0156    
+                                12/15/97            4,400            20.9148    
+                                12/12/97              600            20.7500    
+                                12/11/97            2,000            20.7500    
+                                12/10/97            3,000            21.0000    
+                                12/09/97           20,000            20.9375    
+                                12/04/97            5,000            19.9938    
+                                                                                
+                                                                                
+          (1) UNLESS OTHERWISE INDICATED, ALL TRANSACTIONS WERE EFFECTED        
+              ON THE NY STOCK EXCHANGE.                                         
+                                                                                
+          (2) PRICE EXCLUDES COMMISSION.                                        
+                                                                                
+          (*) RESULTS IN CHANGE OF DISPOSITIVE POWER AND BENEFICIAL OWNERSHIP.  
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

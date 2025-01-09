@@ -1,0 +1,427 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CyBZ8IJsqSuZgblS0naaEWKcc6oTY+QpjGZismeZpNEo2ZIZOnfRQsrrPCvDslXx
+ 7WK17wD6A5QNFlqqd3DkCw==
+
+<SEC-DOCUMENT>0000919574-97-000899.txt : 19971027
+<SEC-HEADER>0000919574-97-000899.hdr.sgml : 19971027
+ACCESSION NUMBER:		0000919574-97-000899
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19971024
+SROS:			NASD
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MICROGRAFX INC
+		CENTRAL INDEX KEY:			0000756497
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				751952080
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		
+		SEC FILE NUMBER:	005-43105
+		FILM NUMBER:		97700358
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1303 ARAPAHO
+		CITY:			RICHARDSON
+		STATE:			TX
+		ZIP:			75081
+		BUSINESS PHONE:		2142341769
+
+	MAIL ADDRESS:	
+		STREET 1:		1303 ARAPAHO
+		CITY:			RICHARDSON
+		STATE:			TX
+		ZIP:			75081
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KINGDON CAPITAL MANAGEMENT CORP
+		CENTRAL INDEX KEY:			0001000097
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		157 WEST 57TH STREET 50TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		2123330100
+
+	MAIL ADDRESS:	
+		STREET 1:		152 WEST 57TH STREET 50 FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<TEXT>
+
+
+
+
+<PAGE>
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.  20549
+
+SCHEDULE 13D
+Under the Securities Exchange Act of 1934
+
+Amendment No.: *
+
+Name of Issuer:  Micrografx Inc.
+
+Title of Class of Securities:  Common Stock, $.01 par value
+
+CUSIP Number:  595077108
+
+          (Name, Address and Telephone Number of Person
+       Authorized To Receive Notices and Communications)  
+
+ Mr. Peter J. Cobos c/o Kingdon Capital Management Corporation,
+ 152 West 57th Street, New York, New York 10019, (212) 333-0100
+
+     (Date of Event which Requires Filing of this Statement)
+
+                         August 5, 1997
+
+If the filing person has previously filed a statement on Schedule
+13G to report the acquisition which is the subject of this
+Schedule 13D, and is filing this schedule because of
+Rule 13d-1(b)(3) or (4), check the following box [   ].
+
+Note: Six copies of this statement, including all exhibits,
+should be filed with the Commission.  See Rule 13d-1(a) for other
+parties to whom copies are to be sent.
+
+*The remainder of this cover page shall be filled out for a
+reporting person's initial filing on this form with respect to
+the subject class of securities, and for any subsequent amendment
+containing information which would alter the disclosures provided
+in a prior cover page.
+
+The information required in the remainder of this cover page
+shall not be deemed to be "filed" for the purpose of Section 18
+of the Securities Exchange Act of 1934 ("Act") or otherwise
+subject to the liabilities of that section of the Act but shall
+be subject to all other provisions of the Act (however, see the
+Notes).
+
+
+
+<PAGE>
+
+CUSIP No. 595077108
+
+1.  Name of Reporting Person
+    S.S. or I.R.S. Identification No. of Above Person
+
+         Kingdon Capital Management Corporation  #13-3158796
+
+2.  Check the Appropriate Box if a Member of a Group
+
+         a.   
+         b.   x
+
+3.  SEC Use Only
+
+4.  Source of Funds
+
+         WC
+
+5.  Check if Disclosure of Legal Proceedings is Required Pursuant
+    to Items 2(d) or 2(e)
+
+6.  Citizenship or Place of Organization
+
+         Delaware
+
+Number of Shares Beneficially Owned by Each Reporting Person
+With:
+
+7.  Sole Voting Power:
+
+         700,000
+
+8.  Shared Voting Power:
+
+
+9.  Sole Dispositive Power:
+
+         700,000
+
+10. Shared Dispositive Power:
+
+
+11. Aggregate Amount Beneficially Owned by Each Reporting Person
+
+         700,000
+
+12. Check Box if the Aggregate Amount in Row (11) Excludes
+    Certain Shares
+
+
+
+
+
+                                2
+
+
+
+<PAGE>
+
+13. Percent of Class Represented by Amount in Row (11)
+
+         6.68%
+
+14. Type of Reporting Person
+
+         CO
+
+Item 1.  Security and Issuer.
+
+         This statement relates to shares of common stock, par
+         value $.01 per share (the "Common Stock") of Micrografx
+         Inc. ("MGXI").  MGXI's principal executive office is
+         located at 1303 East Arapaho Rd., Richardson, TX 75081.
+
+Item 2.  Identity and Background.
+
+         This statement is being filed on behalf of Kingdon
+         Capital Management Corporation ("KCMC"), a Delaware
+         corporation.  KCMC's principal business is to act as an
+         investment adviser; its principal office is at 152 West
+         57th Street, New York, New York 10019.
+
+         Mr. Mark Kingdon is the sole shareholder, director and
+         executive officer of KCMC.  Mr. Kingdon has not, during
+         the last five years, been convicted in a criminal
+         proceeding (excluding traffic violations or similar
+         misdemeanors).  Mr. Kingdon has not, during the last
+         five years, been a party to a civil proceeding of a
+         judicial or administrative body of competent
+         jurisdiction which resulted in a judgment, decree or
+         final order enjoining future violations of, or
+         prohibiting or mandating activities subject to, federal
+         or state securities laws or finding any violations with
+         respect to such laws.
+
+         Mr. Kingdon is a citizen of the United States of
+         America.
+
+Item 3.  Source and Amount of Funds or Other Consideration.
+
+         As of the date hereof, KCMC is deemed to beneficially
+         own 700,000 shares of Common Stock.  All 700,000 shares
+         of Common Stock are held by entities and managed
+         accounts over which KCMC has investment discretion.  The
+         700,000 shares of the Common Stock were purchased in
+         open market transactions at an aggregate cost of
+         $5,317,317.03.  The funds for the purchase of the Common
+         Stock held in the entities and managed accounts over
+         which KCMC has investment discretion have come from each
+
+
+
+                                3
+
+
+
+<PAGE>
+
+         entity's or account's own funds.  No leverage was used
+         to purchase any shares.
+
+Item 4.  Purpose of Transactions.
+
+         The shares of Common Stock deemed to be beneficially
+         owned by KCMC were acquired for, and are being held for,
+         investment purposes.
+
+         KCMC has no plan or proposal which relates to, or would
+         result in, any of the actions enumerated in Item 4 of
+         the instructions to Schedule 13D.
+
+Item 5.  Interest in Securities of Issuer.
+
+         As of the date hereof, KCMC is deemed to be the
+         beneficial owner of 700,000 shares of Common Stock.
+         Based on MGXI's Form 10-K filed on September 18, 1997,
+         as of August 31, 1997 there were 10,473,137 shares of
+         Common Stock outstanding.  Therefore, KCMC is deemed to
+         beneficially own 6.68% of the outstanding shares of
+         Common Stock.  KCMC has the sole power to vote, direct
+         the vote, dispose of or direct the disposition of all
+         the shares of Common Stock that it is currently deemed
+         to beneficially own.  The purpose of this filing is to
+         show that KCMC has become the beneficial owner of more
+         than 5% of MGXI's common shares outstanding.
+
+Item 6.  Contracts, Arrangements, Understandings or
+         Relationships with Respect to Securities of the Issuer.
+
+         KCMC has no contract, arrangement, understanding or
+         relationship with any person with respect to the Common
+         Stock.
+
+Item 7.  Material to be Filed as Exhibits.
+
+         Attached hereto as Exhibit A is a description of the
+         transactions in the Common Stock that were effected by
+         KCMC since 60 days prior to August 5, 1997.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                4
+
+
+
+<PAGE>
+
+    Signature
+
+         The undersigned, after reasonable inquiry and to the
+         best of its knowledge and belief, certifies that the
+         information set forth in this statement is true,
+         complete and correct.
+
+
+Date
+
+October 24, 1997
+
+Kingdon Capital Management Corporation
+
+
+By: /s/ Peter J. Cobos
+
+    __________________________
+    Peter J. Cobos, Controller
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                5
+
+
+
+<PAGE>
+
+                            EXHIBIT A
+
+                    SCHEDULE OF TRANSACTIONS
+
+Date               Shares Purchased    Price Per Share
+                      or (Sold)        (Not Including Commission)
+____               _______________     ______________________
+
+07/14/97               30,100               $7.04
+07/15/97               50,000                7.49
+07/16/97               15,000                7.33
+07/16/97               20,100                7.45
+07/17/97               25,000                7.37
+07/17/97               10,000                7.36
+07/18/97               24,000                7.10
+07/21/97               40,800                7.13
+07/22/97               10,000                6.73
+07/25/97               18,000                6.96
+07/25/97               25,900                7.64
+07/28/97               50,000                7.92
+07/28/97              ( 5,000)               7.96
+07/29/97               11,500                7.50
+07/29/97               43,000                7.68
+07/30/97               57,000                7.75
+08/01/97               54,000                7.73
+08/01/97               20,600                7.56
+08/04/97               15,000                7.46
+08/05/97               19,100                7.41
+08/05/97                5,000                7.48
+08/19/97                  900                7.16
+08/20/97                1,000                7.69
+10/03/97               24,800                7.28
+10/06/97               29,800                7.58
+10/07/97               50,000                8.57
+10/07/97                2,000                8.60
+10/07/97               (1,000)               8.08
+10/07/97                2,400                8.73
+10/08/97                1,000                8.41
+10/14/97               10,000                8.00
+10/16/97               10,000                7.94
+10/17/97                2,000                7.23
+10/20/97                5,500                7.49
+10/21/97               20,000                8
+10/22/97                2,500                7.91
+
+
+
+
+
+
+
+
+
+                                6
+48400002.AK7
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

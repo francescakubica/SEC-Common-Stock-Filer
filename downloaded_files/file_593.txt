@@ -1,0 +1,703 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CeqwHpIN9BjjrhBUoo2fuZqKIfFGP4KGyoC7v3Tce0WpaqSuGFDiKUuCzo3ZenaT
+ 0hG9yRNaBVNZPhEEOvYPsQ==
+
+<SEC-DOCUMENT>0000904495-97-000008.txt : 19970528
+<SEC-HEADER>0000904495-97-000008.hdr.sgml : 19970528
+ACCESSION NUMBER:		0000904495-97-000008
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970527
+SROS:			NASD
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SUNSHINE MINING & REFINING CO
+		CENTRAL INDEX KEY:			0000833376
+		STANDARD INDUSTRIAL CLASSIFICATION:	PRIMARY SMELTING & REFINING OF NONFERROUS METALS [3330]
+		IRS NUMBER:				752231378
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-41271
+		FILM NUMBER:		97614365
+
+	BUSINESS ADDRESS:	
+		STREET 1:		877 WEST MAIN STREET
+		STREET 2:		SUITE 600
+		CITY:			BOISES
+		STATE:			ID
+		ZIP:			83702
+		BUSINESS PHONE:		2083450660
+
+	MAIL ADDRESS:	
+		STREET 1:		877 W MAIN STREET SUITE 600
+		CITY:			BOISE
+		STATE:			ID
+		ZIP:			83702
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SUNSHINE MINING CO /DE
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SUNSHINE HOLDINGS INC
+		DATE OF NAME CHANGE:	19880915
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ELLIOTT ASSOCIATES LP
+		CENTRAL INDEX KEY:			0000904495
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		712 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		2129746000
+
+	MAIL ADDRESS:	
+		STREET 1:		712 FIFTH AVE
+		STREET 2:		36TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<TEXT>
+
+
+
+
+
+    OMB APPROVAL
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.  20549
+OMB Number:   3235-0145
+Expires:      October 31, 1997
+Estimated average burden
+hours per form     14.90
+
+
+
+SCHEDULE 13D
+
+Under the Securities Exchange Act of 1934
+(Amendment No.  1   )*
+
+
+                 SUNSHINE MINING & REFINING COMPANY                   
+(Name of Issuer)
+
+
+                 Common Stock, $.01 Par Value                         
+(Title of Class of Securities)
+
+
+                          867 833 105                 
+(CUSIP Number)
+
+Martin D. Sklar, Esq., Kleinberg, Kaplan, Wolff & Cohen, P.C.
+ 551 Fifth Avenue, 18th Floor
+        New York, New York  10176, Tel:  (212) 986-6000         
+(Name, Address and Telephone Number of Person Authorized to Receive Notices and
+Communications)
+
+
+              May 7, 1997                     
+(Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4), check the following box .
+
+1
+
+Check the following box if a fee is being paid with the statement .  (A fee is
+not required only if the reporting person: (1) has a previous statement on file
+reporting beneficial ownership of more than five percent of the class of
+securities described in Item 1; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of such class.)
+(See Rule 13d-7.)
+
+2
+
+Note:  Six copies of this statement, including all exhibits, should be filed
+with the Commission.  See Rule 13d-1(a) for other parties to whom copies are to
+be sent.
+
+*The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities,
+and for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+Act of 1934 ("Act") or otherwise subject to the liabilities of that section of
+the Act but shall be subject to all other provisions of the Act (however, see
+the Notes).
+(Continued on the Following Pages)
+Page 1 of 7 Pages
+
+    SCHEDULE 13D
+
+CUSIP No.   867 833 105                
+
+
+Page   2   of    7    Pages 
+
+1
+NAME OF REPORTING PERSON
+S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+    Elliott Associates, L.P., a Delaware Limited Partnership
+
+
+2
+CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*     (a)
+ X
+3
+    (b) 
+
+4
+
+
+
+3
+SEC USE ONLY
+
+
+4
+SOURCE OF FUNDS*
+         00
+
+
+5
+CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO ITEMS 2(d)
+or 2(e)  
+
+
+6
+CITIZENSHIP OR PLACE OF ORGANIZATION
+
+         Delaware
+
+
+
+NUMBER OF 
+
+SHARES 
+
+BENEFICIALLY 
+
+OWNED BY 
+
+EACH 
+
+REPORTING 
+
+PERSON
+
+WITH
+
+7
+SOLE VOTING POWER
+
+  11,577,294
+
+
+8
+SHARED VOTING POWER
+
+    0
+
+
+9
+SOLE DISPOSITIVE POWER
+
+    11,577,294
+
+
+10
+SHARED DISPOSITIVE POWER
+
+    0
+11
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+    11,577,294
+
+
+12
+CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*    
+
+6
+
+
+
+13
+PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+    4.54%
+
+
+14
+TYPE OF REPORTING PERSON*
+
+    PN
+
+
+*SEE INSTRUCTIONS BEFORE FILLING OUT!
+INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1_7
+(INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+    SCHEDULE 13D
+
+CUSIP No.   867 833 105                
+
+
+Page   3   of    7    Pages
+         
+1
+NAME OF REPORTING PERSON
+S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+    Westgate International, L.P., a Cayman Islands Limited Partnership
+
+
+2
+CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*     (a)
+ X
+7
+    (b) 
+
+
+3
+SEC USE ONLY
+
+
+4
+SOURCE OF FUNDS*
+         00
+
+
+5
+CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO ITEMS 2(d)
+or 2(e)  
+
+
+6
+CITIZENSHIP OR PLACE OF ORGANIZATION
+
+         Cayman Islands, British West Indies
+
+
+
+NUMBER OF 
+
+SHARES 
+
+BENEFICIALLY 
+
+OWNED BY 
+
+EACH 
+
+REPORTING 
+
+PERSON
+
+WITH
+
+7
+SOLE VOTING POWER
+
+    0
+
+
+8
+SHARED VOTING POWER
+
+  8,133,718
+
+
+9
+SOLE DISPOSITIVE POWER
+
+    0
+
+
+10
+SHARED DISPOSITIVE POWER
+
+    8,133,718
+11
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+    8,133,718
+
+
+12
+CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*    
+
+10
+
+
+
+13
+PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+    3.19%
+
+
+14
+TYPE OF REPORTING PERSON*
+
+    PN
+
+
+*SEE INSTRUCTIONS BEFORE FILLING OUT!
+INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1_7
+(INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+    SCHEDULE 13D
+
+CUSIP No.   867 833 105                
+
+
+Page   4   of    7     Pages
+
+1
+NAME OF REPORTING PERSON
+S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+    Martley International, Inc., a Delaware corporation
+
+
+2
+CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*     (a)
+ X
+11
+    (b) 
+
+
+3
+SEC USE ONLY
+
+
+4
+SOURCE OF FUNDS*
+         00
+
+
+5
+CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO ITEMS 2(d)
+or 2(e)  
+
+
+6
+CITIZENSHIP OR PLACE OF ORGANIZATION
+
+         Delaware
+
+
+
+NUMBER OF 
+
+SHARES 
+
+BENEFICIALLY 
+
+OWNED BY 
+
+EACH 
+
+REPORTING 
+
+PERSON
+
+WITH
+
+7
+SOLE VOTING POWER
+
+    0
+
+
+8
+SHARED VOTING POWER
+
+    8,133,718
+
+
+9
+SOLE DISPOSITIVE POWER
+
+    0
+
+
+10
+SHARED DISPOSITIVE POWER
+
+    8,133,718
+11
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+    8,133,718
+
+
+12
+CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*    
+
+14
+
+
+
+13
+PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+    3.19%
+
+
+14
+TYPE OF REPORTING PERSON*
+
+    CO
+
+
+*SEE INSTRUCTIONS BEFORE FILLING OUT!
+INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1_7
+(INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+ITEM 3.  Source and Amount of Funds or Other Consideration
+
+    The source and amount of funds used by Elliott in making purchases of the
+Common Stock beneficially owned by it are set forth below.
+
+    SOURCE OF FUNDS
+
+AMOUNT OF FUNDS
+Margin accounts maintained at Merrill Lynch, Pierce, Fenner and Smith Inc.
+$6,882,961.82
+
+
+    The source and amount of funds used by Westgate in making purchases of the
+Common Stock beneficially owned by it are set forth below.
+
+    SOURCE OF FUNDS
+
+AMOUNT OF FUNDS
+Margin accounts maintained at Merrill Lynch, Pierce, Fenner and Smith Inc.
+$10,240,187.79
+              
+ITEM 5.  Interest in Securities of the Issuer
+
+    (a)  Elliott beneficially owns 1,388,400 warrants (5/22/01)  exercisable
+into Common Stock, $7,995,000 8% Debentures which converts into 5,561,739
+shares of Common Stock and 4,627,155 shares of Common Stock totalling
+11,577,294 shares of Common Stock, representing 4.54% of the class of Common
+Stock.  Westgate (and Martley, as investment manager) beneficially owns 672,200
+warrants (5/22/01) exercisable into Common Stock, $6,840,000 8% Debentures
+which which converts into 4,758,261 shares of Common Stock and 2,703,257 shares
+of Common Stock totalling 8,133,718 shares of Common Stock, representing 3.19%
+of the class of Common Stock. 
+    
+    (b)  Elliott has the power to vote or direct the vote of, and to dispose or
+direct the disposition of, the Common Stock beneficially owned by it.  
+
+    Westgate has the shared power with Martley to vote or direct the vote of,
+and to dispose or direct the disposition of, the Common Stock owned by
+Westgate.  Information regarding each of Westgate and Martley for the purposes
+of subparagraph (b) of this Item 5 is set forth in Item 2 above and expressly
+incorporated by reference herein.
+
+    (c)  The following transactions were effected by Elliott during the past
+sixty (60) days:
+
+
+DATE
+SECURITY
+AMOUNT BOUGHT (SOLD)
+PRICE, EXCLUDING COMMISSION
+TYPE OF TRANSACTION
+04/01/97
+Common Stock
+26,100
+$.875
+Over-the-counter (in New York)
+04/02/97
+Common Stock
+106,700
+$.875
+Over-the-counter (in New York)
+04/11/97
+Common Stock
+135,900
+$.875
+Over-the-counter (in New York)
+04/15/97
+Common Stock
+12,300
+$.875
+Over-the-counter (in New York)
+04/16/97
+Common Stock
+48,600
+$.875
+Over-the-counter (in New York)
+04/17/97
+Common Stock
+85,500
+$.875
+Over-the-counter (in New York)
+04/21/97
+Common Stock
+7,000
+$.875
+Over-the-counter (in New York)
+04/22/97
+Common Stock
+230,000
+$.875
+Over-the-counter (in New York)
+04/28/97
+Common Stock
+500
+$.813
+Over-the-counter (in New York)
+04/30/97
+Common Stock
+400
+$.813
+Over-the-counter (in New York)
+05/02/97
+Common Stock
+21,500
+$.813
+Over-the-counter (in New York)
+05/07/97
+Common Stock
+132,300
+$.813
+Over-the-counter (in New York)
+    The following transactions were effected by Westgate during the past sixty
+(60) days:
+
+DATE
+SECURITY
+AMOUNT BOUGHT (SOLD)
+PRICE, EXCLUDING COMMISSION
+TYPE OF TRANSACTION
+03/31/97
+Common Stock
+3,800
+$.875
+Over-the-counter (in New York)
+04/01/97
+Common Stock
+35,900
+$.875
+Over-the-counter (in New York)
+04/02/97
+Common Stock
+91,300
+$.875
+Over-the-counter (in New York)
+04/11/97
+Common Stock
+116,100
+$.875
+Over-the-counter (in New York)
+04/15/97
+Common Stock
+10,500
+$.875
+ Over-the-counter (in New York)
+04/16/97
+Common Stock
+41,600
+$.875
+Over-the-counter (in New York)
+04/17/97
+Common Stock
+73,200
+$.875
+Over-the-counter (in New York)
+04/22/97
+Common Stock
+196,800
+$.875
+Over-the-counter (in New York)
+05/02/97
+Common Stock
+18,500
+$.813
+Over-the-counter (in New York)
+05/07/97
+Common Stock
+119,900
+$.813
+ Over-the-counter (in New York)
+    (d)  No person other than Elliott has the right to receive or the power to
+direct the receipt of dividends from, or the proceeds from the sale of, the
+shares of Common Stock beneficially owned by Elliott.  
+
+    No person other than Westgate has the right to receive or the power to
+direct the receipt of dividends from, or the proceeds from the sale of, the
+shares of Common Stock beneficially owned by Westgate and Martley.
+
+    (e)  Not applicable.
+
+    SIGNATURE
+
+    After reasonable inquiry and to the best of its knowledge and belief, the
+undersigned each certifies that the information with respect to it set forth in
+this statement is true, complete, and correct.
+
+Dated:   May 16, 1997                  ELLIOTT ASSOCIATES, L.P.
+
+
+By: 
+              Paul E. Singer
+              General Partner
+
+WESTGATE INTERNATIONAL, L.P.
+
+By:  Martley International, Inc., as
+      Investment Manager
+
+
+    By:  
+              Paul E. Singer
+              President
+
+MARTLEY INTERNATIONAL, INC.
+
+
+By: 
+              Paul E. Singer
+              President
+
+                                                 
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

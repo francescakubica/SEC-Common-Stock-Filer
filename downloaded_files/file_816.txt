@@ -1,0 +1,500 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Gweb4uFMri54M1W6qC1Cp2QPkY7mY8vtTEaOJbUT2z1qq9UJozgUOeKJ0NHZd+Ba
+ vPtkgDC0XeHHH3W1l4PKiA==
+
+<SEC-DOCUMENT>0000919574-96-000957.txt : 19961017
+<SEC-HEADER>0000919574-96-000957.hdr.sgml : 19961017
+ACCESSION NUMBER:		0000919574-96-000957
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19961016
+SROS:			NASD
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GRANT GEOPHYSICAL INC
+		CENTRAL INDEX KEY:			0000866722
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL AND GAS FIELD EXPLORATION SERVICES [1382]
+		IRS NUMBER:				840766570
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-41377
+		FILM NUMBER:		96644163
+
+	BUSINESS ADDRESS:	
+		STREET 1:		16850 PARK ROW
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77084
+		BUSINESS PHONE:		7133989503
+
+	MAIL ADDRESS:	
+		STREET 1:		16850 PARK ROW
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77084
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GRANT TENSOR GEOPHYSICAL CORP
+		DATE OF NAME CHANGE:	19930328
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GRANT NORPAC INC
+		DATE OF NAME CHANGE:	19600201
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EVEREST CAPITAL LTD
+		CENTRAL INDEX KEY:			0000922216
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CORNER HOUSE 20 PARLIAMENT ST
+		STREET 2:		P O BOX HM 2458
+		CITY:			HAMILTON
+		STATE:			D0
+
+	MAIL ADDRESS:	
+		STREET 1:		SEWARD & KISSEL
+		STREET 2:		1 BATTERY PARK PLAZA
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<TEXT>
+
+
+
+
+<PAGE>
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.  20549
+
+SCHEDULE 13D
+Under the Securities Exchange Act of 1934
+
+Amendment No.:  *
+
+Name of Issuer:  Grant Geophysical, Inc.
+
+Title of Class of Securities:  Common Stock 
+
+CUSIP Number:  0003880851
+
+          (Name, Address and Telephone Number of Person
+       Authorized To Receive Notices and Communications)  
+
+  Mr. Dimitrijevic, c/o Everest Capital Limited, Corner House,
+           20 Parliament St., Hamilton HM 12, Bermuda
+
+     (Date of Event which Requires Filing of this Statement)
+
+                        September 3, 1996
+
+If the filing person has previously filed a statement on Schedule
+13G to report the acquisition which is the subject of this
+Schedule 13D, and is filing this schedule because of
+Rule 13d-1(b)(3) or (4), check the following box [   ].
+
+Check the following line if a fee is being paid with this
+statement  X.  (A fee is not required only if the filing person:
+(1) has a previous statement on file reporting beneficial
+ownership of more than five percent of the class of securities
+described in Item 1; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of
+class.  See Rule 13d-7).
+
+*The remainder of this cover page shall be filled out for a
+reporting person's initial filing on this form with respect to
+the subject class of securities, and for any subsequent amendment
+containing information which would alter the disclosures provided
+in a prior cover page.
+
+The information required in the remainder of this cover page
+shall not be deemed to be "filed" for the purpose of Section 18
+of the Securities Exchange Act of 1934 ("Act") or otherwise
+subject to the liabilities of that section of the Act but shall
+be subject to all other provisions of the Act (however, see the
+Notes).
+
+
+
+<PAGE>
+
+CUSIP No. 0003880851
+
+1.  Name of Reporting Person
+    S.S. or I.R.S. Identification No. of Above Person
+
+         Everest Capital Limited
+
+2.  Check the Appropriate Box if a Member of a Group
+
+         a.   
+         b.   
+
+3.  SEC Use Only
+
+4.  Source of Funds
+
+         AF
+
+5.  Check if Disclosure of Legal Proceedings is Required Pursuant
+    to Items 2(d) or 2(e)
+
+6.  Citizenship or Place of Organization
+
+         Bermuda
+
+Number of Shares Beneficially Owned by Each Reporting Person
+With:
+
+7.  Sole Voting Power:
+
+         0
+
+8.  Shared Voting Power:
+
+
+9.  Sole Dispositive Power:
+
+         0
+
+10. Shared Dispositive Power:
+
+
+11. Aggregate Amount Beneficially Owned by Each Reporting Person
+
+         0
+
+12. Check Box if the Aggregate Amount in Row (11) Excludes
+    Certain Shares
+
+
+
+
+
+                                2
+
+
+
+<PAGE>
+
+13. Percent of Class Represented by Amount in Row (11)
+
+         0%
+
+14. Type of Reporting Person
+
+         CO
+
+The purpose of this Schedule 13D is to report Everest Capital
+Limited's (the "Reporting Person") ownership of the Common Stock
+in Grant Geophysical, Inc. (the "Shares").
+
+Item 1.  Security and Issuer
+
+         The title of the class of equity securities to which
+         this statement relates is:  Common Stock in Grant
+         Geophysical, Inc.
+
+         The name and address of the principal executive and
+         business office of the Issuer is:
+
+         Grant Geophysical, Inc.
+         16850 Park Row
+         Houston, Texas 77084
+
+Item 2.  Identity and Background
+
+         (a)  Everest Capital Limited
+
+         (b)  Corner House, 20 Parliament Street, Hamilton
+              HM 12, Bermuda
+
+         (c)  The principal businesses of the Reporting Person is
+              investment management for both Everest Capital
+              Fund, L.P., a Delaware limited partnership for
+              which the Reporting Person serves as General
+              Partner and Everest Capital International Ltd., a
+              corporation organized under the laws of the British
+              Virgin Islands for which the Reporting Person
+              Serves as Investment Manager.
+
+         (d)  During the last five years, neither the Reporting
+              Person nor any person affiliated with the Reporting
+              Person has been convicted in any criminal
+              proceeding, excluding traffic violations or similar
+              misdemeanors.
+
+         (e)  During the last five years, neither the Reporting
+              Person nor any person affiliated with the Reporting
+              Person has been a party to a civil proceeding of a
+              judicial or administrative body of competent
+
+
+                                3
+
+
+
+<PAGE>
+
+              jurisdiction as a result of which it or such person
+              is subject to a judgment, decree or final order
+              enjoining future violations of, or prohibiting or
+              mandating activities subject to, federal or state
+              securities laws or finding any violation with
+              respect to such laws.
+
+         (f)  The Reporting Person is a corporation organized
+              under the laws of Bermuda.
+
+Item 3.  Source and Amount of Funds or Other Consideration.
+
+         As described in Item 2(a) above, the Reporting Person
+         exercises investment discretion with respect to the
+         capital of Everest Capital Fund, L.P. and Everest
+         Capital International Ltd.  In that capacity, the
+         Reporting Person purchased the Shares, which are the
+         subject of this Schedule 13D, on behalf of Everest
+         Capital Fund, L.P. and Everest Capital International
+         Ltd.  The capital for purchase of the Shares came from
+         Everest Capital Fund, L.P. and Everest Capital
+         International Ltd.
+
+Item. 4  Purpose of Transactions.
+
+         The Shares held by the above mentioned entities were
+         acquired for, and are being held for, investment
+         purposes.  The acquisitions of the Shares described
+         herein were made in the ordinary course of the Reporting
+         Person's business or investment activities, as the case
+         may be.  The Reporting Person, on behalf of the above
+         mentioned entities, reserves the right to purchase
+         Shares in privately negotiated transactions or in any
+         other lawful manner in the future. 
+
+Item 5.  Interest in Securities of Issuer.
+
+         (a)  On September 3, 1996 the Reporting Person was
+              deemed to be the beneficial owner of 1,293,474
+              Shares which represented 8.2% of the Issuer's
+              outstanding shares.  On September 11, 1996 the
+              Reporting Person beneficially owned 623,274 shares
+              which represented 4.0% of the Issuer's outstanding
+              shares.  
+
+         (b)  The Reporting Person had the sole power to vote and
+              dispose of all the shares held by the above
+              mentioned entities.
+
+         (c)  All transactions in the Shares effected by the
+              Reporting Person during the sixty days prior to
+
+
+                                4
+
+
+
+<PAGE>
+
+              September 11, 1996 were effected in open-market
+              transactions and are set forth in Exhibit A hereto.
+
+         (d)  No other person is known to have the right to
+              receive or the power to direct the receipt of
+              dividends from, or the proceeds from the sale of
+              the Shares.
+
+         (e)  The Reporting Person ceased to be the beneficial
+              owner of greater than 5% of the outstanding shares
+              on September 11, 1996.
+
+Item 6.  Contracts, Arrangements, Understandings or
+         Relationships with Respect to Securities of the Issuer
+
+         Except as described herein, there are no contracts,
+         arrangements, understandings or relationships between
+         the persons named in Item 2 hereof or between such
+         persons and any other person with respect to any
+         securities of the Issuer.
+
+Item 7.  Material to be Filed as Exhibits.
+
+         Exhibit A.   Schedule of Transactions in the Shares
+                      made by the Reporting Person.
+
+
+
+
+         Signature
+
+         After reasonable inquiry and to the best of my
+knowledge and belief, I certify that the information set
+forth in this statement is true, complete and correct.
+
+October 16, 1996 
+____________________________
+Date
+
+
+Everest Capital Limited
+
+
+By: Marko Dimitrejevic/President
+
+________________________________
+Name/Title
+
+
+
+
+
+
+                                5
+
+
+
+<PAGE>
+
+                             EXHIBIT A
+
+                     SCHEDULE OF TRANSACTIONS
+
+                                       Price Per Share
+                                         (Excluding
+Date               Shares Acquired       Commission)
+____               or (sold)           _____________
+
+7/26/96                (63,300)             $2.74
+
+7/29/96               (177,600)              2.78
+
+7/30/96                (58,000)              2.72
+
+8/2/96                 (24,500)              2.74
+
+8/5/96                 (72,000)              2.78
+
+8/7/96                 (17,500)              2.79
+
+8/7/96                 436,638               2.37
+
+8/9/96                (117,505)              2.51
+
+8/12/96                (10,900)              2.55
+
+8/13/96               (165,000)              2.03
+
+8/15/96                (36,500)              2.20
+
+8/16/96               (222,900)              2.14
+
+8/19/96                436,638               2.18
+
+8/19/96                (90,000)              2.15
+
+8/19/96                436,638               2.18
+
+8/21/96                 (2,500)              2.06
+
+8/22/96                (82,100)              2.00
+
+8/23/96               (100,00)               2.01
+
+8/26/96                (35,000)              2.04
+
+8/27/96                (30,300)              2.00
+
+8/28/96                (49,000)              1.97
+
+
+
+                                6
+
+
+
+<PAGE>
+
+                                       Price Per Share
+                                         (Excluding
+Date               Shares Acquired       Commission)
+                   or (Sold)
+____               _______________     ______________
+
+
+8/29/96               (38,500)               1.95
+
+8/30/96              (126,000)               1.80
+
+9/3/96               1,293,474               1.60
+
+9/3/96                (26,400)               1.72
+
+9/4/96               (150,000)               1.56
+
+9/6/96                420,200                1.79
+
+9/6/96               (420,200)               1.79
+
+9/11/96               247,000                1.75
+
+9/11/96              (250,000)               1.75
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 7
+00119001.CK6
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

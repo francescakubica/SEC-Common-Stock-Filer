@@ -1,0 +1,554 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ B1YHs4chRvdYYLkEF2lTEs0mjCU+1CiDuVVy4PkOcHwDC5W0E5Iuf4vJbDaV8clo
+ FMM0Zy93eQHk0gvv+/dUGw==
+
+<SEC-DOCUMENT>0001013594-97-000022.txt : 19970806
+<SEC-HEADER>0001013594-97-000022.hdr.sgml : 19970806
+ACCESSION NUMBER:		0001013594-97-000022
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970805
+SROS:			NASD
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PITTENCRIEFF COMMUNICATIONS INC
+		CENTRAL INDEX KEY:			0000903869
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO TELEPHONE COMMUNICATIONS [4812]
+		IRS NUMBER:				752394062
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-44711
+		FILM NUMBER:		97651673
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 VILLAGE DR STE 500
+		CITY:			ABILENE
+		STATE:			TX
+		ZIP:			79606
+		BUSINESS PHONE:		9156905800
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ELLIOTT ASSOCIATES LP
+		CENTRAL INDEX KEY:			0000904495
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		712 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		2129746000
+
+	MAIL ADDRESS:	
+		STREET 1:		712 FIFTH AVE
+		STREET 2:		36TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<TEXT>
+
+
+OMB APPROVAL
+OMB Number: 3235-0145
+Expires:  October 31, 1997
+Estimated average burden hours per form 14.90
+
+                        UNITED STATES
+             SECURITIES AND EXCHANGE COMMISSION
+                   Washington, D.C.  20549    
+
+                        SCHEDULE 13D
+
+Under the Securities Exchange Act of 1934
+(Amendment No. 2)*
+
+PITTENCRIEFF COMMUNICATIONS, INC.
+(Name of Issuer)
+
+Common Stock, $.01 Par Value
+(Title of Class of Securities)
+
+724514104
+(CUSIP Number)
+
+Stephen M. Schultz, Esq., Kleinberg, Kaplan, Wolff & Cohen,
+P.C., 551 Fifth Avenue, 18th Floor, New York, New York  10176,
+Tel: (212) 986-6000
+(Name, Address and Telephone Number of Person Authorized to
+Receive Notices and Communications)
+
+July 8, 1997
+(Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on
+Schedule 13G to report the acquisition which is the subject of
+this Schedule 13D, and is filing this schedule because of Rule
+13d-1(b)(3) or (4), check the following box .
+
+Check the following box if a fee is being paid with the
+statement .  (A fee is not required only if the reporting
+person: (1) has a previous statement on file reporting
+beneficial ownership of more than five percent of the class of
+securities described in Item 1; and (2) has filed no amendment
+subsequent thereto reporting beneficial ownership of five
+percent or less of such class.) (See Rule 13d-7.)
+
+Note:  Six copies of this statement, including all exhibits,
+should be filed with the Commission.  See Rule 13d-1(a) for
+other parties to whom copies are to be sent.
+
+*The remainder of this cover page shall be filled out for a
+reporting person's initial filing on this form with respect to
+the subject class of securities, and for any subsequent
+amendment containing information which would alter disclosures
+provided in a prior cover page.
+
+The information required on the remainder of this cover page
+shall not be deemed to be "filed" for the purpose of Section
+18 of the Securities Exchange Act of 1934 ("Act") or otherwise
+subject to the liabilities of that section of the Act but
+shall be subject to all other provisions of the Act (however,
+see the Notes).
+
+Continued on the Following Pages)
+Page 1 of 10 Pages<PAGE>
+1     NAME OF REPORTING PERSON
+      S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+           Elliott Associates, L.P., a Delaware Limited
+           Partnership
+
+2     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+      (a) 
+      (b) 
+
+3     SEC USE ONLY
+
+4     SOURCE OF FUNDS*
+           00
+
+5     CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+      PURSUANT TO ITEMS 2(d) or 2(e)    
+
+6     CITIZENSHIP OR PLACE OF ORGANIZATION
+           Delaware
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON
+WITH
+
+7     SOLE VOTING POWER
+           1,522,800                          
+
+8     SHARED VOTING POWER
+           0
+
+9     SOLE DISPOSITIVE POWER
+           1,522,800
+
+10    SHARED DISPOSITIVE POWER
+           0
+
+11    AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+      PERSON
+           1,522,800
+
+12    CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11)
+      EXCLUDES CERTAIN SHARES*    
+
+13    PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+           5.82% 
+
+14    TYPE OF REPORTING PERSON*
+           PN
+
+*SEE INSTRUCTIONS BEFORE FILLING OUT!
+INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+(INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE
+ATTESTATION.
+<PAGE>
+1     NAME OF REPORTING PERSON
+      S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+           Westgate International, L.P., a Cayman Islands
+           Limited Partnership
+
+2     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+      (a) 
+      (b) 
+
+3     SEC USE ONLY
+
+4     SOURCE OF FUNDS*
+           00
+
+5     CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS
+      REQUIRED PURSUANT TO ITEMS 2(d) or 2(e) 
+
+6     CITIZENSHIP OR PLACE OF ORGANIZATION
+           Cayman Islands, British West Indies
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON
+WITH 
+
+7     SOLE VOTING POWER
+           0
+
+8     SHARED VOTING POWER
+           1,068,300
+
+9     SOLE DISPOSITIVE POWER
+           0
+
+10    SHARED DISPOSITIVE POWER
+           1,068,300
+
+11    AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH
+      REPORTING PERSON
+           1,068,300
+
+12    CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11)
+      EXCLUDES CERTAIN SHARES*    
+
+13    PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+           4.08%
+
+14    TYPE OF REPORTING PERSON*
+           PN
+
+*SEE INSTRUCTIONS BEFORE FILLING OUT!
+INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+(INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE
+ATTESTATION.
+<PAGE>
+1     NAME OF REPORTING PERSON
+      S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+           Martley International, Inc., a Delaware corporation
+
+2     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+      (a) 
+      (b) 
+
+3     SEC USE ONLY
+
+4     SOURCE OF FUNDS*
+           00
+
+5     CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+      PURSUANT TO ITEMS 2(d) or 2(e)    
+
+6     CITIZENSHIP OR PLACE OF ORGANIZATION
+           Delaware
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH 
+REPORTING PERSON WITH
+
+7     SOLE VOTING POWER
+           0
+
+8     SHARED VOTING POWER
+           1,068,300
+
+9     SOLE DISPOSITIVE POWER
+           0
+
+10    SHARED DISPOSITIVE POWER
+           1,068,300
+
+11    AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH
+      REPORTING PERSON
+           1,068,300
+
+12    CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11)
+      EXCLUDES CERTAIN SHARES*    
+
+13    PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+           4.08%
+
+14    TYPE OF REPORTING PERSON*
+           CO
+*SEE INSTRUCTIONS BEFORE FILLING OUT!
+INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+(INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE
+ATTESTATION.
+<PAGE>
+ITEM 2.    Identity and Background
+
+      (a)-(c)    The names of the persons filing this
+statement on Schedule 13D are:  Elliott Associates, L.P., a
+Delaware limited partnership, and its wholly-owned
+subsidiaries ("Elliott"), Westgate International, L.P., a
+Cayman Islands limited partnership ("Westgate"), and Martley
+International, Inc., a Delaware corporation ("Martley").  Paul
+E. Singer ("Singer") and Braxton Associates, L.P., a Delaware
+limited partnership ("Braxton LP"), which is controlled by
+Singer, are the general partners of Elliott.  Hambledon, Inc.,
+a Cayman Islands corporation ("Hambledon"), is the sole
+general partner of Westgate.  Martley is the investment
+manager for Westgate.  Martley expressly disclaims equitable
+ownership of and pecuniary interest in any Common Stock.
+
+ELLIOTT
+
+      The business address of Elliott is 712 Fifth Avenue,
+36th Floor, New York, New York  10019.  
+
+      The principal business of Elliott is to purchase, sell,
+trade and invest in securities.
+
+      SINGER
+
+           Singer's business address is 712 Fifth Avenue,
+      36th Floor, New York, New York  10019.
+
+           Singer's principal occupation or employment is
+      that of serving as general partner of Elliott and
+      Braxton LP and president of Martley.
+
+      BRAXTON LP
+
+           The business address of Braxton LP is 712 Fifth
+      Avenue, 36th Floor, New York, New York 10019.
+
+           The principal business of Braxton LP is the
+      furnishing of investment advisory services. 
+
+           The names, business addresses, and present
+      principal occupation or employment of the general
+      partners of Braxton LP are as follows:
+
+       NAME<PAGE>
+ADDRESSOCCUPATIONPaul E.
+       Singer<PAGE>
+712 Fifth Avenue
+       36th Floor
+New York, New York
+10019<PAGE>
+General partner of
+Elliott and
+Braxton LP and
+President of
+Martley<PAGE>
+Braxton
+       Associates,
+       Inc.<PAGE>
+712 Fifth Avenue
+       36th Floor
+New York, New York
+10019<PAGE>
+The principal
+business of
+Braxton
+Associates, Inc.
+is serving as
+general partner of
+Braxton LP
+
+           The name, business address, and present principal
+      occupation or employment of each director and executive
+      officer of Braxton Associates, Inc. are as follows:
+
+
+
+       NAME<PAGE>
+ADDRESSOCCUPATIONPaul E.
+       Singer<PAGE>
+712 Fifth Avenue
+36th Floor
+New York, New York 
+10019
+<PAGE>
+General partner of
+Elliott and
+Braxton LP and
+President of
+MartleyWESTGATE
+
+      The business address of Westgate is Westgate
+International, L.P., c/o Midland Bank Trust Corporation
+(Cayman) Limited, P.O. Box 1109, Mary Street, Grand Cayman,
+Cayman Islands, British West Indies.  
+
+      The principal business of Westgate is to purchase, sell,
+trade and invest in securities.
+
+      The name, business address, and present principal
+occupation or employment of the general partner of Westgate
+are as follows:
+
+NAME: Hambledon, Inc.
+
+ADDRESS:   Hambledon, Inc.
+      c/o Midland Bank Trust Corporation (Cayman) Limited
+      P.O. Box 1109
+      Mary Street
+      Grand Cayman
+      Cayman Islands
+      British West Indies
+
+OCCUPATION:The principal business of Hambledon is serving as
+general partner of Westgate.
+
+      HAMBLEDON, INC.
+
+      The name, business address, and present principal
+occupation or employment of each director and executive
+officer of Hambledon are as follows:
+
+NAME             ADDRESS                OCCUPATION
+Paul E. Singer   712 Fifth Avenue       General partner of
+                 36th Floor             Elliott and
+                 New York, NY 10019     Braxton LP and
+                                        President of Martley
+
+MARTLEY INTERNATIONAL, INC.
+
+      The business address of Martley is 712 Fifth Avenue,
+36th Floor, New York, New York 10019.  
+
+      The principal business of Martley is to act as
+investment manager for Westgate.  
+
+      The name, business address, and present principal
+occupation or employment of each director and executive
+officer of Martley are as follows:
+
+NAME             ADDRESS              OCCUPATION
+Paul E. Singer   712 Fifth Avenue     General partner of
+                 36th Floor           Elliott and Braxton
+                 New York, NY 10019        LP and President 
+                                      of Martley
+
+      (d) and (e)  During the last five years, none of the
+persons or entities above has been (i) convicted in a criminal
+proceeding (excluding traffic violations or similar
+misdemeanors); or (ii) a party to a civil proceeding of a
+judicial or administrative body of competent jurisdiction and
+as a result of such proceeding was or is subject to a
+judgment, decree or final order enjoining future violations
+of, or prohibiting or mandating activities subject to, federal
+or state securities laws or finding any violation with respect
+to such laws.  
+
+      (f)  All of the natural persons listed above are
+citizens of the United States of America.
+
+ITEM 3.    Source and Amount of Funds or Other Consideration
+
+      The source and amount of funds used by Elliott in making
+purchases of the Common Stock beneficially owned by it are set
+forth below.
+
+SOURCE OF FUNDS                         AMOUNT OF FUNDS
+Margin accounts maintained at Smith      $6,607,769.23
+Barney and Merrill Lynch, Pierce,
+Fenner and Smith Inc. 
+
+      The source and amount of funds used by Westgate in
+making purchases of the Common Stock beneficially owned by it
+are set forth below.
+
+SOURCE OF FUNDS                         AMOUNT OF FUNDS
+Margin accounts maintained at Smith      $4,747,004.76
+Barney and Merrill Lynch, Pierce,
+Fenner and Smith Inc. 
+
+ITEM 5.    Interest in Securities of the Issuer
+
+      (a)  Elliott beneficially owns 1,522,800 shares of
+Common Stock, constituting 5.82% of the outstanding shares of
+Common Stock. 
+
+      Westga/97<PAGE>
+Common Stock
+ommon Stock<PAGE>
+400$4.0305/15/97Common Stock5,900$4.0605/16/97Common Stock
+<PAGE>
+6,000$4.0605/19/97Common Stock15,300$4.0505/21/97Common Stock5,000
+<PAGE>
+$3.8105/22/97Common Stock1,000$3.7505/27/97Common Stock15,800$3.81
+<PAGE>
+06/02/97Common Stock5,000$4.1306/04/97Common Stock5,600$4.0606/05/97
+<PAGE>
+Common Stock10,800$4.5206/09/97Common Stock4mon Stock10,000$5.13
+<PAGE>
+06/16/97Common Stock2,000$5.0006/17/97Common Stock12,000$5.13
+<PAGE>
+06/17/97Common Stock18,200$5.0906/19/97Common Stock12,500$5
+,000<PAGE>
+$5.3107/08/97Common Stock50,000$5.56
+      The above transactions were effected by Westgate over-
+the-counter in New York.
+
+      (d)  No person other than Elliott has the right to
+receive or the power to direct the receipt of dividends from, or
+the proceeds from the sale of, the shares of Common Stock
+beneficially owned by Elliott.
+
+      No person othe<PAGE>
+6,500$4.0605/19/97Common Stock15,300$4.0505/21/97
+<PAGE>
+Common Stock
+<PAGE>
+5,000$3.8105/23/97Common Stock200$3.7505/27/97Common Stock
+<PAGE>
+15,800$3.8106/02/97Common Stock5,000$4.1306/05/97Common Stock
+<PAGE>
+16,000$4.5206/09/97Common Stock7,200$4.9406/09/97Common Stock
+<PAGE>
+5,000$4.8806/10/97Common Stock
+the-counter in New York.<PAGE>
+The following transactions were effected by Westgate
+during the past sixty (60) days:<PAGE>
+DateSecurityAmount of
+Shares
+Bought (Sold)<PAGE>
+Approximate
+Price per Share
+(exclusive of commissions)<PAGE>
+05/05/97Common Stock4,000$4.0305/06/97
+<PAGE>
+Common Stock2,900$4.0605/07/97Common Stock10,600$4.0605/09/97
+<PAGE>
+Common Stock1,000$4.0605/13/97Common Stock400$4.0305/15/97
+<PAGE>
+Common Stock5,900$4.0605/16/97Common Stock6,000$4.0605/19/97
+<PAGE>
+Common Stock15,300$4.0505/21/97Common Stock5,000$3.8105/22/97
+<PAGE>
+Common Stock1,000$3.7505/27/97Common Stock15,800$3.8106/02/97
+<PAGE>
+Common Stock5,000$4.1306/04/97Common Stock5,600$4.0606/05/97
+<PAGE>
+Common Stock10,800$4.5206/09/97<PAGE>
+
+/97<PAGE>
+Common Stock
+     By:/s/ Paul E. Singer                     
+                       Paul E. Singer
+                       President
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

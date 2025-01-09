@@ -1,0 +1,388 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MIf5y2F0G7YFOzghtBvHYSYI+bhuw83qi2OFQshnLHhUADv4cFIvI9Hi6w2ZZJJL
+ 59irp4HFqaWK8eYV09i3oA==
+
+<SEC-DOCUMENT>0000928385-96-000057.txt : 19960216
+<SEC-HEADER>0000928385-96-000057.hdr.sgml : 19960216
+ACCESSION NUMBER:		0000928385-96-000057
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19960214
+SROS:			NYSE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RATIONAL SOFTWARE CORP
+		CENTRAL INDEX KEY:			0000722056
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				541217099
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-36182
+		FILM NUMBER:		96520104
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2800 SAN TOMAS EXPRESSWAY
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95051-0951
+		BUSINESS PHONE:		4084963600
+
+	MAIL ADDRESS:	
+		STREET 1:		2800 SAN TOMAS EXPRESSWAY
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95051-0951
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VERDIX CORP
+		DATE OF NAME CHANGE:	19920703
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LOCKHEED MARTIN CORP
+		CENTRAL INDEX KEY:			0000936468
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				521893632
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6801 ROCKLEDGE DRIVE
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20817
+		BUSINESS PHONE:		3018976000
+
+	MAIL ADDRESS:	
+		STREET 1:		6801 ROCKLEDGE DRIVE
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20817
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+
+<PAGE>
+ 
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+
+                                  SCHEDULE 13D
+
+
+                   Under the Securities Exchange Act of 1934
+
+
+         Rational Software Corporation (formerly, Verdix Corporation)
+          2800 San Tomas Expressway, Santa Clara, California  95051 
+- --------------------------------------------------------------------------------
+                               (Name of Issuer)
+
+                         Common Stock, $.01 Par Value 
+- --------------------------------------------------------------------------------
+                        (Title of Class of Securities)
+
+                                   923395107
+            -------------------------------------------------------
+                                (CUSIP Number)
+
+          Frank H. Menaker, Jr., Vice President and General Counsel,
+Lockheed Martin Corporation, 6801 Rockledge Drive, Bethesda, Maryland  20817 
+- --------------------------------------------------------------------------------
+(Name, Address and Telephone Number of Person Authorized to Receive Notices and
+                                Communications)
+
+                                March 15, 1995
+            -------------------------------------------------------
+            (Date of Event which Requires Filing of this Statement)
+
+
+If the filing person previously filed a statement of Schedule 13G to report the
+acquisition which is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4), check the following box [_].
+
+Check the following box if a fee is being paid with the statement [X]. (A fee is
+not required only if the reporting person: (1) has a previous statement on file
+reporting beneficial ownership of more than five percent of the class of
+securities described in Item 1; and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of such class.)
+(See Rule 13d-7.)
+
+Note:  Six copies of this statement, including all exhibits, should be filed
+with the Commission.  See Rule 13d-1(a) for other parties to whom copies are to
+be sent.
+
+*The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act (however, see the
+Notes).
+<PAGE>
+                                  SCHEDULE 13D
+- -------------------------                        -------------------------------
+CUSIP No. 923395107                                Page 2 of 6 Pages
+- -------------------------                        -------------------------------
+- --------------------------------------------------------------------------------
+ 1     NAME OF REPORTING PERSON
+       S.S. OR I.R.S IDENTIFICATION NO. OF ABOVE PERSON
+ 
+           Lockheed Martin Corporation
+           as successor in interest to Lockheed Corporation
+           and Martin Marietta Corporation.*
+           I.R.S. Employer Identification No. 52-1893632
+ 
+           *Martin Marietta Corporation previously filed Schedule 13D and
+           amendments thereto with respect to its interest in the Issuer's
+           shares.
+- --------------------------------------------------------------------------------
+ 2     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP              (a) [_]
+                                                             (b) [_]
+           NOT APPLICABLE
+- --------------------------------------------------------------------------------
+ 3     SEC USE ONLY
+ 
+- --------------------------------------------------------------------------------
+ 4     SOURCE OF FUNDS
+ 
+           NOT APPLICABLE
+- --------------------------------------------------------------------------------
+ 5     CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO
+       ITEMS 2(d) or 2(e)                                                [_]
+- --------------------------------------------------------------------------------
+ 6     CITIZENSHIP OR PLACE OF ORGANIZATION
+
+           Maryland
+- ------------------------------------------------------------------------------
+                       7  SOLE VOTING POWER
+ 
+     NUMBER OF              696,000*
+      SHARES         
+   BENEFICIALLY             *This reflects the number of shares now owned by
+     OWNED BY               Lockheed Martin. At the time of the combination
+       EACH                 of the businesses of Lockheed Corporation and Martin
+     REPORTING              Marietta Corporation, Lockheed Martin became the
+      PERSON                beneficial owner of an aggregate of 1,426,281 shares
+       WITH                 of Common Stock representing 11.5% of the then
+                            outstanding shares of the Issuer.
+                   -------------------------------------------------------------
+                       8  SHARED VOTING POWER
+ 
+                   -------------------------------------------------------------
+                       9  SOLE DISPOSITIVE POWER
+ 
+                            696,000*
+ 
+                            *This reflects the number of shares now owned by
+                            Lockheed Martin. At the time of the combination of
+                            the businesses of Lockheed Corporation and Martin
+                            Marietta Corporation, Lockheed Martin became the
+                            beneficial owner of an aggregate of 1,426,281 shares
+                            of Common Stock representing 11.5% of the then
+                            outstanding shares of the Issuer.
+                   ------------------------------------------------------------
+                      10  SHARED DISPOSITIVE POWER    
+- ------------------------------------------------------------------------------- 
+11     AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH
+       REPORTING PERSON
+ 
+           696,000*
+ 
+           *This reflects the number of shares now owned by Lockheed Martin. At
+           the time of the combination of the businesses of Lockheed Corporation
+           and Martin Marietta Corporation, Lockheed Martin became the
+           beneficial owner of an aggregate of 1,426,281 shares of Common Stock
+           representing 11.5% of the then outstanding shares of the Issuer.
+- -------------------------------------------------------------------------------
+12     CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11)                 [_]
+       EXCLUDES CERTAIN SHARES
+
+- -------------------------------------------------------------------------------
+13     PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+ 
+           4.4%*
+ 
+           *This reflects the percentage of shares now owned by Lockheed Martin.
+           At the time of the combination of the businesses of Lockheed
+           Corporation with Martin Marietta Corporation, Lockheed Martin became
+           the beneficial owner of 11.5% of the then outstanding stock of the
+           Issuer. Subsequent to that date Lockheed Martin disposed of 730,281
+           shares in a public offering. See Item 4 hereof and Amendment No. 1
+           to this Schedule 13D filed contemporaneously with this filing.
+
+- -------------------------------------------------------------------------------
+14     TYPE OF REPORTING PERSON*
+ 
+           CO
+- ------------------------------------------------------------------------------
+ 
+<PAGE>
+ 
+                                  Schedule 13D
+                                  ------------
+
+
+
+                                        
+
+Item 1.  Security and Issuer.
+         ------------------- 
+
+
+     Common Stock, $.01 par value ("Common Stock")
+     Rational Software Corporation (formerly Verdix Corporation)
+     2800 San Tomas Expressway
+     Santa Clara, California  95051.
+
+Item 2.   Identity and Background.
+          ----------------------- 
+
+     Lockheed Martin Corporation as successor in interest to
+     Lockheed Corporation and Martin Marietta Corporation.
+     6801 Rockledge Drive
+     Bethesda, Maryland  20817
+
+     Incorporated in Maryland.
+
+     Lockheed Martin Corporation is a diversified enterprise principally engaged
+in the conception, design, manufacturer and integration of advanced technology
+products and services for the United States government and private industry.
+Lockheed Martin Corporation also manages significant facilities for the
+Department of Energy and produces construction aggregates and specialty chemical
+products.
+
+
+     Lockheed Martin Corporation has not, during the last five years, been
+convicted in a criminal proceeding. On January 27, 1995, Lockheed Corporation, 
+one of the corporations that combined to form Lockheed Martin Corporation 
+entered into a plea agreement pursuant to which Lockheed Corporation agreed to 
+plead guilty to one count of conspiring to violate the bribery provisions of the
+Foreign Corrupt Practices Act and conspiracy to falsify its books, records and 
+accounts.
+
+     Lockheed Martin Corporation has not, during the last five years, been
+subject to a judgment, decree or final order in joining future violations of, or
+prohibiting or mandating activities subject to, federal or state securities laws
+or finding any violation with respect to such laws.
+
+Item 3.   Source and Amount of Funds or other Consideration.
+          ------------------------------------------------- 
+
+     Not Applicable.
+
+Item 4.   Purpose of Transaction.
+          ---------------------- 
+
+     In connection with the combination of the businesses of Lockheed
+Corporation with the businesses of Martin Marietta Corporation on March 15,
+1995, Lockheed Martin became the beneficial owner of an aggregate of 1,426,281
+shares of Common
+
+
+                                  Page 4 of 6
+<PAGE>
+ 
+   Stock representing 11.5% of the then outstanding shares. Of these shares, a
+portion was beneficially owned by Martin Marietta Corporation which had filed a
+Schedule 13D, and amendments thereto with respect to such shares. The rest of
+the shares were beneficially owned by Lockheed Corporation. Subsequent to that
+date, Lockheed Martin disposed of 730,281 shares in a registered public
+offering. Accordingly the total number of shares of Common Stock currently owned
+by Lockheed Martin is 696,000 representing 4.4% of the issued and outstanding
+shares.
+
+     Lockheed Martin presently has no plans or proposals that relate to or would
+result in (i) the acquisition or disposition of securities of the Issuer by any
+person; (ii) an extraordinary corporate transaction, such as a merger,
+reorganization or liquidation, involving the Issuer or any of its subsidiaries;
+(iii) a sale or transfer of a material amount of assets of the Issuer or any of
+its subsidiaries; (iv) any change in the present board of directors or
+management of the Issuer, including any plans or proposals to change the number
+or term of directors or to fill any existing vacancies on the board; (v) any
+material change in the present capitalization or dividend policy of the Issuer;
+(vi) any other material change in the Issuer's business or corporate structure;
+(vii) changes in the Issuer's articles of incorporation or bylaws or other
+actions which may impede the acquisition of control of the Issuer by any person;
+(viii) causing a class of securities of the Issuer to be delisted from a
+national securities exchange or to cease to be authorized to be quoted in an
+inter-dealer quotation system of a registered national securities association;
+(ix) causing a class of equity securities to become eligible for termination of
+registration pursuant to Section 12(g)(4) of the Act, as amended; or (x) any
+action similar to any of those enumerated in clauses (i) through (ix) of this
+sentence.
+
+Item 5.   Interest in Securities of the Issuer.
+          ------------------------------------ 
+
+     The 696,000 shares of Common Stock (4.4% of the class) beneficially owned
+by Lockheed Martin Corporation are held of record by Martin Marietta Investments
+Inc., a wholly-owned subsidiary of Lockheed Martin Corporation.
+
+Item 6.   Contracts, Arrangements, Understandings or Relationships with Respect
+          ---------------------------------------------------------------------
+          to Securities of the Issuer.
+          --------------------------- 
+
+     Not Applicable.
+
+Item 7.   Material to be Filed as Exhibits.
+          -------------------------------- 
+
+     Not Applicable.
+
+
+                                  Page 5 of 6
+<PAGE>
+ 
+                                   SIGNATURE
+
+
+     After reasonable inquiry and to the best of his knowledge and belief, the
+undersigned certifies that the information set forth in this statement is true,
+complete and correct.
+
+
+                                    LOCKHEED MARTIN CORPORATION
+ 
+
+
+                                    By: /s/ Stephen M. Piper
+                                       ---------------------------
+                                       Stephen M. Piper
+                                       Assistant General Counsel
+                                       and Assistant Secretary
+
+                                       Dated:  February 14, 1996
+        
+
+
+                                  Page 6 of 6
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

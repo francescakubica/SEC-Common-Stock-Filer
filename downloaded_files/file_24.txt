@@ -1,0 +1,486 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ O7eVZee7sPddEJlnJdUfwE1pdNYr3SH8kG3WLkMZPQTmuAY07wy90i7jWNzvdv4U
+ gYoVBiKQRpjsYCa3j8DbuA==
+
+<SEC-DOCUMENT>0000950116-97-001672.txt : 19970912
+<SEC-HEADER>0000950116-97-001672.hdr.sgml : 19970912
+ACCESSION NUMBER:		0000950116-97-001672
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970905
+SROS:			NONE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COMSTOCK RESOURCES INC
+		CENTRAL INDEX KEY:			0000023194
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				941667468
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		
+		SEC FILE NUMBER:	005-38546
+		FILM NUMBER:		97676030
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5005 LBJ FRWY STE 1000
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75244
+		BUSINESS PHONE:		2147012000
+
+	MAIL ADDRESS:	
+		STREET 1:		5005 LBJ FREEWAY
+		STREET 2:		STE 1000
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75244
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COMSTOCK TUNNEL & DRAINAGE CO
+		DATE OF NAME CHANGE:	19880121
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CAMBRIDGE INVESTMENTS LTD/
+		CENTRAL INDEX KEY:			0001029513
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		IRS NUMBER:				942784624
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 MONTGOMERY ST
+		STREET 2:		27TH FL
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+		BUSINESS PHONE:		4157810866
+
+	MAIL ADDRESS:	
+		STREET 1:		600 MONTGOMERY ST
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<TEXT>
+
+<PAGE>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                  SCHEDULE 13D
+
+
+                    Under the Securities Exchange Act of 1934
+
+
+                            COMSTOCK RESOURCES, INC.
+- --------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+                          Common Stock, $0.50 Par Value
+- --------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+
+                                    205768203
+- --------------------------------------------------------------------------------
+                                 (CUSIP NUMBER)
+
+                           CAMBRIDGE INVESTMENTS, LTD.
+                              600 Montgomery Street
+                                   27th Floor
+                         San Francisco, California 94111
+                            Tel. No.: (415) 627-3017
+- --------------------------------------------------------------------------------
+                  (Name, Address and Telephone Number of Person
+                Authorized to Receive Notices and Communications)
+
+                               - with copies to -
+
+                           Michael G. Tannenbaum, Esq.
+              Newman Tannenbaum Helpern Syracuse & Hirschtritt LLP
+                          900 Third Avenue - 13th Floor
+                            New York, New York 10022
+                                 (212) 508-6700
+
+                                 August 7, 1997
+- --------------------------------------------------------------------------------
+             (Date of event which requires filing of this statement)
+
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4) check the following box [ ]
+
+The information required in the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934, as amended ("Act") or otherwise subject to the liabilities of that section
+of the Act but shall be subject to all other provisions of the Act.
+
+                                Page 1 of 8 Pages
+                                                      
+
+<PAGE>
+- -------------------------------------------------------------------------------
+CUSIP No. 205768203                   13D
+- -------------------------------------------------------------------------------
+    1      NAME OF REPORTING PERSONS
+           S.S OR I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS
+
+                Cambridge Investments, Ltd.
+- ------------------------------------------------------------------------------
+    2      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*    (a)  [ ] 
+                                                                (b)  [ ] 
+- ------------------------------------------------------------------------------
+    3      SEC USE ONLY
+- ------------------------------------------------------------------------------
+    4      SOURCE OF FUNDS*
+                00
+- ------------------------------------------------------------------------------
+    5      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDING IS REQUIRED 
+           PURSUANT TO ITEM 2(d) OR 2(e)                             [ ] 
+            
+- ------------------------------------------------------------------------------
+    6      CITIZENSHIP OR PLACE OR ORGANIZATION
+                U.S.A.
+- ------------------------------------------------------------------------------
+  NUMBER OF    |  7  |   SOLE VOTING POWER
+   SHARES      |     |       1,233,000 shares of Common Stock (See Item 5)
+BENEFICIALLY   |-----|--------------------------------------------------------
+  OWNED BY     |  8  |   SHARED VOTING POWER                
+   EACH        |     |       0
+ REPORTING     |-----|-------------------------------------------------------- 
+PERSON WITH    |  9  |   SOLE DISPOSITIVE POWER
+               |     |       1,233,000 shares of Common Stock (See Item 5.)
+               |-----|--------------------------------------------------------
+               | 10  |   SHARED DISPOSITIVE POWER             
+               |     |       0
+- ------------------------------------------------------------------------------
+   11     AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+          1,233,000 shares of Common Stock (See Item 5.)
+- ------------------------------------------------------------------------------
+   12     CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+          CERTAIN SHARES*                                             [ ]
+- ------------------------------------------------------------------------------
+   13     PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+          5.1% of Common Stock  (See Item 5)
+- ------------------------------------------------------------------------------
+   14     TYPE OF REPORTING PERSON*
+          IA
+- ------------------------------------------------------------------------------
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT
+
+                                Page 2 of 8 Pages
+                                                      
+
+<PAGE>
+
+
+
+                                  SCHEDULE 13D
+
+
+                  This Schedule 13D is being filed on behalf of Cambridge
+Investments, Ltd., a California corporation ("Cambridge"), registered as an
+investment advisor in the State of California, regarding shares of Comstock
+Resources, Inc. acquired on behalf of certain of its clients.
+
+Item 1.           Security and Issuer
+
+                  Securities acquired:  Common Stock, $0.50 par value
+
+                  Issuer:       Comstock Resources, Inc. (the "Issuer")
+                                5005 LBJ Freeway - Suite 1000
+                                Dallas, TX  75244
+                                (214) 701-2000
+
+
+Item 2.           Identity and Background
+
+                  Cambridge Investments, Ltd., a California corporation
+("Cambridge"), is registered as an investment advisor in the State of California
+and provides investment management services to private individuals and
+institutions. Cambridge's contracts with its clients generally provide that
+Cambridge is responsible for designing and implementing either the client's
+overall investment strategy or the strategy of a client's portfolio managed by
+Cambridge; for conducting direct portfolio management strategies to the extent
+Cambridge determines that it is appropriate to utilize its own portfolio
+management capabilities. Cambridge is located at 600 Montgomery Street, San
+Francisco, California 94111. Cambridge has not been convicted in a criminal
+proceeding during the last five (5) years. Cambridge is not, and during the past
+five (5) years was not, a party to a civil proceeding of a judicial or
+administrative body of competent jurisdiction and as a result thereof, subject
+to any judgment, decree or final order enjoining future violations of, or
+prohibiting or mandating activities subject to, federal or state securities laws
+or finding any violation with respect to such laws.
+
+                  Mr. John R. Tozzi ("JRT") is the sole shareholder, director
+and principal of Cambridge. His business address is 600 Montgomery Street, San
+Francisco, California 94111. JRT's principal occupation is investment management
+and he is a United States citizen. During the past five (5) years, JRT has not
+been (a) convicted in a criminal proceeding, or (b) a party to any civil
+proceeding as a result of which he has been subject to any judgment, decree or
+final order enjoining future violations of, or prohibiting or mandating
+activities subject to federal or state securities laws or finding any violation
+with respect to such laws.
+
+
+
+                                Page 3 of 8 Pages
+                                                      
+
+<PAGE>
+
+
+
+Item 3.           Source and Amount of Funds
+
+                  Cambridge, through Cambridge Energy, L.P. ("CELP"), Cambridge
+Energy Fund International Ltd. ("CEF") Cambridge Oil & Gas, L.P. ("COG"),
+Cambridge Oil & Gas International, Ltd. ("COG Int'l"), Palamundo, LDC
+("Palamundo"), Quantum Partners, LDC ("QP") and Cambridge (collectively, the
+"Funds"), has invested approximately $10,843,846.17 in Common Stock of the
+Issuer as described in Item 5 below. CELP, CEF, COG, COG Int'l., Palamundo, QP
+and Cambridge have invested approximately $3,770,361.72, $3,532.879.71,
+$955,534.00, $237,334.38, $48,456.00, $1,786,706.95 and $512,573.41,
+respectively. The source of these funds was the respective working capital of
+each of the Funds. JRT may be deemed to have invested directly and indirectly
+approximately $1,677,527.26 in Common Stock of the Issuer as described in Item 5
+below.
+
+
+Item 4.           Purpose of the Transaction
+
+                  Cambridge has acquired shares of Common Stock reported in Item
+5(c) hereof over the last sixty (60) days, and prior thereto, for portfolio
+investment purposes only, and do not have any present plans or proposals that
+relate to or would result in any change in the business, policies, management,
+structure or capitalization of the Issuer. Cambridge reserves the right to
+acquire, or dispose of, additional securities of the Issuer or any of its
+securities in the ordinary course of business, to the extent deemed advisable in
+light of their general investment and trading policies, market conditions or
+other factors. The Issuer may from time to time contact large shareholders with
+a view towards discussing the acquisition of their shares. Other than as
+described above, Cambridge does not have plans or proposals which would result
+in any of the following:
+
+               1)   the acquisition by any person of additional securities of
+                    the Issuer, or the disposition of securities of the Issuer;
+
+               2)   an extraordinary corporate transaction, such as a merger,
+                    reorganization or liquidation, involving the Issuer or any
+                    of its subsidiaries;
+
+               3)   a sale or transfer of a material amount of assets of the
+                    Issuer or any of its subsidiaries;
+
+               4)   any change in the present board of directors or management
+                    of the Issuer, including any plans or proposals to change
+                    the number or term of directors or to fill any vacancies on
+                    the board;
+
+               5)   any material change in the present capitalization or
+                    dividend policy of the Issuer;
+
+               6)   any other material change in the Issuer's business or
+                    corporate structure;
+
+
+                                Page 4 of 8 Pages
+                                                      
+
+<PAGE>
+
+
+
+               7)   changes in the Issuer's charter, by-laws or instruments
+                    corresponding thereto or other actions which may impede the
+                    acquisition of control of the Issuer by any person;
+
+               8)   causing a class of securities of the issuer to be delisted
+                    from a national securities exchange or to cease to be
+                    authorized to be quoted in an interdealer quotation system
+                    of a registered national securities association;
+
+               9)   causing a class of securities of the Issuer to become
+                    eligible for termination of registration pursuant to Section
+                    12(g)(4) of the Act; or
+
+               10)  any action similar to any of those enumerated above.
+
+
+Item 5.           Interest in Securities of the Issuer
+
+                  (a) Cambridge is the beneficial owner of 1,233,000 shares of
+Common Stock, or 5.1% shares of the shares outstanding. Of the 1,233,000 shares
+of Common Stock described above, (i) 415,200 are deemed beneficially owned by
+Cambridge in its capacity as investment advisor for the institutional account of
+CELP; (ii) 350,116 are deemed beneficially owned by Cambridge in its capacity as
+investment advisor for the institutional account of CEF; (iii) 76,300 are deemed
+beneficially owned by Cambridge in its capacity as investment advisor for the
+institutional account of COG; (iv) 20,850 are deemed beneficially owned by
+Cambridge in its capacity as investment advisor for the institutional account of
+COG Int'l.; (v) 11,234 are deemed beneficially owned by Cambridge in its
+capacity as investment advisor for the institutional account of Palamundo; (vi)
+158,200 are deemed beneficially owned by Cambridge in its capacity as investment
+advisor for the institutional account of QP; and (vii) 46,300 are deemed
+beneficially owned by Cambridge in its capacity as investment advisor for its
+institutional account. JRT, directly and indirectly, may be deemed the
+beneficial owner of 154,800 shares of Common Stock or, in the aggregate, 0.6% of
+the shares outstanding.
+
+                  The number of shares beneficially owned by Cambridge, and the
+percentage of outstanding shares represented thereby, have been computed in
+accordance with Rule 13d-3 under the Act. The percentage of ownership of
+Cambridge on August 15, 1997 is based on 24,200,000 outstanding shares of Common
+Stock as reported in the Issuer's Quarterly Report on Form 10-Q as filed with
+the Securities and Exchange Commission on August 11, 1997.
+
+                  (b) Cambridge has the sole power to vote and dispose of the
+shares of Common Stock held for the institutional accounts of CELP, CEF, COG,
+COG Int'l., Palamundo, QP and Cambridge, respectively. JRT has the sole power to
+vote and dispose of the 154,800 shares of Common Stock held by him directly or
+through an entity established for the benefit of his family.
+
+
+                                Page 5 of 8 Pages
+                                                      
+
+<PAGE>
+
+
+
+                  (c) The transactions in the Issuer's securities by Cambridge
+over the last sixty (60) days are listed as Annex A attached hereto and made
+apart hereof.
+
+                  (d) The Funds, respectively, and the entity established for
+the benefit of JRT's family have the right to participate in the receipt of
+dividends from, or proceeds from the sale of securities held on behalf of such
+funds.
+
+                  (e)    Not Applicable.
+
+
+Item 6.           Contracts, Arrangement, Understandings or Relationships with 
+                  Respect to Securities of the Issuer
+
+                  Not Applicable.
+
+
+Item 7.           Material to be Filed as Exhibits
+
+                  Not Applicable
+
+                                Page 6 of 8 Pages
+                                                      
+
+<PAGE>
+
+
+
+
+
+                                               CRK
+<TABLE>   
+<CAPTION> 
+================================================================================================================================
+         DATE                   TRANS                          SHARES                     PRICE              ACCOUNT
+                                (A/D)                                             ($)
+- --------------------------------------------------------------------------------------------------------------------------------
+<S>                             <C>                 <C>                          <C>                       <C>       
+       07/03/97                   D                              500                       10.25            Palamundo
+- --------------------------------------------------------------------------------------------------------------------------------
+       07/25/97                   A                           10,000                      10.875              JRT*
+- --------------------------------------------------------------------------------------------------------------------------------
+       07/25/97                   A                           10,000                      10.875           COG Int'l.
+- --------------------------------------------------------------------------------------------------------------------------------
+       07/25/97                   A                           15,000                      10.875               COG
+- --------------------------------------------------------------------------------------------------------------------------------
+       07/28/97                   A                           60,000                        10.5              JRT*
+- --------------------------------------------------------------------------------------------------------------------------------
+       08/01/97                   A                           34,100                     10.9191               QP
+- --------------------------------------------------------------------------------------------------------------------------------
+       08/01/97                   A                           10,000                     10.9191              JRT*
+- --------------------------------------------------------------------------------------------------------------------------------
+       08/04/97                   A                           46,300                     11.0707               CIL
+- --------------------------------------------------------------------------------------------------------------------------------
+       08/04/97                   A                           20,000                     11.0707              JRT*
+- --------------------------------------------------------------------------------------------------------------------------------
+       08/04/97                   A                           46,300                     11.0707               JRT
+- --------------------------------------------------------------------------------------------------------------------------------
+       08/05/97                   A                            3,500                     11.4211              JRT*
+- --------------------------------------------------------------------------------------------------------------------------------
+       08/05/97                   A                            3,500                     11.1982               QP
+- --------------------------------------------------------------------------------------------------------------------------------
+       08/05/97                   A                           17,900                     11.4211               QP
+- --------------------------------------------------------------------------------------------------------------------------------
+       08/06/97                   A                           12,700                     11.4375               QP
+- --------------------------------------------------------------------------------------------------------------------------------
+       08/07/97                   A                           90,000                     11.3942               QP
+- --------------------------------------------------------------------------------------------------------------------------------
+       08/08/97                   A                            5,000                      11.125              JRT*
+- --------------------------------------------------------------------------------------------------------------------------------
+       08/14/97                   A                            5,850                     11.9375           COG Int'l.
+- --------------------------------------------------------------------------------------------------------------------------------
+       08/14/97                   A                            5,850                     11.9375            Palamundo
+- --------------------------------------------------------------------------------------------------------------------------------
+       08/15/97                   A                            5,000                       11.75           COG Int'l.
+- --------------------------------------------------------------------------------------------------------------------------------
+       Subtotal:
+================================================================================================================================
+</TABLE>
+
+* These transactions relate to shares held by JRT and any entity established for
+the benefit of his family.
+
+                                Page 7 of 8 Pages
+                                                      
+
+<PAGE>
+
+
+Signatures
+
+         After reasonable inquiry and to the best of our knowledge and belief,
+the undersigned certify that the information set forth in this statement is
+true, complete and correct.
+
+
+Dated:  September 4, 1997
+
+
+                                                 CAMBRIDGE INVESTMENTS, LTD.
+
+
+                                                 By: /s/ Jocelyn E. Weingart
+                                                     ---------------------------
+                                                     Jocelyn E. Weingart,
+                                                     Vice President
+
+                                Page 8 of 8 Pages
+                                                      
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

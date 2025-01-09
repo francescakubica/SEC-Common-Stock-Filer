@@ -1,0 +1,592 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NIoDYzjGPENdSdhP5NJxkYpOmUUqn5wsAlxuY7F7VAGMBBS8m2UmUa3JqVKenjz0
+ NTxO/coMvT3sb+crcoeO1A==
+
+<SEC-DOCUMENT>0000950150-97-001257.txt : 19970912
+<SEC-HEADER>0000950150-97-001257.hdr.sgml : 19970912
+ACCESSION NUMBER:		0000950150-97-001257
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		19970829
+SROS:			NYSE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CATELLUS DEVELOPMENT CORP
+		CENTRAL INDEX KEY:			0000865937
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPERATORS OF NONRESIDENTIAL BUILDINGS [6512]
+		IRS NUMBER:				942953477
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		
+		SEC FILE NUMBER:	005-41228
+		FILM NUMBER:		97673201
+
+	BUSINESS ADDRESS:	
+		STREET 1:		201 MISSION ST
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+		BUSINESS PHONE:		4159744500
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CALIFORNIA PUBLIC EMPLOYEES RETIREMENT SYSTEM
+		CENTRAL INDEX KEY:			0000919079
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				946207465
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX 942707
+		CITY:			SACRAMENTO
+		STATE:			CA
+		ZIP:			95812
+		BUSINESS PHONE:		9163263666
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D, AMENDMENT NO. 8
+<TEXT>
+
+<PAGE>   1
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+
+                                 AMENDMENT NO. 8
+
+                                       to
+
+                                  SCHEDULE 13D
+
+
+                    Under the Securities Exchange Act of 1934
+
+
+                        CATELLUS DEVELOPMENT CORPORATION
+                            (Name of Subject Company)
+
+
+                         Common Shares, $0.01 par value
+                         (Title of Class of Securities)
+
+
+                                   149-111-106
+                                   -----------
+                                 (CUSIP Number)
+
+                                 Sheryl Pressler
+                            Chief Investment Officer
+                          California Public Employees'
+                               Retirement Systems
+                          Lincoln Plaza, 400 "P" Street
+                          Sacramento, California 95814
+                             Tel. No. (916) 326-3828
+                             -----------------------
+                     (Name, Address and Telephone Number of
+                          Persons Authorized to Receive
+                           Notices and Communications)
+
+
+                               September 13, 1996
+                               ------------------
+                          (Date of Event Which Requires
+                            Filing of this Statement)
+
+
+
+                               Page 1 of 11 Pages
+
+
+<PAGE>   2
+                                  SCHEDULE 13D
+
+
+CUSIP No.     149-111-106                                    PAGE 2 OF 11 PAGES
+
+- --------------------------------------------------------------------------------
+   1  NAME OF REPORTING PERSON
+      S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+                 California Public Employees' Retirement System
+                 I.R.S. I.D. No. 94-620-7465
+- --------------------------------------------------------------------------------
+   2  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+                                                                       (a) [ ]
+                                                                       (b) [ ]
+- --------------------------------------------------------------------------------
+   3  SEC USE ONLY
+
+- --------------------------------------------------------------------------------
+   4  SOURCE OF FUNDS*
+            00
+- --------------------------------------------------------------------------------
+   5  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT 
+      TO ITEMS 2(d) or 2(e)                                                 [ ]
+- --------------------------------------------------------------------------------
+   6  CITIZENSHIP OR PLACE OF ORGANIZATION
+            California
+- --------------------------------------------------------------------------------
+                      7   SOLE VOTING POWER
+                          37,757,250 shares
+     NUMBER OF        ----------------------------------------------------------
+       SHARES         8   SHARED VOTING POWER
+    BENEFICIALLY          0
+      OWNED BY        ----------------------------------------------------------
+        EACH          9   SOLE DISPOSITIVE POWER
+     REPORTING            37,757,250 shares
+       PERSON         ----------------------------------------------------------
+        WITH          10  SHARED DISPOSITIVE POWER
+                          0
+- --------------------------------------------------------------------------------
+  11  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+      37,757,250 shares
+- --------------------------------------------------------------------------------
+  12  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES* [ ]
+
+- --------------------------------------------------------------------------------
+  13  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+              35.5%
+- --------------------------------------------------------------------------------
+  14  TYPE OF REPORTING PERSON*
+              EP
+- --------------------------------------------------------------------------------
+
+                               Page 2 of 11 Pages
+
+<PAGE>   3
+
+
+
+
+                  This Amendment No. 8 amends and supplements the Statement on
+Schedule 13D (the "Schedule 13D") filed by California Public Employees'
+Retirement System ("CalPERS"), a governmental employee pension fund, which is a
+unit of the State and Consumer Services Agency of the State of California, with
+respect to the common stock, par value $0.01 per share (the "Common Stock") of
+Catellus Development Corporation, a Delaware corporation (the "Issuer").
+Capitalized terms used but not defined in this Amendment No. 8 have the meanings
+given to such terms in the Schedule 13D.
+
+Item 2.           Identity and Background.
+
+                  Information with respect to persons identified in Schedule A
+of Item 2 is amended as follows:
+
+                  Information concerning the current executive officers and
+members of the Board of Administration of CalPERS is set forth in Schedule A to
+this Amendment No. 8. Each of such executive officers and members of the Board
+of Administration is a citizen of the United States.
+
+                  To the best of the knowledge of the filing persons, no person
+named in Schedule A to this Amendment No. 8 during the last five years (i) has
+been convicted in a criminal proceeding (excluding traffic violations and
+similar misdemeanors); or (ii) has been a party to a civil proceeding of a
+judicial or administrative body of competent jurisdiction and as a result of
+such proceeding was or is subject to a judgment, decree or final order enjoining
+future violations of, or prohibiting or mandating activities subject to, federal
+or state securities laws or finding any violation with respect to such laws.
+
+Item 4.           Purpose of the Transaction.
+
+                  Item 4 is amended by adding to the end thereof the following
+information:
+
+                  During the period between September 1996 and April 1997,
+CalPERS converted a total of 1,405,702 shares of the $3.75 Series A Cumulative
+Convertible Preferred Stock of the Issuer (the "Series A Preferred Stock") into
+7,757,645 shares of the Common Stock. CalPERS also received an aggregate of
+$18.42 in cash in lieu of fractional shares.
+
+                  In July 1996, the Issuer called for redemption 950,000 shares
+or approximately $50 million of the Series A Preferred Stock. On September 13,
+1996, CalPERS converted all of its 387,077 shares of the Series A Preferred
+Stock that were called for redemption and received in the aggregate 2,136,161
+shares of the Common Stock and $7.90 in cash in lieu of fractional shares.
+
+
+                               Page 3 of 11 Pages
+
+
+
+<PAGE>   4
+
+
+
+                  In December 1996, the Issuer called for redemption an
+additional 475,000 shares or approximately $25 million of the Series A Preferred
+Stock. On January 1, 1997, CalPERS converted all of its 194,365 shares of the
+Series A Preferred Stock that were called for redemption and received in the
+aggregate 1,072,641 shares of the Common Stock and $4.29 in cash in lieu of
+fractional shares.
+
+                  On February 5, 1997, the Issuer called for redemption an
+additional 1,720,000 shares or approximately $90 million of the Series A
+Preferred Stock. On March 18, 1997, CalPERS converted all of its 712,916 shares
+of the Series A Preferred Stock that were called for redemption and received in
+the aggregate 3,934,369 shares of the Common Stock and $4.98 in cash in lieu of
+fractional shares.
+
+                  On March 24, 1997, the Issuer called for redemption of the
+remaining outstanding 250,000 shares or approximately $13 million of the Series
+A Preferred Stock. On April 17, 1997, CalPERS converted all of its remaining
+shares (111,344) of the Series A Preferred Stock and received in the aggregate
+614,474 shares of the Common Stock and $1.25 in cash in lieu of fractional
+shares.
+
+                  As a result of the conversions described above, CalPERS
+currently holds an aggregate of 37,757,250 shares of the Common Stock and no
+share of any other class of securities of the Issuer. CalPERS has sole power to
+vote and direct the vote and sole power to dispose of or direct the disposition
+of such shares.
+
+                  On September 25, 1996, CalPERS executed and delivered a letter
+agreement between CalPERS and the Issuer (the "September Letter Agreement"). The
+September Letter Agreement provides, among other things, that CalPERS will
+maintain the confidentiality of information provided to CalPERS by the Issuer.
+The description of the terms and conditions of the September Letter Agreement is
+qualified in its entirety by reference to the text of such agreement, which is
+filed as Exhibit 14 hereto and incorporated herein by reference.
+
+Item 5.           Interest in Securities of Issuer.
+
+                  Item 5 is amended by adding to the end thereof the following
+information:
+
+                  During the period between September 1996 and April 1997,
+CalPERS converted a total of 1,405,702 shares of the $3.75 Series A Cumulative
+Convertible Preferred Stock of the Issuer (the "Series A Preferred Stock") into
+7,757,645 shares of the Common Stock. CalPERS also received an aggregate of
+$18.42 in cash in lieu of fractional shares.
+
+                  In July 1996, the Issuer called for redemption 950,000 shares
+or approximately $50 million of the Series A Preferred Stock. On September 13,
+1996, CalPERS converted all of its 387,077 shares of the Series A Preferred
+Stock that were called for redemption and received in the aggregate 2,136,161
+shares of the Common Stock and $7.90 in cash in lieu of fractional shares.
+
+                               Page 4 of 11 Pages
+
+
+
+<PAGE>   5
+
+
+
+
+                  In December 1996, the Issuer called for redemption an
+additional 475,000 shares or approximately $25 million of the Series A Preferred
+Stock. On January 1, 1997, CalPERS converted all of its 194,365 shares of the
+Series A Preferred Stock that were called for redemption and received in the
+aggregate 1,072,641 shares of the Common Stock and $4.29 in cash in lieu of
+fractional shares.
+
+                  On February 5, 1997, the Issuer called for redemption an
+additional 1,720,000 shares or approximately $90 million of the Series A
+Preferred Stock. On March 18, 1997, CalPERS converted all of its 712,916 shares
+of the Series A Preferred Stock that were called for redemption and received in
+the aggregate 3,934,369 shares of the Common Stock and $4.98 in cash in lieu of
+fractional shares.
+
+                  On March 24, 1997, the Issuer called for redemption of the
+remaining outstanding 250,000 shares or approximately $13 million of the Series
+A Preferred Stock. On April 17, 1997, CalPERS converted all of its remaining
+shares (111,344) of the Series A Preferred Stock and received in the aggregate
+614,474 shares of the Common Stock and $1.25 in cash in lieu of fractional
+shares. CalPERS has sole power to vote and direct the vote and sole power to
+dispose of or direct the disposition of such shares.
+
+                  As a result of the conversions described above, CalPERS
+currently holds an aggregate of 37,757,250 shares of the Common Stock and no
+share of any other class of securities of the Issuer. CalPERS has sole power to
+vote and direct the vote and sole power to dispose of or direct the disposition
+of such shares.
+
+Item 6.           Contracts, Arrangements, Understandings or Relationships with
+                  Respect to Securities of the Issuer.
+
+                  Item 6 is amended by adding to the end thereof the following
+information:
+
+                  CalPERS has executed and delivered the September Letter
+Agreement, which among other things confirms that CalPERS will maintain the
+confidentiality of information provided to CalPERS by the Issuer. The
+description of terms of the September Letter Agreement is qualified in its
+entirety by reference to the text of such Agreement, which is filed as Exhibit
+14 hereto and incorporated herein by reference.
+
+Item 7.           Material to be filed as Exhibits.
+
+                  Item 7 is amended by adding the following exhibit:
+
+                  14.  Letter agreement dated September 25, 1996 between CalPERS
+                       and the Issuer.
+
+
+                               Page 5 of 11 Pages
+
+
+
+<PAGE>   6
+
+
+
+                                    SIGNATURE
+
+
+
+                  After reasonable inquiry and to the best of my knowledge and
+belief, I certify that the information set forth in this statement is true,
+complete and correct.
+
+Date:  August 29, 1997           CALIFORNIA PUBLIC EMPLOYEES'
+                                 RETIREMENT SYSTEM
+
+
+                                 By:  /s/ SHERYL PRESSLER
+                                    -------------------------------------
+                                      Sheryl Pressler
+                                 Title: Chief Investment
+                                        Officer
+
+                               Page 6 of 11 Pages
+
+
+
+<PAGE>   7
+
+
+
+                                   SCHEDULE A
+
+                 CALIFORNIA PUBLIC EMPLOYEES' RETIREMENT SYSTEM
+
+
+
+                  Listed below are the executive officers and members of the
+Board of Administration of the California Public Employees' Retirement System
+and their present principal occupations and residence or business addresses.
+
+Executive Officers
+- ------------------
+
+
+James E. Burton                             Chief Executive Officer
+                                            California Retirement Employees'
+                                            Retirement System
+                                            Lincoln Plaza
+                                            400 "P" Street
+                                            Sacramento, California 94229-2701
+
+Sheryl Pressler                             Chief Investment Officer
+                                            California Retirement Employees'
+                                            Retirement System
+                                            Lincoln Plaza
+                                            400 "P" Street
+                                            Sacramento, California  94229-2701
+
+
+Members of the Board of
+      Administration
+- -----------------------
+
+
+Ronald L. Alvarado                          Executive Director
+                                            Capital Area Development Authority
+                                            1530 Capitol Avenue
+                                            Sacramento, California 95814
+
+Robert Carlson                              Retired
+                                            2120 Lambeth Way
+                                            Carmichael, California 95608
+
+Thomas Clark                                Retired
+                                            2267 Albury Avenue
+                                            Long Beach, California 90815
+
+
+                               Page 7 of 11 Pages
+
+
+
+<PAGE>   8
+
+
+
+Kathleen Connell                           Controller of the State of California
+                                           300 Capital Mall, 18th Floor
+                                           Sacramento, California 95814
+
+William Crist                              Professor of Economics
+                                           California State University 
+                                           Stanislaus
+                                           801 Monte Vista Avenue
+                                           Turlock, California  95380
+
+Michael Flaherman                          Economist
+                                           Bay Area Rapid Transit
+                                           800 Madison Street, Room 432
+                                           Oakland, California 94657
+
+Matt Fong                                  Treasurer of the State of California
+                                           915 Capital Mall, Suite 110
+                                           Sacramento, California 95814
+
+William Rosenberg                          Retired
+                                           555 Pierce Street, #721
+                                           Albany, California  94706
+
+Kurato Shimada                             Landscape/Grounds Custodial 
+                                           Supervisor
+                                           Oak Grove School District
+                                           6578 Santa Teresa Boulevard
+                                           San Jose, California  95119
+
+Joseph A. Thomas                           Pacific Mutual Life Insurance
+                                           P.O. Box 8926
+                                           Newport Beach, California 92658
+
+David Tirapelle                            Director, Department of Personnel
+                                           Administration
+                                           North Building, Suite 400
+                                           1515 S Street
+                                           Sacramento, California 95814
+
+Charles F. Valdes                          Attorney
+                                           California Department of 
+                                           Transportation
+                                           P.O. Box 1438
+                                           Sacramento, California 95807
+
+
+
+                               Page 8 of 11 Pages
+
+
+<PAGE>   9
+
+
+
+                                  EXHIBIT INDEX
+                                  -------------
+
+
+
+Number                                                              Page
+
+14     Letter agreement dated September 25, 1996
+       between CalPERS and the Issuer                               10
+
+
+
+                               Page 9 of 11 Pages
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.14
+<SEQUENCE>2
+<DESCRIPTION>LETTER AGREEMENT DATED SEPTEMBER 25, 1996
+<TEXT>
+
+<PAGE>   1
+
+
+
+                        CATELLUS DEVELOPMENT CORPORATION
+
+
+                               September 19, 1996
+
+
+
+Mr. David J. Gilbert
+Sr. Real Estate Investment Officer
+California Public Employees' Retirement System
+400 P Street, Room 3492
+Sacramento, California  95814
+
+Dear Mr. Gilbert:
+
+         In my capacity as the Chief Financial Officer of the Catellus
+Development Corporation ("Catellus"), you have advised me that you need
+additional financial material and data to assist you in connection with
+formulating your advice with respect to certain investment decisions pertaining
+to Catellus now confronting CalPERS. In particular, CalPERS is considering
+whether to elect to tender a portion of the Catellus Series A Convertible Common
+Preferred Stock for partial redemption or to elect to convert that stock into
+Catellus Common Preferred Stock. To assist you in analyzing these matters on
+behalf of CalPERS, you have requested that we supply you with valuation
+materials concerning certain of Catellus' properties. Those matters are
+contained in a binder which we have prepared dated September 9, 1996 (the
+"Binder").
+
+         In order to induce Catellus to deliver the Binder to you, you hereby
+agree that you shall not disclose any information in the Binder to third
+parties, if it is not public knowledge. You also agree that you will only use
+the information contained in the Binder in connection with the above-referenced
+investment decisions. Finally, you agree that you will not make copies of the
+materials in the Binder, except if Catellus so authorizes in writing. You also
+agree that you will return the Binder and any copies thereof to Catellus upon
+your completion of the analysis referenced above.
+
+                                Very truly yours,
+
+
+                                By:   /s/ Stephen P. Wallace
+                                   ------------------------------------------
+                                      Stephen P. Wallace
+                                      Senior Vice President &
+                                      Chief Financial Officer
+                                      Catellus Development Corporation
+
+
+                               Page 10 of 11 Pages
+
+
+
+<PAGE>   2
+
+
+Agreed and accepted
+this 25 day of September, 1996
+
+
+By: /s/ David J. Gilbert
+    ------------------------------------------------- 
+    David J. Gilbert
+    California Public Employees' Retirement System
+
+
+
+                               Page 11 of 11 Pages
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

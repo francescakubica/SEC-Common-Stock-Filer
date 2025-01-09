@@ -1,0 +1,604 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ ftlc75zRe71JEN4rRJyqho/mm+9AXh43W89BaJ/PFRWgXBUhQYOS1B9T3V1tGtYo
+ eaaeWFyGmmFtIfSL8HVtBQ==
+
+<IMS-DOCUMENT>0000935836-95-000025.txt : 19950615
+<IMS-HEADER>0000935836-95-000025.hdr.sgml : 19950615
+ACCESSION NUMBER:		0000935836-95-000025
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19950315
+SROS:			NASD
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SYSTEMS & COMPUTER TECHNOLOGY CORP
+		CENTRAL INDEX KEY:			0000707606
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		IRS NUMBER:				231701520
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-35772
+		FILM NUMBER:		95520714
+
+	BUSINESS ADDRESS:	
+		STREET 1:		GREAT VALLEY CORPORATE CTR
+		STREET 2:		4 COUNTRY VIEW RD
+		CITY:			MALVERN
+		STATE:			PA
+		ZIP:			19355
+		BUSINESS PHONE:		6106475930
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EMERGING GROWTH MANAGEMENT CO
+		CENTRAL INDEX KEY:			0000919183
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 BUSH ST SUITE 1300
+		STREET 2:		15TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+
+	MAIL ADDRESS:	
+		STREET 2:		ONE BUSH STREET SUITE 1300
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<TEXT>
+
+<PAGE>
+                                       OMB APPROVAL
+
+                                   OMB Number:3235-0145
+                                   Expires:October 31, 1994
+                                   Estimated average burden
+                                   hours per form 14.90
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+SCHEDULE 13D
+
+Under the Securities Exchange Act of 1934
+(Amendment No. *)
+
+Systems & Computer Technology Corporation
+(Name of Issuer)
+
+Common Stock
+- ---------------------------------------------------------------------------
+(Title of Class of Securities)
+
+871873105
+(CUSIP Number)
+
+Christopher J. Rupright, Esq.
+Shartsis Friese & Ginsburg
+One Maritime Plaza, 18th Floor
+San Francisco, CA 94111
+(415) 421-6500
+- ---------------------------------------------------------------------------
+(Name, Address and Telephone Number of Person Authorized to Receive Notices
+and Communications)
+
+February 2, 1995
+Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to
+report the acquisition which is the subject of this Schedule 13D, and is
+filing this schedule because of Rule 13d-1(b)(3) or (4), check the following
+box / /.
+
+Check the following box if a fee is being paid with the statement /X/.  (A
+fee is not required only if the reporting person: (1) has a previous
+statement on file reporting beneficial ownership of more than five percent of
+the class of securities described in Item 1; and (2) has filed no amendment
+subsequent thereto reporting beneficial ownership of five percent or less of
+such class.)  (See Rule 13d-7.)
+
+Note:  Six copies of this statement, including all exhibits, should be filed
+with the Commission.  See Rule 13d-1(a) for other parties to whom copies are
+to be sent.
+
+* The remainder of this cover page shall be filled out for a reporting
+person's initial filing on this form with respect to the subject class of
+securities, and for any subsequent amendment containing information which
+would alter disclosures provided in a prior cover page.<PAGE>
+<PAGE>
+                               SCHEDULE 13D
+
+CUSIP No. 871873105                                    Page 2 of 11 Pages
+
+
+The information required on the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+Act of 1934 ("Act") or otherwise subject to the liabilities of that section
+of the Act but shall be subject to all other provisions of the Act (however,
+see the Notes).
+
+
+
+                                                  SEC 1746 (12-91)
+<PAGE>
+<PAGE>
+                               SCHEDULE 13D
+
+CUSIP No. 871873105                                    Page 3 of 11 Pages
+
+- ---------------------------------------------------------------------------
+1    NAME OF REPORTING PERSON
+     SS OR IRS IDENTIFICATION NO. OF ABOVE PERSON
+
+     Emerging Growth Management Co.
+- ---------------------------------------------------------------------------
+2    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*      (a) /X/ (b) / /
+- ---------------------------------------------------------------------------
+3    SEC USE ONLY
+- ---------------------------------------------------------------------------
+4    SOURCE OF FUNDS*
+
+     AF
+- ---------------------------------------------------------------------------
+5    CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO
+     ITEMS 2(d) or 2(E)                                               / /
+- ---------------------------------------------------------------------------
+6    CITIZENSHIP OR PLACE OF ORGANIZATION
+
+     California
+- ---------------------------------------------------------------------------
+      NUMBER OF          7    SOLE VOTING POWER
+       SHARES                 -0-
+    BENEFICIALLY         --------------------------------------------------
+      OWNED BY           8    SHARED VOTING POWER
+        EACH                  619,000
+      REPORTING          --------------------------------------------------
+       PERSON            9    SOLE DISPOSITIVE POWER
+        WITH                  -0-
+                         --------------------------------------------------
+                         10   SHARED DISPOSITIVE POWER
+                              619,000
+- ---------------------------------------------------------------------------
+11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+     619,000
+- ---------------------------------------------------------------------------
+12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+                                                                      / /
+- ---------------------------------------------------------------------------
+13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+     4.8%
+- ---------------------------------------------------------------------------
+14   TYPE OF REPORTING PERSON*
+     CO
+- ---------------------------------------------------------------------------
+*SEE INSTRUCTIONS BEFORE FILLING OUT!
+INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+(INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.<PAGE>
+<PAGE>
+SCHEDULE 13D
+
+CUSIP No. 871873105                               Page 4 of 11 Pages
+
+- ---------------------------------------------------------------------------
+1    NAME OF REPORTING PERSON
+     SS OR IRS IDENTIFICATION NO. OF ABOVE PERSON
+
+     Adit Partners, a California Limited Partnership
+- ---------------------------------------------------------------------------
+2    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*(a) /X/ (b)/ /
+- ---------------------------------------------------------------------------
+3    SEC USE ONLY
+- ---------------------------------------------------------------------------
+4    SOURCE OF FUNDS*
+
+     WC
+- ---------------------------------------------------------------------------
+5    CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO
+     ITEMS 2(d) or 2(E)                                / /
+- ---------------------------------------------------------------------------
+6    CITIZENSHIP OR PLACE OF ORGANIZATION
+
+     California
+- ---------------------------------------------------------------------------
+      NUMBER OF          7    SOLE VOTING POWER
+       SHARES                 -0-
+    BENEFICIALLY         --------------------------------------------------
+      OWNED BY           8    SHARED VOTING POWER
+        EACH                  93,500
+      REPORTING          --------------------------------------------------
+       PERSON            9    SOLE DISPOSITIVE POWER
+        WITH                  -0-
+                         --------------------------------------------------
+                         10   SHARED DISPOSITIVE POWER
+                              93,500
+- ---------------------------------------------------------------------------
+11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+     93,500
+- ---------------------------------------------------------------------------
+12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES* 
+                                                                 / /
+- ---------------------------------------------------------------------------
+13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+     0.7%
+- ---------------------------------------------------------------------------
+14   TYPE OF REPORTING PERSON*
+     PN
+- ---------------------------------------------------------------------------
+*SEE INSTRUCTIONS BEFORE FILLING OUT!
+INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+(INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+<PAGE>
+<PAGE>
+                               SCHEDULE 13D
+
+CUSIP No. 871873105                               Page 5 of 11 Pages
+
+- ---------------------------------------------------------------------------
+1    NAME OF REPORTING PERSON
+     SS OR IRS IDENTIFICATION NO. OF ABOVE PERSON
+
+     Michael T. Jackson
+- ---------------------------------------------------------------------------
+2    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*  (a)/X / (b) / /
+- ---------------------------------------------------------------------------
+3    SEC USE ONLY
+- ---------------------------------------------------------------------------
+4    SOURCE OF FUNDS*
+
+     AF and PF
+- ---------------------------------------------------------------------------
+5    CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO
+     ITEMS 2(d) or 2(E)                                               / /
+- ---------------------------------------------------------------------------
+6    CITIZENSHIP OR PLACE OF ORGANIZATION
+
+     United States
+- ---------------------------------------------------------------------------
+      NUMBER OF          7    SOLE VOTING POWER
+       SHARES                 35,000
+    BENEFICIALLY         --------------------------------------------------
+      OWNED BY           8    SHARED VOTING POWER
+        EACH                  94,200
+      REPORTING          --------------------------------------------------
+       PERSON            9    SOLE DISPOSITIVE POWER
+        WITH                  35,000
+                         --------------------------------------------------
+                         10   SHARED DISPOSITIVE POWER
+                              94,200
+- ---------------------------------------------------------------------------
+11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+     129,200
+- ---------------------------------------------------------------------------
+12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES* 
+                                                                      / /
+- ---------------------------------------------------------------------------
+13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+     1.0%
+- ---------------------------------------------------------------------------
+14   TYPE OF REPORTING PERSON*
+     IN
+- ---------------------------------------------------------------------------
+*SEE INSTRUCTIONS BEFORE FILLING OUT!
+INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+(INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+<PAGE>
+<PAGE>
+                               SCHEDULE 13D
+
+CUSIP No. 871873105                                    Page 6 of 11 Pages
+
+- ---------------------------------------------------------------------------
+1    NAME OF REPORTING PERSON
+     SS OR IRS IDENTIFICATION NO. OF ABOVE PERSON
+
+     Christopher F. Jackson
+- ---------------------------------------------------------------------------
+2    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*  (a)/X / (b) / /
+- ---------------------------------------------------------------------------
+3    SEC USE ONLY
+- ---------------------------------------------------------------------------
+4    SOURCE OF FUNDS*
+
+     PF
+- ---------------------------------------------------------------------------
+5    CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO
+     ITEMS 2(d) or 2(E)                                          / /
+- ---------------------------------------------------------------------------
+6    CITIZENSHIP OR PLACE OF ORGANIZATION
+
+     United States
+- ---------------------------------------------------------------------------
+      NUMBER OF          7    SOLE VOTING POWER
+       SHARES                 1,200
+    BENEFICIALLY         --------------------------------------------------
+      OWNED BY           8    SHARED VOTING POWER
+        EACH                  -0-
+      REPORTING          --------------------------------------------------
+       PERSON            9    SOLE DISPOSITIVE POWER
+        WITH                  1,200
+                         --------------------------------------------------
+                         10   SHARED DISPOSITIVE POWER
+                              -0-
+- ---------------------------------------------------------------------------
+11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+     1,200
+- ---------------------------------------------------------------------------
+12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES* 
+                                                                 / /
+- ---------------------------------------------------------------------------
+13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+     0.01%
+- ---------------------------------------------------------------------------
+14   TYPE OF REPORTING PERSON*
+     IN
+- ---------------------------------------------------------------------------
+*SEE INSTRUCTIONS BEFORE FILLING OUT!
+INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+(INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+<PAGE>
+<PAGE>
+                               SCHEDULE 13D
+
+CUSIP No. 871873105                               Page 7 of 11 Pages
+
+ITEM 1.   SECURITY AND ISSUER.
+
+This statement relates to shares of Common Stock (the "Stock") of Systems &
+Computer Technology Corporation, a Delaware corporation ("SCTC").  The
+principal executive office of SCTC is located at Great Valley Corporate
+Center, 4 Country View Road, Malvern, PA  19355.
+
+
+ITEM 2.   IDENTITY AND BACKGROUND.
+
+The persons filing this statement and the persons enumerated in Instruction
+C of Schedule 13D and, where applicable, their respective places of
+organization, general partners, directors, executive officers and controlling
+persons, and the information regarding them, are as follows:
+
+     (a)  Emerging Growth Management Co., a California corporation ("EGM");
+Adit Partners, a California Limited Partnership ("ADIT"); Michael T. Jackson
+("M. Jackson"); Thomas D. Henwood ("Henwood"); Paul H. Baastad ("Baastad");
+Jacqueline M. Keyser ("Keyser"); and Christopher F. Jackson ("C. Jackson").
+
+     (b)  The business address of all such persons is One Bush Street, Suite
+1300, San Francisco, California  94104.
+
+     (c)  EGM is an investment adviser to various managed accounts.  EGM is
+a general partner of ADIT.  M. Jackson is a director and executive officer of
+EGM and a general partner of ADIT.  Henwood is a director and executive
+officer of EGM.  Baastad is a director and executive officer of EGM.  Keyser
+is a director and executive officer of EGM.  C. Jackson is an employee of
+EGM.  ADIT is an investment partnership.
+
+     (d)  During the last five years, none of such persons has been convicted
+in a criminal proceeding (excluding traffic violations or similar
+misdemeanors).
+
+     (e)  During the last five years, none of such persons was a party to a
+civil proceeding of a judicial or administrative body of competent
+jurisdiction and as a result of such proceeding was or is subject to a
+judgment, decree or final order enjoining future violations of, or
+prohibiting or mandating activities subject to, federal or state securities
+laws or finding any violation with respect to such laws.
+
+     (f)  All such persons are citizens of the United States of America.
+<PAGE>
+<PAGE>
+                               SCHEDULE 13D
+
+CUSIP No. 871873105                                    Page 8 of 11 Pages
+
+ITEM 3.   SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION.
+
+The source and amount of funds used in purchasing the Stock were as follows:
+
+
+Purchaser      Source of Funds                              Amount
+
+EGM(1)         Accounts Under Management                    $10,494,342.49
+ADIT           Working Capital                              $ 1,420,022.50
+M. Jackson(2)  Personal Funds and Accounts Under Management $   568,745.25
+C. Jackson     Personal Funds                               $    18,641.34
+
+(1) Includes amounts invested in the Stock by ADIT.
+(2) Includes accounts of M. Jackson's immediate family and M. Jackson's
+revocable trust.
+
+ITEM 4.   PURPOSE OF TRANSACTION.
+
+The sole purpose of the acquisitions of the Stock reported herein was and is
+for investment.
+
+ITEM 5.   INTEREST IN SECURITIES OF THE ISSUER.
+
+The beneficial ownership of the Stock of the persons named in Item 2 of this
+statement is as follows at the date hereof:
+
+
+               Aggregate
+               Beneficially 
+               Owned               Voting Power        Dispositive Power
+Name           Number    Percent   Sole      Shared    Sole      Shared
+
+EGM            619,000   4.8%          -0-   619,000      -0-    619,000
+ADIT            93,500   0.7%          -0-    93,500      -0-     93,500
+M. Jackson     129,200   1.0%       35,000    94,200   35,000     94,200
+C. Jackson       1,200   0.01%       1,200       -0-    1,200        -0-
+
+The persons filing this statement effected the following transactions in the
+Stock on the dates indicated, and such transactions are the only transactions
+by the persons filing this statement in the Stock since December 4, 1994:  
+
+<PAGE>
+<PAGE>
+                               SCHEDULE 13D
+
+CUSIP No. 871873105                                    Page 9 of 11 Pages
+
+     Purchase                 Number         Price     Broker
+Name  or Sale  Date           of Shares      Per Share Used
+
+EGM            P    12/13/94       10,000         19.62     Smith
+EGM            P    12/14/94        5,000         19.87     Smith
+EGM            P    12/19/94       20,000         19.87     HQ
+EGM            P    12/19/94        5,000         20.00     Smith
+EGM            P    12/20/94       10,000         20.12     HQ
+EGM            P    12/29/94       12,100         20.62     HQ
+EGM            P    12/30/94        4,900         20.87     HQ
+EGM            P    1/4/95         14,000         20.06     HQ
+EGM            P    1/18/95        22,500         19.87     Smith
+EGM            P    1/19/95         5,700         19.87     Mont
+EGM            P    1/23/95         1,200         19.12     HQ
+EGM            P    1/25/95        10,800         18.50     Smith
+EGM            P    1/30/95         4,600         17.25     Chicago
+EGM            P    2/1/95         71,200         17.09     Smith
+EGM            P    2/2/95         22,400         17.00     Smith
+EGM            P    2/6/95          3,800         16.62     Smith
+M. Jackson     P    2/6/95         11,000         16.62     Smith
+EGM            P    2/8/95          4,200         16.87     Smith
+M. Jackson     P    2/10/95        10,000         16.50     Smith
+EGM            P    2/17/95         1,100         18.25     Smith
+
+
+     Key to brokers used:
+     
+          Chicago   -    The Chicago Corporation
+          HQ        -    Hambrecht & Quist
+          Mont      -    Montgomery Scott
+          Smith     -    Smith Barney Inc.
+
+ITEM. 6.  CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH
+          RESPECT TO SECURITIES OF THE ISSUER.
+
+EGM is a general partner of ADIT, pursuant to a limited partnership
+agreement providing to EGM the authority, among other things, to invest the
+funds of EGM in the Stock, to vote and dispose of those securities and to
+file this statement on behalf of EGM.  Pursuant to that limited partnership
+agreement, the general partners of ADIT are entitled to fees based on
+assets under management and special profit allocations based on realized
+and unrealized gains and losses, if certain conditions are met.  Pursuant
+to investment management agreements, EGM is authorized, among other things,
+to invest funds of its various investment advisory clients, and to vote and
+dispose of those securities.  Such investment management agreements may be
+terminated by either party pursuant to the terms of such agreements, and
+provide for fees payable to EGM based on assets under management and, in
+certain cases, realized and unrealized gains and losses, if certain
+conditions are met.
+<PAGE>
+<PAGE>
+                               SCHEDULE 13D
+
+CUSIP No. 871873105                                    Page 10 of 11 Pages
+
+
+ITEM 7.   MATERIAL TO BE FILED AS EXHIBITS.
+
+A.   Agreement Regarding Joint Filing of Statement on Schedule 13D or 13G.
+
+
+SIGNATURES
+
+     After reasonable inquiry and to the best of my knowledge, I certify
+that the information set forth in this statement is true, complete and
+correct.
+
+DATED:    March ___, 1995
+
+Emerging Growth Management Co.          Adit Partners, a California Limited
+                                        Partnership
+                                                  
+                                                  
+By: _____________________________                 
+     Michael T. Jackson, Chairman       By:  Emerging Growth Management Co.
+                                             General Partner
+
+
+_________________________________            By: ________________________
+Michael T. Jackson                                Michael T. Jackson, 
+                                                  Chairman
+_________________________________  
+Christopher F. Jackson
+<PAGE>
+<PAGE>
+                               SCHEDULE 13D
+
+CUSIP No. 871873105                                    Page 11 of 11 Pages
+
+
+                                                            EXHIBIT A
+
+AGREEMENT REGARDING JOINT FILING
+OF STATEMENT ON SCHEDULE 13D OR 13G
+
+The undersigned agree to file jointly with the Securities and Exchange
+Commission (the "SEC") any and all statements on Schedule 13D or Schedule 13G
+(and any amendments or supplements thereto) required under section 13(d) of
+the Securities Exchange Act of 1934, as amended, in connection with purchases
+by the undersigned of common stock of Systems & Computer Technology
+Corporation, a Delaware corporation.  For that purpose, the undersigned
+hereby constitute and appoint Emerging Growth Management Co., a California
+corporation, as their true and lawful agent and attorney-in-fact, with full
+power and authority for and on behalf of the undersigned to prepare or cause
+to be prepared, sign, file with the SEC and furnish to any other person all
+certificates, instruments, agreements and documents necessary to comply with
+section 13(d) and section 16(a) of the Securities Exchange Act of 1934, as
+amended, in connection with said purchases, and to do and perform every act
+necessary and proper to be done incident to the exercise of the foregoing
+power, as fully as the undersigned might or could do if personally present.
+
+DATED:  March ___, 1995.
+
+
+SIGNATURES
+
+     After reasonable inquiry and to the best of my knowledge, I certify that
+the information set forth in this statement is true, complete and correct.
+
+DATED:    March ___, 1995
+
+Emerging Growth Management Co.          Adit Partners, a California Limited
+                                        Partnership
+                                                  
+                                                  
+By: _____________________________                 
+     Michael T. Jackson, Chairman       By:  Emerging Growth Management Co.
+                                             General Partner
+
+
+_________________________________            By: ________________________
+Michael T. Jackson                                Michael T. Jackson, 
+                                                  Chairman
+_________________________________  
+Christopher F. Jackson
+
+
+C:\DMS\3237\010\0117957.WP
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

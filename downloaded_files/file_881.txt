@@ -1,0 +1,306 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Nd0DiwBhOBF7UIprbZCPOmdQEhOFuQfD9stbyhQ2mxJBpH5TPyHqWeXNx7FWzy0R
+ DoLFWiNG4KMJ6GY0WU8GDA==
+
+<SEC-DOCUMENT>0000919859-97-000042.txt : 19970730
+<SEC-HEADER>0000919859-97-000042.hdr.sgml : 19970730
+ACCESSION NUMBER:		0000919859-97-000042
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970729
+SROS:			NONE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NUMAC ENERGY INC
+		CENTRAL INDEX KEY:			0000073330
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				980135687
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-51323
+		FILM NUMBER:		97646982
+
+	BUSINESS ADDRESS:	
+		STREET 1:		321 6TH AVE
+		CITY:			CALGARY ALBERTA CANA
+		STATE:			A0
+		BUSINESS PHONE:		4034231718
+
+	MAIL ADDRESS:	
+		STREET 1:		321 6TH AVE
+		CITY:			CALGARY ALBERTA CANA
+		STATE:			A0
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MACKENZIE FINANCIAL CORP
+		CENTRAL INDEX KEY:			0000919859
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		150 BLOOR ST STE M111
+		STREET 2:		TORONTO ONTARIO
+		CITY:			M5S 3B5
+		STATE:			A6
+		BUSINESS PHONE:		6177287161
+
+	MAIL ADDRESS:	
+		STREET 1:		150 BLOOR STREET
+		STREET 2:		STE M111
+		CITY:			TORONTO ONTARIO
+		STATE:			A6
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<TEXT>
+
+                          UNITED STATES
+               SECURITIES AND EXCHANGE COMMISSION
+                     Washington, D.C.  20549
+                                
+                          SCHEDULE 13D
+            Under the Securities Exchange Act of 1934
+ 
+                      (Amendment No. Two)*
+ 
+                        NUMAC ENERGY INC.
+                        (Name of Issuer)
+ 
+                          COMMON SHARES
+                 (Title of Class of Securities)
+ 
+                            67052A103
+                         (CUSIP Number)
+ 
+        HAROLD P. HANDS, EXECUTIVE VICE PRESIDENT, LEGAL
+ MACKENZIE FINANCIAL CORPORATION, 150 BLOOR STREET WEST, SUITE M111,
+            TORONTO, ONTARIO  M5S 3B5 (416) 922-5322
+ (Name, Address and Telephone Number of Person Authorized to Receive Notices
+                      and Communications)
+                                 
+                       September 30, 1993
+     (Date of Event which Requires Filing of this Statement)
+ 
+ If the filing person has previously filed a statement on Schedule 13G to report
+ the acquisition which is the subject of this Schedule 13D, and is filing this
+ schedule because of Rule 13d-1(b) (3) or (4), check the following box [  ].
+ 
+ Check the following box if a fee is being paid with the statement [ ].  (A fee
+ is not required only if the reporting person: (1) has a previous statement on
+ file reporting beneficial ownership of more than five percent of the class of
+ securities described in Item 1;  and (2) has filed no amendment subsequent
+ thereto reporting beneficial ownership of five percent or less of such class). 
+ (See Rule 13d-7).
+ 
+ Note:  Six copies of this statement, including all exhibits, should be filed
+ with the Commission.  See Rule 13d-1(a) for other parties to whom copies are
+ to be sent.
+ 
+ *  The remainder of this cover page shall be filled out for a reporting
+ person's initial filing on this form with respect to the subject class of
+ securities, and for any subsequent amendment containing information which would
+ alter disclosures provided in a prior cover page.
+ 
+ The information required on the remainder of this cover page shall not be
+ deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+ Act of 1934 ("Act") or otherwise subject to the liabilities of that section of
+ the Act but shall be subject to all other provisions of the Act (however, see
+ the Notes).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CUSIP No.     67052A103       13D                   Page 2 of 4
+ 
+ 
+ 
+     1.   NAME OF REPORTING PERSON
+          S.S.  OR  I.R.S.  IDENTIFICATION NO. OF ABOVE PERSON
+          Industrial Growth Fund, by its Investment Advisor,
+          Mackenzie Financial Corporation
+ 
+     2.   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP *     (a) [   ]
+                                                       (b) [ x ]
+     3.   SEC USE ONLY
+ 
+     4.   SOURCE OF FUNDS
+          00 - Internal Investment Company Assets
+ 
+     5.   CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+          PURSUANT TO ITEMS 2(d) or 2(E)                   [   ]
+ 
+     6.   CITIZENSHIP OR PLACE OF ORGANIZATION
+          Toronto, Ontario, Canada
+ 
+          NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH:
+     7.   SOLE VOTING POWER
+          2,000,000 Shares (through Investment Advisor, Mackenzie Financial
+           Corporation)
+ 
+     8.   SHARED VOTING POWER
+          NIL
+ 
+     9.   SOLE DISPOSITIVE POWER
+          2,000,000 Shares (through Investment Advisor, Mackenzie Financial
+           Corporation)
+ 
+     10.  SHARED DISPOSITIVE POWER
+          NIL
+ 
+     11.  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+          2,000,000 Shares
+ 
+     12.  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+          SHARES. *                                        [   ]
+ 
+     13.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+          2.1%
+ 
+     14.  TYPE OF REPORTING PERSON *
+          IV - Unregistered Investment Company (Canadian Mutual Fund Trust)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                          Schedule 13D              Page 3 of 4 
+ 
+ Item 1   Security and Issuer
+          Common Shares
+          NUMAC ENERGY INC.
+          700, 321 - 6th Avenue S.W.
+          Calgary, Alberta
+          T2D 3M3
+ 
+ Item 2   IDENTITY AND BACKGROUND
+ 
+ Item 2(a)     Name
+          Industrial Growth Fund
+ 
+ Item 2(b)     Business Address
+          150 Bloor Street West, Suite M111
+          Toronto, Ontario, Canada   M5S 3B5
+ 
+ Item 2(c)     Principle Business
+          Canadian Mutual Fund Trust 
+ 
+ Item 2(d)     Criminal Convictions
+          Nil
+ 
+ Item 2(e)     Civil Proceedings
+          Nil
+ 
+ Item 2(f)     Citizenship
+          N/A
+ 
+ Item 3   Source and Amount of Funds or Other Consideration
+          Purchase price paid from internal source - net assets of Canadian
+           Mutual Fund Trust.
+ 
+ Item 4   Purpose of Transaction
+          The purpose of the transactions reported on this Form Schedule 13D
+           is investment.  The reporting entity has acquired the securities
+           in the ordinary course of business and not with the purpose nor
+           with the effect of changing or influencing the control of the
+           issuer, nor in connection with or as participant in any transaction
+           having such purpose or effect, including any transaction subject
+           to Rule 13d-3(b) under the Securities and Exchange Act of 1934, as
+           amended.
+ 
+ Item 5   INTEREST IN SECURITIES OF THE ISSUER
+ 
+ Item 5(a)     Aggregate Number and Percentage of Shares Beneficially Owned
+          2,000,000 shares, 2.1%
+  <PAGE>
+                          Schedule 13D              Page 4 of 4 
+ 
+ Item 5(b)     Number of Shares as to which such person has:
+     (i)  Sole power to vote or direct the vote:2,000,000 Shares
+          (through Investment Adviser, Mackenzie Financial Corporation)
+     (ii) Shared power to vote or direct the vote:           NIL
+     (iii)     Sole power to dispose or direct the disposition:2,000,000 Shares
+          (through Investment Adviser, Mackenzie Financial Corporation)
+     (iv) Shared power to dispose or direct the disposition: NIL
+ 
+ Item 5(c)     Transactions
+          (i)  Transaction effected by:   Industrial Growth Fund
+          (ii) Date:                              January 16, 1997
+          (iii)     Amount:                       69,300 Shares
+          (iv) Price per share:                   $5.50
+          (v)  Where and how transaction effected: Market Purchase
+ 
+          Transactions
+          (i)  Transaction effected by:   Industrial Growth Fund
+          (ii) Date:                              January 31, 1997
+          (iii)     Amount:                       45,300 Shares
+          (iv) Price per share:                   $5.73
+          (v)  Where and how transaction effected: Market Purchase
+ 
+          Transactions
+          (i)  Transaction effected by:   Industrial Growth Fund
+          (ii) Date:                              February 12, 1997
+          (iii)     Amount:                       36,700 Shares
+          (iv) Price per share:                   $5.75
+          (v)  Where and how transaction effected: Market Purchase
+ 
+          Transactions
+          (i)  Transaction effected by:   Industrial Growth Fund
+          (ii) Date:                              March 31, 1997
+          (iii)     Amount:                       118,000 Shares
+          (iv) Price per share:                   $5.90
+          (v)  Where and how transaction effected: Market Purchase
+          
+ Item 5(d)     Other Interests
+          Nil
+ 
+ Item 5(e)     Date on which reporting person ceased to be beneficial owner of
+                more than 5%
+          September 30, 1993 - shares outstanding increased
+ 
+ Item 6   Contracts, Arrangements, Understandings or Relationships with
+           Respect to Securities of the Issuer
+          N/A
+ 
+ Item 7   Material to be Filed as Exhibits
+          N/A
+ 
+          After reasonable inquiry and to the best of my knowledge and
+           belief, I certify that the information set forth in this statement
+           is true, complete and correct.
+ 
+ 
+ 
+ 
+          Harold P. Hands
+          Executive Vice-President, Legal          July 28, 1997
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

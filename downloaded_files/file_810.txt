@@ -1,0 +1,387 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UO/QigEhx/9VrcmHBHV9og33IcOU07hn2kqwRXHsSypDyOojMXIJfuSOnpCYI75Y
+ asVws4OnqMkEys+Wsc6GNg==
+
+<SEC-DOCUMENT>0000899140-96-000494.txt : 19961015
+<SEC-HEADER>0000899140-96-000494.hdr.sgml : 19961015
+ACCESSION NUMBER:		0000899140-96-000494
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19961011
+SROS:			AMEX
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HAWAIIAN AIRLINES INC/HI
+		CENTRAL INDEX KEY:			0000046205
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIR TRANSPORTATION, SCHEDULED [4512]
+		IRS NUMBER:				990212598
+		STATE OF INCORPORATION:			HI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-13378
+		FILM NUMBER:		96642518
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3375 KOAPAKA ST
+		STREET 2:		STE G350
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96819
+		BUSINESS PHONE:		8088353700
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HAL INC /HI/
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HAWAIIAN AIRLINES INC
+		DATE OF NAME CHANGE:	19850314
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INTER ISLAND AIRWAYS LTD
+		DATE OF NAME CHANGE:	19670920
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CUMBERLAND ASSOCIATES
+		CENTRAL INDEX KEY:			0000351262
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1114 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		2125750900
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<TEXT>
+
+<PAGE>1
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+                                  SCHEDULE 13D
+
+                    Under the Securities Exchange Act of 1934
+
+
+                             HAWAIIAN AIRLINES, INC.
+                                (Name of Issuer)
+
+                          COMMON STOCK, $.01 PAR VALUE
+                         (Title of Class of Securities)
+
+                                    419849104
+                                 (CUSIP Number)
+
+                               Mr. Bruce G. Wilcox
+                              Cumberland Associates
+                           1114 Avenue of the Americas
+                            New York, New York 10036
+                                 (212) 536-9700
+                       (Name, Address and Telephone Number
+                     of Person Authorized to Receive Notices
+                               and Communications)
+
+
+
+                               September 20, 1996
+                      (Date of Event which Requires Filing
+                               of this Statement)
+
+
+If the filing person has previously  filed a statement on Schedule 13G to
+report the  acquisition  which is the subject of this  Schedule 13D, and is
+filing this schedule because of Rule 13d-1(b)(3) or (4), check the following
+box |_|.
+
+
+Check the following box if a fee is being paid with the statement |_|.
+
+
+<PAGE>2
+
+
+
+
+                                  SCHEDULE 13D
+
+CUSIP No. 419849104
+
+1.  NAME OF REPORTING PERSON
+    S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+         CUMBERLAND ASSOCIATES
+
+2.  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+                                                            a[ ]
+                                                            b[X]
+3.  SEC USE ONLY
+
+4.  SOURCE OF FUNDS*
+         WC,00
+
+5.  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+    PURSUANT TO ITEMS 2(d) OR 2(e)                           [ ]
+
+6.  CITIZENSHIP OR PLACE OF ORGANIZATION
+         New York
+
+                    7.  SOLE VOTING POWER
+
+                         1,742,540
+
+ NUMBER OF          8.  SHARED VOTING POWER
+  SHARES
+BENEFICIALLY                287,000
+ OWNED BY
+   EACH             9.  SOLE DISPOSITIVE POWER
+ REPORTING
+  PERSON                 1,742,540
+   WITH
+                    10.  SHARED DISPOSITIVE POWER
+
+                            287,000
+
+11.  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+          2,029,540
+
+12.  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+     CERTAIN SHARES*                                         [ ]
+
+13.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+          5.3%
+
+14.  TYPE OF REPORTING PERSON*
+                  PN, IA
+
+<PAGE>3
+
+
+
+
+Item 1.           Security and Issuer.
+
+                  This statement relates to the Common Stock, par value $.01
+per share (the "Common  Stock" or the  "Shares"),  of Hawaiian  Airlines,  Inc.
+(the "Company"),  which has its principal  executive  offices at 3375 Koapaka
+Street, Suite G-350, Honolulu, Hawaii 96819.
+
+Item 2. Identity and Background.
+
+                  This  statement  is  being  filed  by  Cumberland
+Associates.  Cumberland  Associates is a limited partnership  organized under
+the laws of the State  of  New  York,  and  is  engaged  in  the  business  of
+managing,  on  a discretionary  basis,  ten  securities  accounts,  the
+principal one of which is Cumberland  Partners.  The  address  of the
+principal  business  and  office of Cumberland Associates is 1114 Avenue of the
+Americas, New York, New York 10036.
+
+                  K. Tucker Andersen, Richard Reiss, Jr., Oscar S. Schafer,
+Bruce G. Wilcox, Glenn Krevlin, Andrew Wallach and Eleanor Poppe are the
+general partners (the "General Partners") of Cumberland Associates.  The
+business address of each of the General Partners is the same as that of
+Cumberland Associates.  Each of the General Partners is a citizen of the United
+States.
+
+                  Neither Cumberland  Associates nor any of the General
+Partners have,  during the last five  years,  been  convicted  in a  criminal
+proceeding (excluding traffic violations or similar misdemeanors), nor has any
+such person, during the last five years,  been a party to a civil proceeding of
+a judicial or administrative  body of  competent  jurisdiction  as a result  of
+which any such person was or is subject to a judgment, decree or
+
+<PAGE>4
+
+
+final  order  enjoining  future  violations  of,  or  prohibiting  or
+mandating activities subject to, federal or state securities laws or finding
+any violation with respect to such laws.
+
+Item 3.  Source and Amount of Funds or Other Consideration.
+
+                  As  of  the  date  hereof,   Cumberland  Associates  held
+and beneficially  owned  2,029,540  shares of Common Stock.  The aggregate
+purchase price of the  Common  Stock  purchased  by  Cumberland  Associates  on
+behalf of Cumberland  Partners,  LongView  Partners  and the other  managed
+accounts  was $6,596,005.   Of  this  amount,  Cumberland  Associates  invested
+approximately $4,884,978  on behalf of  Cumberland  Partners,  $778,277  on
+behalf of LongView Partners and $932,750 on behalf of eight of Cumberland
+Associates' other account holders.  The  source  of funds for the  purchase  of
+all such  Common  Stock by Cumberland  Associates  was a combination of
+investment  capital  contributed by Cumberland Partners,  LongView Partners and
+the eight other managed accounts and margin borrowings  through the margin
+accounts of the account holders maintained with Morgan Stanley & Co.
+Incorporated.
+
+                  By virtue of Rule 13d-3 under the  Securities  Exchange Act
+of 1934 (the "Act") each of the General Partners may be deemed the beneficial
+owner of all of the Common  Stock  purchased  by  Cumberland  Associates  on
+behalf of Cumberland  Partners,  LongView  Partners and the other  managed
+accounts,  and therefore  each General  Partner may be deemed to have  invested
+the  aggregate amount of funds noted above. Except as noted above, none of the
+General Partners has  independently  invested any of his funds for the purpose
+of purchasing  the Common Stock.
+
+
+<PAGE>5
+
+
+Item 4.  Purpose of Transaction.
+
+                  Cumberland   Associates  has  purchased,   on  behalf  of
+its discretionary  accounts, the Common Stock in order to acquire an equity
+interest in the Company.  As of the date hereof,  Cumberland  Associates  is
+holding such Common Stock solely for investment and it has no present plans or
+proposals with respect to any material change in the Company's business or
+corporate  structure or,  generally,  any other action referred to in
+instructions (a) through (j) of Item 4 of the form of Schedule  13D.  Depending
+on market  conditions  and other factors,  Cumberland  Associates  may continue
+purchases of Common Stock or may sell or otherwise dispose of all or portions
+of such Common Stock, if such sales and purchases would be desirable
+investments for the portfolios of its accounts.
+
+Item 5. Interest in Securities of the Issuer.
+
+                  As of the  date  hereof,  Cumberland  Associates
+beneficially owned the aggregate number and percentage of outstanding  Common
+Stock set forth below:
+
+<PAGE>6
+
+
+
+
+              Number of Shares                   Percentage
+                  2,029,540(1)                     5.3%(2)
+
+                  Set forth in  Appendix  A  attached  hereto  and
+incorporated herein by reference are  descriptions  of the  transactions  in
+the Common Stock effected by Cumberland  Associates  within the period
+beginning 60 days prior to September 20, 1996 and ending on the date of this
+filing.
+
+                  In addition,  each of the General  Partners  may, by virtue
+of his position as general partner of Cumberland Associates, be deemed,
+pursuant to Rule  13d-3  under  the  Act,  to own  beneficially  the  Common
+Stock of which Cumberland  Associates would possess beneficial  ownership.
+Other than in their respective  capacities as general partners of Cumberland
+Associates and as noted above, none of the General Partners is the beneficial
+owner of any Common Stock.
+
+- ----------------------------------
+1        As to  1,742,540  Shares of which,  there is sole voting power and
+         sole power to dispose or to direct the  disposition  of such  Shares;
+         as to 287,000 Shares of which,  there is shared voting power and
+         shared power to dispose or to direct the  disposition  of such  Shares
+         because  the eight other  account  holders may be deemed  beneficial
+         owners of such Shares  pursuant to Rule 13d-3 under the Act as a
+         result of their right to terminate their discretionary accounts within
+         a period of 60 days.
+
+2        Based on the sum of (i) 26,409,421 shares of Common Stock
+         outstanding, as indicated in the Company's Form 10-Q for the quarterly
+         period ended June 30,  1996,  and (ii) the  subsequent  offering  by
+         the Company and purchase of 12,100,000 shares of Common Stock.
+
+
+<PAGE>7
+
+
+
+
+Item 6.  Contracts, Arrangements, Understandings or Relationships with Respect
+to Securities of the Issuer.
+
+                  Pursuant to  management  agreements  with all of its
+accounts except Cumberland Partners and LongView Partners, Cumberland
+Associates receives (i) an  annual  management  fee from  some of its  account
+holders  and (ii) an incentive fee from all of its account  holders based, in
+the case of some of the account holders, on the net appreciation during the
+preceding fiscal or calendar year in the value of the  securities  in the
+account  and, in the case of other account holders,  on the account's taxable
+income during the preceding fiscal or calendar  year. In the case of the
+accounts of Cumberland  Partners and LongView Partners, Cumberland Associates
+received an annual management fee from each such account holders which does not
+include an incentive fee.
+
+                  Except as otherwise set forth in this  statement,  to the
+best knowledge   of  the   undersigned,   there  are  no   contracts,
+arrangements, understandings  or  relationships  (legal or  otherwise)  among
+or  between  the undersigned,  the General  Partners  and any other  person
+with  respect to any securities  of the Company,  including  but not limited to
+transfer or voting of any  of  the  securities,   finder's  fees,  joint
+ventures,   loan  or  option arrangements, puts or calls, guarantees of
+profits, division of profits or loss, or the  giving  or  withholding  of
+proxies.
+
+Item 7.  Material  to be Filed as Exhibits.
+
+                  No Exhibits are filed herewith.
+
+
+<PAGE>8
+
+
+
+
+                  After reasonable  inquiry and to the best knowledge and
+belief of the undersigned,  the undersigned certifies that the information set
+forth in this statement is true, complete and correct.
+
+Date:    October  11, 1996
+
+                              CUMBERLAND ASSOCIATES
+
+
+
+                             By:/s/ Bruce G. Wilcox
+                                Bruce G. Wilcox
+                                General Partner
+
+
+<PAGE>9
+
+
+                                  APPENDIX A*
+
+
+1.  TRANSACTIONS EFFECTED BY CUMBERLAND ASSOCIATES
+
+
+  DATE OF          NO. OF UNITS        NO. OF UNITS      PRICE PER
+TRANSACTION          PURCHASED             SOLD             UNIT
+
+9/20/96              2,029,540                             $3 1/4
+
+
+ *  The transaction set forth in this Appendix was a regular way transaction.
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,387 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UAo8TgDrtd1rYi8az42HIzMJGx7RfhoMmoUFe90bXztJIF6xUxvOrxptC5Ik6Hje
+ yRTwcy0+mjIXH4f+qJKiRg==
+
+<SEC-DOCUMENT>0000931763-97-001512.txt : 19970912
+<SEC-HEADER>0000931763-97-001512.hdr.sgml : 19970912
+ACCESSION NUMBER:		0000931763-97-001512
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970910
+SROS:			NYSE
+GROUP MEMBERS:		LIBERTY NATIONAL LIFE INSURANCE COMPANY
+GROUP MEMBERS:		TORCHMARK CORP
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GULF CANADA RESOURCES LTD
+		CENTRAL INDEX KEY:			0000316456
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				980086499
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		
+		SEC FILE NUMBER:	005-51419
+		FILM NUMBER:		97678393
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE NORWEST CTR
+		STREET 2:		1700 LINCOLN STE 5000
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80203
+		BUSINESS PHONE:		3038133800
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE NORWEST CTR
+		STREET 2:		1700 LINCOLN STE 5000
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80203
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TORCHMARK CORP
+		CENTRAL INDEX KEY:			0000320335
+		STANDARD INDUSTRIAL CLASSIFICATION:	LIFE INSURANCE [6311]
+		IRS NUMBER:				630780404
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2001 3RD AVE S
+		CITY:			BIRMINGHAM
+		STATE:			AL
+		ZIP:			35233
+		BUSINESS PHONE:		2053254200
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TORCHMARK CORP SAVINGS & INVESTMENT PLAN
+		DATE OF NAME CHANGE:	19820825
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LIBERTY NATIONAL INSURANCE HOLDING CO
+		DATE OF NAME CHANGE:	19820701
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+
+<PAGE>
+ 
+                       SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D. C.  20549
+
+                                AMENDMENT NO. 3
+                                       TO
+                                  SCHEDULE 13D
+
+                   Under the Securities Exchange Act of 1934
+
+
+                         GULF CANADA RESOURCES LIMITED
+                         -----------------------------
+                                (Name of Issuer)
+
+                   COMMON STOCK, $.01 par value per share
+                   --------------------------------------
+                         (Title of Class of Securities)
+                                        
+                                  40218L 30 5
+                                ---------------------
+                                 (CUSIP Number)
+
+  Carol A. McCoy, 2001 Third Avenue South, Birmingham, AL  35233 (205) 325-4243
+ ------------------------------------------------------------------------------
+                 (Name, Address and Telephone Number of Person
+               Authorized to Receive Notices and Communications)
+
+                                  August 20, 1997
+                              ----------------------
+                      (Date of Event which Requires Filing
+                               of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4), check the following box.
+
+Check the following box if a fee is being paid with the statement____. (A fee is
+not required only if the reporting person: (1) has a previous statement on file
+reporting beneficial ownership of more than five percent of the class of
+securities described in Item 1, and (2) has filed no amendment subsequent
+thereto reporting beneficial ownership of five percent or less of such class.)
+(See Rule 13d-7.)
+
+Note:  Six copies of this statement, including all exhibits, should be filed
+with the Commission.  See Rule 13d-1(a) for other parties to whom copies are to
+be sent.
+
+*The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act (however, see the
+Notes).
+
+                        (Continued on following page(s))
+
+                               Page 1 of 7 Pages
+                                        ---     
+<PAGE>
+ 
+                                      SCHEDULE 13D
+
+CUSIP NO. 40218L 30 5
+____________________________________________________________________________
+(1)  Names of Reporting Persons. . . . . . . . . . . . Torchmark Corporation
+
+     S.S. or I.R.S. Identification
+     Numbers of Above Persons. . . . . . . . . . . . . 63-0780404
+____________________________________________________________________________
+
+(2)  Check the Appropriate Box if
+     a Member of a Group
+
+     (a) . . . . . . . . . . . . . . . . . . . . . . .
+
+     (b) . . . . . . . . . . . . . . . . . . . . . . .
+___________________________________________________________________________
+
+(3)  SEC Use Only. . . . . . . . . . . . . . . . . . .
+___________________________________________________________________________
+
+(4)  Source of Funds . . . . . . . . . . . . . . . . . 00
+___________________________________________________________________________
+
+(5)  Check if Disclosure of Legal
+     Proceedings is Required
+     Pursuant to Items 2(d) or 2(e). . . . . . . . . .
+___________________________________________________________________________
+
+(6)  Citizenship or Place of Organization. . . . . . . Delaware
+___________________________________________________________________________
+
+  Number of       (7) Sole Voting Power. . . . . . .935,157
+ Shares Bene-        _______________________________________
+  ficially        (8) Shared Voting Power. . . . . . . .  0
+  Owned by           _______________________________________
+ Each Report-     (9) Sole Dispositive Power . . . .935,157
+  ing Person         _______________________________________
+    With          (10) Shared Dispositive Power. . . . .  0
+___________________________________________________________________________
+
+(11) Aggregate Amount Beneficially Owned by
+     Each Reporting Person . . . . . . . . . . . . .935,157
+____________________________________________________________________________
+
+(12) Check if the Aggregate Amount in Row (11)
+     Excludes Certain Shares . . . . . . . . . . . . 
+____________________________________________________________________________
+
+(13) Percent of Class Represented by
+     Amount in Row (11). . . . . . . . . . . . . . . . .003%
+___________________________________________________________________________
+
+(14) Type of Reporting Person. . . . . . . . . . . . . CO HC
+____________________________________________________________________________
+
+                                       2
+<PAGE>
+ 
+                                      SCHEDULE 13D
+
+CUSIP NO. 40218L 30 5
+____________________________________________________________________________
+(1)  Names of Reporting Persons. . .Liberty National Life Insurance Company
+
+     S.S. or I.R.S. Identification
+     Numbers of Above Persons. . . . . . . . . . . . . 63-0124600
+____________________________________________________________________________
+
+(2)  Check the Appropriate Box if
+     a Member of a Group
+
+     (a) . . . . . . . . . . . . . . . . . . . . . . .
+
+     (b) . . . . . . . . . . . . . . . . . . . . . . .
+___________________________________________________________________________
+
+(3)  SEC Use Only. . . . . . . . . . . . . . . . . . .
+___________________________________________________________________________
+
+(4)  Source of Funds . . . . . . . . . (Not applicable (See Item 2)
+___________________________________________________________________________
+
+(5)  Check if Disclosure of Legal
+     Proceedings is Required
+     Pursuant to Items 2(d) or 2(e). . . . . . . . . .
+___________________________________________________________________________
+
+(6)  Citizenship or Place of Organization. . . . . . . Alabama
+___________________________________________________________________________
+
+  Number of       (7) Sole Voting Power. . . . . . .935,157
+ Shares Bene-        _______________________________________
+  ficially        (8) Shared Voting Power. . . . . . . . 0
+  Owned by           _______________________________________
+ Each Report-     (9) Sole Dispositive Power . . . .935,157
+  ing Person         _______________________________________
+    With         (10) Shared Dispositive Power. . . . .  0
+___________________________________________________________________________
+
+(11) Aggregate Amount Beneficially Owned by
+     Each Reporting Person . . . . . . . . . . . . .935,157
+____________________________________________________________________________
+
+(12) Check if the Aggregate Amount in Row (11)
+     Excludes Certain Shares . . . . . . . . . . . .
+____________________________________________________________________________
+
+(13) Percent of Class Represented by
+     Amount in Row (11). . . . . . . . . . . . . . .   .003%
+___________________________________________________________________________
+
+(14) Type of Reporting Person. . . . . . . . . . . .   CO IC
+____________________________________________________________________________
+
+                                       3
+<PAGE>
+ 
+Item 1.  Security and Issuer.
+
+          The Statement on Schedule 13D (the "Schedule 13D"), filed jointly on
+February 6, 1995 by the persons listed on the signature pages thereto relating
+to the beneficial ownership of ordinary shares (the "Ordinary Shares") of Gulf
+Canada Resources Limited ("Gulf Canada"), a corporation incorporated under the
+laws of Canada, and amended and supplemented by Amendment No. 1 to the Schedule
+13D filed on , 1996 by Torchmark Corporation ("Torchmark") and Torch Energy
+Advisors Incorporated ("Torch Energy") and Amendment No. 2 to the Schedule 13D
+filed on   , 1996 by Torch Energy, is hereby supplemented as set forth below by
+Torchmark and its subsidiary, Liberty National Life Insurance Company
+("Liberty").  Gulf Canada maintains its principal executive offices at 401 -
+9/th/ Avenue SW, Calgary, Alberta T2P2H7.
+
+Item 2.  Identity and Background.
+
+          On August 20, 1997, United Investors Management Company ("UIMCO"), the
+Torchmark subsidiary holding 935,157 Ordinary Shares of Gulf Canada, transferred
+such 935,157 Ordinary Shares of Gulf Canada as a partial payment of a dividend
+to its shareholder, Liberty National.  UIMCO had previously disposed of the
+warrants to purchase 7,119,396 Ordinary Shares ("Warrants") of Gulf Canada in
+the period from January 7, 1997 through February 11, 1997 and no longer holds
+any Gulf Canada Warrants.
+
+          This amendment is filed to reflect the transfer of Ordinary Shares and
+disposition of Warrants and the cessation of beneficial ownership in excess of
+5%.
+
+Item 3.  Source and Amount of Funds or Other Consideration.
+
+         Not applicable.
+
+Item 4.  Purpose of Transaction.
+
+         The Gulf Canada securities were acquired by Liberty as partial payment
+of a dividend from its subsidiary, UIMCO.
+
+              (a) - (j) Not applicable.
+
+Item 5.  Interest in Securities of the Issuer.
+
+          (a)-(c) 935,157 shares .003% - Torchmark and Liberty Liberty has sole
+          power to vote and sole power to dispose the Ordinary Shares. Torchmark
+          has no power to vote or to dispose of the Ordinary Shares. Liberty
+          acquired its ordinary shares as a dividend payment on August 20, 1997,
+          within the past 60 days.
+          (d)  Not applicable.
+          (e)  Torchmark and Liberty ceased to be the beneficial owner of more
+               than 5% of the Ordinary Shares as of August 20, 1997.
+
+                                       4
+<PAGE>
+ 
+Item 6.  Contracts, Arrangements, Understandings or Relationships
+         with Respect to Securities of the Issuer.
+
+     Not applicable.
+
+Item 7.  Material to be Filed as Exhibits
+
+     Not applicable.
+
+                                       5
+<PAGE>
+ 
+                                   SIGNATURE
+
+
+     After reasonable inquiry and to the best of the undersigned's knowledge and
+belief, the undersigned certifies that the information set forth in this
+statement is true, complete and correct.
+
+
+                              TORCHMARK CORPORATION
+
+
+                         By:  /s/ Michael J. Klyce
+                            -----------------------------------------
+                              Michael J. Klyce
+                              Vice President and Treasurer
+
+
+
+                              LIBERTY NATIONAL LIFE INSURANCE COMPANY
+
+
+                         By:  /s/ Michael J. Klyce
+                            -----------------------------------------
+                              Michael J. Klyce
+                              Treasurer
+
+                                       6
+<PAGE>
+ 
+                  EXECUTIVE OFFICERS AND DIRECTORS OF LIBERTY
+
+
+(a)-(c)   C. B. Hudson              Chairman & CEO; Director
+          Anthony L. McWhorter      President; Director
+          Vurl E. Duce              Executive Vice President & Chief Agency
+                                    Officer; Director
+          Hillary Carnley, Jr.      Senior Vice President; Director
+          Tony G. Brill             Senior Vice President
+          Larry M. Hutchison        Secretary & General Counsel; Director
+          S. Newell Cheesborough    Senior Vice President
+          Jack A. Kelley, Jr.       Senior Vice President
+
+
+               Address:  2001 Third Avenue South
+                         Birmingham, Alabama 35233
+
+
+(d)       None.
+
+(e)       All are U.S. citizens.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,608 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RQd4ELSzNPrxnmAnutuVcssc0NGz8JQF5EnRewCVVVs4uNN/gHalszJWIAifkIsN
+ qO4DAhwOlu3OL+PYvDnNyg==
+
+<SEC-DOCUMENT>0000919574-97-000775.txt : 19970918
+<SEC-HEADER>0000919574-97-000775.hdr.sgml : 19970918
+ACCESSION NUMBER:		0000919574-97-000775
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970912
+SROS:			NASD
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PROJECTAVISION INC
+		CENTRAL INDEX KEY:			0000848135
+		STANDARD INDUSTRIAL CLASSIFICATION:	PATENT OWNERS & LESSORS [6794]
+		IRS NUMBER:				133499909
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		
+		SEC FILE NUMBER:	005-51549
+		FILM NUMBER:		97679194
+
+	BUSINESS ADDRESS:	
+		STREET 1:		TWO PENN PLZ STE 640
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10121
+		BUSINESS PHONE:		2129713000
+
+	MAIL ADDRESS:	
+		STREET 1:		TWO PENN PLAZA
+		STREET 2:		STE 640
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10121
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EVEREST CAPITAL LTD
+		CENTRAL INDEX KEY:			0000922216
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CORNER HOUSE 20 PARLIAMENT ST
+		STREET 2:		P O BOX HM 2458
+		CITY:			HAMILTON
+		STATE:			D0
+
+	MAIL ADDRESS:	
+		STREET 1:		SEWARD & KISSEL
+		STREET 2:		1 BATTERY PARK PLAZA
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<TEXT>
+
+
+
+
+<PAGE>
+
+
+
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.  20549
+
+SCHEDULE 13D
+Under the Securities Exchange Act of 1934
+
+Amendment No.:  *
+
+Name of Issuer:  Projectavision Inc.
+
+Title of Class of Securities:  Common Stock, $.0001 par value
+
+CUSIP Number:  743391104
+
+          (Name, Address and Telephone Number of Person
+        Authorized To Receive Notices and Communications)
+
+          Mr. Dimitrijevic, c/o Everest Capital Limited
+                The Bank of Butterfield Building 
+       65 Front Street, 6th Floor, Hamilton HM JX, Bermuda
+
+     (Date of Event which Requires Filing of this Statement)
+
+                          July 1, 1997
+
+If the filing person has previously filed a statement on Schedule
+13G to report the acquisition which is the subject of this
+Schedule 13D, and is filing this schedule because of
+Rule 13d-1(b)(3) or (4), check the following box [   ].
+
+*The remainder of this cover page shall be filled out for a
+reporting person's initial filing on this form with respect to
+the subject class of securities, and for any subsequent amendment
+containing information which would alter the disclosures provided
+in a prior cover page.
+
+The information required in the remainder of this cover page
+shall not be deemed to be "filed" for the purpose of Section 18
+of the Securities Exchange Act of 1934 ("Act") or otherwise
+subject to the liabilities of that section of the Act but shall
+be subject to all other provisions of the Act (however, see the
+Notes).
+
+
+
+<PAGE>
+
+CUSIP No. 743391104
+
+1.  Name of Reporting Person
+    I.R.S. Identification No. of Above Person
+
+         Everest Capital Limited
+
+2.  Check the Appropriate Box if a Member of a Group
+
+         a.   
+         b.   
+
+3.  SEC Use Only
+
+4.  Source of Funds
+
+         WC
+
+5.  Check if Disclosure of Legal Proceedings is Required Pursuant
+    to Items 2(d) or 2(e)
+
+6.  Citizenship or Place of Organization
+
+         Bermuda
+
+Number of Shares Beneficially Owned by Each Reporting Person
+With:
+
+7.  Sole Voting Power:
+
+         See Item 5.
+
+8.  Shared Voting Power:
+
+         See Item 5.
+
+9.  Sole Dispositive Power:
+
+         See Item 5.
+
+10. Shared Dispositive Power:
+
+         See Item 5.
+
+11. Aggregate Amount Beneficially Owned by Each Reporting Person
+
+         See Item 5.
+
+12. Check Box if the Aggregate Amount in Row (11) Excludes
+    Certain Shares
+
+
+
+                                2
+
+
+
+<PAGE>
+
+13. Percent of Class Represented by Amount in Row (11)
+
+         See Item 5.
+
+14. Type of Reporting Person
+
+         CO
+
+CUSIP No. 743391104
+
+1.  Name of Reporting Person
+    I.R.S. Identification No. of Above Person
+
+         Goodland International Investments, Ltd.
+
+2.  Check the Appropriate Box if a Member of a Group
+
+         a.   
+         b.   
+
+3.  SEC Use Only
+
+4.  Source of Funds
+
+         WC
+
+5.  Check if Disclosure of Legal Proceedings is Required Pursuant
+    to Items 2(d) or 2(e)
+
+6.  Citizenship or Place of Organization
+
+         British Virgin Islands
+
+Number of Shares Beneficially Owned by Each Reporting Person
+With:
+
+7.  Sole Voting Power:
+
+
+8.  Shared Voting Power:
+
+         See Item 5.
+
+9.  Sole Dispositive Power:
+
+
+10. Shared Dispositive Power:
+
+         See Item 5.
+
+
+
+
+                                3
+
+
+
+<PAGE>
+
+11. Aggregate Amount Beneficially Owned by Each Reporting Person
+
+         See Item 5.
+
+12. Check Box if the Aggregate Amount in Row (11) Excludes
+    Certain Shares
+
+
+13. Percent of Class Represented by Amount in Row (11)
+
+         See Item 5.
+
+14. Type of Reporting Person
+
+         CO
+
+The purpose of this Schedule 13D is to report the ownership of
+Everest Capital Limited and Goodland International Investments,
+Ltd. (the "Reporting Persons") of Common Stock, $.0001 par value,
+(the "Common Stock") of Projectavision Inc. (the "Issuer").  The
+Reporting Persons' deemed beneficial ownership of Common Stock
+exists by virtue of their ownership of warrants (the "Warrants")
+and Series D Convertible Preferred Stock (the "Preferred Stock")
+of the Issuer.
+
+Item 1.  Security and Issuer
+
+         The title of the class of equity securities to which
+         this statement relates is: Common Stock of
+         Projectavision Inc.
+
+         The name and address of the principal executive and
+         business office of the Issuer is:
+
+         Projectavision Inc.
+         Two Penn Plaza
+         Suite 640
+         New York, New York  10121
+
+Item 2.  Identity and Background
+
+         (a)  Everest Capital Limited (the "Investment Manager")
+              and Goodland International Investments, Ltd. (the
+              "Fund").
+
+         (b)  The Bank of Butterfield Building, 65 Front Street,
+              6th Floor, Hamilton HM JX, Bermuda
+
+         (c)  The principal business of the Investment Manager is
+              to act as an investment manager for the Fund, other
+              private investment entities and managed accounts.
+              Mr. Marko Dimitrijevic is President of the
+
+                                4
+
+
+
+<PAGE>
+
+              Investment Manager.  The principal business of the
+              Fund is to serve as a foreign private investment
+              vehicle.
+
+         (d)  During the last five years, neither the Reporting
+              Persons nor any person affiliated with the
+              Reporting Persons has been convicted in any
+              criminal proceeding, excluding traffic violations
+              or similar misdemeanors.
+
+         (e)  During the last five years, neither the Reporting
+              Persons nor any person affiliated with the
+              Reporting Persons has been a party to a civil
+              proceeding of a judicial or administrative body of
+              competent jurisdiction as a result of which it or
+              such person is subject to a judgment, decree or
+              final order enjoining future violations of, or
+              prohibiting or mandating activities subject to,
+              federal or state securities laws or finding any
+              violation with respect to such laws.
+
+         (f)  The Investment Manager is a corporation organized
+              under the laws of Bermuda, and the Fund is a
+              corporation organized under the laws of the British
+              Virgin Islands.
+
+Item 3.  Source and Amount of Funds or Other Consideration.
+
+         The funds for the purchase of the Preferred Stock and
+         Warrants came from the respective working capital of the
+         Fund or the other private investment entities, from the
+         funds of each managed account or from margin loans
+         entered into in the ordinary course of business.
+
+Item. 4  Purpose of Transactions.
+
+         The Preferred Stock and Warrants held by the above
+         mentioned entities were acquired for, and are being held
+         for, investment purposes.  The acquisitions of the
+         Preferred Stock and Warrants described herein were made
+         in the ordinary course of the Reporting Persons'
+         businesses or investment activities, as the case may be.
+         The Investment Manager, on behalf of the above mentioned
+         entities, and the Fund reserve the right to purchase or
+         sell Preferred Stock or Warrants in privately negotiated
+         transactions or in any other lawful manner in the
+         future.
+
+
+
+
+
+
+                                5
+
+
+
+<PAGE>
+
+Item 5.  Interest in Securities of Issuer.
+
+         (a)  Based on the Issuer's Form 10-Q for the period
+              ending March 31, 1997, dated May 15, 1997, there
+              were 16,815,314 shares of Common Stock outstanding.
+              As of September 1, 1997, the Investment Manager was
+              deemed to be the beneficial owner of 100,000
+              Warrants exercisable for 100,000 shares of Common
+              Stock and 35,000 shares of Series D Convertible
+              Preferred Stock (the "Preferred Stock) of which
+              26,250 shares are currently convertible into
+              1,809,835 shares of Common Stock (including shares
+              representing accrued interest) based on a currently
+              effective conversion price of $1.50 per share of
+              Common Stock (the "Conversion Price").  The
+              Investment Manager also owns 210,000 other
+              Warrants, 70,000 of which are exercisable on
+              12/31/97, 70,000 of which are exercisable on
+              12/31/98 and 70,000 of which are exercisable on
+              12/31/99.  The terms by which to determine the
+              Conversion Price are set forth in the Issuer's Form
+              10-Q for the period ending March 31, 1997, filed
+              with the Securities and Exchange Commission (the
+              "Commission") on May 15, 1997, Commission File
+              Number 0-19218 (the "10-Q Exhibit").  Assuming the
+              exercise of the Warrants and the conversion of the
+              Preferred Stock, the Investment Manager would be
+              deemed to be the beneficial owner of 1,909,835
+              shares of Common Stock constituting 10.2% of the
+              Issuer's Common Stock based upon 18,725,149 shares
+              that would be outstanding upon exercise of the
+              Warrants and conversion of the Preferred Stock.  As
+              of September 1, 1997, the Fund was deemed to be the
+              beneficial owner of 24,500 shares of Preferred
+              Stock of which 18,375 shares are currently
+              convertible into 1,266,884 shares of Common Stock
+              (including shares representing accrued interest)
+              based on the Conversion Price, as discussed above.
+              Assuming the conversion of the Preferred Stock, the
+              Fund would be deemed to be the beneficial owner of
+              1,266,884 shares of Common Stock constituting 7.01%
+              of the Issuer's Common Stock based upon 18,082,198
+              shares that would be outstanding upon conversion of
+              the Preferred Stock.  The Reporting Persons do not
+              intend to amend this Schedule 13D solely because
+              possible future changes in the Conversion Price may
+              result in their being deemed to beneficially own a
+              different number or percentage of outstanding
+              shares of Common Stock than reported herein.
+
+         (b)  The Reporting Persons share the power to vote and
+              dispose of all of the shares of which they are both
+
+                                6
+
+
+
+<PAGE>
+
+              deemed to be the beneficial owners, and the
+              Investment Manager has the sole power to vote and
+              dispose of the remainder of the shares of which he
+              is deemed to be the beneficial owner.
+
+         (c)  Not applicable.
+
+         (d)  No other person is known to have the right to
+              receive or the power to direct the receipt of
+              dividends from, or the proceeds from the sale of
+              the Preferred Stock and Warrants.
+
+         (e)  Not applicable.
+
+Item 6.  Contracts, Arrangements, Understandings or
+         Relationships with Respect to Securities of the Issuer
+
+         Except as described herein, there are no contracts,
+         arrangements, understandings or relationships between
+         the persons named in Item 2 hereof or between such
+         persons and any other person with respect to any
+         securities of the Issuer.
+
+Item 7.  Material to be Filed as Exhibits.
+
+         Exhibit A:   Joint Filing Agreement.
+
+         Other:       The 10-Q Exhibit is incorporated
+                      herein by reference.
+
+         Signature
+
+         After reasonable inquiry and to the best of my
+knowledge and belief, I certify that the information set
+forth in this statement is true, complete and correct.
+
+September 11, 1997
+_____________________________
+Date
+
+Everest Capital Limited
+
+/s/ Marko Dimitrijevic
+_____________________________
+Title:  President
+
+
+Goodland International Investments, Ltd.
+
+By:  Everest Capital Limited, Investment Manager
+
+/s/ Marko Dimitrijevic
+
+                                7
+
+
+
+<PAGE>
+
+_____________________________
+Title:  President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                8
+00119001.CY1
+
+
+
+<PAGE>
+
+
+
+                                                        Exhibit A
+
+
+
+                            AGREEMENT
+
+
+
+         The undersigned agree that this Schedule 13D dated
+
+September 11, 1997 relating to the Common Stock of Projectavision
+
+Inc. shall be filed on behalf of the undersigned.
+
+
+
+                             EVEREST CAPITAL LIMITED
+
+                             /s/ Marko Dimitrijevic
+                             Title: President
+
+
+                             GOODLAND INTERNATIONAL INVESTMENTS,
+                             LTD.
+
+                             By: Everest Capital Limited,
+                             Investment Manager
+
+                             /s/ Marko Dimitrijevic
+                             Title: President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                9
+00119001.CY1
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,372 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NOpwyiATJ/TvMk3WVOOGGGmblo19XyUIw9fULy3lTZ1k6aTvqotLyVKwU0Rcv3Yd
+ JrcvEgE4qkh0VmIUfXa5Hg==
+
+<SEC-DOCUMENT>0000898382-97-000022.txt : 19970513
+<SEC-HEADER>0000898382-97-000022.hdr.sgml : 19970513
+ACCESSION NUMBER:		0000898382-97-000022
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970512
+SROS:			NONE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHELSEA GCA REALTY INC
+		CENTRAL INDEX KEY:			0000911215
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				223251332
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-43733
+		FILM NUMBER:		97600582
+
+	BUSINESS ADDRESS:	
+		STREET 1:		103 EISENHOWER PKWY
+		CITY:			ROSELAND
+		STATE:			NJ
+		ZIP:			07068
+		BUSINESS PHONE:		2012286111
+
+	MAIL ADDRESS:	
+		STREET 1:		103 EISENHOWER PARKWAY
+		CITY:			ROSELAND
+		STATE:			NJ
+		ZIP:			07068
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COOPERMAN LEON G
+		CENTRAL INDEX KEY:			0000898382
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				128321905
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		88 PINE STREET
+		STREET 2:		WALL STREET PLAZA 31ST FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10005
+		BUSINESS PHONE:		212-3258660
+
+	MAIL ADDRESS:	
+		STREET 1:		88 PINE STREET
+		STREET 2:		WALL ST PLAZA 31ST FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10005
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<TEXT>
+
+
+
+                         UNITED STATES 
+               SECURITIES AND EXCHANGE COMMISSION
+                     Washington, D.C. 20549
+
+                          SCHEDULE 13D
+
+            Under the Securities Exchange Act of 1934
+                       (Amendment No. 3)*
+                              CHELSEA GCA REALTY, INC.                  
+                    (Name of Issuer)
+                   Common Stock, par value $.01 per share         
+                 (Title of Class of Securities)
+                          163262108                               
+                         (CUSIP Number)
+           Leon G. Cooperman c/o Omega Advisors, Inc.
+          88 Pine Street, Wall Street Plaza, 31st Floor
+                       New York, NY 10005 
+                       (212)495-5200                             
+(Name, Address, and Telephone Number of Person Authorized to
+Receive Notices and Communications)
+
+                       March 26, 1997                         
+     (Date of Event which Requires Filing of this Statement)
+
+If this filing person has previously filed a statement on Schedule
+13G to report the acquisition which is the subject of this Schedule
+13D, and is filing this schedule because of Rule 13d-1(b)(3) or (4)
+check the following box [ ].
+
+
+Note:  Six copies of this statement, including all exhibits, should
+be filed with the Commission.  See Rule 13d-1(a) for other parties
+to whom copies are to be sent.
+
+*The remainder of this cover page shall be filled out for a
+reporting person's initial filing on this form with respect to the
+subject class of securities, and for any subsequent amendment
+containing information which would alter disclosures provided in a
+prior cover page.
+
+The information required on the remainder of this cover page shall
+not be deemed to be "filed" for the purpose of Section 18 of the
+Securities Exchange Act of 1934 ("Act") or otherwise subject to the
+liabilities of that section of the Act but shall be subject to all
+other provisions of the Act (however, see the Notes).<PAGE>
+                          SCHEDULE 13D
+
+
+CUSIP No.   163262108                        
+__________________________________________________________________
+     1)   Names of Reporting Person S.S. or I.R.S. Identification
+          No. of Above Person
+
+           LEON G. COOPERMAN 
+           S.S. No. ###-##-####
+ _________________________________________________________________
+     2)   Check the Appropriate Box if a Member of a Group (See
+          Instructions)
+
+                                                          (a) [ ]
+                                                          (b) [ ]
+_________________________________________________________________
+     3)   SEC Use Only
+_________________________________________________________________
+     4)   Source of Funds:
+          WC        
+_________________________________________________________________
+     5)   Check if Disclosure of Legal Proceedings is Required
+          Pursuant to Items 2(d) or 2(e). . . . . . . . . . . . . 
+          NOT APPLICABLE
+_________________________________________________________________
+     6)   Citizenship or place of Organization: 
+          UNITED STATES
+_________________________________________________________________
+               (7)  Sole voting Power 
+Number of           507,800
+Shares Bene- ____________________________________________________
+ficially       (8)  Shared Voting Power
+owned by            160,000               
+Each Report- ____________________________________________________
+ing Person     (9)  Sole Dispositive Power 
+With                507,800             
+____________________________________________________
+               (10) Shared Dispositive Power
+                    160,000
+_________________________________________________________________
+     11)  Aggregate Amount Beneficially Owned by Each Reporting
+          Person:   667,800
+_________________________________________________________________
+     12)  Check if the Aggregate Amount in Row (11) 
+                    N/A
+_________________________________________________________________
+     13)  Percent of Class Represented by Amount in Box (11):
+                    4.8%
+_________________________________________________________________
+     14)  Type of Reporting Person
+               I N  
+
+<PAGE>
+  
+Item 2.   Identity and Background.  
+          This statement is being filed by Leon G. Cooperman,
+("Cooperman").  Cooperman is the Managing Member of Omega
+Associates, L.L.C. ("Associates"), a limited liability company 
+organized under the laws of the State of Delaware.  Associates is
+a private investment firm formed to invest in and act as general
+partner of investment partnerships or similar investment
+vehicles.Associates is the general partner of three limited
+partnerships organized under the laws of Delaware known as Omega
+Capital Partners, L.P.,  Omega Institutional Partners, L.P., and
+Omega Equity Partners, L.P.   They are private investment firms
+engaged in the purchase and sale of securities for investment for
+their own accounts.  The business address of Cooperman and the
+principal business and office of Associates, Omega Capital
+Partners, L.P., Omega Institutional Partners, L.P., and Omega
+Equity Partners, L.P. is c/o Omega Advisors, Inc., 88
+Pine Street, Wall Street Plaza - 31st Floor, New York, New York
+10005.  Cooperman is a citizen of the United States.
+          Cooperman is also the President and majority stockholder
+of Omega Advisors, Inc., a Delaware corporation, engaged in
+providing investment management.  The address of the principal
+business and office of Omega Advisors, Inc. is 88 Pine Street, Wall
+Street Plaza - 31st Floor, New York, New York 10005.  Omega
+Advisors, Inc. serves as investment manager to Omega Overseas
+Partners, Ltd., and Omega Overseas Partners II, Ltd., and Cooperman
+is deemed to control said entities.  Omega Overseas Partners, Ltd.,
+
+
+is a Cayman Island corporation, with a business address at British
+American Tower, Third Floor, Jennrett Street, Georgetown, Grand
+Cayman Island, British West Indies.  Omega Overseas Partners II,
+Ltd. is a Cayman Island corporation, with a business address c/o
+Hemisphere House, 9 Church Street, Hamilton HM 11, Bermuda.  Omega
+Advisors, Inc. also serves with discretionary power as investment
+manager to unrelated third parties (herein referred to as the
+"Managed Account").
+          Cooperman is also one of the Trustees of the Leon and
+Toby Cooperman Foundation (the "Foundation"), a charitable trust
+dated December 16, 1981.  The other Trustees are his wife, Toby
+Cooperman, and his sons, Wayne Cooperman and Mark Cooperman.  
+          Neither Cooperman nor any of the investment entities
+controlled by him have, during the last five years, been convicted
+in a criminal proceeding (excluding traffic violations or similar
+misdemeanors), nor has any such person, during the last five years,
+been a party to a civil proceeding of a judicial or administrative
+body of competent jurisdiction as a result of which any such person
+was or is subject to a judgment, decree or final order enjoining
+future violations of, or prohibiting or mandating activities
+subject to, federal or state securities laws or finding any
+violation with respect to such laws.  
+Item 3.  Source and Amount of Funds or Other Consideration.
+          Cooperman beneficially owns 667,800 Shares.  Of this
+amount, 175,000 Shares were purchased by Omega Capital Partners,
+L.P., at a cost of $5,113,937; 17,200 Shares were purchased by
+Omega Institutional Partners, L.P., at a cost of $509,848; 315,600
+Shares were purchased by Omega Overseas Partners, Ltd., at a cost
+of $10,250,840; 135,900 Shares were purchased by the Managed<PAGE>
+ 
+Account at a cost of $3,701,449; and 24,100 Shares were purchased
+by the Foundation, at a cost of $589,075.  The source of funds for
+the purchase of all such Shares was investment capital.
+Item 5.  Interest in Securities of the Issuer.
+          Based upon the information contained in the Company's 10K
+for the period ended December 31, 1996 filed with the Securities &
+Exchange Commission, there were issued and outstanding at March 20,
+1997 13,795,834 Shares of Common Stock.  Based thereon, Omega
+Capital Partners, L.P., owns 175,000 Shares, or 1.3% of those
+outstanding; Omega Institutional Partners, L.P., owns 17,200
+Shares, or 0.1% of those outstanding; Omega Overseas Partners,
+Ltd., owns 315,600 Shares, or 2.3% of those outstanding; the
+Managed Account owns 135,900 Shares, or 1.0% of those outstanding;
+and the Foundation owns 24,100 Shares, or 0.2% of those
+outstanding.  Cooperman possesses sole power to vote and direct the
+disposition of all Shares of Common Stock owned by Omega Capital
+Partners, L.P., Omega Institutional Partners, L.P., Omega Overseas
+Partners, Ltd., and Omega Overseas Partners, II, L.P.       
+     The following table details all transactions by each of Omega
+Capital Partners, L.P., Omega Institutional Partners, L.P., Omega
+Overseas Partners, Ltd., Omega Overseas Partners II, Ltd., the
+Managed Account, and the Foundation in shares of Common Stock
+within the 60 day period prior to March 26, 1997 and through this
+filing.  All such transactions were open market sale transactions. 
+
+<PAGE>
+                Omega Overseas Partners II, Ltd. 
+
+            Date of           Amount of           Price Per
+          Transaction           Shares              Share  
+          01/27/97             2,200              $34.38
+
+
+          
+
+
+                       The Managed Account
+
+            Date of           Amount of           Price Per
+          Transaction           Shares              Share  
+          03/20/97               900              $36.63
+          03/25/97               900               36.25
+          03/26/97             5,900               36.17
+
+
+
+
+Item 10.  Certification.  
+
+          Inasmuch as the reporting persons are no longer the
+beneficial owners of more than five percent of the number of shares
+outstanding, the reporting persons have no further reporting
+obligation under Section 13(d) of the Securities and Exchange
+Commission thereunder, and the reporting persons have no obligation
+to amend this Statement if any material change occurs in the facts
+set forth herein.  
+
+
+                            Signature
+          After reasonable inquiry and to the best of the
+undersigned's knowledge and belief, the undersigned hereby
+certifies that the information set forth in this statement is true,
+complete and correct.
+
+Dated:  May 12, 1997
+
+
+/s/ Alan M. Stark                 
+ALAN M. STARK on behalf of LEON G.
+COOPERMAN, pursuant to Power of 
+Attorney on file.  
+
+
+
+<PAGE>
+
+/s/ Alan M. Stark                 
+ALAN M. STARK on behalf of LEON G.
+COOPERMAN, as Managing Member of
+Omega Associates, L.L.C. on behalf
+of Omega Capital Partners, L.P.,
+pursuant to Power of Attorney on file.
+
+
+
+/s/ Alan M. Stark                
+ALAN M. STARK on behalf of LEON G.
+COOPERMAN, as Managing Member of
+Omega Associates, L.L.C. on behalf
+of Omega Institutional Partners, L.P.,
+pursuant to Power of Attorney on file.
+
+
+/s/ Alan M. Stark                
+ALAN M. STARK on behalf of LEON G.
+COOPERMAN, Trustee of the Leon and
+Toby Cooperman Foundation
+pursuant to Power of Attorney on file.
+
+
+/s/ Alan M. Stark                
+ALAN M. STARK on behalf of LEON G.
+COOPERMAN, as President of Omega
+Advisors, Inc., pursuant to Power
+of Attorney on file.  
+
+
+
+ATTENTION:  INTENTIONAL MISSTATEMENTS OR OMISSIONS OF FACT
+CONSTITUTE FEDERAL CRIMINAL VIOLATIONS (SEE 18 U.S.C. 1001).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

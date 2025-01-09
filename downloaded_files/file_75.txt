@@ -1,0 +1,396 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KIb7CVUglQi5SGcmu4c4TveprlxpZrTi2araIW5VbAwf9bf1Qo3sZr0Sw9uSw9eB
+ 2XCFNCNfP3fliM00qeLrpA==
+
+<SEC-DOCUMENT>0000909789-97-000015.txt : 19970922
+<SEC-HEADER>0000909789-97-000015.hdr.sgml : 19970922
+ACCESSION NUMBER:		0000909789-97-000015
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970918
+SROS:			NASD
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FIRST STATE BANCORPORATION
+		CENTRAL INDEX KEY:			0000897861
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				850366665
+		STATE OF INCORPORATION:			NM
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		
+		SEC FILE NUMBER:	005-44079
+		FILM NUMBER:		97682392
+
+	BUSINESS ADDRESS:	
+		STREET 1:		111 LOMAS AVE N W
+		CITY:			ALBUQUERQUE
+		STATE:			NM
+		ZIP:			87102
+		BUSINESS PHONE:		5052417500
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 3686
+		CITY:			ALBUQUERQUE
+		STATE:			NM
+		ZIP:			87190
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FINANCIAL STOCKS INC
+		CENTRAL INDEX KEY:			0001041241
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		507 CAREW TOWER 441 VINE ST
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45202
+		BUSINESS PHONE:		5132416166
+
+	MAIL ADDRESS:	
+		STREET 1:		5070 CAREW TOWER 441 VINE ST
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45202
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+
+<PAGE>
+               SECURITIES AND EXCHANGE COMMISSION
+
+                     Washington, D.C.  20549
+
+                          SCHEDULE 13D
+
+
+            Under the Securities Exchange Act of 1934
+                       (Amendment No. __)*
+
+
+                   First State Bancorporation
+_________________________________________________________________
+                        (Name of Issuer)
+
+
+                   Common Stock, no par value
+_________________________________________________________________
+                  Title of Class of Securities)
+
+
+                            336453105
+_________________________________________________________________
+                         (CUSIP Number)
+
+
+                          John M. Stein
+                         507 Carew Tower
+                         441 Vine Street
+                     Cincinnati, Ohio  45202
+                         (513) 241-6166
+_________________________________________________________________
+          (Name, Address and Telephone Number of Person
+        Authorized to Receive Notices and Communications)
+
+
+                         August 5, 1997
+_________________________________________________________________
+              (Date of Event which Requires Filing
+                       of this Statement)
+
+
+If the filing person has previously filed a statement on Schedule
+13G to report the acquisition which is the subject of this
+Schedule 13D, and is filing this schedule because of Rule 13d-
+1(b)(3) or (4), check the following box ___.
+
+*The remainder of this cover page shall be filled out for a
+reporting person's initial filing on this form with respect to
+the subject class of securities, and for any subsequent amendment
+containing information which would alter disclosures provided in
+a prior cover page.
+
+The information required on the remainder of this cover page
+shall not be deemed to be "filed" for the purpose of Section 18
+of the Securities Exchange Act of 1934 ("Act") or otherwise
+subject to the liabilities of that section of the Act but shall
+be subject to all other provisions of the Act (however, see the
+Notes).
+
+                         Page 1 of 6 Pages
+<PAGE>
+CUSIP No. 33645310            13D                    2 of 6 pages
+_________________________________________________________________
+1)     Names of Reporting Persons S.S. or I.R.S. Identification
+       Nos. of Above Persons
+
+                         Financial Stocks, Inc.
+                         85-0366665
+
+_________________________________________________________________
+2)     Check the Appropriate Box if a Member of a Group (See
+       Instructions)
+       (a) ___
+       (b)  X
+
+_________________________________________________________________
+3)     SEC Use Only
+
+_________________________________________________________________
+4)     Source of Funds (See Instructions)
+
+                               WC
+
+_________________________________________________________________
+5)     Check Box if Disclosure of Legal Proceedings is Required
+       Pursuant to Items 2(d) or 2(e) ___
+
+_________________________________________________________________
+6)     Citizenship or Place of Organization
+
+                               USA
+ _______________________________________________________________
+|                     |                                         |
+| NUMBER OF SHARES    |  7) Sole Voting Power           168,955 |
+| BENEFICIALLY OWNED  |_________________________________________|
+| BY EACH REPORTING   |  8) Shared Voting Power           4,179 |
+| PERSON WITH         |_________________________________________|
+|                     |  9) Sole Dispositive Power      168,955 |
+|                     |_________________________________________|
+|                     | 10) Shared Dispositive Power      4,179 |
+|_______________________________________________________________|
+
+11)    Aggregate Amount Beneficially Owned by Each Reporting
+       Person
+
+                             174,134
+
+_________________________________________________________________
+13)    Percent of Class Represented by Amount in Row (11)
+
+                              6.34%
+
+_________________________________________________________________
+14)    Type of Reporting Person (See Instructions)
+
+                                IA<PAGE>
+Item 1.      Security and Issuer
+             ___________________
+
+             This statement relates to the Common Stock, no par
+value ("Common Stock"), of First State Bancorporation (the
+"Issuer").  The name and address of the principal executive
+offices of the Issuer are as follows:
+
+                    First State Bancorporation
+                    111 Lomas N.W.
+                    Albuquerque, New Mexico 87102
+
+
+Item 2.      Identity and Background
+             _______________________
+
+             The person filing this statement is Financial
+Stocks, Inc., an Ohio corporation ("FSI").  FSI's business
+address is 507 Carew Tower, 441 Vine Street, Cincinnati, Ohio
+45202.
+
+             The executive officers and directors of FSI and
+their principal occupations are set forth below.
+
+Name                 Title                Principal Occupation
+____                 _____                ____________________
+
+Steven N. Stein      Director, Chairman,  President of Belvedere
+                     Chief Executive      Corporation, a real
+                     Officer and          estate development and
+                     Secretary            management company
+
+John M. Stein        Director,            President and Portfolio
+                     President, Chief     Manager of FSI
+                     Operating Officer, 
+                     Treasurer and 
+                     Portfolio Manager
+
+Alexander D. Warm    Director             Vice Chairman of
+                                          Belvedere Corporation,
+                                          Chairman of Warm Bros.
+                                          Construction Company
+
+Stanley L. Vigran    Director             Private investor
+
+All of such persons are citizens of the United States.  The
+address of all such persons is c/o FSI at the address set forth
+above.  During the last five years none of such persons has been
+convicted in a criminal proceeding or has been a party to a civil
+proceeding of a judicial or administrative body of competent
+jurisdiction as a result of which he was or is subject to a
+judgment, decree or final order enjoining future violations or
+mandating activities subject to, federal or state securities laws
+or finding any violation with respect to such laws.
+<PAGE>
+             FSI is a registered investment advisor and acts as
+general partner of Financial Stocks Limited Partnership ("FSLP")
+and as an investment advisor for Rising Stars Offshore Fund L.P.
+("Rising Stars").
+
+
+Item 3.      Source and Amount of Funds or Other Consideration.
+             _________________________________________________
+
+             The source of funds used by FSI to purchase Common
+Stock for FSLP and Rising Stars is their respective working
+capital.
+
+
+Item 4.      Purpose of Transaction.
+             ______________________
+
+             The purpose of the acquisition of the Common Stock
+is
+investment.  FSI may acquire additional shares of Common Stock or
+dispose of shares if it deems such transaction to be financially
+advantageous.  FSI also reserves the right to change such intent
+if circumstances change.  FSI currently has no plan or proposal
+which relates to or would result in:
+
+             (a)    The acquisition by any person of additional
+                    securities of the Issuer, or the disposition
+of
+                    securities of the Issuer;
+
+             (b)    An extraordinary corporate transaction, such
+                    as a merger, reorganization or liquidation,
+                    involving the Issuer or any of its
+                    subsidiaries;
+
+             (c)    A sale or transfer of a material amount of
+                    assets of the Issuer or any of its
+                    subsidiaries;
+
+             (d)    Any change in the present board of directors
+                    or management of the Issuer, including any
+                    plans or proposals to change the number or
+                    term of directors or to fill any existing
+                    vacancies on the board;
+
+             (e)    Any material change in the present
+                    capitalization or dividend policy of the
+                    Issuer;
+
+             (f)    Any other material change in the Issuer's
+                    business or corporate structure;
+
+             (g)    Changes in the Issuer's charter, bylaws or
+                    instruments corresponding thereto or other
+                    actions which may impede the acquisition of
+                    control of the Issuer by any person;
+
+<PAGE>
+             (h)    Causing a class of securities of the Issuer
+                    to be delisted from a national securities
+                    exchange or to cease to be authorized to be
+                    quoted in an inter-dealer quotation system of
+                    a registered national securities association;
+
+             (i)    Causing a class of equity securities of the
+                    Issuer becoming eligible for termination of
+                    registration pursuant to Section 12(g)(4) of
+                    the Act; or
+
+             (j)    Any action similar to any of those enumerated
+                    above.
+
+Item   5.    Interest in Securities of the Issuer.
+             ____________________________________
+
+             The following table sets forth information with
+respect to the shares of Common Stock of which FSI has or shares
+beneficial ownership:
+                                                                 
+
+                                                  Percent of
+Record Owner         Number of Shares             Outstanding
+____________         ________________             ___________
+
+FSLP                   168,955 (1)(3)                 6.19
+
+Rising Stars             4,179 (2)(3)                  .15
+
+(1)    As general partner of FSLP, FSI has sole voting power and
+       dispositive power with respect to these shares.
+
+(2)    As an investment advisor to Rising Stars, FSI shares
+       voting power and dispositive power with respect to these
+       shares.
+
+(3)    All of such shares of Common Stock are beneficially owned
+       pursuant to the right to convert $2.9 million principal
+       amount of the Issuer's 7-1/2% Convertible Subordinated
+       Debentures due 2017 (the "Debentures"), of which $2.830
+       million principal amount is held for the benefit of FSLP
+       and $70,000 principal amount is held for the benefit of
+       Rising Stars.
+
+             The following table sets forth information with
+       respect to all transactions with respect to the Common
+       Stock in which FSI has engaged in the last 60 days.
+
+Date           Shares Purchased                 Price Per Share
+- ----           ----------------                 ---------------
+
+8/5/97            174,134 (1)                        $20.10
+
+(1)    Represents purchase of $1.4 million principal amount of
+       the Debentures at a price of 120% of principal amount.
+
+All of such Debentures were acquired in open market transactions.
+
+<PAGE>
+Item 6.      Contracts, Arrangements, Understandings or
+             Relationships with Respect to Securities of Issuer.
+             __________________________________________________
+
+                              None
+
+Item 7.      Material to be Filed as Exhibits.
+             ________________________________
+
+                              None
+
+Signature
+
+       After reasonable inquiry and to the best of my knowledge
+and belief, I certify that the information set forth in this
+statement is true, complete and correct.
+
+                                  FINANCIAL STOCKS, INC.
+
+
+September 8, 1997                 By: /s/Steven N. Stein
+_________________                     Steven N. Stein, Chairman
+     Date                             and Chief Executive Officer
+
+
+ </TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
