@@ -51,7 +51,7 @@ def search_transactions(text_string_list, transactionsDF, refined_prompt, client
                 ]
 
 
-            response = client.chat.completions.create(model="gpt-4o-mini", messages=messages, timeout=20)
+            response = client.chat.completions.create(model="gpt-4o-mini", messages=messages) # Consider putting a timeout
             raw_output = response.choices[0].message.content # Don'thave to strip 
             # Debug
             print("Raw Output from Model 2:", raw_output)  # Debugging log
