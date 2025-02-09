@@ -43,7 +43,7 @@ def search_transactions(text_string_list, transactionsDF, refined_prompt, client
                             "Please identify and return ALL the transactions most relevant to the user's query at the bottom of the file. "
                             "Return the results as a JSON array of objects, with each object containing EXACTLY the following 6 columns: "
                             "\"No_Trades\", \"Trade_Date\", \"Shares\", \"Purchase\", \"Sale\", and \"Price\". "
-                            "The No_Trades will be 1 if no trades are found, 0 if trades found. If No_Trades = 1, put NaN for all columns except No_Trades, and stop. The Purchase and Sale Column will be a 1 or 0 depending if the transaction is a Purchase or Sale. "
+                            "The No_Trades will be 1 if no trades are found, 0 if trades found. If No_Trades = 1, put NaN for all columns except No_Trades, and stop. The Purchase and Sale Column will be a 1 or 0 depending if the transaction is a Purchase or Sale. Make sure the year format is mm/dd/yyyy. "
                             "Do not include any extra fields, explanations, comments, code blocks, or any text outside of the JSON array. "
                             "Make sure the JSON is syntactically valid and properly formatted."
                         )
