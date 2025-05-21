@@ -85,9 +85,12 @@ Modularized parsing logic, used callbacks, and ensured that the uploaded file co
 ## 📂 Repository Structure
 
 ```bash
-📁 app/
-    ├── sec_filer.py               # Main Streamlit app
-    ├── parser.py                  # GPT interaction and text-to-dataframe logic
-    ├── utils.py                   # Session state mgmt and key validation
-📄 README.md
-📄 requirements.txt
+📁 __pycache__/                 # Compiled Python bytecode cache
+📄 .gitignore                  # Standard Git ignore rules
+📄 README.md                   # Project documentation
+📄 requirements.txt            # Python dependencies
+
+📄 frontend.py                 # Streamlit front-end (file uploader, UI)
+📄 processor.py                # Core GPT API logic and parsing
+📄 download_txt.py            # Handles download / return of final CSV
+📄 text_file_pipeline.py      # End-to-end file parsing pipeline and date formatting
