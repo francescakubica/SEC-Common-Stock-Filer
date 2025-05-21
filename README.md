@@ -1,35 +1,93 @@
-# LINK TO INSTRUCTIONS ON USE:
-https://www.canva.com/design/DAGb0qlASmU/TULDjcUx6GjvENKRvsaoeA/view?utm_content=DAGb0qlASmU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h43ecb3e9d4
+# 📄 SEC Common Stock Filer — Streamlining Schedule 13D Analysis
 
-# WHAT IS IT?
-This application was made to speed up data entry when analyzing Schedule13D text files from SEC.
-Working under Professor Carmen Payne-Mann at the University of Southern California, I was tasked to analyze
-Schedule13D filing to record Common Stock transactions. On average, recording these transactions by hand takes 1 hour for 10 filings. 
-With this tool, I've shortened that to 25 files in 1 hour, a 125% increase in efficiency. 
-Users can use their own API_key, upload txt downloads of the files, and then it will return a downloadable csv. 
+![Deployed on Streamlit](https://img.shields.io/badge/Deployed-Streamlit-orange)
+![Efficiency Boost](https://img.shields.io/badge/Productivity+Up-125%25-brightgreen)
+![Powered by OpenAI](https://img.shields.io/badge/OpenAI-API-blue)
 
-# ABOUT - FOR USERS 
-This is a tool that will allow you to speed up the manual data entry process. 
-I am using ChatGPT with a specific prompt, that scrapes the Schedule13D text files and creates a CSV with the transactions trade dates, shares, purchase, sale, and price. 
-I have neglected the other columns to increase accuracy. This is not meant to be used in bulk, instead, to supplement your data entry. 
-Please upload files one by one for the best results. Additionally, please attempt to not upload files with no transactions, it will still work, but you may get confused because it’ll return a CSV with no trades listed. 
+## 🔗 [Instructions & Demo Guide](https://www.canva.com/design/DAGb0qlASmU/TULDjcUx6GjvENKRvsaoeA/view?utm_content=DAGb0qlASmU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h43ecb3e9d4)
 
-# Deployment 
-This is the first application I have deployed and used GitHub for a repository. I utilized Streamlit to build the front-end and deploy it. 
-This tool is used by me and 2 other Research Assistants tasked with recording Schedule13D transactions.
+---
 
-# Challenges 
+## 📘 Project Overview
 
--> Challenges on setting up the Openai API_Key, allowing the user to utilize their own.
-I have not worked with chatgpt's API key before, and had difficulty figuring out how to allow the user to input their own key,
-validate it, and then store their key. 
-Solution: Used streamlit session_state so that it will keep the api_key in a session. Once the user clicks the button 'Validate'
-it will verify if the api key is valid (by running a demo api call) and then update the session state.
+This tool was developed as part of an applied research assistantship under **Professor Carmen Payne-Mann** at the **University of Southern California**. It automates the extraction of **common stock transaction data** from SEC **Schedule 13D filings**, significantly reducing the time required for manual data entry.
 
--> Passing the data frame address instead of a copy. 
-I realized that if I made a copy of the 'transactions dataframe' which contains all transactions, it would slow down the process
-and create unnecessary overhead. Instead of doing this, I passed the dataframe address across the functions. 
+> 🕒 Before: ~1 hour per 10 filings  
+> ⚡ After: ~1 hour per 25 filings  
+> **Result:** ~125% increase in efficiency
 
--> Understanding how to append to the pre-existing data frame of transactions.
+---
 
--> Connecting the front-end to the inner workings. 
+## 💡 How It Works
+
+Using the **OpenAI GPT model** via API, the application parses raw `.txt` Schedule 13D files and extracts relevant common stock transactions. Users upload individual text files, and the tool returns a clean `.csv` with the following columns:
+
+- 📅 Trade Date  
+- 📈 Share Count  
+- 💵 Buy/Sell Indicator  
+- 💰 Transaction Price
+
+**Note:** The tool omits secondary columns (e.g., footnotes, indirect ownership) to maximize parsing accuracy.
+
+---
+
+## 👤 Designed for Research Assistants
+
+This app is **not designed for bulk scraping**. Instead, it is intended to **supplement human analysis** by speeding up routine entry tasks, especially when working with SEC filings manually downloaded from EDGAR.
+
+- 🔍 **Upload files one at a time** for optimal accuracy.
+- 🚫 Avoid uploading filings **without transaction details**, as these will still generate a CSV with no rows, which may be confusing.
+
+---
+
+## ⚙️ Deployment & Architecture
+
+This is my **first end-to-end deployed application** using GitHub and Streamlit:
+
+- ✅ Front-end built in **Streamlit**
+- 🚀 Hosted via **Streamlit Cloud**
+- 🧠 Integrated with **OpenAI GPT API** for natural language parsing
+- 📂 Outputs downloadable CSVs for each file
+
+Currently used by a team of **3 Research Assistants** at USC.
+
+---
+
+## 🧪 Challenges & Solutions
+
+### 🔐 API Key Handling
+**Challenge:**  
+Allowing users to input and validate their own OpenAI API key securely.
+
+**Solution:**  
+Implemented `st.session_state` in Streamlit to persist the API key across user sessions. The "Validate" button runs a demo API call to check for authentication before storing the key in session.
+
+---
+
+### 📦 Efficient DataFrame Handling
+**Challenge:**  
+Passing the main transaction DataFrame across multiple parsing steps without unnecessary copies.
+
+**Solution:**  
+Optimized performance by passing references to the original DataFrame rather than creating new instances. Reduced memory overhead and latency.
+
+---
+
+### 🔗 Front-End ↔ Logic Integration
+**Challenge:**  
+Tying the upload/parse button functionality on Streamlit’s UI to the inner logic parsing layer.
+
+**Solution:**  
+Modularized parsing logic, used callbacks, and ensured that the uploaded file content flows directly into the transaction pipeline and outputs a downloadable file.
+
+---
+
+## 📂 Repository Structure
+
+```bash
+📁 app/
+    ├── sec_filer.py               # Main Streamlit app
+    ├── parser.py                  # GPT interaction and text-to-dataframe logic
+    ├── utils.py                   # Session state mgmt and key validation
+📄 README.md
+📄 requirements.txt
