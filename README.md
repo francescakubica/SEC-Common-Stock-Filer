@@ -3,7 +3,7 @@ https://www.canva.com/design/DAGb0qlASmU/TULDjcUx6GjvENKRvsaoeA/view?utm_content
 
 # WHAT IS IT?
 This application was made to speed up data entry when analyzing Schedule13D text files from SEC.
-Working under Professor Stice Lawrence at the University of Southern California, I was tasked to analyze
+Working under Professor Carmen Payne-Mann at the University of Southern California, I was tasked to analyze
 Schedule13D filing to record Common Stock transactions. On average, recording these transactions by hand takes 1 hour for 10 filings. 
 With this tool, I've shortened that to 25 files in 1 hour, a 125% increase in efficiency. 
 Users can use their own API_key, upload txt downloads of the files, and then it will return a downloadable csv. 
